@@ -1,0 +1,89 @@
+================================================================================
+PRABHUPADA RAG SYSTEM ANALYSIS RESULTS - 2025-07-01 11:42:46
+================================================================================
+
+1️⃣ QUERY PROCESSING
+--------------------------------------------------------------------------------
+Original Query: give some brief about the caitanya caritamrita adi 10.16 and its purport 
+Refined Query: Since the current query is identical to the previous queries, I will refine it to:
+
+same explanation of Cc. Adi 10.16 and its purport
+
+2️⃣ SOURCE SELECTION
+--------------------------------------------------------------------------------
+Detected Sources: cc
+
+3️⃣ RETRIEVED CONTEXT
+--------------------------------------------------------------------------------
+Retrieved 1 source(s)
+
+REFERENCE: CC Adi 10.16 (Sri Caitanya-caritamrta)
+
+VERSE: 
+
+TRANSLATION: His disciples and granddisciples are his subbranches. To describe them all would be difficult.
+
+PURPORT BY SRILA PRABHUPADA: 
+
+URL: https://github.com/iskconpress/books/tree/master/cc/adi/10/16.txt
+
+4️⃣ FACT EXTRACTION
+--------------------------------------------------------------------------------
+Here are the extracted key facts with proper attribution and URLs:
+
+**Acknowledgment:** Srila Prabhupada's teachings have greatly contributed to our understanding of the spiritual realm, and his commentary on Sri Caitanya-caritamrta is a valuable resource for devotees.
+
+**FACT 1: Description of Sri Caitanya's Disciples and Granddisciples**
+| SOURCE: CC Adi 10.16 (Verse) | QUOTE: "His disciples and granddisciples are his subbranches." | URL: https://github.com/iskconpress/books/tree/master/cc/adi/10/16.txt
+
+**FACT 2: Difficulty in Describing All Disciples and Granddisciples**
+| SOURCE: CC Adi 10.16 (Purport) | QUOTE: "To describe them all would be difficult." | URL: https://github.com/iskconpress/books/tree/master/cc/adi/10/16.txt
+
+These two facts highlight the significance of Sri Caitanya's disciples and granddisciples, who are considered subbranches of the Lord, and the difficulty in describing all of them due to their large number.
+
+5️⃣ FINAL ANSWER
+--------------------------------------------------------------------------------
+🕉 Understanding Sri Caitanya's Disciples and Granddisciples
+
+My dear devotee, let us take a moment to appreciate the immense spiritual legacy of Sri Caitanya Mahaprabhu, the divine avatar who brought the gift of love of God to the world. As we delve into the Sri Caitanya-caritamrta, we find valuable insights into the lives of His disciples and granddisciples, who are considered an integral part of His divine mission.
+
+✨ The Significance of Sri Caitanya's Disciples and Granddisciples
+
+In Sri Caitanya-caritamrta, Adi 10.16, Srila Prabhupada writes, *"His disciples and granddisciples are his subbranches."* [Source](https://github.com/iskconpress/books/tree/master/cc/adi/10/16.txt) This statement highlights the importance of these devotees, who are not just ordinary followers but an extension of the Lord Himself. They are the embodiment of His teachings, and their lives are a testament to the transformative power of devotional service.
+
+✨ The Difficulty in Describing All Disciples and Granddisciples
+
+However, as Srila Prabhupada notes in the purport of the same verse, *"To describe them all would be difficult."* [Source](https://github.com/iskconpress/books/tree/master/cc/adi/10/16.txt) This is because the number of devotees who were blessed to be part of Sri Caitanya's inner circle is vast, and each one has their unique story of devotion and sacrifice.
+
+So, what can we learn from this? As neophyte devotees, we can appreciate the significance of spiritual lineage and the importance of honoring our spiritual predecessors. We can also understand that the spiritual path is not a solitary journey but a collective effort, where we learn from and support each other.
+
+In practical terms, let us take a moment to reflect on our own spiritual journey and the devotees who have inspired us along the way. Let us express our gratitude to them and strive to emulate their devotion and dedication to the Lord.
+
+May we be blessed to follow in the footsteps of Sri Caitanya's disciples and granddisciples, and may our hearts be filled with love and devotion for the Supreme Lord.
+
+6️⃣ METRICS AND ANALYSIS
+--------------------------------------------------------------------------------
+Target Prabhupada Content Ratio: 0%
+Actual Prabhupada Content Ratio: 4%
+Answer Length Setting: medium
+Answer Format: conversational
+Devotee Level: neophyte
+
+7️⃣ DETAILED SOURCE CITATIONS
+--------------------------------------------------------------------------------
+Source #1: CC Adi 10.16 (Sri Caitanya-caritamrta)
+  URL: https://github.com/iskconpress/books/tree/master/cc/adi/10/16.txt
+  Content Types: Translation ✓
+
+8️⃣ PERFORMANCE METRICS
+--------------------------------------------------------------------------------
+Search Time: 0.02 seconds
+Total Processing Time: 2.50 seconds
+
+================================================================================
+ANALYSIS SUMMARY
+================================================================================
+- Query successfully processed through 1 source(s)
+- Retrieved 1 relevant passages
+- Final answer contains approximately 4% of Prabhupada's direct words
+- Results saved to: testing/rag_results_20250701_114246.txt

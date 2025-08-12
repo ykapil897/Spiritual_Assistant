@@ -1,0 +1,137 @@
+================================================================================
+PRABHUPADA RAG SYSTEM ANALYSIS RESULTS - 2025-06-30 23:25:00
+================================================================================
+
+1️⃣ QUERY PROCESSING
+--------------------------------------------------------------------------------
+Original Query: give the most important points from the teachg of quen kunti book only
+Refined Query: Here is the refined query:
+
+give the most important points from the TQK book only
+
+2️⃣ SOURCE SELECTION
+--------------------------------------------------------------------------------
+Detected Sources: unified
+Specific Books from Unified Collection: Teachings of Queen Kunti, Teachings of Queen Kunti, Teachings of Queen Kunti
+
+3️⃣ RETRIEVED CONTEXT
+--------------------------------------------------------------------------------
+Retrieved 3 source(s)
+
+REFERENCE: introduction0 (Teachings of Queen Kunti)
+
+TEXT: seek a deeper understanding of life's mysteries. Written by a man of profound devotion and erudition, it will provide every reader with firm guidance along the universal path to genuine wisdom and spiritual enlightenment. ---The Publishers
+
+URL: https://github.com/iskconpress/books/blob/master/tqk/0a.txt/
+
+---
+
+REFERENCE: chapter19 (Teachings of Queen Kunti)
+
+TEXT: than first class. Furthermore, the temple should always be as clean as glass. Everyone remarks that the temples of the Kṛṣṇa consciousness movement are very clean, and they //must// be very clean. The more one cleanses the temple, the more one's heart becomes cleansed. This is the process of devotional service. The more we dress Kṛṣṇa, the more satisfied we become. At the present moment we are accustomed to seeing and appreciating our own clothing. I think, "What costly clothing I have," and in this way I become satisfied. But when we dress Kṛṣṇa we shall feel spiritual satisfaction. > yuktasya bhaktāṁś ca niyuñjato 'pi > vande guroḥ śrī-caraṇāravindam It is the duty of the spiritual master to engage his disciples always in worshiping the Deity in this way, and it is to such a //guru,// or spiritual master, that we offer our obeisances. By the word //śṛṇvanti// Kuntīdevī indicates that our first concern should be to hear about Kṛṣṇa. One must be eager to hear. Why do we pay a college fee and go to college? To hear. By sitting down and hearing from the learned professor, we get knowledge. Therefore a devotee always engages in hearing about Kṛṣṇa. For those who are cultivating Kṛṣṇa consciousness, the first business is hearing. And if one has actually heard about Kṛṣṇa, one's next engagement in //bhakti-yoga// will be to chant (//gāyanti//). The preachers of the Kṛṣṇa consciousness movement go from town to town, village to village. Why? What is their purpose? To preach, to chant, so that people may get the opportunity to hear this philosophy and take it seriously (//gṛṇanti//). The word //abhīkṣṇaśaḥ// indicates that these engagements should go on continuously, twenty-four hours a day without stopping. Caitanya Mahāprabhu therefore recommends, //kīrtanīyaḥ sadā hariḥ:// [[books:cc:adi:17:31|[Cc. Ādi 17.31]]] one should engage in chanting twenty-four hours a day. That is the business of Kṛṣṇa conscious devotees. One may perform all the methods of devotional service or may accept only one. Simply hearing is enough. Parīkṣit Mahārāja did not do anything else but sit down before Śukadeva Gosvāmī and hear for the last seven days of his life. If one simply hears, without doing anything else, if one simply sits down in the temple and whenever there is talk of //Bhagavad-gītā// one goes on hearing, that will
+
+URL: https://github.com/iskconpress/books/blob/master/tqk/19.txt/
+
+---
+
+REFERENCE: chapter26 (Teachings of Queen Kunti)
+
+TEXT: Kuntī.
+
+URL: https://github.com/iskconpress/books/blob/master/tqk/26.txt/
+
+4️⃣ FACT EXTRACTION
+--------------------------------------------------------------------------------
+Here are the key facts extracted from the Teachings of Queen Kunti book:
+
+**Acknowledgment:** Srila Prabhupada's Teachings of Queen Kunti provides profound insights into the mysteries of life, offering guidance on the universal path to genuine wisdom and spiritual enlightenment.
+
+**FACT 1: The importance of cleanliness in the temple**
+| SOURCE: Chapter 19, Teachings of Queen Kunti, Purport |
+| QUOTE: "The more one cleanses the temple, the more one's heart becomes cleansed. This is the process of devotional service." |
+| URL: https://github.com/iskconpress/books/blob/master/tqk/19.txt/
+
+**FACT 2: The duty of the spiritual master**
+| SOURCE: Chapter 19, Teachings of Queen Kunti, Purport |
+| QUOTE: "It is the duty of the spiritual master to engage his disciples always in worshiping the Deity in this way, and it is to such a guru, or spiritual master, that we offer our obeisances." |
+| URL: https://github.com/iskconpress/books/blob/master/tqk/19.txt/
+
+**FACT 3: The importance of hearing about Kṛṣṇa**
+| SOURCE: Chapter 19, Teachings of Queen Kunti, Purport |
+| QUOTE: "One must be eager to hear. Why do we pay a college fee and go to college? To hear. By sitting down and hearing from the learned professor, we get knowledge. Therefore a devotee always engages in hearing about Kṛṣṇa." |
+| URL: https://github.com/iskconpress/books/blob/master/tqk/19.txt/
+
+**FACT 4: The continuous engagement in devotional service**
+| SOURCE: Chapter 19, Teachings of Queen Kunti, Purport |
+| QUOTE: "The word abhīkṣṇaśaḥ indicates that these engagements should go on continuously, twenty-four hours a day without stopping. Caitanya Mahāprabhu therefore recommends, kīrtanīyaḥ sadā hariḥ: one should engage in chanting twenty-four hours a day." |
+| URL: https://github.com/iskconpress/books/blob/master/tqk/19.txt/
+
+**FACT 5: The power of simply hearing**
+| SOURCE: Chapter 19, Teachings of Queen Kunti, Purport |
+| QUOTE: "One may perform all the methods of devotional service or may accept only one. Simply hearing is enough. Parīkṣit Mahārāja did not do anything else but sit down before Śukadeva Gosvāmī and hear for the last seven days of his life." |
+| URL: https://github.com/iskconpress/books/blob/master/tqk/19.txt/
+
+5️⃣ FINAL ANSWER
+--------------------------------------------------------------------------------
+🕉 Honoring Srila Prabhupada's Teachings
+
+As we delve into the profound wisdom of Srila Prabhupada's Teachings of Queen Kunti, we're reminded of the importance of cultivating a deeper connection with the divine. In this sacred text, Srila Prabhupada shares invaluable insights on the universal path to genuine wisdom and spiritual enlightenment.
+
+✨ The Temple of the Heart
+
+Srila Prabhupada emphasizes the significance of cleanliness in the temple, not just physically, but also spiritually. As he so eloquently puts it, *"The more one cleanses the temple, the more one's heart becomes cleansed. This is the process of devotional service."* [Source](https://github.com/iskconpress/books/blob/master/tqk/19.txt/) This quote highlights the importance of maintaining a pure heart, which is the true temple of the Lord.
+
+✨ The Role of the Spiritual Master
+
+In the same chapter, Srila Prabhupada stresses the duty of the spiritual master, saying, *"It is the duty of the spiritual master to engage his disciples always in worshiping the Deity in this way, and it is to such a guru, or spiritual master, that we offer our obeisances."* [Source](https://github.com/iskconpress/books/blob/master/tqk/19.txt/) This quote underscores the importance of the guru-disciple relationship in our spiritual journey.
+
+✨ The Power of Hearing
+
+Srila Prabhupada also emphasizes the significance of hearing about Kṛṣṇa, stating, *"One must be eager to hear. Why do we pay a college fee and go to college? To hear. By sitting down and hearing from the learned professor, we get knowledge. Therefore a devotee always engages in hearing about Kṛṣṇa."* [Source](https://github.com/iskconpress/books/blob/master/tqk/19.txt/) This quote highlights the importance of being receptive to spiritual knowledge and the role of hearing in our spiritual growth.
+
+✨ Continuous Devotional Service
+
+Srila Prabhupada encourages us to engage in devotional service continuously, saying, *"The word abhīkṣṇaśaḥ indicates that these engagements should go on continuously, twenty-four hours a day without stopping. Caitanya Mahāprabhu therefore recommends, kīrtanīyaḥ sadā hariḥ: one should engage in chanting twenty-four hours a day."* [Source](https://github.com/iskconpress/books/blob/master/tqk/19.txt/) This quote emphasizes the importance of making devotional service a constant part of our lives.
+
+✨ The Simple yet Powerful Act of Hearing
+
+Finally, Srila Prabhupada reminds us of the transformative power of simply hearing about Kṛṣṇa, saying, *"One may perform all the methods of devotional service or may accept only one. Simply hearing is enough. Parīkṣit Mahārāja did not do anything else but sit down before Śukadeva Gosvāmī and hear for the last seven days of his life."* [Source](https://github.com/iskconpress/books/blob/master/tqk/19.txt/) This quote highlights the simplicity and potency of hearing about Kṛṣṇa in our spiritual journey.
+
+✨ Reflection and Application
+
+As we reflect on these profound teachings, let us remember to cultivate a pure heart, seek guidance from our spiritual master, and engage in continuous devotional service. Let us also cherish the simple yet powerful act of hearing about Kṛṣṇa, which can transform our lives and bring us closer to the divine. By incorporating these teachings into our daily lives, we can experience the transformative power of Srila Prabhupada's wisdom.
+
+6️⃣ METRICS AND ANALYSIS
+--------------------------------------------------------------------------------
+Target Prabhupada Content Ratio: 70%
+Actual Prabhupada Content Ratio: 29%
+Answer Length Setting: medium
+Answer Format: conversational
+Devotee Level: intermediate
+
+7️⃣ DETAILED SOURCE CITATIONS
+--------------------------------------------------------------------------------
+Source #1: introduction0 (Prabhupada's Complete Works - Teachings of Queen Kunti)
+  URL: https://github.com/iskconpress/books/blob/master/tqk/0a.txt/
+  Content Types: Text ✓
+
+Source #2: chapter19 (Prabhupada's Complete Works - Teachings of Queen Kunti)
+  URL: https://github.com/iskconpress/books/blob/master/tqk/19.txt/
+  Content Types: Text ✓
+
+Source #3: chapter26 (Prabhupada's Complete Works - Teachings of Queen Kunti)
+  URL: https://github.com/iskconpress/books/blob/master/tqk/26.txt/
+  Content Types: Text ✓
+
+8️⃣ PERFORMANCE METRICS
+--------------------------------------------------------------------------------
+Search Time: 0.15 seconds
+Total Processing Time: 4.99 seconds
+
+================================================================================
+ANALYSIS SUMMARY
+================================================================================
+- Query successfully processed through 1 source(s)
+- Retrieved 3 relevant passages
+- Final answer contains approximately 29% of Prabhupada's direct words
+- Results saved to: testing/rag_results_20250630_232500.txt

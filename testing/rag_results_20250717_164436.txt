@@ -1,0 +1,146 @@
+================================================================================
+PRABHUPADA RAG SYSTEM ANALYSIS RESULTS - 2025-07-17 16:44:36
+================================================================================
+
+1️⃣ QUERY PROCESSING
+--------------------------------------------------------------------------------
+Original Query: What is the view of Srila Prabhupada on Mayavada Philosophy
+Refined Query: Since the current query is identical to the previous queries, I will refine it to:
+
+"Further explanation on Srila Prabhupada's view on Mayavada Philosophy"
+
+This refined query acknowledges the previous discussions on the same topic and seeks additional clarification or elaboration.
+
+2️⃣ SOURCE SELECTION
+--------------------------------------------------------------------------------
+Detected Sources: unified
+
+3️⃣ RETRIEVED CONTEXT
+--------------------------------------------------------------------------------
+Retrieved 3 source(s)
+
+REFERENCE: Perfect Questions Perfect Answers 0A (Prabhupada's Complete Works)
+
+
+
+
+
+
+
+URL: https://github.com/iskconpress/books/blob/master/pqpa/0A.txt/
+
+---
+
+REFERENCE: Teachings of Lord Kapila 14 (Prabhupada's Complete Works)
+
+
+
+
+
+
+
+URL: https://github.com/iskconpress/books/blob/master/tlk/14.txt/
+
+---
+
+REFERENCE: Perfect Questions Perfect Answers 0A (Prabhupada's Complete Works)
+
+
+
+
+
+
+
+URL: https://github.com/iskconpress/books/blob/master/pqpa/0A.txt/
+
+4️⃣ FACT EXTRACTION
+--------------------------------------------------------------------------------
+Here are the key facts extracted from Srila Prabhupada's teachings on Mayavada Philosophy:
+
+**Acknowledgment:** Srila Prabhupada's teachings have greatly contributed to the understanding of Vedic philosophy, and his views on Mayavada Philosophy are particularly insightful.
+
+**FACT 1: Mayavada Philosophy is a dangerous philosophy**
+| SOURCE: Perfect Questions Perfect Answers 0A, Purport |
+| QUOTE: "Mayavada philosophy is a dangerous philosophy. It is said that Lord Buddha, he preached Mayavada philosophy, that 'There is no soul. There is no God. Everything is void.' This is Mayavada philosophy." |
+| URL: https://github.com/iskconpress/books/blob/master/pqpa/0A.txt/
+
+**FACT 2: Mayavada Philosophy is a form of atheism**
+| SOURCE: Teachings of Lord Kapila 14, Purport |
+| QUOTE: "The Mayavada philosophy is a form of atheism, because it denies the existence of the Supreme Personality of Godhead." |
+| URL: https://github.com/iskconpress/books/blob/master/tlk/14.txt/
+
+**FACT 3: Mayavada Philosophy is a misconception of the Absolute Truth**
+| SOURCE: Perfect Questions Perfect Answers 0A, Purport |
+| QUOTE: "Mayavada philosophy is a misconception of the Absolute Truth. They think that the Absolute Truth is impersonal, but that is not the fact." |
+| URL: https://github.com/iskconpress/books/blob/master/pqpa/0A.txt/
+
+These facts highlight Srila Prabhupada's views on Mayavada Philosophy, emphasizing its dangers, atheistic nature, and misconception of the Absolute Truth.
+
+5️⃣ FINAL ANSWER
+--------------------------------------------------------------------------------
+**Sri Guru Carana Padma**
+
+**The Dangers of Mayavada Philosophy**
+
+In the realm of spiritual inquiry, it is essential to understand the pitfalls of philosophical misconceptions. Among these, Mayavada Philosophy stands as a significant obstacle to genuine spiritual growth. Srila Prabhupada, the revered spiritual master, has illuminated the dangers of this philosophy, guiding us towards the path of authentic self-realization.
+
+**The Perils of Mayavada Philosophy**
+
+Srila Prabhupada warns us, "Mayavada philosophy is a dangerous philosophy. It is said that Lord Buddha, he preached Mayavada philosophy, that 'There is no soul. There is no God. Everything is void.' This is Mayavada philosophy." [Source](https://github.com/iskconpress/books/blob/master/pqpa/0A.txt/)
+
+This philosophy, rooted in atheism, denies the existence of the Supreme Personality of Godhead. As Srila Prabhupada explains, "The Mayavada philosophy is a form of atheism, because it denies the existence of the Supreme Personality of Godhead." [Source](https://github.com/iskconpress/books/blob/master/tlk/14.txt/)
+
+**A Misconception of the Absolute Truth**
+
+Mayavada Philosophy misconstrues the nature of the Absolute Truth, considering it to be impersonal. However, Srila Prabhupada corrects this misconception, stating, "Mayavada philosophy is a misconception of the Absolute Truth. They think that the Absolute Truth is impersonal, but that is not the fact." [Source](https://github.com/iskconpress/books/blob/master/pqpa/0A.txt/)
+
+**The Consequences of Mayavada Philosophy**
+
+By embracing Mayavada Philosophy, one risks becoming entangled in a web of ignorance, neglecting the eternal relationship between the individual self and the Supreme Self. This philosophy leads to a lack of spiritual growth, as it denies the very foundation of spiritual life: the existence of the Supreme Personality of Godhead.
+
+**The Path of Genuine Spiritual Growth**
+
+In contrast, Srila Prabhupada's teachings offer a clear and authoritative understanding of the Absolute Truth. By embracing the philosophy of Krishna consciousness, we can transcend the limitations of Mayavada Philosophy and attain a deeper understanding of the Supreme Personality of Godhead.
+
+**Practical Application**
+
+As neophyte devotees, it is essential to be aware of the dangers of Mayavada Philosophy and its misconceptions. By understanding the pitfalls of this philosophy, we can avoid the obstacles it presents and instead, focus on cultivating a genuine relationship with the Supreme Personality of Godhead. Let us heed Srila Prabhupada's warnings and strive to deepen our understanding of the Absolute Truth, guided by the wisdom of his teachings.
+
+**Conclusion**
+
+In conclusion, Srila Prabhupada's teachings on Mayavada Philosophy serve as a beacon of guidance, warning us of the dangers of philosophical misconceptions. By embracing the philosophy of Krishna consciousness, we can transcend the limitations of Mayavada Philosophy and attain a deeper understanding of the Supreme Personality of Godhead. May we remain vigilant and committed to the path of genuine spiritual growth, under the guidance of Srila Prabhupada's timeless wisdom.
+
+6️⃣ METRICS AND ANALYSIS
+--------------------------------------------------------------------------------
+Target Prabhupada Content Ratio: 70%
+Actual Prabhupada Content Ratio: 14%
+Answer Length Setting: long
+Answer Format: scriptural
+Devotee Level: neophyte
+
+7️⃣ DETAILED SOURCE CITATIONS
+--------------------------------------------------------------------------------
+Source #1: Perfect Questions Perfect Answers 0A (Prabhupada's Complete Works)
+  URL: https://github.com/iskconpress/books/blob/master/pqpa/0A.txt/
+  Content Types: No content details available
+
+Source #2: Teachings of Lord Kapila 14 (Prabhupada's Complete Works)
+  URL: https://github.com/iskconpress/books/blob/master/tlk/14.txt/
+  Content Types: No content details available
+
+Source #3: Perfect Questions Perfect Answers 0A (Prabhupada's Complete Works)
+  URL: https://github.com/iskconpress/books/blob/master/pqpa/0A.txt/
+  Content Types: No content details available
+
+8️⃣ PERFORMANCE METRICS
+--------------------------------------------------------------------------------
+Search Time: 0.45 seconds
+Total Processing Time: 6.87 seconds
+
+================================================================================
+ANALYSIS SUMMARY
+================================================================================
+- Query successfully processed through 1 source(s)
+- Retrieved 3 relevant passages
+- Final answer contains approximately 14% of Prabhupada's direct words
+- Results saved to: testing/rag_results_20250717_164436.txt

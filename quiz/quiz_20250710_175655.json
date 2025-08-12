@@ -1,0 +1,165 @@
+{
+  "questions": [
+    {
+      "question": "What was the reaction of Vīrabhadra when he took the head of Dakṣa's sacrifice?",
+      "options": {
+        "A": "He felt great sadness and remorse",
+        "B": "He took it with great anger and threw it into the southern side of the sacrificial fire",
+        "C": "He was indifferent and simply walked away",
+        "D": "He felt great joy and celebrated"
+      },
+      "answer": "B",
+      "reference": "SOURCE: SB 4.5.26 | QUOTE: 'Vīrabhadra then took the head and with great anger threw it into the southern side of the sacrificial fire, offering it as an oblation'",
+      "url": "https://github.com/iskconpress/books/tree/master/sb/4/5/26.txt"
+    },
+    {
+      "question": "What was the physical appearance of the followers of Lord Śiva?",
+      "options": {
+        "A": "They were tall and had fair complexions",
+        "B": "They were of short stature and had bodies like those of sharks, blackish and yellowish",
+        "C": "They were of average height and had dark brown skin",
+        "D": "They were giant-like and had golden complexions"
+      },
+      "answer": "B",
+      "reference": "SOURCE: SB 4.5.13 | QUOTE: 'Their bodies appeared to be like those of sharks, blackish and yellowish'",
+      "url": "https://github.com/iskconpress/books/tree/master/sb/4/5/13.txt"
+    },
+    {
+      "question": "Who was the personified anger of the Supreme Personality of Godhead?",
+      "options": {
+        "A": "Vīrabhadra",
+        "B": "Maṇimān",
+        "C": "The black person who circumambulated Lord Śiva",
+        "D": "Caṇḍeśa"
+      },
+      "answer": "C",
+      "reference": "SOURCE: SB 4.5.5 | QUOTE: 'That black person was the personified anger of the Supreme Personality of Godhead'",
+      "url": "https://github.com/iskconpress/books/tree/master/sb/4/5/5.txt"
+    },
+    {
+      "question": "What was the result of the actions of the followers of Lord Śiva?",
+      "options": {
+        "A": "They successfully performed the sacrifice",
+        "B": "They devastated all the arrangements for sacrifice",
+        "C": "They were arrested by the demigods",
+        "D": "They were praised by Dakṣa"
+      },
+      "answer": "B",
+      "reference": "SOURCE: SB 4.5.26 | QUOTE: 'In this way the followers of Lord Śiva devastated all the arrangements for sacrifice'",
+      "url": "https://github.com/iskconpress/books/tree/master/sb/4/5/26.txt"
+    },
+    {
+      "question": "Who arrested Bhṛgu Muni?",
+      "options": {
+        "A": "Vīrabhadra",
+        "B": "Maṇimān",
+        "C": "Caṇḍeśa",
+        "D": "Nandīśvara"
+      },
+      "answer": "B",
+      "reference": "SOURCE: SB 4.5.17 | QUOTE: 'Maṇimān, one of the followers of Lord Śiva, arrested Bhṛgu Muni'",
+      "url": "https://github.com/iskconpress/books/tree/master/sb/4/5/17.txt"
+    },
+    {
+      "question": "What did the people conjecture about the origin of the storm?",
+      "options": {
+        "A": "That it was caused by the wind",
+        "B": "That it was caused by the cows",
+        "C": "That it was caused by plunderers",
+        "D": "That it was a natural phenomenon with no apparent cause"
+      },
+      "answer": "D",
+      "reference": "SOURCE: SB 4.5.8 | QUOTE: 'There is no wind blowing, and no cows are passing, nor is it possible that this dust storm could be raised by plunderers'",
+      "url": "https://github.com/iskconpress/books/tree/master/sb/4/5/8.txt"
+    },
+    {
+      "question": "What was the purpose of the personified anger of the Supreme Personality of Godhead?",
+      "options": {
+        "A": "To execute the orders of Lord Śiva",
+        "B": "To perform the sacrifice",
+        "C": "To punish the demigods",
+        "D": "To create chaos in the universe"
+      },
+      "answer": "A",
+      "reference": "SOURCE: SB 4.5.5 | QUOTE: 'He was prepared to execute the orders of Lord Śiva'",
+      "url": "https://github.com/iskconpress/books/tree/master/sb/4/5/5.txt"
+    },
+    {
+      "question": "What did Vīrabhadra do to the sacrificial arena?",
+      "options": {
+        "A": "He protected it from the followers of Lord Śiva",
+        "B": "He set fire to the whole arena",
+        "C": "He performed a ritual to purify it",
+        "D": "He ignored it"
+      },
+      "answer": "B",
+      "reference": "SOURCE: SB 4.5.26 | QUOTE: 'After setting fire to the whole arena, they departed for their master's abode, Kailāsa'",
+      "url": "https://github.com/iskconpress/books/tree/master/sb/4/5/26.txt"
+    },
+    {
+      "question": "Who arrested Prajāpati Dakṣa?",
+      "options": {
+        "A": "Vīrabhadra",
+        "B": "Maṇimān",
+        "C": "Caṇḍeśa",
+        "D": "Nandīśvara"
+      },
+      "answer": "A",
+      "reference": "SOURCE: SB 4.5.17 | QUOTE: 'Vīrabhadra, the black demon, arrested Prajāpati Dakṣa'",
+      "url": "https://github.com/iskconpress/books/tree/master/sb/4/5/17.txt"
+    },
+    {
+      "question": "Where did the followers of Lord Śiva depart to after setting fire to the sacrificial arena?",
+      "options": {
+        "A": "The abode of Lord Viṣṇu",
+        "B": "The abode of Lord Śiva, Kailāsa",
+        "C": "The sacrificial arena",
+        "D": "The city of King Barhi"
+      },
+      "answer": "B",
+      "reference": "SOURCE: SB 4.5.26 | QUOTE: 'After setting fire to the whole arena, they departed for their master's abode, Kailāsa'",
+      "url": "https://github.com/iskconpress/books/tree/master/sb/4/5/26.txt"
+    }
+  ],
+  "sources": [
+    {
+      "verse_id": "SB 4.5.26",
+      "book": "sb",
+      "specific_book": "",
+      "url": "https://github.com/iskconpress/books/tree/master/sb/4/5/26.txt"
+    },
+    {
+      "verse_id": "SB 4.5.13",
+      "book": "sb",
+      "specific_book": "",
+      "url": "https://github.com/iskconpress/books/tree/master/sb/4/5/13.txt"
+    },
+    {
+      "verse_id": "SB 4.5.5",
+      "book": "sb",
+      "specific_book": "",
+      "url": "https://github.com/iskconpress/books/tree/master/sb/4/5/5.txt"
+    },
+    {
+      "verse_id": "SB 4.5.17",
+      "book": "sb",
+      "specific_book": "",
+      "url": "https://github.com/iskconpress/books/tree/master/sb/4/5/17.txt"
+    },
+    {
+      "verse_id": "SB 4.5.8",
+      "book": "sb",
+      "specific_book": "",
+      "url": "https://github.com/iskconpress/books/tree/master/sb/4/5/8.txt"
+    }
+  ],
+  "generation_time": 5.180542230606079,
+  "meta": {
+    "query": "provide answer from chapter 5 in canto 4 in sb",
+    "refined_query": "Here is the refined search query:\n\n`SB 4.5`\n\nThis query will help find relevant content in Chapter 5 of Canto 4 in Srimad Bhagavatam, suitable for creating quiz questions.",
+    "quiz_type": "mcq",
+    "difficulty": "hard",
+    "num_questions": 10,
+    "search_time": 11.5127694606781
+  }
+}

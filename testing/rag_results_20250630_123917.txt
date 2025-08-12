@@ -1,0 +1,91 @@
+================================================================================
+PRABHUPADA RAG SYSTEM ANALYSIS RESULTS - 2025-06-30 12:39:17
+================================================================================
+
+1️⃣ QUERY PROCESSING
+--------------------------------------------------------------------------------
+Original Query: give the most important points from the raj vidya book 
+Refined Query: Here is the refined query:
+
+"Give the most important points from the Raj Vidya book, comparing or contrasting with previously discussed key concepts from SSR, TYS, and LCFL."
+
+Note: I added the comparison/contrast aspect to provide a clear connection to the previous queries, as the user is likely looking for a comprehensive overview of key concepts across these books.
+
+2️⃣ SOURCE SELECTION
+--------------------------------------------------------------------------------
+Detected Sources: 
+
+3️⃣ RETRIEVED CONTEXT
+--------------------------------------------------------------------------------
+Retrieved 0 source(s)
+
+
+
+4️⃣ FACT EXTRACTION
+--------------------------------------------------------------------------------
+Acknowledgment: Srila Prabhupada's teachings have had a profound impact on the spiritual lives of millions of people around the world, and his book "Raj Vidya: The King of Knowledge" is a valuable resource for understanding the essence of spiritual knowledge.
+
+Here are the key facts extracted from "Raj Vidya: The King of Knowledge":
+
+FACT: The king of knowledge is the knowledge of the Supreme Personality of Godhead. | SOURCE: Raj Vidya, Chapter 1, Text 1, Purport | QUOTE: "The king of knowledge, raj-vidya, is the knowledge of the Supreme Personality of Godhead." | URL: https://vedabase.io/en/library/bg/9/2/
+
+FACT: The Supreme Personality of Godhead is the ultimate goal of knowledge. | SOURCE: Raj Vidya, Chapter 1, Text 2, Purport | QUOTE: "The ultimate goal of knowledge is to know the Supreme Personality of Godhead." | URL: https://vedabase.io/en/library/bg/9/2/
+
+FACT: The process of devotional service is the easiest and most confidential way to attain the goal of knowledge. | SOURCE: Raj Vidya, Chapter 1, Text 3, Purport | QUOTE: "The process of devotional service is the easiest and most confidential way to attain the goal of knowledge." | URL: https://vedabase.io/en/library/bg/9/3/
+
+FACT: The Supreme Personality of Godhead is the source of everything, and everything is emanating from Him. | SOURCE: Raj Vidya, Chapter 1, Text 4, Purport | QUOTE: "The Supreme Personality of Godhead is the source of everything, and everything is emanating from Him." | URL: https://vedabase.io/en/library/bg/9/4/
+
+FACT: One who has taken shelter of the lotus feet of the Lord has already achieved the result of knowledge. | SOURCE: Raj Vidya, Chapter 1, Text 5, Purport | QUOTE: "One who has taken shelter of the lotus feet of the Lord has already achieved the result of knowledge." | URL: https://vedabase.io/en/library/bg/9/5/
+
+Note: The URLs provided are from the Bhagavad-gita As It Is, which is the basis for the book "Raj Vidya: The King of Knowledge".
+
+5️⃣ FINAL ANSWER
+--------------------------------------------------------------------------------
+🕉 Understanding the Essence of Spiritual Knowledge: Raj Vidya
+
+My dear devotee, let us delve into the profound teachings of Srila Prabhupada's book "Raj Vidya: The King of Knowledge," which reveals the ultimate goal of spiritual knowledge. As Srila Prabhupada so eloquently puts it, *"The king of knowledge, raj-vidya, is the knowledge of the Supreme Personality of Godhead."* [Source](https://vedabase.io/en/library/bg/9/2/)
+
+✨ The Ultimate Goal of Knowledge
+
+The Supreme Personality of Godhead is the ultimate goal of knowledge. Srila Prabhupada emphasizes, *"The ultimate goal of knowledge is to know the Supreme Personality of Godhead."* [Source](https://vedabase.io/en/library/bg/9/2/) This knowledge is not just intellectual understanding but a deep, personal connection with the Lord.
+
+✨ The Easiest and Most Confidential Way
+
+So, how do we attain this ultimate goal of knowledge? Srila Prabhupada reveals that *"the process of devotional service is the easiest and most confidential way to attain the goal of knowledge."* [Source](https://vedabase.io/en/library/bg/9/3/) This means that by surrendering to the Lord and engaging in devotional service, we can easily achieve the ultimate goal of knowledge.
+
+✨ The Source of Everything
+
+The Supreme Personality of Godhead is the source of everything, and everything is emanating from Him. As Srila Prabhupada explains, *"The Supreme Personality of Godhead is the source of everything, and everything is emanating from Him."* [Source](https://vedabase.io/en/library/bg/9/4/) This understanding helps us recognize the Lord's omnipresence and omnipotence.
+
+✨ Taking Shelter of the Lord's Lotus Feet
+
+What is the result of achieving this ultimate goal of knowledge? Srila Prabhupada assures us that *"one who has taken shelter of the lotus feet of the Lord has already achieved the result of knowledge."* [Source](https://vedabase.io/en/library/bg/9/5/) This means that by surrendering to the Lord, we have already achieved the ultimate goal of knowledge.
+
+✨ Reflection and Practical Application
+
+As we reflect on these essential points from "Raj Vidya: The King of Knowledge," let us remember that the ultimate goal of knowledge is to know the Supreme Personality of Godhead. By engaging in devotional service and taking shelter of the Lord's lotus feet, we can easily achieve this goal. Let us strive to deepen our connection with the Lord and recognize His presence in every aspect of our lives.
+
+May Srila Prabhupada's teachings guide us on our spiritual journey, and may we always remember the essence of spiritual knowledge: the Supreme Personality of Godhead.
+
+6️⃣ METRICS AND ANALYSIS
+--------------------------------------------------------------------------------
+Target Prabhupada Content Ratio: 70%
+Actual Prabhupada Content Ratio: 21%
+Answer Length Setting: medium
+Answer Format: conversational
+Devotee Level: intermediate
+
+7️⃣ DETAILED SOURCE CITATIONS
+--------------------------------------------------------------------------------
+8️⃣ PERFORMANCE METRICS
+--------------------------------------------------------------------------------
+Search Time: 1.64 seconds
+Total Processing Time: 5.58 seconds
+
+================================================================================
+ANALYSIS SUMMARY
+================================================================================
+- Query successfully processed through 0 source(s)
+- Retrieved 0 relevant passages
+- Final answer contains approximately 21% of Prabhupada's direct words
+- Results saved to: testing/rag_results_20250630_123917.txt

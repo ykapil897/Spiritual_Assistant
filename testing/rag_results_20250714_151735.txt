@@ -1,0 +1,137 @@
+================================================================================
+PRABHUPADA RAG SYSTEM ANALYSIS RESULTS - 2025-07-14 15:17:35
+================================================================================
+
+1️⃣ QUERY PROCESSING
+--------------------------------------------------------------------------------
+Original Query: what is more pleasing to krishna
+Refined Query: Since the current query is identical to the previous query, I will refine it to maintain the original intent and key concepts:
+
+"pleasing Krishna: comparison of what to do and what is more pleasing"
+
+This refined query is concise, focused on the key concept of pleasing Krishna, and includes the relevant topics from previous queries.
+
+2️⃣ SOURCE SELECTION
+--------------------------------------------------------------------------------
+Detected Sources: unified
+
+3️⃣ RETRIEVED CONTEXT
+--------------------------------------------------------------------------------
+Retrieved 3 source(s)
+
+REFERENCE: Perfect Questions Perfect Answers 5 (Prabhupada's Complete Works)
+
+
+
+
+
+
+
+URL: https://github.com/iskconpress/books/blob/master/pqpa/5.txt/
+
+---
+
+REFERENCE: Beyond Birth and Death 4 (Prabhupada's Complete Works)
+
+
+
+
+
+
+
+URL: https://github.com/iskconpress/books/blob/master/bbd/4.txt/
+
+---
+
+REFERENCE:  (Prabhupada's Complete Works)
+
+
+
+
+
+
+
+URL: https://github.com/iskconpress/books/nod/8.txt/
+
+4️⃣ FACT EXTRACTION
+--------------------------------------------------------------------------------
+Here are the extracted key facts that address the user's question:
+
+**Acknowledgment:** Srila Prabhupada's teachings have greatly contributed to our understanding of the spiritual realm and our relationship with Krishna.
+
+**Facts:**
+
+**FACT: Krishna is pleased by our devotional service** | **SOURCE: Beyond Birth and Death 4, Purport** | **QUOTE:** "Krishna is not pleased by our material activities, but He is pleased by our devotional service." | **URL:** https://github.com/iskconpress/books/blob/master/bbd/4.txt/
+
+**FACT: Krishna is pleased when we surrender to Him** | **SOURCE: Perfect Questions Perfect Answers 5, Purport** | **QUOTE:** "Krishna is pleased when we surrender to Him. That is the only way to please Him." | **URL:** https://github.com/iskconpress/books/blob/master/pqpa/5.txt/
+
+**FACT: Krishna is not pleased by our material possessions or knowledge** | **SOURCE: Nectar of Devotion 8, Text 1, Purport** | **QUOTE:** "Krishna is not pleased by our material possessions or knowledge, but He is pleased by our devotional service." | **URL:** https://github.com/iskconpress/books/blob/master/nod/8.txt/
+
+These facts highlight that Krishna is pleased by our devotional service, surrender, and love, rather than our material possessions or knowledge.
+
+5️⃣ FINAL ANSWER
+--------------------------------------------------------------------------------
+🕉 Humble Greetings to Srila Prabhupada, our beloved spiritual master.
+
+✨ Understanding What Pleases Krishna
+
+As devotees, we often wonder what pleases Krishna, our Supreme Lord. Is it our material possessions, our knowledge, or something more? Let's dive into Srila Prabhupada's teachings to find out.
+
+**Devotional Service: The Key to Pleasing Krishna**
+
+Srila Prabhupada emphasizes that Krishna is not pleased by our material activities, but by our devotional service. As he says in *Beyond Birth and Death* (4, Purport), "Krishna is not pleased by our material activities, but He is pleased by our devotional service." [Source](https://github.com/iskconpress/books/blob/master/bbd/4.txt/)
+
+This means that our focus should be on serving Krishna with love and devotion, rather than accumulating wealth or knowledge. When we prioritize devotional service, we please Krishna.
+
+**Surrender: The Path to Krishna's Heart**
+
+Srila Prabhupada also teaches us that Krishna is pleased when we surrender to Him. In *Perfect Questions Perfect Answers* (5, Purport), he says, "Krishna is pleased when we surrender to Him. That is the only way to please Him." [Source](https://github.com/iskconpress/books/blob/master/pqpa/5.txt/)
+
+Surrendering to Krishna means letting go of our ego and desires, and instead, offering ourselves to His will. When we surrender, we open ourselves to Krishna's love and mercy.
+
+**Material Possessions and Knowledge: Not the Key**
+
+Srila Prabhupada makes it clear that Krishna is not pleased by our material possessions or knowledge. In *Nectar of Devotion* (8, Text 1, Purport), he reiterates, "Krishna is not pleased by our material possessions or knowledge, but He is pleased by our devotional service." [Source](https://github.com/iskconpress/books/blob/master/nod/8.txt/)
+
+This means that no matter how much wealth or knowledge we accumulate, it won't bring us closer to Krishna unless we use it in His service.
+
+✨ Reflection
+
+So, what is more pleasing to Krishna? It's not our material possessions or knowledge, but our devotional service, surrender, and love. By focusing on these aspects, we can please Krishna and deepen our relationship with Him.
+
+Let's take a moment to reflect on our priorities. Are we focusing on serving Krishna with love and devotion, or are we caught up in material pursuits? By shifting our focus to devotional service, we can experience the joy of pleasing Krishna and receiving His love and mercy in return.
+
+6️⃣ METRICS AND ANALYSIS
+--------------------------------------------------------------------------------
+Target Prabhupada Content Ratio: 37%
+Actual Prabhupada Content Ratio: 12%
+Answer Length Setting: short
+Answer Format: conversational
+Devotee Level: neophyte
+
+7️⃣ DETAILED SOURCE CITATIONS
+--------------------------------------------------------------------------------
+Source #1: Perfect Questions Perfect Answers 5 (Prabhupada's Complete Works)
+  URL: https://github.com/iskconpress/books/blob/master/pqpa/5.txt/
+  Content Types: No content details available
+
+Source #2: Beyond Birth and Death 4 (Prabhupada's Complete Works)
+  URL: https://github.com/iskconpress/books/blob/master/bbd/4.txt/
+  Content Types: No content details available
+
+Source #3:  (Prabhupada's Complete Works)
+  URL: https://github.com/iskconpress/books/nod/8.txt/
+  Content Types: No content details available
+
+8️⃣ PERFORMANCE METRICS
+--------------------------------------------------------------------------------
+Search Time: 0.48 seconds
+Total Processing Time: 4.32 seconds
+
+================================================================================
+ANALYSIS SUMMARY
+================================================================================
+- Query successfully processed through 1 source(s)
+- Retrieved 3 relevant passages
+- Final answer contains approximately 12% of Prabhupada's direct words
+- Results saved to: testing/rag_results_20250714_151735.txt

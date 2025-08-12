@@ -1,0 +1,338 @@
+================================================================================
+PRABHUPADA RAG SYSTEM ANALYSIS RESULTS - 2025-07-24 13:00:56
+================================================================================
+
+1️⃣ QUERY PROCESSING
+--------------------------------------------------------------------------------
+Original Query: Çréla Prabhupäda Speaks Out
+ On the Operator of the Universal Machine, Part 2
+On Seeking the Right Thing in the Wrong Place
+from spokens
+Refined Query: Refined query: "spoken operator of the universal machine seeking the right thing in the wrong place"
+
+2️⃣ SOURCE SELECTION
+--------------------------------------------------------------------------------
+Detected Sources: spoken
+
+3️⃣ RETRIEVED CONTEXT
+--------------------------------------------------------------------------------
+Retrieved 5 source(s)
+
+🕉 Humble greetings to the devotees.
+
+**Prabhupāda:** This is a false idea. Because you have no such experience. Where is the machine that "Here is a machine going on without any operator"? Find out a machine.
+
+**Paramahaṁsa:** We're trying. We're trying. [laughter] There are some automatic machines.
+
+**Prabhupāda:** Automatic is at the hand of the operator, button.
+
+**Śrutakīrti:** Someone must turn it on and off.
+
+**Prabhupāda:** Yes. There is no such automatic machine. It is impossible to prove.
+
+**Gaṇeśa:** But we can see the operator of these small machines, Śrīla Prabhupāda. We cannot see the operator of this big machine.
+
+**Prabhupāda:** Have you seen the operator in the powerhouse? Electric?
+
+**Gaṇeśa:** No.
+
+**Prabhupāda:** Then? Do you think the powerhouse is going on?
+
+**Paramahaṁsa:** Well, we could see him. Because we could drive there right now and see him.
+
+**Prabhupāda:** Yes, you can see. Yes. You can go to Kṛṣṇa and see Him. That requires qualification.
+
+**Paramahaṁsa:** That's not as easy.
+
+**Prabhupāda:** No, it is very easy. It is simply, as we are teaching our students, just become a devotee, offer
+>
+>namaskār, man-manā bhava mad-bhakto
+>
+>(Bg. 18.65), always think of Him, and you will go to Him. It is not at all difficult.
+>
+>Bahavo jñāna-tapasā mad-bhāvam āgatāḥ
+>
+>(Bg. 4.10): "Many, did come to Me." How? Jñāna-tapasā, "By knowledge and tapasya, being purified, they come to Me," Kṛṣṇa says. Why you are disappointed? You can go. Kṛṣṇa is open.
+>
+>Te 'pi yānti parāṁ gatim
+>
+>(Bg. 9.32). Striya śūdra tathā vaiśya: even the women, less intelligent, the śūdra, vaiśya, they can come and see Him. Where is the difficulty? Even if you are born very lowest, you can go. Kṛṣṇa is open to everyone. Simply you become qualified, that's all. And what is the qualification?
+>
+>Man-manā bhava mad-bhakto mad-yājī māṁ namaskuru
+>
+>(Bg. 18.65): "Just always think of Me, become My devotee, offer your respect to Me, and man-manā, worship Me." That's all. Four things. That we are opening this temple for this purpose, that you always think of Him, you worship Him, you offer obeisances to Him and become His devotee. And then?
+>
+>Mām evaiṣyasi asaṁśayaḥ
+>
+>(Bg. 18.68), without a doubt you will come to Him. What is the difficulty? There is no difficulty.
+
+**Paramahaṁsa:** If the operator of the powerhouse, he is operating and running the powerhouse, but it's not really necessary that we go see him. We can simply enjoy the facilities offered by the powerhouse.
+
+**Prabhupāda:** That's all right, but if you are intelligent enough---if you are a rascal fool, you cannot see---but if you are intelligent, then you'll be eager to: "Who is operating? Let me see." That is the difference of intelligence. Dull... Just like we read one story. One little boy, he was beating on a drum. So he became inquisitive, "Wherefrom the sound is coming? Somebody must be within it." So he took a knife and cut it. This is intelligence: "Wherefrom the sound is coming?" He was beating---dum, dum, dum---he became inquisitive. That is intelligence. A dull student---coming, that's all. And intelligent, he tries to...
+
+SOURCE: https://github.com/iskconpress/spoken/blob/master/750508mw.per.txt
+
+---
+
+🕉 Humble greetings to the devotees.
+
+**Prabhupāda:** So we can go?
+
+SOURCE: https://github.com/iskconpress/spoken/blob/master/751029r1.nai.txt
+
+---
+
+🕉 Humble greetings to the devotees.
+
+**Prabhupāda:** ...Next guru is Nārada. Next guru is Vyāsadeva. Next guru is Madhvācārya, and so many others, and their branches. In this way, Caitanya Mahāprabhu, then the Gosvāmīs, then Śrīnivāsa, Śrīnivāsa Ācārya, Narottama dāsa Ṭhākura. In this way, the paramparā is coming.
+
+So this is the machine. How I can understand this machine is correct? Yes, it is correct. How it is correct? You can corroborate. The Bhagavad-gītā says, the original machine, Kṛṣṇa, says:
+
+"**sarva-dharmān parityaja mām ekaṁ śaraṇaṁ vraja**."
+
+So the same message is being broadcast in the Kṛṣṇa consciousness movement. What we are speaking? We are speaking, "Give up everything. Just surrender to Kṛṣṇa." Is not that the same machine? If you keep the words, the vibration of the machine, the same, then it is the same machine. You get the correct information.
+
+Kṛṣṇa is speaking about Himself, about His abode, about the spiritual world, the activities. Kṛṣṇa is speaking everything in the Śrīmad-Bhāgavatam, in Bhagavad-gītā. We don't require to change unnecessarily. If we present the same thing as it is, as we are presenting Bhagavad-gītā as it is, then the machine is there. You can get all the information. There is no difficulty.
+
+Just like you are getting by the present machine, radio machine, the message from far, distant place, similarly, you can get all the information of the spiritual world by the proper machine: the Bhagavad-gītā received through the paramparā, disciplic succession of bona fide spiritual masters. It is not difficult.
+
+So Sanātana Gosvāmī is receiving the message of the spiritual world through the exigency of Lord Caitanya Mahāprabhu. So the teachings of Lord Caitanya Mahāprabhu is there. Caitanya-caritāmṛta is there. If you study scrutinizingly Caitanya Mahāprabhu's teachings to Sanātana Gosvāmī, then you also get the machine. There is no difficulty.
+
+And as soon as you get the machine, and if you know how to handle it properly, then you get all the information. It is not difficult. And how to handle properly the machine, that is being taught by example, personal example by Sanātana Gosvāmī, that he's approaching Caitanya Mahāprabhu very humbly.
+
+He's not proud of his past position that he was a minister, he was a moneyed man, rich man, born of a brāhmaṇa family and so on, so on. He's humbly presenting him that "I am the most fallen. I am the most fallen." So "I never knew the actual goal of my life. I do not know what is beneficial to me."
+
+That is the position of everyone. Nobody knows what is the ultimate goal of life. They think that "We have got this body, and let us enjoy the senses to the fullest extent. That is the highest perfection of life." Get some material education—technologist, or something else, material education—get some good post, get good salary and eat nicely, drink nicely and enjoy your senses. This is perfection of life.
+
+This is going on all over the world. But that is not the goal of life. Therefore, because that is not the goal of life, and we know that this is goal of life, therefore we require the enlightenment from the bona fide...
+
+SOURCE: https://github.com/iskconpress/spoken/blob/master/721019ak.vrn.txt
+
+---
+
+🕉 Humble greetings to the devotees.
+
+**Prabhupāda:** Just like this wonderful machine, computer. But still, there is an operator. But they have no common sense, even that: where is the machine that is working without any operator? Where is that machine within their experience? How they suggest that nature is doing automatically? Nature is a wonderful machine, but the operator is Kṛṣṇa. That is real knowledge. Because the machine is working wonderfully, there is no operator? Where is that experience? Have you got any experience, Dr. Wolf, like that?
+
+**Dr. Wolf-Rottkay:** No, sir, I don't.
+
+**Prabhupāda:** Then? Oh, we have got any experience? You have got any experience? Then why do you say nonsense, this? You have no experience, and you say something nonsense, ludicrous. They say "nature." What is the nature? Nature is a machine only. Just like the harmonium: it is also a machine, but if one expert operator is there, it makes very melodious, "Oh, nice." Will the harmonium play automatically and bring melodious sound? So they have no common sense even; still, they are scientist. That is our regret. They are less than common-sense men. That you have to expose, that these people have not even common sense, and they are passing on as scientists. That you must protest because you are a servant of God, you are a servant of the scientist. Call them directly rascal. Let them defend that they are not rascal. He brought some scientist. I called him, "You are rascal, you are demon, you are," [laughs] but he tolerated. But means in... internally he accepted that he is a rascal. [laughs] Actually, they... They have no common sense even. We are not scientists, but we speak from common sense, that's all.
+
+Yesterday or day before yesterday, I was talking on common sense on law points, so Rūpānuga said that "You are bigger than lawyer." I do not know that I am bigger than lawyer, but I was speaking on common sense. The difficulty is they are misleading. So many people are being misled by the so-called politician and scientist and... But Gandhi says... He has written so many nonsense things. One thing is that he said, "I do not believe that there was anybody as Kṛṣṇa living ever. Kṛṣṇa is of my imagination." These things he has written. And he is Mahatma Gandhi.
+
+"Mahātmānas tu māṁ pārtha daivīṁ prakṛtim āśritāḥ"
+[[Bg. 9.13]]
+
+Mahātmā means devotee, who has understood "vāsudevaḥ sarvam iti" [[Bg. 7.19]]. But these rascal politicians, they have become mahātmā. For politics, they can do anything, lie like anybody, and so many things. There was a big writer in Bengal. So he is giving evidence in the court... That's a comic[?]. So the, he says, "Do you think I am editor? I am pleader? I am prostitute?" Means indirectly he is saying that they are prostitutes. As the prostitute can say anything, I mean to lies, for their profession, similarly, these people, the editor and the pleaders, they are like that. "Do you think I am prostitute? Do you think I am lawyer?
+
+SOURCE: https://github.com/iskconpress/spoken/blob/master/750301r2.atl.txt
+
+---
+
+🕉 Humble greetings to the devotees.
+
+**Prabhupāda:** And intelligent, he tries to... That is intelligence. Inquisitiveness. Intelligent boy will always enquire, "What is this, father? What is this, father? Wherefrom the sound is coming?" That is intelligence. So if one is very dull—just like cats and dogs, they cannot enquire, "What is this machine? What is this behind?" It is in the human form of life these enquiries should come. Otherwise he remains a cat and dog.
+
+**Jayadharma:** They say that they don't accept this body as a machine because they've never experienced a machine that can think, feel and will for itself.
+
+**Prabhupāda:** What is that?
+
+**Paramahaṁsa:** Well, they say that this body is more complicated than any other machine because it can think, feel and will, whereas other machines, they don't do that.
+
+**Prabhupāda:** But the thinking, feeling, the brain is there. If the... That is the particular machine, because the operator is within. That you cannot see. The thinking, feeling is coming from the operator.
+
+ "_Dehino 'smin yatha dehe_"
+_[Bg. 2.13]_
+
+That these rascals cannot understand, that the thinking, feeling, that is of the operator, not of the machine. Is it clear or not? The operator is within. So the thinking, feeling, as you were asking, that is not of the machine but of the operator, the soul.
+
+**Gaṇeśa:** Just like the child, Śrīla Prabhupāda, who was trying to find the sound within the drum, the material scientists, they are trying to find out the cause and effect of the material world. Is that not intelligence?
+
+**Prabhupāda:** Yes, but they have not reached the ultimate goal.
+
+**Paramahaṁsa:** But they are trying.
+
+**Prabhupāda:** They are trying. That is admitted. But they are concluding that there is no operator. That is their foolishness, because they have failed to find out. They have to go further, further, and see, "Yes, there is operator." That is the final part of the intelligence. That is stated in the _Bhagavad-gītā:_
+
+ "_Bahūnāṁ janmanām ante jñānavān mām_"
+_[Bg. 7.19]_
+
+So after many, many births of sincere inquiry, when he is actually intelligent, he will see, "Oh, _vāsudevaḥ sarvam iti_ [Bg. 7.19]. Here is Vāsudeva. He is everything." That is stated. He'll enquire, go on enquiring, life after life. And then he'll come to understand _vāsudevaḥ-sa mahātmā su-durlabhaḥ_. You did not read this verse?
+
+**Gaṇeśa:** Oh, yes.
+
+**Prabhupāda:** They will come. After much trouble, much enquiry, they will come to the same conclusion, _vāsudevaḥ sarvam iti_ [Bg. 7.19]. But they'll waste time. That's all. When we say, "Here is operator," they will not take. But they'll waste time, and life after life laboring, one day they will come.
+
+**Jayadharma:** Does that mean that everybody is ultimately on the way back home, back to Godhead?
+
+**Prabhupāda:** Yes, everyone is enquiring, but according to his intelligence, perfection, he is making progress. Everyone. Everyone, because he is meant for that purpose. He has forgotten Kṛṣṇa, and Kṛṣṇa is the reservoir of all pleasure. He is finding..., trying to find out pleasure other than Kṛṣṇa; therefore he is being baffled.
+
+SOURCE: https://github.com/iskconpress/spoken/blob/master/750508mw.per.txt
+
+4️⃣ FACT EXTRACTION
+--------------------------------------------------------------------------------
+Direct spoken content provided
+
+5️⃣ FINAL ANSWER
+--------------------------------------------------------------------------------
+🕉 Humble greetings to the devotees.
+
+**Prabhupāda:** This is a false idea. Because you have no such experience. Where is the machine that "Here is a machine going on without any operator"? Find out a machine.
+
+**Paramahaṁsa:** We're trying. We're trying. [laughter] There are some automatic machines.
+
+**Prabhupāda:** Automatic is at the hand of the operator, button.
+
+**Śrutakīrti:** Someone must turn it on and off.
+
+**Prabhupāda:** Yes. There is no such automatic machine. It is impossible to prove.
+
+**Gaṇeśa:** But we can see the operator of these small machines, Śrīla Prabhupāda. We cannot see the operator of this big machine.
+
+**Prabhupāda:** Have you seen the operator in the powerhouse? Electric?
+
+**Gaṇeśa:** No.
+
+**Prabhupāda:** Then? Do you think the powerhouse is going on?
+
+**Paramahaṁsa:** Well, we could see him. Because we could drive there right now and see him.
+
+**Prabhupāda:** Yes, you can see. Yes. You can go to Kṛṣṇa and see Him. That requires qualification.
+
+**Paramahaṁsa:** That's not as easy.
+
+**Prabhupāda:** No, it is very easy. It is simply, as we are teaching our students, just become a devotee, offer
+>
+>namaskār, man-manā bhava mad-bhakto
+>
+>(Bg. 18.65), always think of Him, and you will go to Him. It is not at all difficult.
+>
+>Bahavo jñāna-tapasā mad-bhāvam āgatāḥ
+>
+>(Bg. 4.10): "Many, did come to Me." How? Jñāna-tapasā, "By knowledge and tapasya, being purified, they come to Me," Kṛṣṇa says. Why you are disappointed? You can go. Kṛṣṇa is open.
+>
+>Te 'pi yānti parāṁ gatim
+>
+>(Bg. 9.32). Striya śūdra tathā vaiśya: even the women, less intelligent, the śūdra, vaiśya, they can come and see Him. Where is the difficulty? Even if you are born very lowest, you can go. Kṛṣṇa is open to everyone. Simply you become qualified, that's all. And what is the qualification?
+>
+>Man-manā bhava mad-bhakto mad-yājī māṁ namaskuru
+>
+>(Bg. 18.65): "Just always think of Me, become My devotee, offer your respect to Me, and man-manā, worship Me." That's all. Four things. That we are opening this temple for this purpose, that you always think of Him, you worship Him, you offer obeisances to Him and become His devotee. And then?
+>
+>Mām evaiṣyasi asaṁśayaḥ
+>
+>(Bg. 18.68), without a doubt you will come to Him. What is the difficulty? There is no difficulty.
+
+**Paramahaṁsa:** If the operator of the powerhouse, he is operating and running the powerhouse, but it's not really necessary that we go see him. We can simply enjoy the facilities offered by the powerhouse.
+
+**Prabhupāda:** That's all right, but if you are intelligent enough---if you are a rascal fool, you cannot see---but if you are intelligent, then you'll be eager to: "Who is operating? Let me see." That is the difference of intelligence. Dull... Just like we read one story. One little boy, he was beating on a drum. So he became inquisitive, "Wherefrom the sound is coming? Somebody must be within it." So he took a knife and cut it. This is intelligence: "Wherefrom the sound is coming?" He was beating---dum, dum, dum---he became inquisitive. That is intelligence. A dull student---coming, that's all. And intelligent, he tries to...
+
+SOURCE: https://github.com/iskconpress/spoken/blob/master/750508mw.per.txt
+
+---
+
+🕉 Humble greetings to the devotees.
+
+**Prabhupāda:** So we can go?
+
+SOURCE: https://github.com/iskconpress/spoken/blob/master/751029r1.nai.txt
+
+---
+
+🕉 Humble greetings to the devotees.
+
+**Prabhupāda:** ...Next guru is Nārada. Next guru is Vyāsadeva. Next guru is Madhvācārya, and so many others, and their branches. In this way, Caitanya Mahāprabhu, then the Gosvāmīs, then Śrīnivāsa, Śrīnivāsa Ācārya, Narottama dāsa Ṭhākura. In this way, the paramparā is coming.
+
+So this is the machine. How I can understand this machine is correct? Yes, it is correct. How it is correct? You can corroborate. The Bhagavad-gītā says, the original machine, Kṛṣṇa, says:
+
+"**sarva-dharmān parityaja mām ekaṁ śaraṇaṁ vraja**."
+
+So the same message is being broadcast in the Kṛṣṇa consciousness movement. What we are speaking? We are speaking, "Give up everything. Just surrender to Kṛṣṇa." Is not that the same machine? If you keep the words, the vibration of the machine, the same, then it is the same machine. You get the correct information.
+
+Kṛṣṇa is speaking about Himself, about His abode, about the spiritual world, the activities. Kṛṣṇa is speaking everything in the Śrīmad-Bhāgavatam, in Bhagavad-gītā. We don't require to change unnecessarily. If we present the same thing as it is, as we are presenting Bhagavad-gītā as it is, then the machine is there. You can get all the information. There is no difficulty.
+
+Just like you are getting by the present machine, radio machine, the message from far, distant place, similarly, you can get all the information of the spiritual world by the proper machine: the Bhagavad-gītā received through the paramparā, disciplic succession of bona fide spiritual masters. It is not difficult.
+
+So Sanātana Gosvāmī is receiving the message of the spiritual world through the exigency of Lord Caitanya Mahāprabhu. So the teachings of Lord Caitanya Mahāprabhu is there. Caitanya-caritāmṛta is there. If you study scrutinizingly Caitanya Mahāprabhu's teachings to Sanātana Gosvāmī, then you also get the machine. There is no difficulty.
+
+And as soon as you get the machine, and if you know how to handle it properly, then you get all the information. It is not difficult. And how to handle properly the machine, that is being taught by example, personal example by Sanātana Gosvāmī, that he's approaching Caitanya Mahāprabhu very humbly.
+
+He's not proud of his past position that he was a minister, he was a moneyed man, rich man, born of a brāhmaṇa family and so on, so on. He's humbly presenting him that "I am the most fallen. I am the most fallen." So "I never knew the actual goal of my life. I do not know what is beneficial to me."
+
+That is the position of everyone. Nobody knows what is the ultimate goal of life. They think that "We have got this body, and let us enjoy the senses to the fullest extent. That is the highest perfection of life." Get some material education—technologist, or something else, material education—get some good post, get good salary and eat nicely, drink nicely and enjoy your senses. This is perfection of life.
+
+This is going on all over the world. But that is not the goal of life. Therefore, because that is not the goal of life, and we know that this is goal of life, therefore we require the enlightenment from the bona fide...
+
+SOURCE: https://github.com/iskconpress/spoken/blob/master/721019ak.vrn.txt
+
+---
+
+🕉 Humble greetings to the devotees.
+
+**Prabhupāda:** Just like this wonderful machine, computer. But still, there is an operator. But they have no common sense, even that: where is the machine that is working without any operator? Where is that machine within their experience? How they suggest that nature is doing automatically? Nature is a wonderful machine, but the operator is Kṛṣṇa. That is real knowledge. Because the machine is working wonderfully, there is no operator? Where is that experience? Have you got any experience, Dr. Wolf, like that?
+
+**Dr. Wolf-Rottkay:** No, sir, I don't.
+
+**Prabhupāda:** Then? Oh, we have got any experience? You have got any experience? Then why do you say nonsense, this? You have no experience, and you say something nonsense, ludicrous. They say "nature." What is the nature? Nature is a machine only. Just like the harmonium: it is also a machine, but if one expert operator is there, it makes very melodious, "Oh, nice." Will the harmonium play automatically and bring melodious sound? So they have no common sense even; still, they are scientist. That is our regret. They are less than common-sense men. That you have to expose, that these people have not even common sense, and they are passing on as scientists. That you must protest because you are a servant of God, you are a servant of the scientist. Call them directly rascal. Let them defend that they are not rascal. He brought some scientist. I called him, "You are rascal, you are demon, you are," [laughs] but he tolerated. But means in... internally he accepted that he is a rascal. [laughs] Actually, they... They have no common sense even. We are not scientists, but we speak from common sense, that's all.
+
+Yesterday or day before yesterday, I was talking on common sense on law points, so Rūpānuga said that "You are bigger than lawyer." I do not know that I am bigger than lawyer, but I was speaking on common sense. The difficulty is they are misleading. So many people are being misled by the so-called politician and scientist and... But Gandhi says... He has written so many nonsense things. One thing is that he said, "I do not believe that there was anybody as Kṛṣṇa living ever. Kṛṣṇa is of my imagination." These things he has written. And he is Mahatma Gandhi.
+
+"Mahātmānas tu māṁ pārtha daivīṁ prakṛtim āśritāḥ"
+[[Bg. 9.13]]
+
+Mahātmā means devotee, who has understood "vāsudevaḥ sarvam iti" [[Bg. 7.19]]. But these rascal politicians, they have become mahātmā. For politics, they can do anything, lie like anybody, and so many things. There was a big writer in Bengal. So he is giving evidence in the court... That's a comic[?]. So the, he says, "Do you think I am editor? I am pleader? I am prostitute?" Means indirectly he is saying that they are prostitutes. As the prostitute can say anything, I mean to lies, for their profession, similarly, these people, the editor and the pleaders, they are like that. "Do you think I am prostitute? Do you think I am lawyer?
+
+SOURCE: https://github.com/iskconpress/spoken/blob/master/750301r2.atl.txt
+
+---
+
+🕉 Humble greetings to the devotees.
+
+**Prabhupāda:** And intelligent, he tries to... That is intelligence. Inquisitiveness. Intelligent boy will always enquire, "What is this, father? What is this, father? Wherefrom the sound is coming?" That is intelligence. So if one is very dull—just like cats and dogs, they cannot enquire, "What is this machine? What is this behind?" It is in the human form of life these enquiries should come. Otherwise he remains a cat and dog.
+
+**Jayadharma:** They say that they don't accept this body as a machine because they've never experienced a machine that can think, feel and will for itself.
+
+**Prabhupāda:** What is that?
+
+**Paramahaṁsa:** Well, they say that this body is more complicated than any other machine because it can think, feel and will, whereas other machines, they don't do that.
+
+**Prabhupāda:** But the thinking, feeling, the brain is there. If the... That is the particular machine, because the operator is within. That you cannot see. The thinking, feeling is coming from the operator.
+
+ "_Dehino 'smin yatha dehe_"
+_[Bg. 2.13]_
+
+That these rascals cannot understand, that the thinking, feeling, that is of the operator, not of the machine. Is it clear or not? The operator is within. So the thinking, feeling, as you were asking, that is not of the machine but of the operator, the soul.
+
+**Gaṇeśa:** Just like the child, Śrīla Prabhupāda, who was trying to find the sound within the drum, the material scientists, they are trying to find out the cause and effect of the material world. Is that not intelligence?
+
+**Prabhupāda:** Yes, but they have not reached the ultimate goal.
+
+**Paramahaṁsa:** But they are trying.
+
+**Prabhupāda:** They are trying. That is admitted. But they are concluding that there is no operator. That is their foolishness, because they have failed to find out. They have to go further, further, and see, "Yes, there is operator." That is the final part of the intelligence. That is stated in the _Bhagavad-gītā:_
+
+ "_Bahūnāṁ janmanām ante jñānavān mām_"
+_[Bg. 7.19]_
+
+So after many, many births of sincere inquiry, when he is actually intelligent, he will see, "Oh, _vāsudevaḥ sarvam iti_ [Bg. 7.19]. Here is Vāsudeva. He is everything." That is stated. He'll enquire, go on enquiring, life after life. And then he'll come to understand _vāsudevaḥ-sa mahātmā su-durlabhaḥ_. You did not read this verse?
+
+**Gaṇeśa:** Oh, yes.
+
+**Prabhupāda:** They will come. After much trouble, much enquiry, they will come to the same conclusion, _vāsudevaḥ sarvam iti_ [Bg. 7.19]. But they'll waste time. That's all. When we say, "Here is operator," they will not take. But they'll waste time, and life after life laboring, one day they will come.
+
+**Jayadharma:** Does that mean that everybody is ultimately on the way back home, back to Godhead?
+
+**Prabhupāda:** Yes, everyone is enquiring, but according to his intelligence, perfection, he is making progress. Everyone. Everyone, because he is meant for that purpose. He has forgotten Kṛṣṇa, and Kṛṣṇa is the reservoir of all pleasure. He is finding..., trying to find out pleasure other than Kṛṣṇa; therefore he is being baffled.
+
+SOURCE: https://github.com/iskconpress/spoken/blob/master/750508mw.per.txt
+
+6️⃣ METRICS AND ANALYSIS
+--------------------------------------------------------------------------------
+Target Prabhupada Content Ratio: 70%
+Actual Prabhupada Content Ratio: 100%
+Answer Length Setting: short
+Answer Format: conversational
+Devotee Level: neophyte
+
+7️⃣ DETAILED SOURCE CITATIONS
+--------------------------------------------------------------------------------

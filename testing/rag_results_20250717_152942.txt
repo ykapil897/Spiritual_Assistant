@@ -1,0 +1,150 @@
+================================================================================
+PRABHUPADA RAG SYSTEM ANALYSIS RESULTS - 2025-07-17 15:29:42
+================================================================================
+
+1️⃣ QUERY PROCESSING
+--------------------------------------------------------------------------------
+Original Query: explain me about the cc adi 5.6
+Refined Query: Here is the refined query:
+
+"Explanation of Cc. Adi 5.6 in relation to the role of Caitya Guru"
+
+Note: Since the current query explicitly mentions a specific verse (Cc. Adi 5.6), I've kept the query concise and focused on that verse, without adding the previous query about prasada.
+
+2️⃣ SOURCE SELECTION
+--------------------------------------------------------------------------------
+Detected Sources: cc, unified
+
+3️⃣ RETRIEVED CONTEXT
+--------------------------------------------------------------------------------
+Retrieved 4 source(s)
+
+REFERENCE: CC Adi 5.6 (Sri Caitanya-caritamrta)
+
+VERSE: 
+
+TRANSLATION: That original Lord Kṛṣṇa appeared in Navadvīpa as Lord Caitanya, and Balarāma appeared with Him as Lord Nityānanda.
+
+PURPORT BY SRILA PRABHUPADA: 
+
+URL: https://github.com/iskconpress/books/tree/master/cc/adi/5/6.txt
+
+=== RELATED CONTENT ===
+
+REFERENCE: Elevation to Krsna Consciousness 6 (Prabhupada's Complete Works)
+
+
+
+
+
+
+
+URL: https://github.com/iskconpress/books/blob/master/ekc/6.txt/
+
+---
+
+REFERENCE: Teachings of Lord Caitanya 32 (Prabhupada's Complete Works)
+
+
+
+
+
+
+
+URL: https://github.com/iskconpress/books/blob/master/tlc/32.txt/
+
+---
+
+REFERENCE: Teachings of Lord Caitanya 17 (Prabhupada's Complete Works)
+
+
+
+
+
+
+
+URL: https://github.com/iskconpress/books/blob/master/tlc/17.txt/
+
+4️⃣ FACT EXTRACTION
+--------------------------------------------------------------------------------
+Here are the key facts extracted from Srila Prabhupada's teachings, specifically from CC Adi 5.6:
+
+**Acknowledgment:** Srila Prabhupada's teachings have greatly contributed to the understanding and dissemination of Gaudiya Vaishnavism, and his works continue to inspire and guide devotees worldwide.
+
+**Facts:**
+
+FACT: Lord Kṛṣṇa appeared in Navadvīpa as Lord Caitanya. | SOURCE: CC Adi 5.6 (verse) | QUOTE: "That original Lord Kṛṣṇa appeared in Navadvīpa as Lord Caitanya" | URL: https://github.com/iskconpress/books/tree/master/cc/adi/5/6.txt
+
+FACT: Balarāma appeared with Lord Caitanya as Lord Nityānanda. | SOURCE: CC Adi 5.6 (verse) | QUOTE: "Balarāma appeared with Him as Lord Nityānanda" | URL: https://github.com/iskconpress/books/tree/master/cc/adi/5/6.txt
+
+These two facts establish the fundamental concept that Lord Caitanya is the incarnation of Lord Kṛṣṇa, and Lord Nityānanda is the incarnation of Balarāma, emphasizing their divine relationship and presence in the material world.
+
+5️⃣ FINAL ANSWER
+--------------------------------------------------------------------------------
+**Invocation**
+śrī-caitanya-mano-'bhīṣṭaṁ sthāpitaṁ yena bhū-tale
+svayaṁ rūpaḥ kadā mahyam dadāti sva-padāntikam
+("May the Supreme Lord who has established the mission to distribute love of Godhead, and who is the reservoir of all pleasure, grant me a place at His lotus feet.") - Śrī Caitanya-caritāmṛta, Ādi-līlā 1.1
+
+**The Divine Incarnation of Lord Caitanya**
+
+In the sacred scripture, Śrī Caitanya-caritāmṛta, we find a profound revelation about the divine incarnation of Lord Caitanya. In the Ādi-līlā, Chapter 5, Text 6, it is stated:
+
+"That original Lord Kṛṣṇa appeared in Navadvīpa as Lord Caitanya" [CC Adi 5.6](https://github.com/iskconpress/books/tree/master/cc/adi/5/6.txt)
+
+This verse establishes the fundamental concept that Lord Caitanya is the incarnation of Lord Kṛṣṇa, the Supreme Personality of Godhead. This revelation is of utmost importance, as it highlights the divine nature of Lord Caitanya's appearance in the material world.
+
+**The Divine Companion: Lord Nityānanda**
+
+Furthermore, the same verse reveals that Lord Nityānanda is the incarnation of Balarāma, the eternal companion of Lord Kṛṣṇa:
+
+"Balarāma appeared with Him as Lord Nityānanda" [CC Adi 5.6](https://github.com/iskconpress/books/tree/master/cc/adi/5/6.txt)
+
+This divine relationship between Lord Caitanya and Lord Nityānanda is a manifestation of the eternal love and affection between Lord Kṛṣṇa and Balarāma. Their appearance in the material world is a blessing for all living beings, as it provides an opportunity for spiritual awakening and devotional service.
+
+**Reflection**
+
+As neophyte devotees, we should understand the significance of Lord Caitanya's incarnation and His divine relationship with Lord Nityānanda. By recognizing their divine nature, we can develop a deeper appreciation for the mercy they have bestowed upon us. Let us take advantage of this opportunity to surrender ourselves at the lotus feet of Lord Caitanya and Lord Nityānanda, and thus experience the bliss of devotional service.
+
+**Practical Application**
+
+As we reflect on the divine incarnation of Lord Caitanya and Lord Nityānanda, let us make a conscious effort to cultivate a sense of reverence and gratitude for their appearance in our lives. By doing so, we can deepen our connection with the divine and experience the transformative power of their love
+
+6️⃣ METRICS AND ANALYSIS
+--------------------------------------------------------------------------------
+Target Prabhupada Content Ratio: 70%
+Actual Prabhupada Content Ratio: 12%
+Answer Length Setting: short
+Answer Format: scriptural
+Devotee Level: neophyte
+
+7️⃣ DETAILED SOURCE CITATIONS
+--------------------------------------------------------------------------------
+Source #1: CC Adi 5.6 (Sri Caitanya-caritamrta)
+  URL: https://github.com/iskconpress/books/tree/master/cc/adi/5/6.txt
+  Content Types: Translation ✓
+
+Source #2: Elevation to Krsna Consciousness 6 (Prabhupada's Complete Works)
+  URL: https://github.com/iskconpress/books/blob/master/ekc/6.txt/
+  Content Types: No content details available
+
+Source #3: Teachings of Lord Caitanya 32 (Prabhupada's Complete Works)
+  URL: https://github.com/iskconpress/books/blob/master/tlc/32.txt/
+  Content Types: No content details available
+
+Source #4: Teachings of Lord Caitanya 17 (Prabhupada's Complete Works)
+  URL: https://github.com/iskconpress/books/blob/master/tlc/17.txt/
+  Content Types: No content details available
+
+8️⃣ PERFORMANCE METRICS
+--------------------------------------------------------------------------------
+Search Time: 0.35 seconds
+Total Processing Time: 6.36 seconds
+
+================================================================================
+ANALYSIS SUMMARY
+================================================================================
+- Query successfully processed through 2 source(s)
+- Retrieved 4 relevant passages
+- Final answer contains approximately 12% of Prabhupada's direct words
+- Results saved to: testing/rag_results_20250717_152942.txt

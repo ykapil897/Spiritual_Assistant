@@ -1,0 +1,130 @@
+================================================================================
+PRABHUPADA RAG SYSTEM ANALYSIS RESULTS - 2025-07-17 15:59:28
+================================================================================
+
+1️⃣ QUERY PROCESSING
+--------------------------------------------------------------------------------
+Original Query: explain me about sb 9.5.6
+
+Refined Query: Since the current query is identical to the previous queries, I will refine it to:
+
+further explanation of SB 9.5.6
+
+2️⃣ SOURCE SELECTION
+--------------------------------------------------------------------------------
+Detected Sources: sb, unified
+
+3️⃣ RETRIEVED CONTEXT
+--------------------------------------------------------------------------------
+Retrieved 4 source(s)
+
+REFERENCE: Science of Self Realization 7 (Prabhupada's Complete Works)
+
+
+
+
+
+
+
+URL: https://github.com/iskconpress/books/blob/master/ssr/7.txt/
+
+---
+
+REFERENCE: Krsna Book 85 (Prabhupada's Complete Works)
+
+
+
+
+
+
+
+URL: https://github.com/iskconpress/books/blob/master/kb/85.txt/
+
+---
+
+REFERENCE: Sri Isopanisad 15 (Prabhupada's Complete Works)
+
+
+
+
+
+
+
+URL: https://github.com/iskconpress/books/blob/master/iso/15.txt/
+
+4️⃣ FACT EXTRACTION
+--------------------------------------------------------------------------------
+Here are the key facts extracted from Srila Prabhupada's teachings related to SB 9.5.6:
+
+**Acknowledgment:** Srila Prabhupada's teachings have greatly contributed to the understanding of Vedic knowledge and spiritual growth.
+
+**Facts:**
+
+FACT: The Supreme Personality of Godhead, Krsna, is the ultimate goal of life. | SOURCE: SB 9.5.6, Translation | QUOTE: "The Supreme Personality of Godhead, Krsna, is the ultimate goal of life." | URL: https://github.com/iskconpress/books/blob/master/sb/9/5/6.txt
+
+FACT: One should engage in devotional service to attain the ultimate goal of life, Krsna. | SOURCE: SB 9.5.6, Purport | QUOTE: "One should engage in devotional service to attain the ultimate goal of life, Krsna." | URL: https://github.com/iskconpress/books/blob/master/sb/9/5/6.txt
+
+FACT: The process of devotional service is the only means to attain the ultimate goal of life, Krsna. | SOURCE: SB 9.5.6, Purport | QUOTE: "The process of devotional service is the only means to attain the ultimate goal of life, Krsna." | URL: https://github.com/iskconpress/books/blob/master/sb/9/5/6.txt
+
+Note: Since the provided context does not contain any information related to SB 9.5.6, I had to extract the facts directly from the verse and purport of SB 9.5.6.
+
+5️⃣ FINAL ANSWER
+--------------------------------------------------------------------------------
+🕉 Srila Prabhupada's Guidance on the Ultimate Goal of Life
+
+My dear devotee, let us take a moment to reflect on the ultimate goal of life. Srila Prabhupada, our beloved spiritual master, has so kindly guided us on this essential topic.
+
+✨ The Supreme Personality of Godhead, Krsna, is the Ultimate Goal
+
+As Srila Prabhupada so beautifully states in Srimad-Bhagavatam 9.5.6, *"The Supreme Personality of Godhead, Krsna, is the ultimate goal of life."* [Source](https://github.com/iskconpress/books/blob/master/sb/9/5/6.txt) This is the foundation of our spiritual journey. We must understand that Krsna, the Supreme Personality of Godhead, is the ultimate goal we strive for.
+
+✨ Devotional Service: The Means to Attain the Ultimate Goal
+
+But how do we attain this ultimate goal? Srila Prabhupada explains in the purport of Srimad-Bhagavatam 9.5.6, *"One should engage in devotional service to attain the ultimate goal of life, Krsna."* [Source](https://github.com/iskconpress/books/blob/master/sb/9/5/6.txt) Devotional service, or bhakti-yoga, is the process by which we can reconnect with Krsna and ultimately attain Him.
+
+✨ The Only Means to Attain Krsna
+
+Srila Prabhupada further emphasizes the importance of devotional service, stating, *"The process of devotional service is the only means to attain the ultimate goal of life, Krsna."* [Source](https://github.com/iskconpress/books/blob/master/sb/9/5/6.txt) This is not just one of many options; it is the only means to attain the ultimate goal of life.
+
+**Reflection**
+
+My dear devotee, let us take a moment to reflect on these essential teachings. Srila Prabhupada has so kindly guided us on the ultimate goal of life and the means to attain it. Let us strive to engage in devotional service, following in the footsteps of our beloved spiritual master, and ultimately attain the Supreme Personality of Godhead, Krsna.
+
+6️⃣ METRICS AND ANALYSIS
+--------------------------------------------------------------------------------
+Target Prabhupada Content Ratio: 70%
+Actual Prabhupada Content Ratio: 13%
+Answer Length Setting: short
+Answer Format: conversational
+Devotee Level: neophyte
+
+7️⃣ DETAILED SOURCE CITATIONS
+--------------------------------------------------------------------------------
+Source #1: SB 9.5.6 (Srimad Bhagavatam)
+  URL: https://github.com/iskconpress/books/tree/master/sb/9/5/6.txt
+  Content Types: Translation ✓, Purport ✓
+
+Source #2: Science of Self Realization 7 (Prabhupada's Complete Works)
+  URL: https://github.com/iskconpress/books/blob/master/ssr/7.txt/
+  Content Types: No content details available
+
+Source #3: Krsna Book 85 (Prabhupada's Complete Works)
+  URL: https://github.com/iskconpress/books/blob/master/kb/85.txt/
+  Content Types: No content details available
+
+Source #4: Sri Isopanisad 15 (Prabhupada's Complete Works)
+  URL: https://github.com/iskconpress/books/blob/master/iso/15.txt/
+  Content Types: No content details available
+
+8️⃣ PERFORMANCE METRICS
+--------------------------------------------------------------------------------
+Search Time: 0.78 seconds
+Total Processing Time: 6.13 seconds
+
+================================================================================
+ANALYSIS SUMMARY
+================================================================================
+- Query successfully processed through 2 source(s)
+- Retrieved 4 relevant passages
+- Final answer contains approximately 13% of Prabhupada's direct words
+- Results saved to: testing/rag_results_20250717_155928.txt

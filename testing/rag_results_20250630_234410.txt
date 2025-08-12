@@ -1,0 +1,147 @@
+================================================================================
+PRABHUPADA RAG SYSTEM ANALYSIS RESULTS - 2025-06-30 23:44:10
+================================================================================
+
+1️⃣ QUERY PROCESSING
+--------------------------------------------------------------------------------
+Original Query: give some brief about the sb 10.6.7 and its purport 
+Refined Query: Since the current query is a repeat of the previous query, I will refine it to:
+
+`brief about SB 10.6.7 and its purport`
+
+No changes are needed, as it's a standalone query that doesn't require any additional context from previous queries.
+
+2️⃣ SOURCE SELECTION
+--------------------------------------------------------------------------------
+Detected Sources: sb
+
+3️⃣ RETRIEVED CONTEXT
+--------------------------------------------------------------------------------
+Retrieved 3 source(s)
+
+REFERENCE: SB 9.4.61 (Srimad Bhagavatam)
+
+
+
+
+
+
+
+URL: https://github.com/iskconpress/books/tree/master/sb/9/4/61.txt
+
+---
+
+REFERENCE: SB 2.10.51 (Srimad Bhagavatam)
+
+
+
+TRANSLATION: Śrī Sūta Gosvāmī explained: I shall now explain to you the very subjects explained by the great sage in answer to King Parīkṣit's inquiries. Please hear them attentively.
+
+PURPORT BY SRILA PRABHUPADA: Any question that is put forward may be answered by quoting the authority, and that satisfies the saner section. That is the system even in the law court. The best lawyer gives evidence from the past judgment of the court without taking much trouble to establish his case. This is called the //paramparā// system, and learned authorities follow it without manufacturing rubbish interpretations.
+
+> īśvaraḥ paramaḥ kṛṣṇaḥ
+> sac-cid-ānanda-vigrahaḥ
+> anādir ādir govindaḥ
+> sarva-kāraṇa-kāraṇam
+> (Bs. 5.1)
+
+Let us all obey the Supreme Lord, whose hand is in everything, without exception.
+
+Thus end the Bhaktivedanta purports of the Second Canto, Tenth Chapter, of the //Śrīmad-Bhāgavatam,// entitled "//Bhāgavatam// Is the Answer to All Questions."
+
+<WRAP centeralign>
+**END OF THE SECOND CANTO**
+</WRAP>
+
+URL: https://github.com/iskconpress/books/tree/master/sb/2/10/51.txt
+
+---
+
+REFERENCE: SB 7.1.21 (Srimad Bhagavatam)
+
+
+
+TRANSLATION: This matter is undoubtedly very wonderful. Indeed, my intelligence has become disturbed, just as the flame of a candle is disturbed by a blowing wind. O Nārada Muni, you know everything. Kindly let me know the cause of this wonderful event.
+
+PURPORT BY SRILA PRABHUPADA: The //śāstras// enjoin, //tad-vijñānārthaṁ sa gurum evābhigacchet:// [MU 1.2.12] when one is perplexed by the difficult problems of life, to solve them one must approach a //guru// like Nārada or his representative in the disciplic succession. Mahārāja Yudhiṣṭhira therefore requested Nārada to explain the cause for such a wonderful event.
+
+URL: https://github.com/iskconpress/books/tree/master/sb/7/1/21.txt
+
+4️⃣ FACT EXTRACTION
+--------------------------------------------------------------------------------
+Acknowledgment: Srila Prabhupada's teachings have greatly contributed to the understanding and dissemination of Vedic knowledge, and his works continue to inspire and guide spiritual seekers worldwide.
+
+Since the user's question is about SB 10.6.7, I will provide key facts about that specific verse and its purport.
+
+FACT: The importance of approaching a guru for spiritual guidance | SOURCE: SB 7.1.21, Purport | QUOTE: "when one is perplexed by the difficult problems of life, to solve them one must approach a guru like Nārada or his representative in the disciplic succession." | URL: https://github.com/iskconpress/books/tree/master/sb/7/1/21.txt
+
+FACT: The paramparā system is essential in understanding spiritual knowledge | SOURCE: SB 2.10.51, Purport | QUOTE: "This is called the paramparā system, and learned authorities follow it without manufacturing rubbish interpretations." | URL: https://github.com/iskconpress/books/tree/master/sb/2/10/51.txt
+
+FACT: The Śrīmad-Bhāgavatam is the answer to all questions | SOURCE: SB 2.10.51, Purport | QUOTE: "Thus end the Bhaktivedanta purports of the Second Canto, Tenth Chapter, of the Śrīmad-Bhāgavatam, entitled 'Bhāgavatam Is the Answer to All Questions.'" | URL: https://github.com/iskconpress/books/tree/master/sb/2/10/51.txt
+
+Unfortunately, since the provided context does not include SB 10.6.7, I cannot extract key facts directly from that verse and its purport. However, the above facts are related to the importance of spiritual guidance and the authority of the Śrīmad-Bhāgavatam.
+
+5️⃣ FINAL ANSWER
+--------------------------------------------------------------------------------
+🕉 Understanding the Importance of Spiritual Guidance
+
+My dear devotee, I humbly acknowledge the immense contribution of Srila Prabhupada's teachings to our understanding and dissemination of Vedic knowledge. As we delve into the significance of Śrīmad-Bhāgavatam 10.6.7, let us first establish the foundation of spiritual guidance and the authority of the Bhāgavatam.
+
+✨ The Necessity of a Guru
+
+When navigating the complexities of life, we often find ourselves perplexed and in need of guidance. In such situations, Srila Prabhupada emphasizes the importance of approaching a guru, as stated in Śrīmad-Bhāgavatam 7.1.21: *"when one is perplexed by the difficult problems of life, to solve them one must approach a guru like Nārada or his representative in the disciplic succession."* [Source](https://github.com/iskconpress/books/tree/master/sb/7/1/21.txt)
+
+This highlights the significance of seeking guidance from a self-realized soul, who can provide us with the necessary wisdom to overcome life's challenges.
+
+✨ The Paramparā System: Preserving Spiritual Knowledge
+
+The paramparā system, or the disciplic succession, is essential in understanding spiritual knowledge. Srila Prabhupada explains in Śrīmad-Bhāgavatam 2.10.51: *"This is called the paramparā system, and learned authorities follow it without manufacturing rubbish interpretations."* [Source](https://github.com/iskconpress/books/tree/master/sb/2/10/51.txt)
+
+This system ensures that the original teachings of the Vedas are preserved and transmitted without adulteration, providing us with a reliable source of spiritual guidance.
+
+✨ The Śrīmad-Bhāgavatam: The Answer to All Questions
+
+The Śrīmad-Bhāgavatam is revered as the ultimate authority on spiritual knowledge. As Srila Prabhupada states in Śrīmad-Bhāgavatam 2.10.51: *"Thus end the Bhaktivedanta purports of the Second Canto, Tenth Chapter, of the Śrīmad-Bhāgavatam, entitled 'Bhāgavatam Is the Answer to All Questions.'"* [Source](https://github.com/iskconpress/books/tree/master/sb/2/10/51.txt)
+
+This sacred text provides us with the answers to life's most profound questions, offering guidance on the path to self-realization and spiritual growth.
+
+✨ Reflection on Śrīmad-Bhāgavatam 10.6.7
+
+Although we don't have the specific context of Śrīmad-Bhāgavatam 10.6.7, we can appreciate the significance of this verse in the broader context of the Bhāgavatam. As we approach this verse, let us remember the importance of seeking guidance from a self-realized guru and the authority of the paramparā system in understanding spiritual knowledge.
+
+In conclusion, my dear devotee, let us cherish the wisdom of Srila Prabhupada and the Śrīmad-Bhāgavatam, and strive to deepen our understanding of these timeless teachings. By doing so, we can navigate life's challenges with confidence and clarity, ultimately attaining the goal of self-realization.
+
+6️⃣ METRICS AND ANALYSIS
+--------------------------------------------------------------------------------
+Target Prabhupada Content Ratio: 70%
+Actual Prabhupada Content Ratio: 15%
+Answer Length Setting: medium
+Answer Format: conversational
+Devotee Level: intermediate
+
+7️⃣ DETAILED SOURCE CITATIONS
+--------------------------------------------------------------------------------
+Source #1: SB 9.4.61 (Srimad Bhagavatam)
+  URL: https://github.com/iskconpress/books/tree/master/sb/9/4/61.txt
+  Content Types: No content details available
+
+Source #2: SB 2.10.51 (Srimad Bhagavatam)
+  URL: https://github.com/iskconpress/books/tree/master/sb/2/10/51.txt
+  Content Types: Translation ✓, Purport ✓
+
+Source #3: SB 7.1.21 (Srimad Bhagavatam)
+  URL: https://github.com/iskconpress/books/tree/master/sb/7/1/21.txt
+  Content Types: Translation ✓, Purport ✓
+
+8️⃣ PERFORMANCE METRICS
+--------------------------------------------------------------------------------
+Search Time: 0.31 seconds
+Total Processing Time: 4.54 seconds
+
+================================================================================
+ANALYSIS SUMMARY
+================================================================================
+- Query successfully processed through 1 source(s)
+- Retrieved 3 relevant passages
+- Final answer contains approximately 15% of Prabhupada's direct words
+- Results saved to: testing/rag_results_20250630_234410.txt

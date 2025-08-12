@@ -1,0 +1,105 @@
+{
+  "questions": [
+    {
+      "question": "According to Bhagavad-gita, only the ____ speak of devotional service as being different from the analytical study of the material world.",
+      "answer": "ignorant",
+      "reference": "SOURCE: Bg. 5.4 (translation) | QUOTE: 'Only the ignorant speak of devotional service [karma-yoga] as being different from the analytical study of the material world [S\u0101\u1e45khya].'",
+      "url": "https://github.com/iskconpress/books/tree/master/bg/5/4.txt"
+    },
+    {
+      "question": "The Personality of Godhead replied that ____ in devotional service is better than renunciation of work.",
+      "answer": "work",
+      "reference": "SOURCE: Bg. 5.2 (translation) | QUOTE: 'The Personality of Godhead replied: The renunciation of work and work in devotion are both good for liberation. But, of the two, work in devotional service is better than renunciation of work.'",
+      "url": "https://github.com/iskconpress/books/tree/master/bg/5/2.txt"
+    },
+    {
+      "question": "An intelligent person does not take part in the sources of ____ due to contact with the material senses.",
+      "answer": "misery",
+      "reference": "SOURCE: Bg. 5.22 (translation) | QUOTE: 'An intelligent person does not take part in the sources of misery, which are due to contact with the material senses.'",
+      "url": "https://github.com/iskconpress/books/tree/master/bg/5/22.txt"
+    },
+    {
+      "question": "Those whose minds are established in ____ and equanimity have already conquered the conditions of birth and death.",
+      "answer": "sameness",
+      "reference": "SOURCE: Bg. 5.19 (translation) | QUOTE: 'Those whose minds are established in sameness and equanimity have already conquered the conditions of birth and death.'",
+      "url": "https://github.com/iskconpress/books/tree/master/bg/5/19.txt"
+    },
+    {
+      "question": "One who neither hates nor desires the fruits of his activities is known to be always ____.",
+      "answer": "renounced",
+      "reference": "SOURCE: Bg. 5.3 (translation) | QUOTE: 'One who neither hates nor desires the fruits of his activities is known to be always renounced.'",
+      "url": "https://github.com/iskconpress/books/tree/master/bg/5/3.txt"
+    },
+    {
+      "question": "According to Bhagavad-gita, the results of both paths can be achieved by one who applies himself well to one of ____.",
+      "answer": "these",
+      "reference": "SOURCE: Bg. 5.4 (translation) | QUOTE: 'Those who are actually learned say that he who applies himself well to one of these paths achieves the results of both.'",
+      "url": "https://github.com/iskconpress/books/tree/master/bg/5/4.txt"
+    },
+    {
+      "question": "The Personality of Godhead replied that ____ and work in devotion are both good for liberation.",
+      "answer": "renunciation of work",
+      "reference": "SOURCE: Bg. 5.2 (translation) | QUOTE: 'The Personality of Godhead replied: The renunciation of work and work in devotion are both good for liberation.'",
+      "url": "https://github.com/iskconpress/books/tree/master/bg/5/2.txt"
+    },
+    {
+      "question": "Such pleasures have a ____ and an end, and so the wise man does not delight in them.",
+      "answer": "beginning",
+      "reference": "SOURCE: Bg. 5.22 (translation) | QUOTE: 'Such pleasures have a beginning and an end, and so the wise man does not delight in them.'",
+      "url": "https://github.com/iskconpress/books/tree/master/bg/5/22.txt"
+    },
+    {
+      "question": "Those who are already situated in ____ are flawless like Brahman.",
+      "answer": "Brahman",
+      "reference": "SOURCE: Bg. 5.19 (translation) | QUOTE: 'They are flawless like Brahman, and thus they are already situated in Brahman.'",
+      "url": "https://github.com/iskconpress/books/tree/master/bg/5/19.txt"
+    },
+    {
+      "question": "One who is free from all ____ easily overcomes material bondage and is completely liberated.",
+      "answer": "dualities",
+      "reference": "SOURCE: Bg. 5.3 (translation) | QUOTE: 'Such a person, free from all dualities, easily overcomes material bondage and is completely liberated.'",
+      "url": "https://github.com/iskconpress/books/tree/master/bg/5/3.txt"
+    }
+  ],
+  "sources": [
+    {
+      "verse_id": "Bg. 5.4",
+      "book": "bg",
+      "specific_book": "",
+      "url": "https://github.com/iskconpress/books/tree/master/bg/5/4.txt"
+    },
+    {
+      "verse_id": "Bg. 5.2",
+      "book": "bg",
+      "specific_book": "",
+      "url": "https://github.com/iskconpress/books/tree/master/bg/5/2.txt"
+    },
+    {
+      "verse_id": "Bg. 5.22",
+      "book": "bg",
+      "specific_book": "",
+      "url": "https://github.com/iskconpress/books/tree/master/bg/5/22.txt"
+    },
+    {
+      "verse_id": "Bg. 5.19",
+      "book": "bg",
+      "specific_book": "",
+      "url": "https://github.com/iskconpress/books/tree/master/bg/5/19.txt"
+    },
+    {
+      "verse_id": "Bg. 5.3",
+      "book": "bg",
+      "specific_book": "",
+      "url": "https://github.com/iskconpress/books/tree/master/bg/5/3.txt"
+    }
+  ],
+  "generation_time": 3.2740516662597656,
+  "meta": {
+    "query": "provide answer from chapter 5 in bg",
+    "refined_query": "Here is the refined search query:\n\n`Bg. 5.*`\n\nThis query will search for all passages in Chapter 5 of the Bhagavad Gita, which can be used to create quiz questions.",
+    "quiz_type": "fill-in-blank",
+    "difficulty": "hard",
+    "num_questions": 10,
+    "search_time": 4.816760301589966
+  }
+}

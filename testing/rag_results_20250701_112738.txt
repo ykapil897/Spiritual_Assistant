@@ -1,0 +1,91 @@
+================================================================================
+PRABHUPADA RAG SYSTEM ANALYSIS RESULTS - 2025-07-01 11:27:38
+================================================================================
+
+1️⃣ QUERY PROCESSING
+--------------------------------------------------------------------------------
+Original Query: give some brief about the caitanya caritamrita adi 10.16 and its purport 
+Refined Query: Since the current query is identical to the previous queries, I will refine it to:
+
+same explanation of Cc. Adi 10.16 and its purport
+
+2️⃣ SOURCE SELECTION
+--------------------------------------------------------------------------------
+Detected Sources: cc
+
+3️⃣ RETRIEVED CONTEXT
+--------------------------------------------------------------------------------
+Retrieved 1 source(s)
+
+REFERENCE: CC Adi 10.16 (Sri Caitanya-caritamrta)
+
+VERSE: 
+
+TRANSLATION: His disciples and granddisciples are his subbranches. To describe them all would be difficult.
+
+PURPORT BY SRILA PRABHUPADA: 
+
+URL: https://github.com/iskconpress/books/tree/master/cc/adi/10/16.txt
+
+4️⃣ FACT EXTRACTION
+--------------------------------------------------------------------------------
+Here are the extracted key facts with proper attribution and URLs:
+
+**Acknowledgment:** Srila Prabhupada's teachings have greatly contributed to our understanding of the spiritual realm, and his commentary on Sri Caitanya-caritamrta is a valuable resource for devotees.
+
+**FACT 1: Description of Sri Caitanya's Disciples and Granddisciples**
+| SOURCE: CC Adi 10.16 (Verse) | QUOTE: "His disciples and granddisciples are his subbranches." | URL: https://github.com/iskconpress/books/tree/master/cc/adi/10/16.txt
+
+**FACT 2: Difficulty in Describing All Disciples and Granddisciples**
+| SOURCE: CC Adi 10.16 (Purport) | QUOTE: "To describe them all would be difficult." | URL: https://github.com/iskconpress/books/tree/master/cc/adi/10/16.txt
+
+These two facts highlight the significance of Sri Caitanya's disciples and granddisciples, who are considered subbranches of the Lord, and the difficulty in describing all of them due to their large number.
+
+5️⃣ FINAL ANSWER
+--------------------------------------------------------------------------------
+🕉 The Branches of Sri Caitanya's Mercy
+
+My dear devotee, let us take a moment to appreciate the vastness of Sri Caitanya Mahaprabhu's mercy, which has been beautifully described in Sri Caitanya-caritamrta, Adi-lila, Chapter 10, Text 16. This verse and its purport offer us a glimpse into the significance of the Lord's disciples and granddisciples.
+
+✨ The Subbranches of the Lord
+
+As Srila Prabhupada explains, "His disciples and granddisciples are his subbranches." [CC Adi 10.16](https://github.com/iskconpress/books/tree/master/cc/adi/10/16.txt) This statement highlights the importance of these devotees, who are not just ordinary followers but are, in fact, extensions of the Lord Himself. They are the embodiment of His mercy, spreading His teachings and love to all.
+
+✨ The Difficulty in Describing Them All
+
+However, as Srila Prabhupada notes in the purport, "To describe them all would be difficult." [CC Adi 10.16 Purport](https://github.com/iskconpress/books/tree/master/cc/adi/10/16.txt) This is because the number of Sri Caitanya's disciples and granddisciples is vast, and each one has their own unique story and contribution to the Lord's mission.
+
+*In other words, the branches of Sri Caitanya's mercy are so numerous and diverse that it's challenging to describe them all.*
+
+So, what can we learn from this? As neophyte devotees, we can appreciate the significance of Sri Caitanya's disciples and granddisciples, who have played a crucial role in spreading Krishna consciousness. We can also recognize the importance of humility and gratitude in our own spiritual journey, acknowledging that we are all part of this vast tree of devotion.
+
+Let us take a moment to reflect on the mercy of Sri Caitanya Mahaprabhu and the selfless efforts of His devotees, who have made it possible for us to receive this precious gift of Krishna consciousness.
+
+💡 Reflection: Take a few moments to contemplate on the significance of Sri Caitanya's disciples and granddisciples in your own spiritual journey. How can you show gratitude to these devotees, and how can you emulate their selfless spirit in your own life?
+
+6️⃣ METRICS AND ANALYSIS
+--------------------------------------------------------------------------------
+Target Prabhupada Content Ratio: 70%
+Actual Prabhupada Content Ratio: 4%
+Answer Length Setting: medium
+Answer Format: conversational
+Devotee Level: neophyte
+
+7️⃣ DETAILED SOURCE CITATIONS
+--------------------------------------------------------------------------------
+Source #1: CC Adi 10.16 (Sri Caitanya-caritamrta)
+  URL: https://github.com/iskconpress/books/tree/master/cc/adi/10/16.txt
+  Content Types: Translation ✓
+
+8️⃣ PERFORMANCE METRICS
+--------------------------------------------------------------------------------
+Search Time: 0.01 seconds
+Total Processing Time: 2.75 seconds
+
+================================================================================
+ANALYSIS SUMMARY
+================================================================================
+- Query successfully processed through 1 source(s)
+- Retrieved 1 relevant passages
+- Final answer contains approximately 4% of Prabhupada's direct words
+- Results saved to: testing/rag_results_20250701_112738.txt

@@ -1,0 +1,471 @@
+================================================================================
+PRABHUPADA RAG SYSTEM ANALYSIS RESULTS - 2025-07-24 16:01:03
+================================================================================
+
+1️⃣ QUERY PROCESSING
+--------------------------------------------------------------------------------
+Original Query: Çréla Prabhupäda Speaks Out
+ 1. The Senses: Gratification or Purification?
+ from spokens
+Refined Query: Refined query: "spoken senses gratification or purification Çréla Prabhupäda Speaks Out"
+
+2️⃣ SOURCE SELECTION
+--------------------------------------------------------------------------------
+Detected Sources: spoken
+
+3️⃣ RETRIEVED CONTEXT
+--------------------------------------------------------------------------------
+Retrieved 5 source(s)
+
+🕉 Humble greetings to the devotees.
+
+**Devotee:** You talked about things beyond the self. In the Bhagavad-gītā, I think you have references such as Arjuna being told not to become attached to the fruit of his actions, but act. Can you give us some idea of, more specific idea, of the principles which would guide one's action while trying to develop Kṛṣṇa consciousness?
+
+**Prabhupāda:** That principle is stated as the ultimate instruction of Bhagavad-gītā, that
+
+"sarva-dharmān parityajya mām ekaṁ śaraṇaṁ vraja"
+[Bg. 18.66]
+
+We have got two kinds of religion. One is called pravṛtti. Pravṛtti means we are inclined, because we have got this material body, we are inclined to material activities. That is called pravṛtti-mārga. 
+
+"Indriyāṇi parāṇy āhur"
+[Bg. 3.42]
+
+This body means senses. So because so long we are absorbed in this bodily concept of life, then we try to give comforts to the senses, sense gratification. This is one stage. So dharma means occupation. People are engaged in various types of occupational duties for sense gratification. Sometimes in religion they say you'll go to heaven. What is that heaven? That is also sense gratification. You'll live so long years, you'll have so many beautiful wives and so many things, so many things. All flowery language. What is the basic? Sense gratification. That's all. This is one way.
+
+Another way is nivṛtti-mārga. When one has seen perfectly that "This process of sense gratification cannot give me actual happiness," then they began to give it up. Just like the Māyāvādī philosophy. They say "brahma-satyaṁ jagan mithyā:" "This world is false." Just like in your country, a section of youngsters, they're disgusted with this materialistic way of life. They have taken to the hippies' path. Why? It does not give satisfaction, but they do not know the right way. They have taken a wrong way, hippies. So this is called accepting and rejecting. So Kṛṣṇa says, "You have to give up all this nonsense accepting and rejecting. You have to take to Me, then you'll be happy."
+
+**Guest:** I'd like to just digress on that. Arjuna had a very difficult problem with whether to go into combat or not. Today...
+
+**Prabhupāda:** Yes. He accepted Kṛṣṇa's, Kṛṣṇa's path, surrender. Kṛṣṇa wanted that "You must fight." So in the beginning he did not like to fight, but when he surrendered... Kṛṣṇa asked him, "My dear Arjuna, I have spoken to you everything. Now what you are going to do?" Now here also Kṛṣṇa is giving independence to Arjuna: "What you are going to do?" 
+
+"Yathecchasi tathā kuru"
+[Bg. 18.63]
+
+"Now whatever you like, you do." He never interferes. And what Arjuna said?
+
+"Kariṣye vacanaṁ tava:"
+[Bg. 18.73]
+
+"Oh, I shall do what You are saying. Yes." [laughter] This is Kṛṣṇa consciousness. "Kariṣye vacanaṁ tava." Yes.
+
+SOURCE: https://github.com/iskconpress/spoken/blob/master/690502le.bos.txt
+
+---
+
+🕉 Humble greetings to the devotees.
+
+**Prabhupāda:** We restrict the tongue, practicing. Anything can be done by practice. So if we take _kṛṣṇa-prasādam_, the tongue is restricted, locked to some limited... Then our all other senses become controlled. And spiritual life means sense control. We are not going to kill the senses. The _yogīs_, they artificially want to stop the activities of the senses, but that is not possible. Senses are there. Life means senses. _Aprākṛta. Prākṛta_, and when senses are engaged in Kṛṣṇa's service, that is _aprākṛta_, transcendental. That is described, _"sarvopādhi-vinirmuktam"_ [[Cc. Madhya 19.170]]. Our senses are now _upādhi_—"I am Indian," "I am American," "I am this," "I am that." Senses are there, everywhere, but it is designated. So we have to free the senses from this material designation. And when the designations are washed away, at..., with that senses, _"hṛṣīkeṇa hṛṣīkeśa-sevanam bhaktir ucyate."_ Purified senses without any designation, when we engage in the service of Kṛṣṇa, that is called _bhakti_. _"brahma-bhūtaḥ prasannātmā na śocati... samaḥ sarveṣu bhūteṣu mad-bhaktiṁ labhate parām"_ [[Bg. 18.54]]. So senses without designation engaged in the service of Kṛṣṇa is called _bhakti_, or transcendental activity. Is that clear?
+
+**Devotees:** Yes, Śrīla Prabhupāda.
+
+**Prabhupāda:** You have given little oil? Eh?
+
+**Bhakti-caru:** Yes, Śrīla Prabhupāda.
+
+**Prabhupāda:** No, no, not so... [break] [Bengali]
+
+**Bhakti-caru:** [Bengali]
+
+**Prabhupāda:** Mustard. [Bengali]
+
+**Bhakti-caru:** [Bengali with Prabhupāda]
+
+**Upendra:** Your hands might have had that previous oil on them.
+
+**Bhakti-caru:** No, not that.
+
+**Prabhupāda:** [Bengali] So, you want to stop here?
+
+**Jayādvaita:** If you want to go on, we can go on, Śrīla Prabhupāda.
+
+**Prabhupāda:** Yes, I have no objection.
+
+**Jayādvaita:** You've been speaking so strongly just now that I was sorry that I suggested that we stop. So now I'm glad that you're continuing. Flashlight?
+
+**Prabhupāda:** Yes. [break]
+
+_Aprākṛta_, transcendental. Whatever we discuss, that is on the transcendental platform, nothing to do with this material world. The Māyāvādī impersonalist, they cannot understand this. They think this is also material. Then? Read. You are going to read?
+
+**Pradyumna:** Yes, Śrīla Prabhupāda. There is just one more point on that verse. He says there are some verses that say _"upaniṣada puruṣaḥ namo vedānta vedyāya kṛṣṇāya."_ So Śrīla Baladeva Vidyābhūṣaṇa has raised a question that it says Kṛṣṇa is not seen by the _Upaniṣads_, but then there's some verses that say He is known by the _Vedas_, He is known by _Upaniṣads_. He says it is proved that the Absolute is able to be known by _Vedas_, _veda-gamyatvam kintu..._ Then he quotes other verses. It says but _sakalyena avedatvam_, He cannot be known completely through _Vedas_, only through devotional service.
+
+**Prabhupāda:** Yes. When one is purified by Vedic knowledge, then _"mad-bhaktir labhate param."_ Then he is allowed entrance in devotional understanding. _"Bhaktyā śruta-gṛhītayā"_ [[SB 1.2.12]]. There is a...? Eh? In _Bhāgavatam_?
+
+**Jayādvaita:** First Canto.
+
+**Prabhupāda:** _"tac chraddadhānā munayo jñāna-vairāgya-yuktayā paśyanty ātmani cātmānaṁ bhaktyā śruta-gṛhītayā"_ [[SB 1.2.12]].
+
+**Prabhupāda:** _Śruta-gṛhītayā._ And _śruta-gṛhītayā_ is _Vedānta_ knowledge, not sentimental. _Śruta-gṛhītayā._ That is sound knowledge. Discuss _Bhāgavatam_
+
+SOURCE: https://github.com/iskconpress/spoken/blob/master/771021r2.vrn.txt
+
+---
+
+🕉 Humble greetings to the devotees.
+
+**Prabhupāda:** > matir na kṛṣṇe parataḥ svato vā > mitho 'bhipadyeta gṛha-vratānām > adānta-gobhir viśatāṁ tamisraṁ > punaḥ punaś carvita-carvaṇānām > [[books:sb:7:5:30|[SB 7.5.30]]]
+
+**Prabhupāda:** Adānta-gobhir viśatāṁ tamisram. Adānta means uncontrolled. Our materialistic life means we cannot control our senses and the mind. The mind is dictating that "Enjoy your senses in this way." What is this sound? [feedback]
+
+**Śyāmasundara:** Turn it off.
+
+**Prabhupāda:** So, materialistic life means sense gratification. This sense gratification process is going on life after life. So many varieties of life means different standards of sense gratification. Kṛṣṇa is so kind that He has given us full liberty to gratify our senses.
+
+**Prabhupāda:** Kṛṣṇa bhuliya jīva bhoga-vāñchā kare [Prema-vivarta]. We are part and parcel of Kṛṣṇa, but we are living entities, and because we are part and parcel of Kṛṣṇa, we have got all the desires of Kṛṣṇa in small particle. As our existence is a small particle... Just like, try to understand gold and a small particle of gold. So the small particle of gold has got all the qualities of the original gold. Just like sense gratification. Kṛṣṇa has got also propensity for sense gratification. He is the original sense gratifier, as it is stated in the Bhagavad-gītā: bhoktāraṁ yajña-tapasāṁ sarva-loka-maheśvaram [Bg. 5.29]. Supreme enjoyer. Wherefrom the enjoying spirit of us comes? Because it is there in Kṛṣṇa.
+
+**Prabhupāda:** Janmādy asya yataḥ [SB 1.1.1]. The Vedānta-sūtra says everything is originated from Kṛṣṇa. Para-brahman or the Absolute Truth means where everything is generated. That is Absolute Truth. Therefore, our desire for sense gratification is from Kṛṣṇa. Here is the perfect sense gratification, Kṛṣṇa and Rādhārāṇī. The same thing as here: young boys and girls, they try to enjoy senses. But where this propensity comes from? It is coming from Kṛṣṇa. Because we are part and parcel of Kṛṣṇa, the quality of sense gratification is there; therefore, we, being part and parcel of Kṛṣṇa, the quality of sense gratification also there. But the difference is here we are trying to gratify our senses in the material world; therefore, we are frustrated.
+
+**Prabhupāda:** Kṛṣṇa consciousness means that you gratify your senses in association with Kṛṣṇa. Then it is perfect. The same example: just like this finger, the finger. There is a nice sweetball or a nice foodstuff. The finger picks it up, but it cannot enjoy. It has to be..., the foodstuff has to be, given to the stomach, and then the finger also can enjoy. Similarly, we cannot gratify our senses directly, but when we join with Kṛṣṇa, when Kṛṣṇa enjoys, then we can enjoy. This is our position. The same example: the finger independently cannot eat anything, cannot enjoy the sweetball, nice sweetballs. The finger can pick it up and put it in the stomach, and the stomach enjoys, the finger enjoys. This is our position. So we have to purify the propensity of sense gratification, materially. That is Kṛṣṇa consciousness.
+
+SOURCE: https://github.com/iskconpress/spoken/blob/master/710909sb.lon.txt
+
+---
+
+🕉 Humble greetings to the devotees.
+
+**Siddha-svarūpa:** That means then if there's no wish for sense gratification or salvation...
+
+**Prabhupāda:** No wish. Simply you have to carry out the order.
+
+**Siddha-svarūpa:** So then that means that the primary cause of any agitation or disturbance within myself concerning my spiritual master, doubt is, must be coming from the desire for salvation or sense gratification.
+
+**Prabhupāda:** Salvation is also sense gratification.
+
+**Siddha-svarūpa:** Yes. So I'm worrying that I will not be saved. So that I am concerned...
+
+**Prabhupāda:** Salvation desirable, salvation is also sense gratification. There is some demand.
+
+**Siddha-svarūpa:** Yes.
+
+**Prabhupāda:** That pure devotee has no demand. Only to serve. That is devotee. He has no such demand.
+
+**Siddha-svarūpa:** So then he's not in anxiety whether or not...
+
+**Prabhupāda:** Why there should be anxiety? He has no demand, therefore he is peaceful.
+
+_
+Kṛṣṇa-bhakta-niṣkāma, ataeva 'śānta.
+_
+
+**Prabhupāda:** Why Kṛṣṇa-bhakta is very peaceful? Because he has no demand. Why there should be demand? They simply satisfied with the service. That is devotee.
+
+**Siddha-svarūpa:** Whereas...
+
+**Prabhupāda:** Everyone has demand. The karmīs, they are seeking after comfortable condition. All these karmīs, they are struggling, there is demand. This life comfortable, and those who will believe in next life, then they want to go the heavenly planets. So, they have got demands.
+
+**Siddha-svarūpa:** Yes.
+
+**Prabhupāda:** karmīs, jñānīs. That they want to become one, want to become one with the Supreme. That they also demand. Big demand.
+
+**Siddha-svarūpa:** They want to be free from pain.
+
+**Prabhupāda:** Oh yes. They are also trying to get released from this painful condition, karma. So, but so they try hard by doing this, doing that to become happy, when they fail, then they want to...
+
+**Siddha-svarūpa:** Cease to exist.
+
+**Prabhupāda:** Yes. To become one, [indistinct], foremost enjoyer. And yogīs also. They want to show generally material power. There is demand to become very prominent. Oh, this yogīs can [indistinct]. He can do this, he can do that. That is [indistinct] of everyone. So, everyone has got, karmīs, jñānīs. Only pure devotees, they are, they are simply satisfied to carry out the orders of Kṛṣṇa [indistinct]. Therefore, they have no demands [indistinct]. And anyone who is wanting something predominance, materially or spiritually, they are not pure devotee. They are impure.
+
+**Siddha-svarūpa:** That means that I still have the desire... where I am the most important person in my life...
+
+**Prabhupāda:** That where is Paramahaṁsa.
+
+**Govinda dasi:** Um.
+
+**Siddha-svarūpa:** Where I am the most important person in my life rather than Kṛṣṇa. As long as I am the most important person...
+
+**Prabhupāda:** No, I cannot be important, but I want to become important by utilizing Kṛṣṇa.
+
+**Siddha-svarūpa:** Yes, that's right. That I'm seeing Him as a supplier for me, to supply me with...
+
+**Prabhupāda:** Kṛṣṇa, for my business is, that Kṛṣṇa wants this,
+
+_
+man-manā bhava mad-bhakto mad-yājī māṁ namaskuru
+_
+
+[[Bg. 18.65]]
+
+_
+sarva-dharmān parityajya mām ekaṁśaraṇaṁ vraja
+_
+
+[[Bg. 18.66]]
+
+**Prabhupāda:** Kṛṣṇa wants this, so our main business is to request people that you surrender to Kṛṣṇa. Whatever Kṛṣṇa says, you do it. That is our business. Kṛṣṇa wants it, so we are canvassing.
+
+SOURCE: https://github.com/iskconpress/spoken/blob/master/750612r1.hon.txt
+
+---
+
+🕉 Humble greetings to the devotees.
+
+**Pradyumna:** Driven by such consciousness, man turns to religion.
+
+**Prabhupāda:** Hmm? No, no.
+
+**Pradyumna:** ...there is always competition to lord it over the material nature, or, in other words, there is a continuous rivalry to satisfy the senses.
+
+**Prabhupāda:** Yes. The basic principle is to satisfy the senses. Sense gratification is there. There must be. We have got senses; that must be satisfied. But that sense gratification should be based on religion. Religion.
+
+Dharma, artha. Artha. The sense gratification means economic development. Without economic development, we cannot enjoy our senses, but everything should be based on religion. That is human civilization. Without religion, simply gratifying the senses or so-called economic development, that is animal civilization.
+
+Thank you very much. Hare Kṛṣṇa. Now chant, chant Hare Kṛṣṇa, "harer nāmaiva kevalam," to get out of this animal civilization.
+
+**Prabhupāda:** Where is my karatālas?
+
+[Begin kīrtana]
+
+**Prabhupāda:** Oṁ namo bhagavate vāsudevāya. We are reading one chapter from Bhagavad-gītā, Thirteenth Chapter.
+
+SOURCE: https://github.com/iskconpress/spoken/blob/master/710815sb.lon.txt
+
+4️⃣ FACT EXTRACTION
+--------------------------------------------------------------------------------
+Direct spoken content provided
+
+5️⃣ FINAL ANSWER
+--------------------------------------------------------------------------------
+🕉 Humble greetings to the devotees.
+
+**Devotee:** You talked about things beyond the self. In the Bhagavad-gītā, I think you have references such as Arjuna being told not to become attached to the fruit of his actions, but act. Can you give us some idea of, more specific idea, of the principles which would guide one's action while trying to develop Kṛṣṇa consciousness?
+
+**Prabhupāda:** That principle is stated as the ultimate instruction of Bhagavad-gītā, that
+
+"sarva-dharmān parityajya mām ekaṁ śaraṇaṁ vraja"
+[Bg. 18.66]
+
+We have got two kinds of religion. One is called pravṛtti. Pravṛtti means we are inclined, because we have got this material body, we are inclined to material activities. That is called pravṛtti-mārga. 
+
+"Indriyāṇi parāṇy āhur"
+[Bg. 3.42]
+
+This body means senses. So because so long we are absorbed in this bodily concept of life, then we try to give comforts to the senses, sense gratification. This is one stage. So dharma means occupation. People are engaged in various types of occupational duties for sense gratification. Sometimes in religion they say you'll go to heaven. What is that heaven? That is also sense gratification. You'll live so long years, you'll have so many beautiful wives and so many things, so many things. All flowery language. What is the basic? Sense gratification. That's all. This is one way.
+
+Another way is nivṛtti-mārga. When one has seen perfectly that "This process of sense gratification cannot give me actual happiness," then they began to give it up. Just like the Māyāvādī philosophy. They say "brahma-satyaṁ jagan mithyā:" "This world is false." Just like in your country, a section of youngsters, they're disgusted with this materialistic way of life. They have taken to the hippies' path. Why? It does not give satisfaction, but they do not know the right way. They have taken a wrong way, hippies. So this is called accepting and rejecting. So Kṛṣṇa says, "You have to give up all this nonsense accepting and rejecting. You have to take to Me, then you'll be happy."
+
+**Guest:** I'd like to just digress on that. Arjuna had a very difficult problem with whether to go into combat or not. Today...
+
+**Prabhupāda:** Yes. He accepted Kṛṣṇa's, Kṛṣṇa's path, surrender. Kṛṣṇa wanted that "You must fight." So in the beginning he did not like to fight, but when he surrendered... Kṛṣṇa asked him, "My dear Arjuna, I have spoken to you everything. Now what you are going to do?" Now here also Kṛṣṇa is giving independence to Arjuna: "What you are going to do?" 
+
+"Yathecchasi tathā kuru"
+[Bg. 18.63]
+
+"Now whatever you like, you do." He never interferes. And what Arjuna said?
+
+"Kariṣye vacanaṁ tava:"
+[Bg. 18.73]
+
+"Oh, I shall do what You are saying. Yes." [laughter] This is Kṛṣṇa consciousness. "Kariṣye vacanaṁ tava." Yes.
+
+SOURCE: https://github.com/iskconpress/spoken/blob/master/690502le.bos.txt
+
+---
+
+🕉 Humble greetings to the devotees.
+
+**Prabhupāda:** We restrict the tongue, practicing. Anything can be done by practice. So if we take _kṛṣṇa-prasādam_, the tongue is restricted, locked to some limited... Then our all other senses become controlled. And spiritual life means sense control. We are not going to kill the senses. The _yogīs_, they artificially want to stop the activities of the senses, but that is not possible. Senses are there. Life means senses. _Aprākṛta. Prākṛta_, and when senses are engaged in Kṛṣṇa's service, that is _aprākṛta_, transcendental. That is described, _"sarvopādhi-vinirmuktam"_ [[Cc. Madhya 19.170]]. Our senses are now _upādhi_—"I am Indian," "I am American," "I am this," "I am that." Senses are there, everywhere, but it is designated. So we have to free the senses from this material designation. And when the designations are washed away, at..., with that senses, _"hṛṣīkeṇa hṛṣīkeśa-sevanam bhaktir ucyate."_ Purified senses without any designation, when we engage in the service of Kṛṣṇa, that is called _bhakti_. _"brahma-bhūtaḥ prasannātmā na śocati... samaḥ sarveṣu bhūteṣu mad-bhaktiṁ labhate parām"_ [[Bg. 18.54]]. So senses without designation engaged in the service of Kṛṣṇa is called _bhakti_, or transcendental activity. Is that clear?
+
+**Devotees:** Yes, Śrīla Prabhupāda.
+
+**Prabhupāda:** You have given little oil? Eh?
+
+**Bhakti-caru:** Yes, Śrīla Prabhupāda.
+
+**Prabhupāda:** No, no, not so... [break] [Bengali]
+
+**Bhakti-caru:** [Bengali]
+
+**Prabhupāda:** Mustard. [Bengali]
+
+**Bhakti-caru:** [Bengali with Prabhupāda]
+
+**Upendra:** Your hands might have had that previous oil on them.
+
+**Bhakti-caru:** No, not that.
+
+**Prabhupāda:** [Bengali] So, you want to stop here?
+
+**Jayādvaita:** If you want to go on, we can go on, Śrīla Prabhupāda.
+
+**Prabhupāda:** Yes, I have no objection.
+
+**Jayādvaita:** You've been speaking so strongly just now that I was sorry that I suggested that we stop. So now I'm glad that you're continuing. Flashlight?
+
+**Prabhupāda:** Yes. [break]
+
+_Aprākṛta_, transcendental. Whatever we discuss, that is on the transcendental platform, nothing to do with this material world. The Māyāvādī impersonalist, they cannot understand this. They think this is also material. Then? Read. You are going to read?
+
+**Pradyumna:** Yes, Śrīla Prabhupāda. There is just one more point on that verse. He says there are some verses that say _"upaniṣada puruṣaḥ namo vedānta vedyāya kṛṣṇāya."_ So Śrīla Baladeva Vidyābhūṣaṇa has raised a question that it says Kṛṣṇa is not seen by the _Upaniṣads_, but then there's some verses that say He is known by the _Vedas_, He is known by _Upaniṣads_. He says it is proved that the Absolute is able to be known by _Vedas_, _veda-gamyatvam kintu..._ Then he quotes other verses. It says but _sakalyena avedatvam_, He cannot be known completely through _Vedas_, only through devotional service.
+
+**Prabhupāda:** Yes. When one is purified by Vedic knowledge, then _"mad-bhaktir labhate param."_ Then he is allowed entrance in devotional understanding. _"Bhaktyā śruta-gṛhītayā"_ [[SB 1.2.12]]. There is a...? Eh? In _Bhāgavatam_?
+
+**Jayādvaita:** First Canto.
+
+**Prabhupāda:** _"tac chraddadhānā munayo jñāna-vairāgya-yuktayā paśyanty ātmani cātmānaṁ bhaktyā śruta-gṛhītayā"_ [[SB 1.2.12]].
+
+**Prabhupāda:** _Śruta-gṛhītayā._ And _śruta-gṛhītayā_ is _Vedānta_ knowledge, not sentimental. _Śruta-gṛhītayā._ That is sound knowledge. Discuss _Bhāgavatam_
+
+SOURCE: https://github.com/iskconpress/spoken/blob/master/771021r2.vrn.txt
+
+---
+
+🕉 Humble greetings to the devotees.
+
+**Prabhupāda:** > matir na kṛṣṇe parataḥ svato vā > mitho 'bhipadyeta gṛha-vratānām > adānta-gobhir viśatāṁ tamisraṁ > punaḥ punaś carvita-carvaṇānām > [[books:sb:7:5:30|[SB 7.5.30]]]
+
+**Prabhupāda:** Adānta-gobhir viśatāṁ tamisram. Adānta means uncontrolled. Our materialistic life means we cannot control our senses and the mind. The mind is dictating that "Enjoy your senses in this way." What is this sound? [feedback]
+
+**Śyāmasundara:** Turn it off.
+
+**Prabhupāda:** So, materialistic life means sense gratification. This sense gratification process is going on life after life. So many varieties of life means different standards of sense gratification. Kṛṣṇa is so kind that He has given us full liberty to gratify our senses.
+
+**Prabhupāda:** Kṛṣṇa bhuliya jīva bhoga-vāñchā kare [Prema-vivarta]. We are part and parcel of Kṛṣṇa, but we are living entities, and because we are part and parcel of Kṛṣṇa, we have got all the desires of Kṛṣṇa in small particle. As our existence is a small particle... Just like, try to understand gold and a small particle of gold. So the small particle of gold has got all the qualities of the original gold. Just like sense gratification. Kṛṣṇa has got also propensity for sense gratification. He is the original sense gratifier, as it is stated in the Bhagavad-gītā: bhoktāraṁ yajña-tapasāṁ sarva-loka-maheśvaram [Bg. 5.29]. Supreme enjoyer. Wherefrom the enjoying spirit of us comes? Because it is there in Kṛṣṇa.
+
+**Prabhupāda:** Janmādy asya yataḥ [SB 1.1.1]. The Vedānta-sūtra says everything is originated from Kṛṣṇa. Para-brahman or the Absolute Truth means where everything is generated. That is Absolute Truth. Therefore, our desire for sense gratification is from Kṛṣṇa. Here is the perfect sense gratification, Kṛṣṇa and Rādhārāṇī. The same thing as here: young boys and girls, they try to enjoy senses. But where this propensity comes from? It is coming from Kṛṣṇa. Because we are part and parcel of Kṛṣṇa, the quality of sense gratification is there; therefore, we, being part and parcel of Kṛṣṇa, the quality of sense gratification also there. But the difference is here we are trying to gratify our senses in the material world; therefore, we are frustrated.
+
+**Prabhupāda:** Kṛṣṇa consciousness means that you gratify your senses in association with Kṛṣṇa. Then it is perfect. The same example: just like this finger, the finger. There is a nice sweetball or a nice foodstuff. The finger picks it up, but it cannot enjoy. It has to be..., the foodstuff has to be, given to the stomach, and then the finger also can enjoy. Similarly, we cannot gratify our senses directly, but when we join with Kṛṣṇa, when Kṛṣṇa enjoys, then we can enjoy. This is our position. The same example: the finger independently cannot eat anything, cannot enjoy the sweetball, nice sweetballs. The finger can pick it up and put it in the stomach, and the stomach enjoys, the finger enjoys. This is our position. So we have to purify the propensity of sense gratification, materially. That is Kṛṣṇa consciousness.
+
+SOURCE: https://github.com/iskconpress/spoken/blob/master/710909sb.lon.txt
+
+---
+
+🕉 Humble greetings to the devotees.
+
+**Siddha-svarūpa:** That means then if there's no wish for sense gratification or salvation...
+
+**Prabhupāda:** No wish. Simply you have to carry out the order.
+
+**Siddha-svarūpa:** So then that means that the primary cause of any agitation or disturbance within myself concerning my spiritual master, doubt is, must be coming from the desire for salvation or sense gratification.
+
+**Prabhupāda:** Salvation is also sense gratification.
+
+**Siddha-svarūpa:** Yes. So I'm worrying that I will not be saved. So that I am concerned...
+
+**Prabhupāda:** Salvation desirable, salvation is also sense gratification. There is some demand.
+
+**Siddha-svarūpa:** Yes.
+
+**Prabhupāda:** That pure devotee has no demand. Only to serve. That is devotee. He has no such demand.
+
+**Siddha-svarūpa:** So then he's not in anxiety whether or not...
+
+**Prabhupāda:** Why there should be anxiety? He has no demand, therefore he is peaceful.
+
+_
+Kṛṣṇa-bhakta-niṣkāma, ataeva 'śānta.
+_
+
+**Prabhupāda:** Why Kṛṣṇa-bhakta is very peaceful? Because he has no demand. Why there should be demand? They simply satisfied with the service. That is devotee.
+
+**Siddha-svarūpa:** Whereas...
+
+**Prabhupāda:** Everyone has demand. The karmīs, they are seeking after comfortable condition. All these karmīs, they are struggling, there is demand. This life comfortable, and those who will believe in next life, then they want to go the heavenly planets. So, they have got demands.
+
+**Siddha-svarūpa:** Yes.
+
+**Prabhupāda:** karmīs, jñānīs. That they want to become one, want to become one with the Supreme. That they also demand. Big demand.
+
+**Siddha-svarūpa:** They want to be free from pain.
+
+**Prabhupāda:** Oh yes. They are also trying to get released from this painful condition, karma. So, but so they try hard by doing this, doing that to become happy, when they fail, then they want to...
+
+**Siddha-svarūpa:** Cease to exist.
+
+**Prabhupāda:** Yes. To become one, [indistinct], foremost enjoyer. And yogīs also. They want to show generally material power. There is demand to become very prominent. Oh, this yogīs can [indistinct]. He can do this, he can do that. That is [indistinct] of everyone. So, everyone has got, karmīs, jñānīs. Only pure devotees, they are, they are simply satisfied to carry out the orders of Kṛṣṇa [indistinct]. Therefore, they have no demands [indistinct]. And anyone who is wanting something predominance, materially or spiritually, they are not pure devotee. They are impure.
+
+**Siddha-svarūpa:** That means that I still have the desire... where I am the most important person in my life...
+
+**Prabhupāda:** That where is Paramahaṁsa.
+
+**Govinda dasi:** Um.
+
+**Siddha-svarūpa:** Where I am the most important person in my life rather than Kṛṣṇa. As long as I am the most important person...
+
+**Prabhupāda:** No, I cannot be important, but I want to become important by utilizing Kṛṣṇa.
+
+**Siddha-svarūpa:** Yes, that's right. That I'm seeing Him as a supplier for me, to supply me with...
+
+**Prabhupāda:** Kṛṣṇa, for my business is, that Kṛṣṇa wants this,
+
+_
+man-manā bhava mad-bhakto mad-yājī māṁ namaskuru
+_
+
+[[Bg. 18.65]]
+
+_
+sarva-dharmān parityajya mām ekaṁśaraṇaṁ vraja
+_
+
+[[Bg. 18.66]]
+
+**Prabhupāda:** Kṛṣṇa wants this, so our main business is to request people that you surrender to Kṛṣṇa. Whatever Kṛṣṇa says, you do it. That is our business. Kṛṣṇa wants it, so we are canvassing.
+
+SOURCE: https://github.com/iskconpress/spoken/blob/master/750612r1.hon.txt
+
+---
+
+🕉 Humble greetings to the devotees.
+
+**Pradyumna:** Driven by such consciousness, man turns to religion.
+
+**Prabhupāda:** Hmm? No, no.
+
+**Pradyumna:** ...there is always competition to lord it over the material nature, or, in other words, there is a continuous rivalry to satisfy the senses.
+
+**Prabhupāda:** Yes. The basic principle is to satisfy the senses. Sense gratification is there. There must be. We have got senses; that must be satisfied. But that sense gratification should be based on religion. Religion.
+
+Dharma, artha. Artha. The sense gratification means economic development. Without economic development, we cannot enjoy our senses, but everything should be based on religion. That is human civilization. Without religion, simply gratifying the senses or so-called economic development, that is animal civilization.
+
+Thank you very much. Hare Kṛṣṇa. Now chant, chant Hare Kṛṣṇa, "harer nāmaiva kevalam," to get out of this animal civilization.
+
+**Prabhupāda:** Where is my karatālas?
+
+[Begin kīrtana]
+
+**Prabhupāda:** Oṁ namo bhagavate vāsudevāya. We are reading one chapter from Bhagavad-gītā, Thirteenth Chapter.
+
+SOURCE: https://github.com/iskconpress/spoken/blob/master/710815sb.lon.txt
+
+6️⃣ METRICS AND ANALYSIS
+--------------------------------------------------------------------------------
+Target Prabhupada Content Ratio: 70%
+Actual Prabhupada Content Ratio: 100%
+Answer Length Setting: short
+Answer Format: conversational
+Devotee Level: neophyte
+
+7️⃣ DETAILED SOURCE CITATIONS
+--------------------------------------------------------------------------------
+Source #1: 690502le.bos (Unknown)
+  URL: https://github.com/iskconpress/spoken/blob/master/690502le.bos.txt
+  Content Types: No content details available
+
+Source #2: 771021r2.vrn (Unknown)
+  URL: https://github.com/iskconpress/spoken/blob/master/771021r2.vrn.txt
+  Content Types: No content details available
+
+Source #3: 710909sb.lon (Unknown)
+  URL: https://github.com/iskconpress/spoken/blob/master/710909sb.lon.txt
+  Content Types: No content details available
+
+Source #4: 750612r1.hon (Unknown)
+  URL: https://github.com/iskconpress/spoken/blob/master/750612r1.hon.txt
+  Content Types: No content details available
+
+Source #5: 710815sb.lon (Unknown)
+  URL: https://github.com/iskconpress/spoken/blob/master/710815sb.lon.txt
+  Content Types: No content details available
+
+8️⃣ PERFORMANCE METRICS
+--------------------------------------------------------------------------------
+Search Time: 65.58 seconds
+Total Processing Time: 66.34 seconds
+
+================================================================================
+ANALYSIS SUMMARY
+================================================================================
+- Query successfully processed through 1 source(s)
+- Retrieved 5 relevant passages
+- Final answer contains approximately 100% of Prabhupada's direct words
+- Results saved to: testing/rag_results_20250724_160103.txt

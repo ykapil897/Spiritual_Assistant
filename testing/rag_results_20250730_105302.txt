@@ -1,0 +1,159 @@
+================================================================================
+PRABHUPADA RAG SYSTEM ANALYSIS RESULTS - 2025-07-30 10:53:02
+================================================================================
+
+1️⃣ QUERY PROCESSING
+--------------------------------------------------------------------------------
+Original Query: ✅ A short but powerful passage (1–2 paragraphs verbatim) from Srila Prabhupada’s books, lectures, letters, or conversations that matches the topic.
+✅ The direct clickable Prabhupada.io link for verification.
+✅ 4 multiple-choice questions where multiple answers may be correct.
+✅ 1 analytical long-answer question for deeper reflection.
+
+from conversation and spokens , i want a answer 
+Day 5: Benefits a preacher receives from Krishna
+Refined Query: Here is the refined query:
+
+"spoken conversation benefits a preacher receives from Krishna"
+
+This query focuses on the main topic of "benefits a preacher receives from Krishna" and includes the keywords "spoken conversation" to prioritize spoken content from Srila Prabhupada's lectures, conversations, or room conversations.
+
+2️⃣ SOURCE SELECTION
+--------------------------------------------------------------------------------
+Detected Sources: spoken
+
+3️⃣ RETRIEVED CONTEXT
+--------------------------------------------------------------------------------
+Retrieved 1 source(s)
+
+SOURCE: https://github.com/iskconpress/spoken/blob/master/771112r1.vrn.txt Here is the formatted content:
+
+### 🏥 Concern for Prabhupāda's Health
+
+**Prabhupāda:** Hmm? What is that?
+
+**Tamāla Kṛṣṇa:** You were having a missing beat in your pulse.
+
+**Prabhupāda:** Huh?
+
+**Bhakti-caru:** [explains to Prabhupāda in Bengali]
+
+**Kavirāja:** [Hindi with Bhakti-caru and Prabhupāda]
+
+**Bhakti-caru:** He is telling that he's requesting repeatedly that Prabhupāda doesn't talk too much. He says that the energy that he's building, the moment he starts talking, that he loses that energy.
+
+**Tamāla Kṛṣṇa:** Is that all right, Śrīla Prabhupāda?
+
+**Prabhupāda:** No, how to say all right?
+
+[devotees chuckle]
+
+**Kavirāja:** [Hindi]
+
+**Bhakti-caru:** [Hindi]
+
+**Tamāla Kṛṣṇa:** Trying to stop Śrīla Prabhupāda from speaking is like trying to stop the Gaṅgā.
+
+**Kavirāja:** [Hindi]
+
+**Bhakti-caru:** [Hindi] Shastrijī's saying that he's seen lakhs of patients, but he hasn't seen a body like Śrīla Prabhupāda's. Like in one moment it is very critical, and the next moment it's in perfect order. And he is now absolutely confident that Prabhupāda is going to get well.
+
+**Jagadīśa:** He is or isn't?
+
+**Tamāla Kṛṣa:** He is. We also are.
+
+**Bhakti-caru:** And he's just requesting Śrīla Prabhupāda that he keeps on taking the milk and the fruit juice and the medicine.
+
+**Tamāla Kṛṣṇa:** Is that all right, Śrīla Prabhupāda?
+
+**Prabhupāda:** English.
+
+*Key Insight: Devotees' concern for Prabhupāda's health is a testament to their love and care for him.*
+
+---
+
+## 🛑 END OF CONVERSATION
+
+
+
+4️⃣ FACT EXTRACTION
+--------------------------------------------------------------------------------
+Direct spoken content provided
+
+5️⃣ FINAL ANSWER
+--------------------------------------------------------------------------------
+SOURCE: https://github.com/iskconpress/spoken/blob/master/771112r1.vrn.txt Here is the formatted content:
+
+### 🏥 Concern for Prabhupāda's Health
+
+**Prabhupāda:** Hmm? What is that?
+
+**Tamāla Kṛṣṇa:** You were having a missing beat in your pulse.
+
+**Prabhupāda:** Huh?
+
+**Bhakti-caru:** [explains to Prabhupāda in Bengali]
+
+**Kavirāja:** [Hindi with Bhakti-caru and Prabhupāda]
+
+**Bhakti-caru:** He is telling that he's requesting repeatedly that Prabhupāda doesn't talk too much. He says that the energy that he's building, the moment he starts talking, that he loses that energy.
+
+**Tamāla Kṛṣṇa:** Is that all right, Śrīla Prabhupāda?
+
+**Prabhupāda:** No, how to say all right?
+
+[devotees chuckle]
+
+**Kavirāja:** [Hindi]
+
+**Bhakti-caru:** [Hindi]
+
+**Tamāla Kṛṣṇa:** Trying to stop Śrīla Prabhupāda from speaking is like trying to stop the Gaṅgā.
+
+**Kavirāja:** [Hindi]
+
+**Bhakti-caru:** [Hindi] Shastrijī's saying that he's seen lakhs of patients, but he hasn't seen a body like Śrīla Prabhupāda's. Like in one moment it is very critical, and the next moment it's in perfect order. And he is now absolutely confident that Prabhupāda is going to get well.
+
+**Jagadīśa:** He is or isn't?
+
+**Tamāla Kṛṣa:** He is. We also are.
+
+**Bhakti-caru:** And he's just requesting Śrīla Prabhupāda that he keeps on taking the milk and the fruit juice and the medicine.
+
+**Tamāla Kṛṣṇa:** Is that all right, Śrīla Prabhupāda?
+
+**Prabhupāda:** English.
+
+*Key Insight: Devotees' concern for Prabhupāda's health is a testament to their love and care for him.*
+
+---
+
+## 🛑 END OF CONVERSATION
+
+
+
+6️⃣ METRICS AND ANALYSIS
+--------------------------------------------------------------------------------
+Target Prabhupada Content Ratio: 70%
+Actual Prabhupada Content Ratio: 100%
+Answer Length Setting: short
+Answer Format: conversational
+Devotee Level: neophyte
+
+7️⃣ DETAILED SOURCE CITATIONS
+--------------------------------------------------------------------------------
+Source #1: 771112r1.vrn (Unknown)
+  URL: https://github.com/iskconpress/spoken/blob/master/771112r1.vrn.txt
+  Content Types: No content details available
+
+8️⃣ PERFORMANCE METRICS
+--------------------------------------------------------------------------------
+Search Time: 13.16 seconds
+Total Processing Time: 18.01 seconds
+
+================================================================================
+ANALYSIS SUMMARY
+================================================================================
+- Query successfully processed through 1 source(s)
+- Retrieved 1 relevant passages
+- Final answer contains approximately 100% of Prabhupada's direct words
+- Results saved to: testing/rag_results_20250730_105302.txt

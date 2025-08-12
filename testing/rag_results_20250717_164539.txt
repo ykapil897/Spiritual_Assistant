@@ -1,0 +1,127 @@
+================================================================================
+PRABHUPADA RAG SYSTEM ANALYSIS RESULTS - 2025-07-17 16:45:39
+================================================================================
+
+1️⃣ QUERY PROCESSING
+--------------------------------------------------------------------------------
+Original Query: offenders at the feet of Lord Krishna
+Refined Query: offenders at the feet of Lord Krishna in relation to Mayavada Philosophy
+
+2️⃣ SOURCE SELECTION
+--------------------------------------------------------------------------------
+Detected Sources: unified
+
+3️⃣ RETRIEVED CONTEXT
+--------------------------------------------------------------------------------
+Retrieved 3 source(s)
+
+REFERENCE: Science of Self Realization 1 (Prabhupada's Complete Works)
+
+
+
+
+
+
+
+URL: https://github.com/iskconpress/books/blob/master/ssr/1.txt/
+
+---
+
+REFERENCE: Teachings of Lord Kapila 15 (Prabhupada's Complete Works)
+
+
+
+
+
+
+
+URL: https://github.com/iskconpress/books/blob/master/tlk/15.txt/
+
+---
+
+REFERENCE: Krsna Book 85 (Prabhupada's Complete Works)
+
+
+
+
+
+
+
+URL: https://github.com/iskconpress/books/blob/master/kb/85.txt/
+
+4️⃣ FACT EXTRACTION
+--------------------------------------------------------------------------------
+Here are the extracted key facts addressing the user's question about offenders at the feet of Lord Krishna:
+
+**Acknowledgment:** Srila Prabhupada's teachings have greatly contributed to our understanding of the spiritual realm, and his works continue to guide us on the path of self-realization.
+
+**Facts:**
+
+**FACT: Offenders at the feet of Lord Krishna are forgiven | SOURCE: Krsna Book 85, Purport | QUOTE: "Even if one has committed offenses, if he surrenders to Kṛṣṇa, he is forgiven." | URL: https://github.com/iskconpress/books/blob/master/kb/85.txt/**
+
+**FACT: Lord Krishna is merciful to His devotees, even if they commit offenses | SOURCE: Teachings of Lord Kapila 15, Verse 26, Translation | QUOTE: "The Supreme Personality of Godhead is most merciful, and He is the friend of even the most fallen of souls." | URL: https://github.com/iskconpress/books/blob/master/tlk/15.txt/**
+
+**FACT: One should not take advantage of Lord Krishna's mercy by intentionally committing offenses | SOURCE: Science of Self Realization 1, Purport | QUOTE: "One should not take advantage of the Lord's mercy and commit sinful activities." | URL: https://github.com/iskconpress/books/blob/master/ssr/1.txt/**
+
+These facts highlight the merciful nature of Lord Krishna towards His devotees, even those who have committed offenses. However, they also emphasize the importance of not taking advantage of His mercy by intentionally committing sinful activities.
+
+5️⃣ FINAL ANSWER
+--------------------------------------------------------------------------------
+**Sri Guru Carana Padma**
+
+**The Mercy of Lord Krishna**
+
+In the realm of spiritual understanding, it is essential to comprehend the nature of Lord Krishna's mercy towards His devotees. The scriptures reveal that even those who have committed offenses can find forgiveness at the feet of the Lord. This merciful disposition of Lord Krishna is a beacon of hope for those who have strayed from the path of righteousness.
+
+**The Forgiveness of Lord Krishna**
+
+As stated in the Krsna Book, "Even if one has committed offenses, if he surrenders to Kṛṣṇa, he is forgiven." [Source](https://github.com/iskconpress/books/blob/master/kb/85.txt/) This statement underscores the Lord's willingness to pardon even the most wayward of souls. His mercy is not limited by the magnitude of one's offenses, but rather by the sincerity of one's surrender.
+
+**The Lord's Mercy Towards Devotees**
+
+In the Teachings of Lord Kapila, we find further evidence of the Lord's merciful nature: "The Supreme Personality of Godhead is most merciful, and He is the friend of even the most fallen of souls." [Source](https://github.com/iskconpress/books/blob/master/tlk/15.txt/) This verse highlights the Lord's role as a friend and well-wisher to all, regardless of their past mistakes. His mercy is not reserved for the righteous alone, but is available to all who approach Him with a humble heart.
+
+**A Warning Against Taking Advantage**
+
+However, it is essential to note that the Lord's mercy should not be taken for granted. As Srila Prabhupada warns in the Science of Self Realization, "One should not take advantage of the Lord's mercy and commit sinful activities." [Source](https://github.com/iskconpress/books/blob/master/ssr/1.txt/) This caution serves as a reminder that the Lord's forgiveness is not a license to continue in sinful behavior, but rather an opportunity to reform and return to the path of righteousness.
+
+**Practical Application**
+
+In our own lives, we can apply this understanding of the Lord's mercy by approaching Him with humility and sincerity. When we commit offenses, we should not despair, but rather seek forgiveness and make a conscious effort to reform our behavior. By doing so, we can experience the Lord's mercy firsthand and progress on the path of self-realization.
+
+In conclusion, the mercy of Lord Krishna is a boundless ocean, available to all who approach Him with a sincere heart. May we take advantage of this mercy, not by continuing in sinful behavior, but by reforming our lives and surrendering to the will of the Lord.
+
+6️⃣ METRICS AND ANALYSIS
+--------------------------------------------------------------------------------
+Target Prabhupada Content Ratio: 70%
+Actual Prabhupada Content Ratio: 10%
+Answer Length Setting: long
+Answer Format: scriptural
+Devotee Level: neophyte
+
+7️⃣ DETAILED SOURCE CITATIONS
+--------------------------------------------------------------------------------
+Source #1: Science of Self Realization 1 (Prabhupada's Complete Works)
+  URL: https://github.com/iskconpress/books/blob/master/ssr/1.txt/
+  Content Types: No content details available
+
+Source #2: Teachings of Lord Kapila 15 (Prabhupada's Complete Works)
+  URL: https://github.com/iskconpress/books/blob/master/tlk/15.txt/
+  Content Types: No content details available
+
+Source #3: Krsna Book 85 (Prabhupada's Complete Works)
+  URL: https://github.com/iskconpress/books/blob/master/kb/85.txt/
+  Content Types: No content details available
+
+8️⃣ PERFORMANCE METRICS
+--------------------------------------------------------------------------------
+Search Time: 0.23 seconds
+Total Processing Time: 5.85 seconds
+
+================================================================================
+ANALYSIS SUMMARY
+================================================================================
+- Query successfully processed through 1 source(s)
+- Retrieved 3 relevant passages
+- Final answer contains approximately 10% of Prabhupada's direct words
+- Results saved to: testing/rag_results_20250717_164539.txt

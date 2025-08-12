@@ -1,0 +1,105 @@
+{
+  "questions": [
+    {
+      "question": "The followers of Lord Śiva were of short stature and had bodies that appeared to be like those of _____.",
+      "answer": "sharks",
+      "reference": "SOURCE: SB 4.5.13 (translation) | QUOTE: '...their bodies appeared to be like those of sharks, blackish and yellowish.'",
+      "url": "https://github.com/iskconpress/books/tree/master/sb/4/5/13.txt"
+    },
+    {
+      "question": "Vīrabhadra took the head and with great anger threw it into the southern side of the _____.",
+      "answer": "sacrificial fire",
+      "reference": "SOURCE: SB 4.5.26 (translation) | QUOTE: 'Vīrabhadra then took the head and with great anger threw it into the southern side of the sacrificial fire...' ",
+      "url": "https://github.com/iskconpress/books/tree/master/sb/4/5/26.txt"
+    },
+    {
+      "question": "The personified anger of the Supreme Personality of Godhead was prepared to execute the orders of _____.",
+      "answer": "Lord Śiva",
+      "reference": "SOURCE: SB 4.5.5 (translation) | QUOTE: '...the personified anger of the Supreme Personality of Godhead, and he was prepared to execute the orders of Lord Śiva.'",
+      "url": "https://github.com/iskconpress/books/tree/master/sb/4/5/5.txt"
+    },
+    {
+      "question": "Maṇimān, one of the followers of Lord Śiva, arrested _____.",
+      "answer": "Bhṛgu Muni",
+      "reference": "SOURCE: SB 4.5.17 (translation) | QUOTE: 'Maṇimān, one of the followers of Lord Śiva, arrested Bhṛgu Muni...' ",
+      "url": "https://github.com/iskconpress/books/tree/master/sb/4/5/17.txt"
+    },
+    {
+      "question": "The followers of Lord Śiva created disturbances in the _____.",
+      "answer": "sacrificial arena",
+      "reference": "SOURCE: SB 4.5.13 (translation) | QUOTE: 'They ran all around the sacrificial arena and thus began to create disturbances.'",
+      "url": "https://github.com/iskconpress/books/tree/master/sb/4/5/13.txt"
+    },
+    {
+      "question": "Vīrabhadra, the black demon, arrested _____.",
+      "answer": "Prajāpati Dakṣa",
+      "reference": "SOURCE: SB 4.5.17 (translation) | QUOTE: 'Vīrabhadra, the black demon, arrested Prajāpati Dakṣa.'",
+      "url": "https://github.com/iskconpress/books/tree/master/sb/4/5/17.txt"
+    },
+    {
+      "question": "The dust storm was not caused by _____.",
+      "answer": "wind blowing",
+      "reference": "SOURCE: SB 4.5.8 (translation) | QUOTE: 'There is no wind blowing, and no cows are passing...' ",
+      "url": "https://github.com/iskconpress/books/tree/master/sb/4/5/8.txt"
+    },
+    {
+      "question": "The followers of Lord Śiva departed for their master's _____.",
+      "answer": "abode",
+      "reference": "SOURCE: SB 4.5.26 (translation) | QUOTE: '...they departed for their master's abode, Kailāsa.'",
+      "url": "https://github.com/iskconpress/books/tree/master/sb/4/5/26.txt"
+    },
+    {
+      "question": "The followers of Lord Śiva were equipped with various kinds of _____.",
+      "answer": "weapons",
+      "reference": "SOURCE: SB 4.5.13 (translation) | QUOTE: '...they were equipped with various kinds of weapons...' ",
+      "url": "https://github.com/iskconpress/books/tree/master/sb/4/5/13.txt"
+    },
+    {
+      "question": "The personified anger of the Supreme Personality of Godhead circumambulated _____.",
+      "answer": "Lord Śiva",
+      "reference": "SOURCE: SB 4.5.5 (translation) | QUOTE: 'Thus, considering himself capable of coping with any power offered against him, he circumambulated Lord Śiva.'",
+      "url": "https://github.com/iskconpress/books/tree/master/sb/4/5/5.txt"
+    }
+  ],
+  "sources": [
+    {
+      "verse_id": "SB 4.5.26",
+      "book": "sb",
+      "specific_book": "",
+      "url": "https://github.com/iskconpress/books/tree/master/sb/4/5/26.txt"
+    },
+    {
+      "verse_id": "SB 4.5.13",
+      "book": "sb",
+      "specific_book": "",
+      "url": "https://github.com/iskconpress/books/tree/master/sb/4/5/13.txt"
+    },
+    {
+      "verse_id": "SB 4.5.5",
+      "book": "sb",
+      "specific_book": "",
+      "url": "https://github.com/iskconpress/books/tree/master/sb/4/5/5.txt"
+    },
+    {
+      "verse_id": "SB 4.5.17",
+      "book": "sb",
+      "specific_book": "",
+      "url": "https://github.com/iskconpress/books/tree/master/sb/4/5/17.txt"
+    },
+    {
+      "verse_id": "SB 4.5.8",
+      "book": "sb",
+      "specific_book": "",
+      "url": "https://github.com/iskconpress/books/tree/master/sb/4/5/8.txt"
+    }
+  ],
+  "generation_time": 3.192272424697876,
+  "meta": {
+    "query": "provide answer from chapter 5 in canto 4 in sb",
+    "refined_query": "Here is the refined search query:\n\n`SB 4.5`\n\nThis query will help find relevant content in Chapter 5 of Canto 4 in Srimad Bhagavatam, suitable for creating quiz questions.",
+    "quiz_type": "fill-in-blank",
+    "difficulty": "hard",
+    "num_questions": 10,
+    "search_time": 12.372017621994019
+  }
+}

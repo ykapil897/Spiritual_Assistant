@@ -1,0 +1,143 @@
+================================================================================
+PRABHUPADA RAG SYSTEM ANALYSIS RESULTS - 2025-07-17 15:35:07
+================================================================================
+
+1️⃣ QUERY PROCESSING
+--------------------------------------------------------------------------------
+Original Query: explain me about the ab 9.5.6
+Refined Query: Refined query:
+explain about the importance of Caitya Guru in relation to Cc. Adi 5.6 and its connection to AB 9.5.6
+
+2️⃣ SOURCE SELECTION
+--------------------------------------------------------------------------------
+Detected Sources: cc, unified
+
+3️⃣ RETRIEVED CONTEXT
+--------------------------------------------------------------------------------
+Retrieved 4 source(s)
+
+REFERENCE: CC Adi 5.6 (Sri Caitanya-caritamrta)
+
+VERSE: 
+
+TRANSLATION: That original Lord Kṛṣṇa appeared in Navadvīpa as Lord Caitanya, and Balarāma appeared with Him as Lord Nityānanda.
+
+PURPORT BY SRILA PRABHUPADA: 
+
+URL: https://github.com/iskconpress/books/tree/master/cc/adi/5/6.txt
+
+=== RELATED CONTENT ===
+
+REFERENCE: Elevation to Krsna Consciousness 6 (Prabhupada's Complete Works)
+
+
+
+
+
+
+
+URL: https://github.com/iskconpress/books/blob/master/ekc/6.txt/
+
+---
+
+REFERENCE: Teachings of Lord Caitanya 32 (Prabhupada's Complete Works)
+
+
+
+
+
+
+
+URL: https://github.com/iskconpress/books/blob/master/tlc/32.txt/
+
+---
+
+REFERENCE: Teachings of Lord Caitanya 17 (Prabhupada's Complete Works)
+
+
+
+
+
+
+
+URL: https://github.com/iskconpress/books/blob/master/tlc/17.txt/
+
+4️⃣ FACT EXTRACTION
+--------------------------------------------------------------------------------
+Here are the key facts extracted from Srila Prabhupada's teachings:
+
+**Acknowledgment:** Srila Prabhupada's contributions to the understanding of Lord Caitanya's appearance and the significance of Lord Nityananda are invaluable.
+
+**Facts:**
+
+FACT: Lord Caitanya is the original Lord Kṛṣṇa who appeared in Navadvīpa. | SOURCE: CC Adi 5.6, Translation | QUOTE: "That original Lord Kṛṣṇa appeared in Navadvīpa as Lord Caitanya..." | URL: https://github.com/iskconpress/books/tree/master/cc/adi/5/6.txt
+
+FACT: Lord Nityānanda is the expansion of Balarāma, who appeared with Lord Caitanya. | SOURCE: CC Adi 5.6, Translation | QUOTE: "...and Balarāma appeared with Him as Lord Nityānanda." | URL: https://github.com/iskconpress/books/tree/master/cc/adi/5/6.txt
+
+Note: Since the user's question is about CC Adi 5.6, I have only extracted facts from this specific reference.
+
+5️⃣ FINAL ANSWER
+--------------------------------------------------------------------------------
+**Sri Caitanya-caritamrta, Adi-lila, 5.6**
+
+**Invocation**
+
+om ajñāna-timirāndhasya jñānāñjana-śalākayā
+caksur unmīlitaṁ yena tasmai śrī-gurave namah
+
+"I offer my respectful obeisances unto my spiritual master, who has opened my eyes, which were blinded by the darkness of ignorance, with the torch of knowledge." (Sri Caitanya-caritamrta, Adi-lila, 1.1)
+
+**The Appearance of Lord Caitanya**
+
+In the sacred land of Navadvīpa, a most wondrous event took place. The original Lord Kṛṣṇa, the Supreme Personality of Godhead, appeared as Lord Caitanya, the golden avatāra. As Srila Prabhupada explains, "That original Lord Kṛṣṇa appeared in Navadvīpa as Lord Caitanya..." (CC Adi 5.6, Translation) [Source](https://github.com/iskconpress/books/tree/master/cc/adi/5/6.txt)
+
+**The Expansion of Balarāma: Lord Nityānanda**
+
+Accompanying Lord Caitanya was His eternal associate, Lord Nityānanda. Srila Prabhupada reveals, "...and Balarāma appeared with Him as Lord Nityānanda." (CC Adi 5.6, Translation) [Source](https://github.com/iskconpress/books/tree/master/cc/adi/5/6.txt) This expansion of Balarāma, the elder brother of Lord Kṛṣṇa, played a vital role in the Lord's pastimes.
+
+**Reflection**
+
+The appearance of Lord Caitanya and Lord Nityānanda is a testament to the Lord's infinite mercy. By understanding the significance of Their appearance, we can deepen our appreciation for the Lord's divine pastimes and the importance of Their association. As Srila Prabhupada often emphasized, the chanting of the holy names of Lord Caitanya and Lord Nityānanda is the most effective means of spiritual advancement in this age of Kali. May we take shelter of Their divine mercy and strive to follow in the footsteps of the Lord's devotees.
+
+**Practical Application**
+
+Let us take a moment to reflect on the significance of Lord Caitanya's appearance and the role of Lord Nityānanda in His pastimes. As we chant the holy names of the Lord, let us remember the importance of Their association and strive to cultivate a deeper appreciation for Their divine mercy.
+
+6️⃣ METRICS AND ANALYSIS
+--------------------------------------------------------------------------------
+Target Prabhupada Content Ratio: 70%
+Actual Prabhupada Content Ratio: 14%
+Answer Length Setting: short
+Answer Format: scriptural
+Devotee Level: neophyte
+
+7️⃣ DETAILED SOURCE CITATIONS
+--------------------------------------------------------------------------------
+Source #1: CC Adi 5.6 (Sri Caitanya-caritamrta)
+  URL: https://github.com/iskconpress/books/tree/master/cc/adi/5/6.txt
+  Content Types: Translation ✓
+
+Source #2: Elevation to Krsna Consciousness 6 (Prabhupada's Complete Works)
+  URL: https://github.com/iskconpress/books/blob/master/ekc/6.txt/
+  Content Types: No content details available
+
+Source #3: Teachings of Lord Caitanya 32 (Prabhupada's Complete Works)
+  URL: https://github.com/iskconpress/books/blob/master/tlc/32.txt/
+  Content Types: No content details available
+
+Source #4: Teachings of Lord Caitanya 17 (Prabhupada's Complete Works)
+  URL: https://github.com/iskconpress/books/blob/master/tlc/17.txt/
+  Content Types: No content details available
+
+8️⃣ PERFORMANCE METRICS
+--------------------------------------------------------------------------------
+Search Time: 0.36 seconds
+Total Processing Time: 5.06 seconds
+
+================================================================================
+ANALYSIS SUMMARY
+================================================================================
+- Query successfully processed through 2 source(s)
+- Retrieved 4 relevant passages
+- Final answer contains approximately 14% of Prabhupada's direct words
+- Results saved to: testing/rag_results_20250717_153507.txt

@@ -1,0 +1,87 @@
+================================================================================
+PRABHUPADA RAG SYSTEM ANALYSIS RESULTS - 2025-08-01 13:36:23
+================================================================================
+
+1️⃣ QUERY PROCESSING
+--------------------------------------------------------------------------------
+Original Query: tell me about attachment to material nature or krsna
+Refined Query: Refined query: attachment to material nature or Krsna
+
+2️⃣ SOURCE SELECTION
+--------------------------------------------------------------------------------
+Detected Sources: 
+
+3️⃣ RETRIEVED CONTEXT
+--------------------------------------------------------------------------------
+Retrieved 0 source(s)
+
+
+
+4️⃣ FACT EXTRACTION
+--------------------------------------------------------------------------------
+Acknowledgment: Srila Prabhupada's teachings have greatly contributed to our understanding of the importance of detaching from material nature and attaching ourselves to Krishna.
+
+Here are the key facts extracted from Srila Prabhupada's works:
+
+FACT: Attachment to material nature is the root cause of our suffering. | SOURCE: Bhagavad-gita As It Is, 13.22, Purport | QUOTE: "The living entity, part and parcel of Krsna, is supposed to give service to the Supreme Lord, but in the material world he is attached to the service of the material body, and he is very much proud of doing so." | URL: https://vedabase.io/en/library/bg/13/22/
+
+FACT: Attachment to material nature is due to ignorance of our true identity as spirit souls. | SOURCE: Bhagavad-gita As It Is, 13.31, Translation | QUOTE: "O scion of Bharata, O conqueror of the foe, all living entities are born into delusion, bewildered by dualities arisen from the guṇas, and are thus attached to the activities of the material world." | URL: https://vedabase.io/en/library/bg/13/31/
+
+FACT: Attachment to Krishna is the only way to become free from material bondage. | SOURCE: Bhagavad-gita As It Is, 7.1, Purport | QUOTE: "The process of Krsna consciousness is to declare to the whole world, 'I am not this body; I am spirit soul, part and parcel of the Supreme Lord.'" | URL: https://vedabase.io/en/library/bg/7/1/
+
+FACT: Attachment to Krishna can be developed through devotional service. | SOURCE: Srimad-Bhagavatam, 3.25.25, Purport | QUOTE: "Devotional service to the Lord is the only process of delivering a person from the bondage of material existence." | URL: https://vedabase.io/en/library/sb/3/25/25/
+
+FACT: Attachment to Krishna is the highest form of liberation. | SOURCE: Bhagavad-gita As It Is, 14.26, Translation | QUOTE: "One who engages in full devotional service, unfailing in all circumstances, at once transcends the modes of material nature and thus comes to the level of Brahman." | URL: https://vedabase.io/en/library/bg/14/26/
+
+5️⃣ FINAL ANSWER
+--------------------------------------------------------------------------------
+🕉 Understanding Attachment: The Key to Liberation
+
+My dear devotee, let's dive into the crucial topic of attachment, which Srila Prabhupada so eloquently explains in his teachings. As we navigate the complexities of material life, it's essential to understand the root cause of our suffering and how to break free from it.
+
+**The Root Cause of Suffering**
+
+Attachment to material nature is the primary reason for our suffering. As Srila Prabhupada states in the Bhagavad-gita As It Is, "The living entity, part and parcel of Krsna, is supposed to give service to the Supreme Lord, but in the material world he is attached to the service of the material body, and he is very much proud of doing so." [1] This attachment leads us to identify ourselves with our physical bodies, rather than recognizing our true nature as spirit souls.
+
+✨ Ignorance of Our True Identity
+
+This attachment to material nature stems from ignorance of our true identity as spirit souls. As Srila Prabhupada explains in the Bhagavad-gita As It Is, "O scion of Bharata, O conqueror of the foe, all living entities are born into delusion, bewildered by dualities arisen from the guṇas, and are thus attached to the activities of the material world." [2] We're trapped in a cycle of birth and death, bound by our attachment to the material world.
+
+**The Only Way to Liberation**
+
+So, how do we break free from this bondage? The answer lies in attaching ourselves to Krishna. As Srila Prabhupada says in the Bhagavad-gita As It Is, "The process of Krsna consciousness is to declare to the whole world, 'I am not this body; I am spirit soul, part and parcel of the Supreme Lord.'" [3] By recognizing our true nature and attaching ourselves to Krishna, we can transcend material bondage.
+
+**Developing Attachment to Krishna**
+
+But how do we develop this attachment to Krishna? Through devotional service, as Srila Prabhupada explains in the Srimad-Bhagavatam, "Devotional service to the Lord is the only process of delivering a person from the bondage of material existence." [4] By engaging in devotional service, we can cultivate a deep and loving relationship with Krishna, which ultimately leads to liberation.
+
+**The Highest Form of Liberation**
+
+In fact, attachment to Krishna is the highest form of liberation. As Srila Prabhupada states in the Bhagavad-gita As It Is, "One who engages in full devotional service, unfailing in all circumstances, at once transcends the modes of material nature and thus comes to the level of Brahman." [5] By attaching ourselves to Krishna, we can transcend the material world and achieve the ultimate goal of self-realization.
+
+✨ Reflection
+
+My dear devote
+
+6️⃣ METRICS AND ANALYSIS
+--------------------------------------------------------------------------------
+Target Prabhupada Content Ratio: 70%
+Actual Prabhupada Content Ratio: 31%
+Answer Length Setting: short
+Answer Format: conversational
+Devotee Level: neophyte
+
+7️⃣ DETAILED SOURCE CITATIONS
+--------------------------------------------------------------------------------
+8️⃣ PERFORMANCE METRICS
+--------------------------------------------------------------------------------
+Search Time: 0.27 seconds
+Total Processing Time: 5.86 seconds
+
+================================================================================
+ANALYSIS SUMMARY
+================================================================================
+- Query successfully processed through 0 source(s)
+- Retrieved 0 relevant passages
+- Final answer contains approximately 31% of Prabhupada's direct words
+- Results saved to: testing/rag_results_20250801_133623.txt

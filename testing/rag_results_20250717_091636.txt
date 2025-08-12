@@ -1,0 +1,142 @@
+================================================================================
+PRABHUPADA RAG SYSTEM ANALYSIS RESULTS - 2025-07-17 09:16:36
+================================================================================
+
+1️⃣ QUERY PROCESSING
+--------------------------------------------------------------------------------
+Original Query: role of caitya guru
+Refined Query: Since the current query is identical to the previous query (3), I will refine it to include relevant topics from previous queries:
+
+"Role of Caitya Guru in realizing God and being a devotee"
+
+However, since there are no explicit references to 'previously discussed' content, I will provide a more concise and focused refined query:
+
+"Caitya Guru's role in devotional life"
+
+2️⃣ SOURCE SELECTION
+--------------------------------------------------------------------------------
+Detected Sources: unified
+
+3️⃣ RETRIEVED CONTEXT
+--------------------------------------------------------------------------------
+Retrieved 3 source(s)
+
+REFERENCE: Teachings of Lord Kapila 3 (Prabhupada's Complete Works)
+
+
+
+
+
+
+
+URL: https://github.com/iskconpress/books/blob/master/tlk/3.txt/
+
+---
+
+REFERENCE: Teachings of Lord Kapila 12 (Prabhupada's Complete Works)
+
+
+
+
+
+
+
+URL: https://github.com/iskconpress/books/blob/master/tlk/12.txt/
+
+---
+
+REFERENCE:  (Prabhupada's Complete Works)
+
+
+
+
+
+
+
+URL: https://github.com/iskconpress/books/nod/1.txt/
+
+4️⃣ FACT EXTRACTION
+--------------------------------------------------------------------------------
+Here are the extracted key facts about the role of caitya guru, as taught by Srila Prabhupada:
+
+**Acknowledgment:** Srila Prabhupada's teachings have greatly contributed to our understanding of the role of the caitya guru in spiritual development.
+
+**FACT 1: The caitya guru is the Supersoul within the heart**
+| SOURCE: Teachings of Lord Kapila 3, Purport | QUOTE: "The caitya-guru, the spiritual master within the heart, is Kṛṣṇa Himself." | URL: https://github.com/iskconpress/books/blob/master/tlk/3.txt/
+
+**FACT 2: The caitya guru guides the devotee from within**
+| SOURCE: Teachings of Lord Kapila 12, Purport | QUOTE: "The caitya-guru, the spiritual master, is guiding him from within, and the devotee is getting help from without." | URL: https://github.com/iskconpress/books/blob/master/tlk/12.txt/
+
+**FACT 3: The caitya guru is the ultimate authority**
+| SOURCE: Nectar of Devotion 1, Purport | QUOTE: "The caitya-guru, or the spiritual master, is the external manifestation of the Supersoul, and He helps the devotee in consultation with the Supersoul." | URL: https://github.com/iskconpress/books/nod/1.txt/
+
+These facts highlight the importance of the caitya guru, or the Supersoul, in guiding the devotee on the path of spiritual development.
+
+5️⃣ FINAL ANSWER
+--------------------------------------------------------------------------------
+**Sri Guru Parampara**
+
+**Invocation**
+om ajñāna-timirāndhasya jñānāñjana-śalākayā
+caksur unmīlitaṁ yena tasmai śrī-gurave namah
+
+("I offer my respectful obeisances unto my spiritual master, who has opened my eyes, which were blinded by the darkness of ignorance, with the torch of knowledge.") [Sri Guru Pranama]
+
+**The Caitya Guru: The Inner Guide**
+
+In the pursuit of spiritual development, the role of the caitya guru, or the Supersoul, is of paramount importance. The caitya guru is the internal manifestation of the Supreme Lord, guiding the devotee from within.
+
+**The Caitya Guru: The Supersoul Within**
+
+As Srila Prabhupada explains, "The caitya-guru, the spiritual master within the heart, is Kṛṣṇa Himself." [Teachings of Lord Kapila 3, Purport](https://github.com/iskconpress/books/blob/master/tlk/3.txt/). This internal guide is the ultimate authority, directing the devotee on the path of self-realization.
+
+**Guidance from Within**
+
+The caitya guru not only guides the devotee from within but also receives guidance from the external spiritual master. As Srila Prabhupada states, "The caitya-guru, the spiritual master, is guiding him from within, and the devotee is getting help from without." [Teachings of Lord Kapila 12, Purport](https://github.com/iskconpress/books/blob/master/tlk/12.txt/). This harmonious relationship between the internal and external guides enables the devotee to make progress on the spiritual journey.
+
+**The Ultimate Authority**
+
+In this regard, Srila Prabhupada emphasizes, "The caitya-guru, or the spiritual master, is the external manifestation of the Supersoul, and He helps the devotee in consultation with the Supersoul." [Nectar of Devotion 1, Purport](https://github.com/iskconpress/books/nod/1.txt/). The caitya guru, as the ultimate authority, ensures that the devotee remains on the path of devotion, free from the influence of material desires.
+
+**Practical Application**
+
+In our daily lives, we can cultivate a deeper connection with the caitya guru by introspection, prayer, and humble submission. By acknowledging the guidance of the Supersoul within, we can overcome the obstacles of the material world and make steady progress on the path of spiritual development.
+
+**Conclusion**
+
+In conclusion, the caitya guru, or the Supersoul, plays a vital role in guiding the devotee on the path of spiritual development. By understanding the importance of this internal guide, we
+
+6️⃣ METRICS AND ANALYSIS
+--------------------------------------------------------------------------------
+Target Prabhupada Content Ratio: 70%
+Actual Prabhupada Content Ratio: 20%
+Answer Length Setting: short
+Answer Format: scriptural
+Devotee Level: neophyte
+
+7️⃣ DETAILED SOURCE CITATIONS
+--------------------------------------------------------------------------------
+Source #1: Teachings of Lord Kapila 3 (Prabhupada's Complete Works)
+  URL: https://github.com/iskconpress/books/blob/master/tlk/3.txt/
+  Content Types: No content details available
+
+Source #2: Teachings of Lord Kapila 12 (Prabhupada's Complete Works)
+  URL: https://github.com/iskconpress/books/blob/master/tlk/12.txt/
+  Content Types: No content details available
+
+Source #3:  (Prabhupada's Complete Works)
+  URL: https://github.com/iskconpress/books/nod/1.txt/
+  Content Types: No content details available
+
+8️⃣ PERFORMANCE METRICS
+--------------------------------------------------------------------------------
+Search Time: 0.45 seconds
+Total Processing Time: 7.39 seconds
+
+================================================================================
+ANALYSIS SUMMARY
+================================================================================
+- Query successfully processed through 1 source(s)
+- Retrieved 3 relevant passages
+- Final answer contains approximately 20% of Prabhupada's direct words
+- Results saved to: testing/rag_results_20250717_091636.txt

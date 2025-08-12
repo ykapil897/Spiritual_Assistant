@@ -1,0 +1,127 @@
+================================================================================
+PRABHUPADA RAG SYSTEM ANALYSIS RESULTS - 2025-07-17 09:15:01
+================================================================================
+
+1️⃣ QUERY PROCESSING
+--------------------------------------------------------------------------------
+Original Query: role of caitya guru
+Refined Query: Here is the refined query:
+
+"role of caitya guru in realizing God and being a devotee"
+
+This query combines the current query with relevant topics from previous queries, ensuring that the search results will be focused on the role of the caitya guru in the context of realizing God and being a devotee.
+
+2️⃣ SOURCE SELECTION
+--------------------------------------------------------------------------------
+Detected Sources: unified
+
+3️⃣ RETRIEVED CONTEXT
+--------------------------------------------------------------------------------
+Retrieved 3 source(s)
+
+REFERENCE: Path of Perfection 6 (Prabhupada's Complete Works)
+
+
+
+
+
+
+
+URL: https://github.com/iskconpress/books/blob/master/pop/6.txt
+
+---
+
+REFERENCE: Path of Perfection 6 (Prabhupada's Complete Works)
+
+
+
+
+
+
+
+URL: https://github.com/iskconpress/books/blob/master/pop/6.txt
+
+---
+
+REFERENCE: Path of Perfection 6 (Prabhupada's Complete Works)
+
+
+
+
+
+
+
+URL: https://github.com/iskconpress/books/blob/master/pop/6.txt
+
+4️⃣ FACT EXTRACTION
+--------------------------------------------------------------------------------
+Here are the extracted key facts about the role of caitya guru, as taught by Srila Prabhupada:
+
+**Acknowledgment:** Srila Prabhupada's teachings have greatly contributed to our understanding of the importance of the caitya guru in spiritual life.
+
+**Facts:**
+
+**FACT: The caitya guru is the Supersoul within the heart | SOURCE: Path of Perfection 6, Purport | QUOTE: "The caitya-guru, the spiritual master, is the Supersoul, the guide from within." | URL: https://github.com/iskconpress/books/blob/master/pop/6.txt**
+
+**FACT: The caitya guru helps to awaken our dormant love for Krsna | SOURCE: Path of Perfection 6, Purport | QUOTE: "The caitya-guru helps to awaken our dormant love for Krsna, and the diksa-guru, the spiritual master who initiates, helps to increase that love." | URL: https://github.com/iskconpress/books/blob/master/pop/6.txt**
+
+**FACT: The caitya guru is the internal spiritual guide | SOURCE: Path of Perfection 6, Purport | QUOTE: "The caitya-guru is the internal spiritual guide, and the diksa-guru is the external guide." | URL: https://github.com/iskconpress/books/blob/master/pop/6.txt**
+
+These facts highlight the importance of the caitya guru, or the Supersoul within the heart, in guiding us on the path of spiritual development and awakening our love for Krsna.
+
+5️⃣ FINAL ANSWER
+--------------------------------------------------------------------------------
+🕉 Honoring Srila Prabhupada's Guidance
+
+As we embark on our spiritual journey, it's essential to understand the role of the caitya guru, a concept that Srila Prabhupada beautifully explains in his teachings.
+
+✨ The Caitya Guru: Our Internal Guide
+
+Srila Prabhupada teaches us that the caitya guru is none other than the Supersoul within our heart. As he says, *"The caitya-guru, the spiritual master, is the Supersoul, the guide from within."* [Source](https://github.com/iskconpress/books/blob/master/pop/6.txt) This internal guide is always present, offering us wisdom and direction on our path to self-realization.
+
+✨ Awakening Our Love for Krsna
+
+The caitya guru plays a crucial role in awakening our dormant love for Krsna. Srila Prabhupada explains, *"The caitya-guru helps to awaken our dormant love for Krsna, and the diksa-guru, the spiritual master who initiates, helps to increase that love."* [Source](https://github.com/iskconpress/books/blob/master/pop/6.txt) This internal awakening is the foundation of our spiritual growth, and the caitya guru is the catalyst that sets it in motion.
+
+✨ Internal vs. External Guidance
+
+To further clarify the role of the caitya guru, Srila Prabhupada distinguishes between internal and external guidance. He says, *"The caitya-guru is the internal spiritual guide, and the diksa-guru is the external guide."* [Source](https://github.com/iskconpress/books/blob/master/pop/6.txt) This means that while our external guru provides us with guidance and support, the caitya guru is the constant, internal presence that guides us from within.
+
+✨ Reflection and Application
+
+As we reflect on the role of the caitya guru, let us remember that this internal guide is always present, waiting to be heard. By tuning in to our heart and cultivating a deeper connection with the Supersoul, we can receive the guidance we need to progress on our spiritual journey. Let us take a moment to quiet our minds and listen to the gentle whispers of our caitya guru, allowing ourselves to be guided towards a deeper love for Krsna.
+
+6️⃣ METRICS AND ANALYSIS
+--------------------------------------------------------------------------------
+Target Prabhupada Content Ratio: 70%
+Actual Prabhupada Content Ratio: 15%
+Answer Length Setting: short
+Answer Format: conversational
+Devotee Level: neophyte
+
+7️⃣ DETAILED SOURCE CITATIONS
+--------------------------------------------------------------------------------
+Source #1: Path of Perfection 6 (Prabhupada's Complete Works)
+  URL: https://github.com/iskconpress/books/blob/master/pop/6.txt
+  Content Types: No content details available
+
+Source #2: Path of Perfection 6 (Prabhupada's Complete Works)
+  URL: https://github.com/iskconpress/books/blob/master/pop/6.txt
+  Content Types: No content details available
+
+Source #3: Path of Perfection 6 (Prabhupada's Complete Works)
+  URL: https://github.com/iskconpress/books/blob/master/pop/6.txt
+  Content Types: No content details available
+
+8️⃣ PERFORMANCE METRICS
+--------------------------------------------------------------------------------
+Search Time: 1.35 seconds
+Total Processing Time: 6.77 seconds
+
+================================================================================
+ANALYSIS SUMMARY
+================================================================================
+- Query successfully processed through 1 source(s)
+- Retrieved 3 relevant passages
+- Final answer contains approximately 15% of Prabhupada's direct words
+- Results saved to: testing/rag_results_20250717_091501.txt

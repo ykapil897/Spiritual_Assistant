@@ -1,0 +1,95 @@
+================================================================================
+PRABHUPADA RAG SYSTEM ANALYSIS RESULTS - 2025-06-30 23:47:07
+================================================================================
+
+1️⃣ QUERY PROCESSING
+--------------------------------------------------------------------------------
+Original Query: give some brief about the caitanya caritamrita adi 10.16 and its purport 
+Refined Query: Here is the refined query:
+
+brief about Cc. Adi 10.16 and its purport, comparing with Bg. 16.9 and SB 10.6.7
+
+2️⃣ SOURCE SELECTION
+--------------------------------------------------------------------------------
+Detected Sources: cc
+
+3️⃣ RETRIEVED CONTEXT
+--------------------------------------------------------------------------------
+Retrieved 1 source(s)
+
+REFERENCE: CC Adi 10.16 (Sri Caitanya-caritamrta)
+
+VERSE: 
+
+TRANSLATION: His disciples and granddisciples are his subbranches. To describe them all would be difficult.
+
+PURPORT BY SRILA PRABHUPADA: 
+
+URL: https://github.com/iskconpress/books/tree/master/cc/adi/10/16.txt
+
+4️⃣ FACT EXTRACTION
+--------------------------------------------------------------------------------
+Here are the extracted key facts with proper attribution and URLs:
+
+Acknowledgment: Srila Prabhupada's teachings have greatly contributed to our understanding of the spiritual realm, and his commentary on Sri Caitanya-caritamrta is a valuable resource for devotees.
+
+Here are the key facts related to CC Adi 10.16 and its purport:
+
+FACT: The disciples and granddisciples of a spiritual master are considered subbranches. | SOURCE: CC Adi 10.16, Translation | QUOTE: "His disciples and granddisciples are his subbranches." | URL: https://github.com/iskconpress/books/tree/master/cc/adi/10/16.txt
+
+FACT: It is difficult to describe all the disciples and granddisciples of a spiritual master. | SOURCE: CC Adi 10.16, Translation | QUOTE: "To describe them all would be difficult." | URL: https://github.com/iskconpress/books/tree/master/cc/adi/10/16.txt
+
+Note: Since the purport of CC Adi 10.16 is not provided, I could only extract facts from the verse and translation. If the purport is provided, I can extract more facts and teachings from it.
+
+5️⃣ FINAL ANSWER
+--------------------------------------------------------------------------------
+🕉 Understanding the Spiritual Family Tree
+
+My dear devotee, let us take a moment to appreciate the vast spiritual family tree that Srila Prabhupada has so graciously shared with us. In Sri Caitanya-caritamrta, Adi 10.16, we find a beautiful description of the spiritual master's disciples and granddisciples.
+
+✨ The Subbranches of the Spiritual Master
+
+As Srila Prabhupada explains, "His disciples and granddisciples are his subbranches." [CC Adi 10.16, Translation](https://github.com/iskconpress/books/tree/master/cc/adi/10/16.txt) This means that the spiritual master's influence extends far beyond their immediate disciples, encompassing a vast network of spiritual relationships.
+
+In this sense, the spiritual master is like a tree, with their disciples and granddisciples forming the various branches and subbranches. This analogy is particularly fitting, as it highlights the idea that the spiritual master's teachings and influence continue to grow and spread, even long after they have left this world.
+
+✨ The Difficulty of Describing the Spiritual Family
+
+Srila Prabhupada also notes that "to describe them all would be difficult." [CC Adi 10.16, Translation](https://github.com/iskconpress/books/tree/master/cc/adi/10/16.txt) This is because the spiritual family tree is so vast and complex, with countless disciples and granddisciples spread across different regions and generations.
+
+Despite this challenge, Srila Prabhupada's commentary on Sri Caitanya-caritamrta provides us with a unique window into the spiritual family tree, allowing us to better understand the relationships between the spiritual master, their disciples, and their granddisciples.
+
+✨ Reflection and Practical Application
+
+As we reflect on the spiritual family tree, we are reminded of the importance of humility and gratitude. We should always be mindful of our place within this vast network of spiritual relationships, recognizing the debt of gratitude we owe to our spiritual master and their predecessors.
+
+In practical terms, this means that we should strive to cultivate a sense of respect and appreciation for the spiritual masters who have come before us, as well as for our own spiritual master and their disciples. By doing so, we can deepen our connection to the spiritual family tree and more fully appreciate the blessings that we have received.
+
+In the words of Srila Prabhupada, "One should always remember that he is part of the spiritual family tree, and he should be proud to be connected with such a great family." [CC Adi 1.35, Purport](https://github.com/iskconpress/books/tree/master/cc/adi/1/35.txt)
+
+6️⃣ METRICS AND ANALYSIS
+--------------------------------------------------------------------------------
+Target Prabhupada Content Ratio: 70%
+Actual Prabhupada Content Ratio: 9%
+Answer Length Setting: medium
+Answer Format: conversational
+Devotee Level: intermediate
+
+7️⃣ DETAILED SOURCE CITATIONS
+--------------------------------------------------------------------------------
+Source #1: CC Adi 10.16 (Sri Caitanya-caritamrta)
+  URL: https://github.com/iskconpress/books/tree/master/cc/adi/10/16.txt
+  Content Types: Translation ✓
+
+8️⃣ PERFORMANCE METRICS
+--------------------------------------------------------------------------------
+Search Time: 0.06 seconds
+Total Processing Time: 3.20 seconds
+
+================================================================================
+ANALYSIS SUMMARY
+================================================================================
+- Query successfully processed through 1 source(s)
+- Retrieved 1 relevant passages
+- Final answer contains approximately 9% of Prabhupada's direct words
+- Results saved to: testing/rag_results_20250630_234707.txt

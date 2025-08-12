@@ -1,0 +1,234 @@
+================================================================================
+PRABHUPADA RAG SYSTEM ANALYSIS RESULTS - 2025-07-24 13:04:20
+================================================================================
+
+1️⃣ QUERY PROCESSING
+--------------------------------------------------------------------------------
+Original Query: Çréla Prabhupäda Speaks Out
+ On the Operator of the Universal Machine, Part 2
+On Seeking the Right Thing in the Wrong Place
+from spokens
+Refined Query: Since the current query is identical to the previous queries, I will refine it to:
+
+"spoken Operator of the Universal Machine and seeking the right thing in the wrong place"
+
+This refined query preserves the spoken content indicator and focuses on the main topics discussed in the previous queries.
+
+2️⃣ SOURCE SELECTION
+--------------------------------------------------------------------------------
+Detected Sources: spoken
+
+3️⃣ RETRIEVED CONTEXT
+--------------------------------------------------------------------------------
+Retrieved 5 source(s)
+
+🕉 Humble greetings to the devotees.
+
+**Devotee:** [indistinct] lecture or something.
+**Prabhupāda:** Page number?
+
+SOURCE: https://github.com/iskconpress/spoken/blob/master/760726r2.lon.txt
+
+---
+
+🕉 Humble greetings to the devotees.
+
+**Prabhupāda:** Is that all right?
+**Devotee (2):** Yes.
+**Prabhupāda:** The teacher will remember all the work of the dictionary. [laughs] You can refer to the dictionary. [laughter]
+
+**Prabhupāda:** Huh?
+
+SOURCE: https://github.com/iskconpress/spoken/blob/master/711210rc.del.txt
+
+---
+
+🕉 Humble greetings to the devotees.
+
+**Prabhupāda:** The guru is Nārada. Next guru is Vyāsadeva. Next guru is Madhvācārya, and so many others, and their branches. In this way, Caitanya Mahāprabhu, then the Gosvāmīs, then Śrīnivāsa, Śrīnivāsa Ācārya, Narottama dāsa Ṭhākura. In this way, the paramparā is coming. So this is the machine. How can I understand this machine is correct? Yes, it is correct. How is it correct? You can corroborate. The Bhagavad-gītā says, the original machine, Kṛṣṇa, says:
+
+> "sarva-dharmān parityaja mām ekaṁ śaraṇaṁ vraja."
+
+So the same message is being broadcast in the Kṛṣṇa consciousness movement. What we are speaking? We are speaking, "Give up everything. Just surrender to Kṛṣṇa." Is not that the same machine? If you keep the words, the vibration of the machine, the same, then it is the same machine. You get the correct information. Kṛṣṇa is speaking about Himself, about His abode, about the spiritual world, the activities. Kṛṣṇa is speaking everything in the Śrīmad-Bhāgavatam, in Bhagavad-gītā. We don't require to change unnecessarily. If we present the same thing as it is, as we are presenting Bhagavad-gītā as it is, then the machine is there. You can get all the information. There is no difficulty. Just like you are getting by the present machine, radio machine, the message from far, distant place, similarly, you can get all the information of the spiritual world by the proper machine: the Bhagavad-gītā received through the paramparā, disciplic succession of bona fide spiritual masters. It is not difficult.
+
+So Sanātana Gosvāmī is receiving the message of the spiritual world through the exigency of Lord Caitanya Mahāprabhu. So the teachings of Lord Caitanya Mahāprabhu are there. Caitanya-caritāmṛta is there. If you study scrutinizingly Caitanya Mahāprabhu's teachings to Sanātana Gosvāmī, then you also get the machine. There is no difficulty. And as soon as you get the machine, and if you know how to handle it properly, then you get all the information. It is not difficult. And how to handle properly the machine, that is being taught by example, personal example by Sanātana Gosvāmī, that he's approaching Caitanya Mahāprabhu very humbly. He's not proud of his past position that he was a minister, he was a moneyed man, rich man, born of a brāhmaṇa family and so on, so on. He's humbly presenting him that "I am the most fallen. I am the most fallen." So "I never knew the actual goal of my life. I do not know what is beneficial to me." That is the position of everyone. Nobody knows what is the ultimate goal of life. They think that "We have got this body, and let us enjoy the senses to the fullest extent. That is the highest perfection of life." Get some material education—technologist, or something else, material education—get some good post, get good salary and eat nicely, drink nicely and enjoy your senses. This is perfection of life. This is going on all over the world. But that is not the goal of life. Therefore, because that is not the goal of life, and we know that this is goal of life, therefore we require the enlightenment from the bona fide...
+
+SOURCE: https://github.com/iskconpress/spoken/blob/master/721019ak.vrn.txt
+
+---
+
+🕉 Humble greetings to the devotees.
+
+**Prabhupāda:** Then the next question is, "Then what is the price? What shall I have to pay for it?" And Rūpa Gosvāmī says, "Oh, the price is simply eagerness."
+
+"Tatra laulyam..."
+
+"Yes, I must have Kṛṣṇa consciousness." That is the price.
+
+"Laulyam," that eagerness is not achieved even after many, many births. That is the price. Therefore, it requires a little intelligence. "Oh, such a valuable thing? I can purchase only by eagerness? Why not become eager immediately?" That is intelligence.
+
+You are German or Australian or...
+
+**Prabhupāda:** So, Pāṇḍava and Vṛṣṇi dynasty, Kuntī belongs to both families.
+
+SOURCE: https://github.com/iskconpress/spoken/blob/master/690909rc.ham.txt
+
+---
+
+🕉 Humble greetings to the devotees.
+
+**Prabhupāda:** Just like this wonderful machine, computer. But still, there is an operator. But they have no common sense, even that: where is the machine that is working without any operator? Where is that machine within their experience? How they suggest that nature is doing automatically? Nature is a wonderful machine, but the operator is Kṛṣṇa. That is real knowledge.
+
+**Prabhupāda:** Because the machine is working wonderfully, there is no operator? Where is that experience? Have you got any experience, Dr. Wolf, like that?
+
+**Dr. Wolf-Rottkay:** No, sir, I don't.
+
+**Prabhupāda:** Then? Oh, we have got any experience? You have got any experience? Then why do you say nonsense, this? You have no experience, and you say something nonsense, ludicrous. They say "nature." What is the nature? Nature is a machine only. Just like the harmonium: it is also a machine, but if one expert operator is there, it makes very melodious, "Oh, nice." Will the harmonium play automatically and bring melodious sound?
+
+**Prabhupāda:** So they have no common sense even; still, they are scientist. That is our regret. They are less than common-sense men. That you have to expose, that these people have not even common sense, and they are passing on as scientists. That you must protest because you are a servant of God, you are a servant of the scientist. Call them directly rascal. Let them defend that they are not rascal.
+
+**Prabhupāda:** He brought some scientist. I called him, "You are rascal, you are demon, you are..." [laughs] But he tolerated. But means in... internally he accepted that he is a rascal. [laughs] Actually, they... They have no common sense even. We are not scientists, but we speak from common sense, that's all.
+
+**Prabhupāda:** Yesterday or the day before yesterday, I was talking on common sense on law points, so Rūpānuga said that "You are bigger than a lawyer." I do not know that I am bigger than a lawyer, but I was speaking on common sense.
+
+**Prabhupāda:** The difficulty is they are misleading. So many people are being misled by the so-called politicians and scientists and... But Gandhi says... He has written so many nonsense things. One thing is that he said, "I do not believe that there was anybody as Kṛṣṇa living ever. Kṛṣṇa is of my imagination." These things he has written. And he is Mahatma Gandhi.
+
+**Prabhupāda:** Mahātmā's definition is there in the Bhagavad-gītā:
+> mahātmānas tu māṁ pārtha daivīṁ prakṛtim āśritāḥ
+> [Bg. 9.13]
+
+**Prabhupāda:** Mahātmā means devotee, who has understood vāsudevaḥ sarvam iti [Bg. 7.19]. But these rascal politicians, they have become mahātmā. For politics, they can do anything, lie like anybody, and so many things.
+
+**Prabhupāda:** There was a big writer in Bengal. So he is giving evidence in the court... That's a comic. So, he says, "Do you think I am editor? I am pleader? I am prostitute?" Means indirectly he is saying that they are prostitutes. As the prostitute can say anything, I mean to lies, for their profession, similarly, these people, the editor and the pleaders, they are like that. "Do you think I am prostitute? Do you think I am lawyer?"
+
+SOURCE: https://github.com/iskconpress/spoken/blob/master/750301r2.atl.txt
+
+4️⃣ FACT EXTRACTION
+--------------------------------------------------------------------------------
+Direct spoken content provided
+
+5️⃣ FINAL ANSWER
+--------------------------------------------------------------------------------
+🕉 Humble greetings to the devotees.
+
+**Devotee:** [indistinct] lecture or something.
+**Prabhupāda:** Page number?
+
+SOURCE: https://github.com/iskconpress/spoken/blob/master/760726r2.lon.txt
+
+---
+
+🕉 Humble greetings to the devotees.
+
+**Prabhupāda:** Is that all right?
+**Devotee (2):** Yes.
+**Prabhupāda:** The teacher will remember all the work of the dictionary. [laughs] You can refer to the dictionary. [laughter]
+
+**Prabhupāda:** Huh?
+
+SOURCE: https://github.com/iskconpress/spoken/blob/master/711210rc.del.txt
+
+---
+
+🕉 Humble greetings to the devotees.
+
+**Prabhupāda:** The guru is Nārada. Next guru is Vyāsadeva. Next guru is Madhvācārya, and so many others, and their branches. In this way, Caitanya Mahāprabhu, then the Gosvāmīs, then Śrīnivāsa, Śrīnivāsa Ācārya, Narottama dāsa Ṭhākura. In this way, the paramparā is coming. So this is the machine. How can I understand this machine is correct? Yes, it is correct. How is it correct? You can corroborate. The Bhagavad-gītā says, the original machine, Kṛṣṇa, says:
+
+> "sarva-dharmān parityaja mām ekaṁ śaraṇaṁ vraja."
+
+So the same message is being broadcast in the Kṛṣṇa consciousness movement. What we are speaking? We are speaking, "Give up everything. Just surrender to Kṛṣṇa." Is not that the same machine? If you keep the words, the vibration of the machine, the same, then it is the same machine. You get the correct information. Kṛṣṇa is speaking about Himself, about His abode, about the spiritual world, the activities. Kṛṣṇa is speaking everything in the Śrīmad-Bhāgavatam, in Bhagavad-gītā. We don't require to change unnecessarily. If we present the same thing as it is, as we are presenting Bhagavad-gītā as it is, then the machine is there. You can get all the information. There is no difficulty. Just like you are getting by the present machine, radio machine, the message from far, distant place, similarly, you can get all the information of the spiritual world by the proper machine: the Bhagavad-gītā received through the paramparā, disciplic succession of bona fide spiritual masters. It is not difficult.
+
+So Sanātana Gosvāmī is receiving the message of the spiritual world through the exigency of Lord Caitanya Mahāprabhu. So the teachings of Lord Caitanya Mahāprabhu are there. Caitanya-caritāmṛta is there. If you study scrutinizingly Caitanya Mahāprabhu's teachings to Sanātana Gosvāmī, then you also get the machine. There is no difficulty. And as soon as you get the machine, and if you know how to handle it properly, then you get all the information. It is not difficult. And how to handle properly the machine, that is being taught by example, personal example by Sanātana Gosvāmī, that he's approaching Caitanya Mahāprabhu very humbly. He's not proud of his past position that he was a minister, he was a moneyed man, rich man, born of a brāhmaṇa family and so on, so on. He's humbly presenting him that "I am the most fallen. I am the most fallen." So "I never knew the actual goal of my life. I do not know what is beneficial to me." That is the position of everyone. Nobody knows what is the ultimate goal of life. They think that "We have got this body, and let us enjoy the senses to the fullest extent. That is the highest perfection of life." Get some material education—technologist, or something else, material education—get some good post, get good salary and eat nicely, drink nicely and enjoy your senses. This is perfection of life. This is going on all over the world. But that is not the goal of life. Therefore, because that is not the goal of life, and we know that this is goal of life, therefore we require the enlightenment from the bona fide...
+
+SOURCE: https://github.com/iskconpress/spoken/blob/master/721019ak.vrn.txt
+
+---
+
+🕉 Humble greetings to the devotees.
+
+**Prabhupāda:** Then the next question is, "Then what is the price? What shall I have to pay for it?" And Rūpa Gosvāmī says, "Oh, the price is simply eagerness."
+
+"Tatra laulyam..."
+
+"Yes, I must have Kṛṣṇa consciousness." That is the price.
+
+"Laulyam," that eagerness is not achieved even after many, many births. That is the price. Therefore, it requires a little intelligence. "Oh, such a valuable thing? I can purchase only by eagerness? Why not become eager immediately?" That is intelligence.
+
+You are German or Australian or...
+
+**Prabhupāda:** So, Pāṇḍava and Vṛṣṇi dynasty, Kuntī belongs to both families.
+
+SOURCE: https://github.com/iskconpress/spoken/blob/master/690909rc.ham.txt
+
+---
+
+🕉 Humble greetings to the devotees.
+
+**Prabhupāda:** Just like this wonderful machine, computer. But still, there is an operator. But they have no common sense, even that: where is the machine that is working without any operator? Where is that machine within their experience? How they suggest that nature is doing automatically? Nature is a wonderful machine, but the operator is Kṛṣṇa. That is real knowledge.
+
+**Prabhupāda:** Because the machine is working wonderfully, there is no operator? Where is that experience? Have you got any experience, Dr. Wolf, like that?
+
+**Dr. Wolf-Rottkay:** No, sir, I don't.
+
+**Prabhupāda:** Then? Oh, we have got any experience? You have got any experience? Then why do you say nonsense, this? You have no experience, and you say something nonsense, ludicrous. They say "nature." What is the nature? Nature is a machine only. Just like the harmonium: it is also a machine, but if one expert operator is there, it makes very melodious, "Oh, nice." Will the harmonium play automatically and bring melodious sound?
+
+**Prabhupāda:** So they have no common sense even; still, they are scientist. That is our regret. They are less than common-sense men. That you have to expose, that these people have not even common sense, and they are passing on as scientists. That you must protest because you are a servant of God, you are a servant of the scientist. Call them directly rascal. Let them defend that they are not rascal.
+
+**Prabhupāda:** He brought some scientist. I called him, "You are rascal, you are demon, you are..." [laughs] But he tolerated. But means in... internally he accepted that he is a rascal. [laughs] Actually, they... They have no common sense even. We are not scientists, but we speak from common sense, that's all.
+
+**Prabhupāda:** Yesterday or the day before yesterday, I was talking on common sense on law points, so Rūpānuga said that "You are bigger than a lawyer." I do not know that I am bigger than a lawyer, but I was speaking on common sense.
+
+**Prabhupāda:** The difficulty is they are misleading. So many people are being misled by the so-called politicians and scientists and... But Gandhi says... He has written so many nonsense things. One thing is that he said, "I do not believe that there was anybody as Kṛṣṇa living ever. Kṛṣṇa is of my imagination." These things he has written. And he is Mahatma Gandhi.
+
+**Prabhupāda:** Mahātmā's definition is there in the Bhagavad-gītā:
+> mahātmānas tu māṁ pārtha daivīṁ prakṛtim āśritāḥ
+> [Bg. 9.13]
+
+**Prabhupāda:** Mahātmā means devotee, who has understood vāsudevaḥ sarvam iti [Bg. 7.19]. But these rascal politicians, they have become mahātmā. For politics, they can do anything, lie like anybody, and so many things.
+
+**Prabhupāda:** There was a big writer in Bengal. So he is giving evidence in the court... That's a comic. So, he says, "Do you think I am editor? I am pleader? I am prostitute?" Means indirectly he is saying that they are prostitutes. As the prostitute can say anything, I mean to lies, for their profession, similarly, these people, the editor and the pleaders, they are like that. "Do you think I am prostitute? Do you think I am lawyer?"
+
+SOURCE: https://github.com/iskconpress/spoken/blob/master/750301r2.atl.txt
+
+6️⃣ METRICS AND ANALYSIS
+--------------------------------------------------------------------------------
+Target Prabhupada Content Ratio: 70%
+Actual Prabhupada Content Ratio: 100%
+Answer Length Setting: short
+Answer Format: conversational
+Devotee Level: neophyte
+
+7️⃣ DETAILED SOURCE CITATIONS
+--------------------------------------------------------------------------------
+Source #1: 760726r2.lon (Unknown)
+  URL: https://github.com/iskconpress/spoken/blob/master/760726r2.lon.txt
+  Content Types: No content details available
+
+Source #2: 711210rc.del (Unknown)
+  URL: https://github.com/iskconpress/spoken/blob/master/711210rc.del.txt
+  Content Types: No content details available
+
+Source #3: 721019ak.vrn (Unknown)
+  URL: https://github.com/iskconpress/spoken/blob/master/721019ak.vrn.txt
+  Content Types: No content details available
+
+Source #4: 690909rc.ham (Unknown)
+  URL: https://github.com/iskconpress/spoken/blob/master/690909rc.ham.txt
+  Content Types: No content details available
+
+Source #5: 750301r2.atl (Unknown)
+  URL: https://github.com/iskconpress/spoken/blob/master/750301r2.atl.txt
+  Content Types: No content details available
+
+8️⃣ PERFORMANCE METRICS
+--------------------------------------------------------------------------------
+Search Time: 14.35 seconds
+Total Processing Time: 15.28 seconds
+
+================================================================================
+ANALYSIS SUMMARY
+================================================================================
+- Query successfully processed through 1 source(s)
+- Retrieved 5 relevant passages
+- Final answer contains approximately 100% of Prabhupada's direct words
+- Results saved to: testing/rag_results_20250724_130420.txt

@@ -1,0 +1,98 @@
+================================================================================
+PRABHUPADA RAG SYSTEM ANALYSIS RESULTS - 2025-07-25 15:24:17
+================================================================================
+
+1️⃣ QUERY PROCESSING
+--------------------------------------------------------------------------------
+Original Query: tell me about revival of the kaliyuga
+into spokens
+Refined Query: Refined query: "spoken revival of Kali-yuga"
+
+2️⃣ SOURCE SELECTION
+--------------------------------------------------------------------------------
+Detected Sources: spoken
+
+3️⃣ RETRIEVED CONTEXT
+--------------------------------------------------------------------------------
+Retrieved 1 source(s)
+
+### The Symptoms of Kali-yuga
+
+**Prabhupāda:** [leads singing of Jaya Rādhā-Mādhava] [prema-dhvani] [break]
+
+**Nitāi:** [leads chanting of verse]
+SHLOKA:
+**pādair nyūnaṁ śocasi maika-pādam**
+**ātmānaṁ vā vṛṣalair bhokṣyamāṇam**
+**āho surādīn hṛṣta-yajña-bhāgān**
+**prajā uta svin maghavaty avarṣati**
+— *SB 1.16.20*
+
+**Prabhupāda:** Others will recite. Others will recite. Practice.
+
+**Nitāi:** [leads synonyms]
+
+**Prabhupāda:** "I have lost my three legs and am now standing on one leg only. Are you lamenting for my state of existence? Or are you in great anxiety because henceforward the unlawful meat-eaters will exploit you? Or are you in sorry plight because the demigods are now bereft of their share of sacrificial offerings because no sacrifices are being performed at present? Or are you grieving for the living beings because of their sufferings due to famine and drought?"
+
+**Prabhupāda:** These are the symptoms of this Kali-yuga. The first thing is that "I have lost my three legs, now standing on one leg only." At the present moment in the Kali-yuga, practically there is no religion. So the bull is the representative of religious ceremony, so he is saying that "Now I have lost my three legs. I am standing, only one leg." So in the Satya-yuga people were very religious, full, four parts full. In the Dvāpara-yuga, then one part was missing, only three parts. Then Tretā-yuga. Satya, Tretā, then Dvāpara. But in the Kali-yuga, the one part of religiosity, that is also diminishing. This is one of the symptoms. And another symptom: "Or are you in great anxiety because henceforward the unlawful meat-eaters will exploit you?" The unlawful meat-eaters, they will eat cows and bulls. This is predicted in this verse. The Śrīmad-Bhāgavatam was written five thousand years ago. So at that time the prediction is there that in the Kali-yuga the meat-eaters will be unlawful and they will especially eat cows and bulls.
+
+**Key Insight:** *The symptoms of Kali-yuga are the decline of religiosity, the exploitation of animals, and the suffering of living beings due to famine and drought.*
+
+SOURCE: https://github.com/iskconpress/spoken/blob/master/740710sb.la.txt
+
+4️⃣ FACT EXTRACTION
+--------------------------------------------------------------------------------
+Direct spoken content provided
+
+5️⃣ FINAL ANSWER
+--------------------------------------------------------------------------------
+### The Symptoms of Kali-yuga
+
+**Prabhupāda:** [leads singing of Jaya Rādhā-Mādhava] [prema-dhvani] [break]
+
+**Nitāi:** [leads chanting of verse]
+SHLOKA:
+**pādair nyūnaṁ śocasi maika-pādam**
+**ātmānaṁ vā vṛṣalair bhokṣyamāṇam**
+**āho surādīn hṛṣta-yajña-bhāgān**
+**prajā uta svin maghavaty avarṣati**
+— *SB 1.16.20*
+
+**Prabhupāda:** Others will recite. Others will recite. Practice.
+
+**Nitāi:** [leads synonyms]
+
+**Prabhupāda:** "I have lost my three legs and am now standing on one leg only. Are you lamenting for my state of existence? Or are you in great anxiety because henceforward the unlawful meat-eaters will exploit you? Or are you in sorry plight because the demigods are now bereft of their share of sacrificial offerings because no sacrifices are being performed at present? Or are you grieving for the living beings because of their sufferings due to famine and drought?"
+
+**Prabhupāda:** These are the symptoms of this Kali-yuga. The first thing is that "I have lost my three legs, now standing on one leg only." At the present moment in the Kali-yuga, practically there is no religion. So the bull is the representative of religious ceremony, so he is saying that "Now I have lost my three legs. I am standing, only one leg." So in the Satya-yuga people were very religious, full, four parts full. In the Dvāpara-yuga, then one part was missing, only three parts. Then Tretā-yuga. Satya, Tretā, then Dvāpara. But in the Kali-yuga, the one part of religiosity, that is also diminishing. This is one of the symptoms. And another symptom: "Or are you in great anxiety because henceforward the unlawful meat-eaters will exploit you?" The unlawful meat-eaters, they will eat cows and bulls. This is predicted in this verse. The Śrīmad-Bhāgavatam was written five thousand years ago. So at that time the prediction is there that in the Kali-yuga the meat-eaters will be unlawful and they will especially eat cows and bulls.
+
+**Key Insight:** *The symptoms of Kali-yuga are the decline of religiosity, the exploitation of animals, and the suffering of living beings due to famine and drought.*
+
+SOURCE: https://github.com/iskconpress/spoken/blob/master/740710sb.la.txt
+
+6️⃣ METRICS AND ANALYSIS
+--------------------------------------------------------------------------------
+Target Prabhupada Content Ratio: 70%
+Actual Prabhupada Content Ratio: 100%
+Answer Length Setting: short
+Answer Format: conversational
+Devotee Level: neophyte
+
+7️⃣ DETAILED SOURCE CITATIONS
+--------------------------------------------------------------------------------
+Source #1: 740710sb.la (Unknown)
+  URL: https://github.com/iskconpress/spoken/blob/master/740710sb.la.txt
+  Content Types: No content details available
+
+8️⃣ PERFORMANCE METRICS
+--------------------------------------------------------------------------------
+Search Time: 3.14 seconds
+Total Processing Time: 3.74 seconds
+
+================================================================================
+ANALYSIS SUMMARY
+================================================================================
+- Query successfully processed through 1 source(s)
+- Retrieved 1 relevant passages
+- Final answer contains approximately 100% of Prabhupada's direct words
+- Results saved to: testing/rag_results_20250725_152417.txt

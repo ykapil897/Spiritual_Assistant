@@ -1,0 +1,122 @@
+================================================================================
+PRABHUPADA RAG SYSTEM ANALYSIS RESULTS - 2025-07-30 10:45:36
+================================================================================
+
+1️⃣ QUERY PROCESSING
+--------------------------------------------------------------------------------
+Original Query: ✅ A short but powerful passage (1–2 paragraphs verbatim) from Srila Prabhupada’s books, lectures, letters, or conversations that matches the topic.
+✅ The direct clickable Prabhupada.io link for verification.
+✅ 4 multiple-choice questions where multiple answers may be correct.
+✅ 1 analytical long-answer question for deeper reflection.
+
+from conversation and spokens , i want a answer 
+
+Day 4: Who and Who, i want,  can preach Bhagavad Gita?
+Refined Query: Refined query: "spoken conversation who can preach Bhagavad Gita"
+
+2️⃣ SOURCE SELECTION
+--------------------------------------------------------------------------------
+Detected Sources: spoken
+
+3️⃣ RETRIEVED CONTEXT
+--------------------------------------------------------------------------------
+Retrieved 1 source(s)
+
+SOURCE: https://github.com/iskconpress/spoken/blob/master/740207bg.vrn.txt Here is the formatted transcript:
+
+### 📖 The History of the Bhagavad-gītā
+
+**Prabhupāda:** That is the rough estimate of the history of the Bhagavad-gītā, according to the Bhagavad-gītā itself and according to the version of the speaker, Lord Śrī Kṛṣṇa. It was spoken to the sun-god because he is also a **kṣatriya** and is the father of all **kṣatriyas** who are descendants of the sun-god, or the **sūrya-vaṁśa kṣatriyas**. Because Bhagavad-gītā is as good as the **Vedas**, being spoken by the Supreme Personality of Godhead, this knowledge is known as **apauruṣeya**, superhuman. Since the Vedic instructions are accepted as they are, without human interpretation, the Bhagavad-gītā must therefore be accepted without mundane interpretation. The mundane wranglers may speculate on the Bhagavad-gītā in their own way, but that is not Bhagavad-gītā as it is. Therefore Bhagavad-gītā has to be accepted as it is, from the disciplic succession, and it is described herein that the Lord spoke to the sun-god, the sun-god spoke to his son Manu, and Manu spoke to his son Ikṣvāku.
+
+**Prabhupāda:** The people are not able to hear it. People are so impatient that they cannot hear it even.
+
+**Guest:** What are you requesting?
+
+**Prabhupāda:** We are requesting simply by hearing: **sthāne sthitāḥ śruti-gatāṁ tanu-vāṅ-manobhir** [SB 10.14.3]. If one simply hears, never mind if he remains in his own position—either **gṛhastha**, **sannyāsī**, or **brahmācari**, it doesn't matter—just let him hear. But he cannot patiently hear. That is the qualification observed in me by my Guru Mahārāja when he accepted me as **celā**. At that time he recommended that "This boy hears. He does not go away." That was my qualification. And I was also hearing him. I could not follow him—still I was trying to hear. That was my...: "Let me hear." I used to hear his speaking, not to understand. Even I cannot understand what he has spoken—still not—but I used to hear him; therefore he accepted me. Hearing is so important. People cannot even hear, especially. They have become so disturbed, impatient; he cannot hear. It is pinching. The hearing becomes pinching. **Māyā** kicks him, "Get out, get out." [laughter]
+
+### 📖 The Importance of Hearing
+
+*Key Insight: Hearing is the key to spiritual growth.*
+
+**Prabhupāda:** All right, have **kīrtana**. [leads kīrtana]
+
+### 📖 A Verse from Śrīmad-Bhāgavatam
+
+SHLOKA:
+
+**yatas tataś copaninye**
+**nyāyato 'nyāyato dhanaṁ**
+**babhārāsyāḥ kuṭumbinyāḥ**
+**kuṭumbaṁ manda-dhīr ayam**
+— *SB 6.1.66*
+
+---
+## 🛑 END OF CONVERSATION
+
+
+
+4️⃣ FACT EXTRACTION
+--------------------------------------------------------------------------------
+Direct spoken content provided
+
+5️⃣ FINAL ANSWER
+--------------------------------------------------------------------------------
+SOURCE: https://github.com/iskconpress/spoken/blob/master/740207bg.vrn.txt Here is the formatted transcript:
+
+### 📖 The History of the Bhagavad-gītā
+
+**Prabhupāda:** That is the rough estimate of the history of the Bhagavad-gītā, according to the Bhagavad-gītā itself and according to the version of the speaker, Lord Śrī Kṛṣṇa. It was spoken to the sun-god because he is also a **kṣatriya** and is the father of all **kṣatriyas** who are descendants of the sun-god, or the **sūrya-vaṁśa kṣatriyas**. Because Bhagavad-gītā is as good as the **Vedas**, being spoken by the Supreme Personality of Godhead, this knowledge is known as **apauruṣeya**, superhuman. Since the Vedic instructions are accepted as they are, without human interpretation, the Bhagavad-gītā must therefore be accepted without mundane interpretation. The mundane wranglers may speculate on the Bhagavad-gītā in their own way, but that is not Bhagavad-gītā as it is. Therefore Bhagavad-gītā has to be accepted as it is, from the disciplic succession, and it is described herein that the Lord spoke to the sun-god, the sun-god spoke to his son Manu, and Manu spoke to his son Ikṣvāku.
+
+**Prabhupāda:** The people are not able to hear it. People are so impatient that they cannot hear it even.
+
+**Guest:** What are you requesting?
+
+**Prabhupāda:** We are requesting simply by hearing: **sthāne sthitāḥ śruti-gatāṁ tanu-vāṅ-manobhir** [SB 10.14.3]. If one simply hears, never mind if he remains in his own position—either **gṛhastha**, **sannyāsī**, or **brahmācari**, it doesn't matter—just let him hear. But he cannot patiently hear. That is the qualification observed in me by my Guru Mahārāja when he accepted me as **celā**. At that time he recommended that "This boy hears. He does not go away." That was my qualification. And I was also hearing him. I could not follow him—still I was trying to hear. That was my...: "Let me hear." I used to hear his speaking, not to understand. Even I cannot understand what he has spoken—still not—but I used to hear him; therefore he accepted me. Hearing is so important. People cannot even hear, especially. They have become so disturbed, impatient; he cannot hear. It is pinching. The hearing becomes pinching. **Māyā** kicks him, "Get out, get out." [laughter]
+
+### 📖 The Importance of Hearing
+
+*Key Insight: Hearing is the key to spiritual growth.*
+
+**Prabhupāda:** All right, have **kīrtana**. [leads kīrtana]
+
+### 📖 A Verse from Śrīmad-Bhāgavatam
+
+SHLOKA:
+
+**yatas tataś copaninye**
+**nyāyato 'nyāyato dhanaṁ**
+**babhārāsyāḥ kuṭumbinyāḥ**
+**kuṭumbaṁ manda-dhīr ayam**
+— *SB 6.1.66*
+
+---
+## 🛑 END OF CONVERSATION
+
+
+
+6️⃣ METRICS AND ANALYSIS
+--------------------------------------------------------------------------------
+Target Prabhupada Content Ratio: 70%
+Actual Prabhupada Content Ratio: 100%
+Answer Length Setting: short
+Answer Format: conversational
+Devotee Level: neophyte
+
+7️⃣ DETAILED SOURCE CITATIONS
+--------------------------------------------------------------------------------
+Source #1: 740207bg.vrn (Unknown)
+  URL: https://github.com/iskconpress/spoken/blob/master/740207bg.vrn.txt
+  Content Types: No content details available
+
+8️⃣ PERFORMANCE METRICS
+--------------------------------------------------------------------------------
+Search Time: 16.61 seconds
+Total Processing Time: 25.68 seconds
+
+================================================================================
+ANALYSIS SUMMARY
+================================================================================
+- Query successfully processed through 1 source(s)
+- Retrieved 1 relevant passages
+- Final answer contains approximately 100% of Prabhupada's direct words
+- Results saved to: testing/rag_results_20250730_104536.txt

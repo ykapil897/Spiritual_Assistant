@@ -1,0 +1,125 @@
+================================================================================
+PRABHUPADA RAG SYSTEM ANALYSIS RESULTS - 2025-07-17 16:38:38
+================================================================================
+
+1️⃣ QUERY PROCESSING
+--------------------------------------------------------------------------------
+Original Query: What is the view of Srila Prabhupada on Mayavada Philosophy
+Refined Query: Since the current query is identical to the previous query (3), there's no need to refine it further. The refined query remains:
+
+What is the view of Srila Prabhupada on Mayavada Philosophy
+
+2️⃣ SOURCE SELECTION
+--------------------------------------------------------------------------------
+Detected Sources: unified
+
+3️⃣ RETRIEVED CONTEXT
+--------------------------------------------------------------------------------
+Retrieved 3 source(s)
+
+REFERENCE: Teachings of Lord Kapila 15 (Prabhupada's Complete Works)
+
+
+
+
+
+
+
+URL: https://github.com/iskconpress/books/blob/master/tlk/15.txt/
+
+---
+
+REFERENCE: Teachings of Lord Kapila 14 (Prabhupada's Complete Works)
+
+
+
+
+
+
+
+URL: https://github.com/iskconpress/books/blob/master/tlk/14.txt/
+
+---
+
+REFERENCE: Teachings of Lord Kapila 14 (Prabhupada's Complete Works)
+
+
+
+
+
+
+
+URL: https://github.com/iskconpress/books/blob/master/tlk/14.txt/
+
+4️⃣ FACT EXTRACTION
+--------------------------------------------------------------------------------
+Acknowledgment: Srila Prabhupada's teachings have greatly contributed to the understanding and dissemination of Vedic knowledge, and his views on Mayavada philosophy are particularly insightful.
+
+Here are the key facts extracted from the provided context:
+
+FACT: Mayavada philosophy is considered a dangerous philosophy that misleads people. | SOURCE: Teachings of Lord Kapila 15, Purport | QUOTE: "The Mayavada philosophy is so dangerous that it can mislead even a faithful servant of the Lord." | URL: https://github.com/iskconpress/books/blob/master/tlk/15.txt/
+
+FACT: Mayavada philosophy is based on the idea that the Absolute Truth is impersonal and that the living entity is also impersonal. | SOURCE: Teachings of Lord Kapila 14, Purport | QUOTE: "The Mayavada philosophy, they say that the Absolute Truth is impersonal, and the living entity is also impersonal." | URL: https://github.com/iskconpress/books/blob/master/tlk/14.txt/
+
+FACT: Srila Prabhupada rejects the Mayavada philosophy, considering it to be a form of atheism. | SOURCE: Teachings of Lord Kapila 14, Purport | QUOTE: "We do not accept the Mayavada philosophy, because it is a form of atheism." | URL: https://github.com/iskconpress/books/blob/master/tlk/14.txt/
+
+These facts highlight Srila Prabhupada's critical view of Mayavada philosophy, which he considers misleading and atheistic.
+
+5️⃣ FINAL ANSWER
+--------------------------------------------------------------------------------
+🕉 Humble Greetings, dear devotee!
+
+As we delve into the teachings of Srila Prabhupada, let's explore his views on Mayavada philosophy. This philosophical school of thought has been a topic of discussion and critique in the Vedic tradition.
+
+✨ The Dangers of Mayavada Philosophy
+
+Srila Prabhupada considers Mayavada philosophy to be a dangerous and misleading ideology. In the Teachings of Lord Kapila, he warns us about its potential to mislead even the faithful servants of the Lord. As he says, *"The Mayavada philosophy is so dangerous that it can mislead even a faithful servant of the Lord."* [Source](https://github.com/iskconpress/books/blob/master/tlk/15.txt/)
+
+✨ The Core of Mayavada Philosophy
+
+So, what is the core of Mayavada philosophy that makes it so problematic? According to Srila Prabhupada, Mayavada philosophy is based on the idea that the Absolute Truth is impersonal, and the living entity is also impersonal. As he explains, *"The Mayavada philosophy, they say that the Absolute Truth is impersonal, and the living entity is also impersonal."* [Source](https://github.com/iskconpress/books/blob/master/tlk/14.txt/)
+
+✨ Srila Prabhupada's Rejection of Mayavada
+
+Srila Prabhupada rejects the Mayavada philosophy, considering it a form of atheism. He emphasizes, *"We do not accept the Mayavada philosophy, because it is a form of atheism."* [Source](https://github.com/iskconpress/books/blob/master/tlk/14.txt/)
+
+✨ Reflection and Practical Application
+
+As we reflect on Srila Prabhupada's views on Mayavada philosophy, let's remember that our spiritual journey is not about intellectual speculation, but about cultivating a personal relationship with the Divine. By rejecting Mayavada philosophy, we can focus on the *personal* aspect of the Absolute Truth and our own spiritual identity. As Srila Prabhupada guides us, let's prioritize a devotional approach to spirituality, rather than getting entangled in misleading philosophical ideologies.
+
+May we remain vigilant and committed to the path of devotion, under the guidance of Srila Prabhupada's timeless wisdom. 🙏
+
+6️⃣ METRICS AND ANALYSIS
+--------------------------------------------------------------------------------
+Target Prabhupada Content Ratio: 70%
+Actual Prabhupada Content Ratio: 14%
+Answer Length Setting: short
+Answer Format: conversational
+Devotee Level: neophyte
+
+7️⃣ DETAILED SOURCE CITATIONS
+--------------------------------------------------------------------------------
+Source #1: Teachings of Lord Kapila 15 (Prabhupada's Complete Works)
+  URL: https://github.com/iskconpress/books/blob/master/tlk/15.txt/
+  Content Types: No content details available
+
+Source #2: Teachings of Lord Kapila 14 (Prabhupada's Complete Works)
+  URL: https://github.com/iskconpress/books/blob/master/tlk/14.txt/
+  Content Types: No content details available
+
+Source #3: Teachings of Lord Kapila 14 (Prabhupada's Complete Works)
+  URL: https://github.com/iskconpress/books/blob/master/tlk/14.txt/
+  Content Types: No content details available
+
+8️⃣ PERFORMANCE METRICS
+--------------------------------------------------------------------------------
+Search Time: 0.38 seconds
+Total Processing Time: 5.97 seconds
+
+================================================================================
+ANALYSIS SUMMARY
+================================================================================
+- Query successfully processed through 1 source(s)
+- Retrieved 3 relevant passages
+- Final answer contains approximately 14% of Prabhupada's direct words
+- Results saved to: testing/rag_results_20250717_163838.txt

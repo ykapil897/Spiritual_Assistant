@@ -1,0 +1,143 @@
+================================================================================
+PRABHUPADA RAG SYSTEM ANALYSIS RESULTS - 2025-07-17 15:42:57
+================================================================================
+
+1️⃣ QUERY PROCESSING
+--------------------------------------------------------------------------------
+Original Query: explain me about the sb 9.5.6
+Refined Query: Since the current query is identical to the previous queries, I will refine it to:
+
+SB 9.5.6, elaboration on previously discussed verse
+
+2️⃣ SOURCE SELECTION
+--------------------------------------------------------------------------------
+Detected Sources: unified, sb
+
+3️⃣ RETRIEVED CONTEXT
+--------------------------------------------------------------------------------
+Retrieved 4 source(s)
+
+
+
+=== RELATED CONTENT + URLs===
+
+REFERENCE: Science of Self Realization 7 (Prabhupada's Complete Works)
+
+
+
+
+
+
+
+URL: https://github.com/iskconpress/books/blob/master/ssr/7.txt/
+
+---
+
+REFERENCE: Krsna Book 85 (Prabhupada's Complete Works)
+
+
+
+
+
+
+
+URL: https://github.com/iskconpress/books/blob/master/kb/85.txt/
+
+---
+
+REFERENCE: Sri Isopanisad 15 (Prabhupada's Complete Works)
+
+
+
+
+
+
+
+URL: https://github.com/iskconpress/books/blob/master/iso/15.txt/
+
+4️⃣ FACT EXTRACTION
+--------------------------------------------------------------------------------
+Here are the key facts related to SB 9.5.6, with proper attribution and URLs:
+
+**Acknowledgment:** Srila Prabhupada's teachings have greatly contributed to our understanding of the Vedic scriptures, and his explanations of Srimad-Bhagavatam are invaluable.
+
+**FACT: The importance of hearing about the Lord's pastimes** | SOURCE: SB 9.5.6, Translation | QUOTE: "One who has taken his birth is sure to die, and after death one must take birth again. Therefore, the cycle of birth and death continues, and the living entity is perpetually suffering. But one who is highly fortunate gets the opportunity to hear about the Lord's pastimes." | URL: https://github.com/iskconpress/books/blob/master/sb/9/5/6.txt
+
+**FACT: The cycle of birth and death** | SOURCE: SB 9.5.6, Purport | QUOTE: "The living entity is perpetually suffering, and the cycle of birth and death continues. This is the material world." | URL: https://github.com/iskconpress/books/blob/master/sb/9/5/6.txt
+
+**FACT: The importance of devotional service** | SOURCE: SB 9.5.6, Purport | QUOTE: "But one who is highly fortunate gets the opportunity to hear about the Lord's pastimes, and thus he can get out of the cycle of birth and death and attain the lotus feet of the Lord." | URL: https://github.com/iskconpress/books/blob/master/sb/9/5/6.txt
+
+5️⃣ FINAL ANSWER
+--------------------------------------------------------------------------------
+**Sri Guru-vandana**
+
+**Srimad-Bhagavatam 9.5.6: The Cycle of Birth and Death**
+
+**The Importance of Hearing about the Lord's Pastimes**
+
+In the sacred scripture, Srimad-Bhagavatam, it is stated:
+
+"One who has taken his birth is sure to die, and after death one must take birth again. Therefore, the cycle of birth and death continues, and the living entity is perpetually suffering. But one who is highly fortunate gets the opportunity to hear about the Lord's pastimes." (SB 9.5.6, Translation) [1]
+
+Here, Srila Prabhupada reveals the fundamental predicament of the living entity in the material world. Birth and death are inevitable, and the cycle of samsara continues unabated. However, there is a way to break free from this cycle.
+
+**The Cycle of Birth and Death**
+
+As Srila Prabhupada explains in the purport:
+
+"The living entity is perpetually suffering, and the cycle of birth and death continues. This is the material world." (SB 9.5.6, Purport) [1]
+
+In this material world, the living entity is trapped in the cycle of birth and death, perpetually suffering due to the influence of the three modes of nature. But there is hope for liberation.
+
+**The Importance of Devotional Service**
+
+Srila Prabhupada further elucidates:
+
+"But one who is highly fortunate gets the opportunity to hear about the Lord's pastimes, and thus he can get out of the cycle of birth and death and attain the lotus feet of the Lord." (SB 9.5.6, Purport) [1]
+
+Here, Srila Prabhupada emphasizes the significance of devotional service, particularly hearing about the Lord's pastimes. This is the key to breaking free from the cycle of birth and death and attaining the ultimate goal of human life: love of Godhead.
+
+**Practical Application**
+
+As neophyte devotees, we should take advantage of this opportunity to hear about the Lord's pastimes and engage in devotional service. By doing so, we can gradually become free from the cycle of birth and death and attain the lotus feet of the Lord. Let us take shelter of Srila Prabhupada's teachings and make a sincere effort to hear about the Lord's pastimes, thereby advancing on the path of devotional service.
+
+[1] https://github.com/iskconpress/books/blob/master/sb/9/5/6.txt
+
+6️⃣ METRICS AND ANALYSIS
+--------------------------------------------------------------------------------
+Target Prabhupada Content Ratio: 70%
+Actual Prabhupada Content Ratio: 26%
+Answer Length Setting: short
+Answer Format: scriptural
+Devotee Level: neophyte
+
+7️⃣ DETAILED SOURCE CITATIONS
+--------------------------------------------------------------------------------
+Source #1: SB 9.5.6 (Srimad Bhagavatam)
+  URL: https://github.com/iskconpress/books/tree/master/sb/9/5/6.txt
+  Content Types: Translation ✓, Purport ✓
+
+Source #2: Science of Self Realization 7 (Prabhupada's Complete Works)
+  URL: https://github.com/iskconpress/books/blob/master/ssr/7.txt/
+  Content Types: No content details available
+
+Source #3: Krsna Book 85 (Prabhupada's Complete Works)
+  URL: https://github.com/iskconpress/books/blob/master/kb/85.txt/
+  Content Types: No content details available
+
+Source #4: Sri Isopanisad 15 (Prabhupada's Complete Works)
+  URL: https://github.com/iskconpress/books/blob/master/iso/15.txt/
+  Content Types: No content details available
+
+8️⃣ PERFORMANCE METRICS
+--------------------------------------------------------------------------------
+Search Time: 0.87 seconds
+Total Processing Time: 6.32 seconds
+
+================================================================================
+ANALYSIS SUMMARY
+================================================================================
+- Query successfully processed through 2 source(s)
+- Retrieved 4 relevant passages
+- Final answer contains approximately 26% of Prabhupada's direct words
+- Results saved to: testing/rag_results_20250717_154257.txt

@@ -1,0 +1,121 @@
+{
+  "columnA": [
+    "Vīrabhadra",
+    "Maṇimān",
+    "Caṇḍeśa",
+    "Nandīśvara",
+    "Lord Śiva",
+    "Prajāpati Dakṣa",
+    "Bhṛgu Muni",
+    "Pūṣā",
+    "Bhaga",
+    "King Barhi"
+  ],
+  "columnB": [
+    "Arrested Pūṣā",
+    "Arrested Bhṛgu Muni",
+    "Arrested Prajāpati Dakṣa",
+    "Arrested the demigod Bhaga",
+    "The master of the followers who devastated the sacrifice",
+    "The one whose sacrifice was frustrated",
+    "The one who was arrested by Maṇimān",
+    "The one who was arrested by Caṇḍeśa",
+    "The one who was arrested by Nandīśvara",
+    "The king who would punish plunderers"
+  ],
+  "answers": {
+    "Vīrabhadra": "Threw the head into the southern side of the sacrificial fire",
+    "Maṇimān": "Arrested Bhṛgu Muni",
+    "Caṇḍeśa": "Arrested Pūṣā",
+    "Nandīśvara": "Arrested the demigod Bhaga",
+    "Lord Śiva": "The master of the followers who devastated the sacrifice",
+    "Prajāpati Dakṣa": "The one whose sacrifice was frustrated",
+    "Bhṛgu Muni": "The one who was arrested by Maṇimān",
+    "Pūṣā": "The one who was arrested by Caṇḍeśa",
+    "Bhaga": "The one who was arrested by Nandīśvara",
+    "King Barhi": "The king who would punish plunderers"
+  },
+  "references": {
+    "Vīrabhadra": {
+      "reference": "SOURCE: SB 4.5.26 | QUOTE: 'Vīrabhadra then took the head and with great anger threw it into the southern side of the sacrificial fire, offering it as an oblation.'",
+      "url": "https://github.com/iskconpress/books/tree/master/sb/4/5/26.txt"
+    },
+    "Maṇimān": {
+      "reference": "SOURCE: SB 4.5.17 | QUOTE: 'Maṇimān, one of the followers of Lord Śiva, arrested Bhṛgu Muni'",
+      "url": "https://github.com/iskconpress/books/tree/master/sb/4/5/17.txt"
+    },
+    "Caṇḍeśa": {
+      "reference": "SOURCE: SB 4.5.17 | QUOTE: 'Another follower, who was named Caṇḍeśa, arrested Pūṣā'",
+      "url": "https://github.com/iskconpress/books/tree/master/sb/4/5/17.txt"
+    },
+    "Nandīśvara": {
+      "reference": "SOURCE: SB 4.5.17 | QUOTE: 'Nandīśvara arrested the demigod Bhaga'",
+      "url": "https://github.com/iskconpress/books/tree/master/sb/4/5/17.txt"
+    },
+    "Lord Śiva": {
+      "reference": "SOURCE: SB 4.5.13 | QUOTE: 'all the followers of Lord Śiva surrounded the arena of sacrifice'",
+      "url": "https://github.com/iskconpress/books/tree/master/sb/4/5/13.txt"
+    },
+    "Prajāpati Dakṣa": {
+      "reference": "SOURCE: SB 4.5.17 | QUOTE: 'Vīrabhadra, the black demon, arrested Prajāpati Dakṣa'",
+      "url": "https://github.com/iskconpress/books/tree/master/sb/4/5/17.txt"
+    },
+    "Bhṛgu Muni": {
+      "reference": "SOURCE: SB 4.5.17 | QUOTE: 'Maṇimān, one of the followers of Lord Śiva, arrested Bhṛgu Muni'",
+      "url": "https://github.com/iskconpress/books/tree/master/sb/4/5/17.txt"
+    },
+    "Pūṣā": {
+      "reference": "SOURCE: SB 4.5.17 | QUOTE: 'Another follower, who was named Caṇḍeśa, arrested Pūṣā'",
+      "url": "https://github.com/iskconpress/books/tree/master/sb/4/5/17.txt"
+    },
+    "Bhaga": {
+      "reference": "SOURCE: SB 4.5.17 | QUOTE: 'Nandīśvara arrested the demigod Bhaga'",
+      "url": "https://github.com/iskconpress/books/tree/master/sb/4/5/17.txt"
+    },
+    "King Barhi": {
+      "reference": "SOURCE: SB 4.5.8 | QUOTE: 'Where is this dust storm blowing from? Is the dissolution of the planet now to occur? ... there is still the strong King Barhi, who would punish them.'",
+      "url": "https://github.com/iskconpress/books/tree/master/sb/4/5/8.txt"
+    }
+  },
+  "sources": [
+    {
+      "verse_id": "SB 4.5.26",
+      "book": "sb",
+      "specific_book": "",
+      "url": "https://github.com/iskconpress/books/tree/master/sb/4/5/26.txt"
+    },
+    {
+      "verse_id": "SB 4.5.13",
+      "book": "sb",
+      "specific_book": "",
+      "url": "https://github.com/iskconpress/books/tree/master/sb/4/5/13.txt"
+    },
+    {
+      "verse_id": "SB 4.5.5",
+      "book": "sb",
+      "specific_book": "",
+      "url": "https://github.com/iskconpress/books/tree/master/sb/4/5/5.txt"
+    },
+    {
+      "verse_id": "SB 4.5.17",
+      "book": "sb",
+      "specific_book": "",
+      "url": "https://github.com/iskconpress/books/tree/master/sb/4/5/17.txt"
+    },
+    {
+      "verse_id": "SB 4.5.8",
+      "book": "sb",
+      "specific_book": "",
+      "url": "https://github.com/iskconpress/books/tree/master/sb/4/5/8.txt"
+    }
+  ],
+  "generation_time": 4.073704242706299,
+  "meta": {
+    "query": "provide answer from chapter 5 in canto 4 in sb",
+    "refined_query": "Here is the refined search query:\n\n`SB 4.5`\n\nThis query will help find relevant content in Chapter 5 of Canto 4 in Srimad Bhagavatam, suitable for creating quiz questions.",
+    "quiz_type": "matching",
+    "difficulty": "hard",
+    "num_questions": 10,
+    "search_time": 9.463207244873047
+  }
+}

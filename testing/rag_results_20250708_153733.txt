@@ -1,0 +1,129 @@
+================================================================================
+PRABHUPADA RAG SYSTEM ANALYSIS RESULTS - 2025-07-08 15:37:33
+================================================================================
+
+1️⃣ QUERY PROCESSING
+--------------------------------------------------------------------------------
+Original Query: tell me something about from the cc adi 9.5
+Refined Query: Here is the refined query:
+
+"Relationship between Krishna as the Supreme Personality of Godhead (as discussed earlier) and the teachings in Cc. Adi 9.5"
+
+Note: I've included the reference to the previous query about Krishna being called the Supreme Personality of Godhead, as it provides context to the current query.
+
+2️⃣ SOURCE SELECTION
+--------------------------------------------------------------------------------
+Detected Sources: cc
+
+3️⃣ RETRIEVED CONTEXT
+--------------------------------------------------------------------------------
+Retrieved 1 source(s)
+
+REFERENCE: CC Adi 9.5 (Sri Caitanya-caritamrta)
+
+VERSE: 
+
+TRANSLATION: It is by the mercy of all these Vaiṣṇavas and gurus that I attempt to write about the pastimes and qualities of Lord Caitanya Mahāprabhu. Whether I know or know not, it is for self-purification that I write this book.
+
+PURPORT BY SRILA PRABHUPADA: This is the sum and substance of transcendental writing. One must be an authorized Vaiṣṇava, humble and pure. One should write transcendental literature to purify oneself, not for credit. By writing about the pastimes of the Lord, one associates with the Lord directly. One should not ambitiously think, "I shall become a great author. I shall be celebrated as a writer." These are material desires. One should attempt to write for self-purification. It may be published or it may not be published, but that does not matter. If one is actually sincere in writing, all his ambitions will be fulfilled. Whether one is known as a great author is incidental. One should not attempt to write transcendental literature for material name and fame.
+
+URL: https://github.com/iskconpress/books/tree/master/cc/adi/9/5.txt
+
+4️⃣ FACT EXTRACTION
+--------------------------------------------------------------------------------
+Here are the extracted key facts from CC Adi 9.5:
+
+**Acknowledgment:** Srila Prabhupada's teachings have greatly contributed to our understanding of spiritual life, and his writings continue to inspire and guide us on the path of self-realization.
+
+**FACT 1: Writing for self-purification**
+| SOURCE: CC Adi 9.5, Purport |
+| QUOTE: "One should write transcendental literature to purify oneself, not for credit." |
+| URL: https://github.com/iskconpress/books/tree/master/cc/adi/9/5.txt |
+
+**FACT 2: Association with the Lord through writing**
+| SOURCE: CC Adi 9.5, Purport |
+| QUOTE: "By writing about the pastimes of the Lord, one associates with the Lord directly." |
+| URL: https://github.com/iskconpress/books/tree/master/cc/adi/9/5.txt |
+
+**FACT 3: Avoiding material desires in writing**
+| SOURCE: CC Adi 9.5, Purport |
+| QUOTE: "One should not ambitiously think, 'I shall become a great author. I shall be celebrated as a writer.' These are material desires." |
+| URL: https://github.com/iskconpress/books/tree/master/cc/adi/9/5.txt |
+
+**FACT 4: Sincerity in writing leads to fulfillment**
+| SOURCE: CC Adi 9.5, Purport |
+| QUOTE: "If one is actually sincere in writing, all his ambitions will be fulfilled." |
+| URL: https://github.com/iskconpress/books/tree/master/cc/adi/9/5.txt |
+
+5️⃣ FINAL ANSWER
+--------------------------------------------------------------------------------
+**Session Title:** The Power of Writing for Self-Realization
+
+**Gita Reference:** None
+
+Welcome, dear devotees, to today's session, where we'll delve into the significance of writing as a means of self-purification and spiritual growth. Srila Prabhupada's teachings in Caitanya Caritamrta, Adi-lila 9.5, offer valuable insights into the importance of writing for the right reasons and with the right attitude.
+
+**Opening Hook:**
+Imagine you're an aspiring writer, eager to share your thoughts and ideas with the world. You've always been passionate about writing, but you're not sure if it's a worthy pursuit for a devotee. Srila Prabhupada's words will guide us in understanding the role of writing in our spiritual journey. As he says, "One should write transcendental literature to purify oneself, not for credit." (CC Adi 9.5, Purport) [1]
+
+**Core Teaching:**
+Writing can be a powerful tool for self-purification, but it's essential to approach it with the right mindset. Srila Prabhupada emphasizes that our motivation should be to purify ourselves, not to seek recognition or fame. When we write about the Lord's pastimes, we associate with Him directly, which is a form of devotional service. As Srila Prabhupada puts it, "By writing about the pastimes of the Lord, one associates with the Lord directly." (CC Adi 9.5, Purport) [1]
+
+**Frameworks or Levels:**
+There are two primary levels to consider when it comes to writing as a devotee:
+
+1. **Material desires:** When we write with the intention of gaining recognition, fame, or wealth, we're operating on a material level. Srila Prabhupada warns us, "One should not ambitiously think, 'I shall become a great author. I shall be celebrated as a writer.' These are material desires." (CC Adi 9.5, Purport) [1]
+2. **Spiritual sincerity:** On the other hand, when we write with sincerity, humility, and a desire to serve the Lord, we're operating on a spiritual level. Srila Prabhupada assures us, "If one is actually sincere in writing, all his ambitions will be fulfilled." (CC Adi 9.5, Purport) [1]
+
+**Practical Application:**
+Take a few moments to reflect on your motivations for writing. Ask yourself:
+
+* What drives me to write?
+* Is it to gain recognition or to serve the Lord?
+* How can I approach writing as a means of self-purification and devotional service?
+
+**Micro-practice:**
+Set aside 15 minutes each day to write about the Lord's pastimes or your personal spiritual journey. Focus on sincerity and humility, rather than seeking recognition or fame.
+
+**Closing Reflection:**
+As we conclude today's session, let's remember Srila Prabhupada's words: "One should write transcendental literature to purify oneself, not for credit." (CC Adi 9.5, Purport) [1] May we approach writing as a means of self-purification, association with the Lord, and devotional service.
+
+**Key Quotes:**
+
+* "One should write transcendental literature to purify oneself, not for credit." (CC Adi 9.5, Purport) [1]
+* "By writing about the pastimes of the Lord, one associates with the Lord directly." (CC Adi 9.5, Purport) [1]
+* "One should not ambitiously think, 'I shall become a great author. I shall be celebrated as a writer.' These are material desires." (CC Adi 9.5, Purport) [1]
+* "If one is actually sincere in writing, all his ambitions will be fulfilled." (CC Adi 9.5, Purport) [1]
+
+**Summary:**
+In today's session, we explored the significance of writing as a means of self-purification and spiritual growth. We learned that writing can be a powerful tool for association with the Lord, but it's essential to approach it with sincerity, humility, and a desire to serve. By doing so, we can fulfill our ambitions and make progress on the path of self-realization.
+
+References:
+[1] https://github.com/iskconpress/books/tree/master/cc/adi/9/5.txt
+
+6️⃣ METRICS AND ANALYSIS
+--------------------------------------------------------------------------------
+Target Prabhupada Content Ratio: 0%
+Actual Prabhupada Content Ratio: 21%
+Answer Length Setting: long
+Answer Format: lecture
+Devotee Level: intermediate
+
+7️⃣ DETAILED SOURCE CITATIONS
+--------------------------------------------------------------------------------
+Source #1: CC Adi 9.5 (Sri Caitanya-caritamrta)
+  URL: https://github.com/iskconpress/books/tree/master/cc/adi/9/5.txt
+  Content Types: Translation ✓, Purport ✓
+
+8️⃣ PERFORMANCE METRICS
+--------------------------------------------------------------------------------
+Search Time: 0.04 seconds
+Total Processing Time: 4.64 seconds
+
+================================================================================
+ANALYSIS SUMMARY
+================================================================================
+- Query successfully processed through 1 source(s)
+- Retrieved 1 relevant passages
+- Final answer contains approximately 21% of Prabhupada's direct words
+- Results saved to: testing/rag_results_20250708_153733.txt

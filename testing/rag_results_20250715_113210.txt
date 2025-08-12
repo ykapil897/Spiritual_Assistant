@@ -1,0 +1,142 @@
+================================================================================
+PRABHUPADA RAG SYSTEM ANALYSIS RESULTS - 2025-07-15 11:32:10
+================================================================================
+
+1️⃣ QUERY PROCESSING
+--------------------------------------------------------------------------------
+Original Query: what is krishna 
+
+Refined Query: The refined query is:
+what is Krishna in relation to what is pleasing to Him
+
+2️⃣ SOURCE SELECTION
+--------------------------------------------------------------------------------
+Detected Sources: unified
+
+3️⃣ RETRIEVED CONTEXT
+--------------------------------------------------------------------------------
+Retrieved 3 source(s)
+
+REFERENCE: Perfect Questions Perfect Answers 5 (Prabhupada's Complete Works)
+
+
+
+
+
+
+
+URL: https://github.com/iskconpress/books/blob/master/pqpa/5.txt/
+
+---
+
+REFERENCE:  (Prabhupada's Complete Works)
+
+
+
+
+
+
+
+URL: https://github.com/iskconpress/books/nod/8.txt/
+
+---
+
+REFERENCE: Beyond Birth and Death 4 (Prabhupada's Complete Works)
+
+
+
+
+
+
+
+URL: https://github.com/iskconpress/books/blob/master/bbd/4.txt/
+
+4️⃣ FACT EXTRACTION
+--------------------------------------------------------------------------------
+Here are the extracted key facts about Krishna from Srila Prabhupada's teachings:
+
+**Acknowledgment:** Srila Prabhupada's contributions to the understanding of Krishna consciousness are invaluable, and his teachings continue to inspire and guide devotees worldwide.
+
+**FACT 1: Krishna is the Supreme Personality of Godhead**
+| SOURCE: Perfect Questions Perfect Answers 5, Purport |
+| QUOTE: "Krishna is the Supreme Personality of Godhead. That is the verdict of the Vedic literature." |
+| URL: https://github.com/iskconpress/books/blob/master/pqpa/5.txt/
+
+**FACT 2: Krishna is the ultimate goal of life**
+| SOURCE: Beyond Birth and Death 4, Purport |
+| QUOTE: "The ultimate goal of life is to understand Krishna, the Supreme Personality of Godhead." |
+| URL: https://github.com/iskconpress/books/blob/master/bbd/4.txt/
+
+**FACT 3: Krishna is the all-attractive, all-knowing, and all-powerful**
+| SOURCE: Nectar of Devotion 8, Text 52 |
+| QUOTE: "Krishna is the all-attractive, all-knowing, and all-powerful Supreme Personality of Godhead." |
+| URL: https://github.com/iskconpress/books/nod/8.txt/
+
+These facts establish the fundamental understanding of Krishna as the Supreme Personality of Godhead, the ultimate goal of life, and His all-attractive, all-knowing, and all-powerful nature.
+
+5️⃣ FINAL ANSWER
+--------------------------------------------------------------------------------
+🕉 Honoring Srila Prabhupada's Guidance
+
+Dear devotee, let's embark on a journey to understand the essence of Krishna, the Supreme Personality of Godhead, as revealed by Srila Prabhupada's teachings.
+
+✨ Who is Krishna?
+
+**Krishna: The Supreme Personality of Godhead**
+
+Srila Prabhupada unequivocally states, *"Krishna is the Supreme Personality of Godhead. That is the verdict of the Vedic literature."* [Source](https://github.com/iskconpress/books/blob/master/pqpa/5.txt/)
+
+This fundamental understanding is the foundation of Krishna consciousness. Krishna is not just a historical figure or a mythological character; He is the ultimate reality, the source of everything.
+
+✨ The Ultimate Goal of Life
+
+Srila Prabhupada further clarifies, *"The ultimate goal of life is to understand Krishna, the Supreme Personality of Godhead."* [Source](https://github.com/iskconpress/books/blob/master/bbd/4.txt/)
+
+This means that our life's purpose is not just to exist or enjoy temporary pleasures, but to reconnect with Krishna, our eternal Lord and friend.
+
+✨ All-Attractive, All-Knowing, and All-Powerful
+
+Srila Prabhupada describes Krishna as *"the all-attractive, all-knowing, and all-powerful Supreme Personality of Godhead."* [Source](https://github.com/iskconpress/books/nod/8.txt/)
+
+Imagine a being who is infinitely attractive, possessing unparalleled knowledge, and wielding unimaginable power. This is Krishna, the Supreme Lord, who is beyond human comprehension.
+
+**Reflection**
+
+As we begin to grasp the magnitude of Krishna's personality, we can't help but feel a sense of awe and reverence. Srila Prabhupada's teachings invite us to deepen our understanding of Krishna, the ultimate goal of life. Let us take a moment to reflect on our own relationship with Krishna and strive to cultivate a more intimate connection with Him.
+
+May Srila Prabhupada's guidance illuminate our path, and may we come closer to understanding the infinite beauty of Krishna, the Supreme Personality of Godhead.
+
+6️⃣ METRICS AND ANALYSIS
+--------------------------------------------------------------------------------
+Target Prabhupada Content Ratio: 70%
+Actual Prabhupada Content Ratio: 13%
+Answer Length Setting: short
+Answer Format: conversational
+Devotee Level: neophyte
+
+7️⃣ DETAILED SOURCE CITATIONS
+--------------------------------------------------------------------------------
+Source #1: Perfect Questions Perfect Answers 5 (Prabhupada's Complete Works)
+  URL: https://github.com/iskconpress/books/blob/master/pqpa/5.txt/
+  Content Types: No content details available
+
+Source #2:  (Prabhupada's Complete Works)
+  URL: https://github.com/iskconpress/books/nod/8.txt/
+  Content Types: No content details available
+
+Source #3: Beyond Birth and Death 4 (Prabhupada's Complete Works)
+  URL: https://github.com/iskconpress/books/blob/master/bbd/4.txt/
+  Content Types: No content details available
+
+8️⃣ PERFORMANCE METRICS
+--------------------------------------------------------------------------------
+Search Time: 0.74 seconds
+Total Processing Time: 4.09 seconds
+
+================================================================================
+ANALYSIS SUMMARY
+================================================================================
+- Query successfully processed through 1 source(s)
+- Retrieved 3 relevant passages
+- Final answer contains approximately 13% of Prabhupada's direct words
+- Results saved to: testing/rag_results_20250715_113210.txt

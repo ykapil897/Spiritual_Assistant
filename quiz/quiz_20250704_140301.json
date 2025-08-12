@@ -1,0 +1,115 @@
+{
+  "questions": [
+    {
+      "statement": "V\u012brabhadra threw the head of Dak\u1e63a into the northern side of the sacrificial fire.",
+      "answer": "False",
+      "explanation": "According to SB 4.5.26, V\u012brabhadra threw the head into the southern side of the sacrificial fire.",
+      "reference": "SB 4.5.26 (purport) | QUOTE: 'V\u012brabhadra then took the head and with great anger threw it into the southern side of the sacrificial fire, offering it as an oblation.'",
+      "url": "https://github.com/iskconpress/books/tree/master/sb/4/5/26.txt"
+    },
+    {
+      "statement": "The followers of Lord \u015aiva were of tall stature and equipped with flowers and garlands.",
+      "answer": "False",
+      "explanation": "According to SB 4.5.13, the followers of Lord \u015aiva were of short stature and equipped with various kinds of weapons.",
+      "reference": "SB 4.5.13 (purport) | QUOTE: 'They were of short stature and were equipped with various kinds of weapons; their bodies appeared to be like those of sharks, blackish and yellowish.'",
+      "url": "https://github.com/iskconpress/books/tree/master/sb/4/5/13.txt"
+    },
+    {
+      "statement": "The personified anger of the Supreme Personality of Godhead was prepared to execute the orders of Lord Brahm\u0101.",
+      "answer": "False",
+      "explanation": "According to SB 4.5.5, the personified anger of the Supreme Personality of Godhead was prepared to execute the orders of Lord \u015aiva.",
+      "reference": "SB 4.5.5 (purport) | QUOTE: 'That black person was the personified anger of the Supreme Personality of Godhead, and he was prepared to execute the orders of Lord \u015aiva.'",
+      "url": "https://github.com/iskconpress/books/tree/master/sb/4/5/5.txt"
+    },
+    {
+      "statement": "Ma\u1e47im\u0101n arrested Praj\u0101pati Dak\u1e63a, and V\u012brabhadra arrested Bh\u1e5bgu Muni.",
+      "answer": "False",
+      "explanation": "According to SB 4.5.17, Ma\u1e47im\u0101n arrested Bh\u1e5bgu Muni, and V\u012brabhadra arrested Praj\u0101pati Dak\u1e63a.",
+      "reference": "SB 4.5.17 (purport) | QUOTE: 'Ma\u1e47im\u0101n, one of the followers of Lord \u015aiva, arrested Bh\u1e5bgu Muni, and V\u012brabhadra, the black demon, arrested Praj\u0101pati Dak\u1e63a.'",
+      "url": "https://github.com/iskconpress/books/tree/master/sb/4/5/17.txt"
+    },
+    {
+      "statement": "The demigod Bhaga was arrested by Ca\u1e47\u1e0de\u015ba.",
+      "answer": "True",
+      "explanation": "According to SB 4.5.17, Nand\u012b\u015bvara arrested the demigod Bhaga.",
+      "reference": "SB 4.5.17 (purport) | QUOTE: 'Nand\u012b\u015bvara arrested the demigod Bhaga.'",
+      "url": "https://github.com/iskconpress/books/tree/master/sb/4/5/17.txt"
+    },
+    {
+      "statement": "The dust storm was caused by the wind blowing from the east.",
+      "answer": "False",
+      "explanation": "According to SB 4.5.8, the origin of the dust storm was unknown, and it was not caused by wind or cows or plunderers.",
+      "reference": "SB 4.5.8 (purport) | QUOTE: 'Conjecturing on the origin of the storm, they said: There is no wind blowing, and no cows are passing, nor is it possible that this dust storm could be raised by plunderers, for there is still the strong King Barhi, who would punish them.'",
+      "url": "https://github.com/iskconpress/books/tree/master/sb/4/5/8.txt"
+    },
+    {
+      "statement": "The followers of Lord \u015aiva created disturbances in the sacrificial arena by playing musical instruments.",
+      "answer": "False",
+      "explanation": "According to SB 4.5.13, the followers of Lord \u015aiva created disturbances in the sacrificial arena by running around it.",
+      "reference": "SB 4.5.13 (purport) | QUOTE: 'They ran all around the sacrificial arena and thus began to create disturbances.'",
+      "url": "https://github.com/iskconpress/books/tree/master/sb/4/5/13.txt"
+    },
+    {
+      "statement": "V\u012brabhadra was a devotee of Lord Vi\u1e63\u1e47u.",
+      "answer": "False",
+      "explanation": "According to the context, V\u012brabhadra was a follower of Lord \u015aiva.",
+      "reference": "SB 4.5.26 (purport) | QUOTE: 'V\u012brabhadra then took the head and with great anger threw it into the southern side of the sacrificial fire, offering it as an oblation.'",
+      "url": "https://github.com/iskconpress/books/tree/master/sb/4/5/26.txt"
+    },
+    {
+      "statement": "King Barhi was present in the sacrificial arena when the dust storm occurred.",
+      "answer": "True",
+      "explanation": "According to SB 4.5.8, King Barhi was mentioned as a strong king who would punish plunderers, implying his presence in the area.",
+      "reference": "SB 4.5.8 (purport) | QUOTE: 'for there is still the strong King Barhi, who would punish them.'",
+      "url": "https://github.com/iskconpress/books/tree/master/sb/4/5/8.txt"
+    },
+    {
+      "statement": "The followers of Lord \u015aiva were peaceful and gentle in nature.",
+      "answer": "False",
+      "explanation": "According to the context, the followers of Lord \u015aiva were aggressive and violent, causing disturbances in the sacrificial arena.",
+      "reference": "SB 4.5.13 (purport) | QUOTE: 'They ran all around the sacrificial arena and thus began to create disturbances.'",
+      "url": "https://github.com/iskconpress/books/tree/master/sb/4/5/13.txt"
+    }
+  ],
+  "sources": [
+    {
+      "verse_id": "SB 4.5.26",
+      "book": "sb",
+      "specific_book": "",
+      "url": "https://github.com/iskconpress/books/tree/master/sb/4/5/26.txt"
+    },
+    {
+      "verse_id": "SB 4.5.13",
+      "book": "sb",
+      "specific_book": "",
+      "url": "https://github.com/iskconpress/books/tree/master/sb/4/5/13.txt"
+    },
+    {
+      "verse_id": "SB 4.5.5",
+      "book": "sb",
+      "specific_book": "",
+      "url": "https://github.com/iskconpress/books/tree/master/sb/4/5/5.txt"
+    },
+    {
+      "verse_id": "SB 4.5.17",
+      "book": "sb",
+      "specific_book": "",
+      "url": "https://github.com/iskconpress/books/tree/master/sb/4/5/17.txt"
+    },
+    {
+      "verse_id": "SB 4.5.8",
+      "book": "sb",
+      "specific_book": "",
+      "url": "https://github.com/iskconpress/books/tree/master/sb/4/5/8.txt"
+    }
+  ],
+  "generation_time": 4.593632936477661,
+  "meta": {
+    "query": "provide answer from chapter 5 in canto 4 in sb",
+    "refined_query": "Here is the refined search query:\n\n`SB 4.5.*`\n\nThis query will search for all passages in Chapter 5 of Canto 4 in the Srimad Bhagavatam, which should provide relevant content for creating quiz questions.",
+    "quiz_type": "true-false",
+    "difficulty": "hard",
+    "num_questions": 10,
+    "search_time": 10.690784454345703
+  }
+}

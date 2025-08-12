@@ -1,0 +1,121 @@
+{
+  "columnA": [
+    "Vīrabhadra",
+    "Maṇimān",
+    "Caṇḍeśa",
+    "Nandīśvara",
+    "Bhṛgu Muni",
+    "Prajāpati Dakṣa",
+    "Pūṣā",
+    "Bhaga",
+    "King Barhi",
+    "Lord Śiva"
+  ],
+  "columnB": [
+    "Arrested Pūṣā",
+    "The personified anger of the Supreme Personality of Godhead",
+    "Arrested Prajāpati Dakṣa",
+    "Arrested Bhṛgu Muni",
+    "A demigod",
+    "The one whose sacrifice was frustrated",
+    "A follower of Lord Śiva who arrested Bhṛgu Muni",
+    "A strong king who would punish plunderers",
+    "A black demon who threw the head into the sacrificial fire",
+    "The master of Vīrabhadra and others"
+  ],
+  "answers": {
+    "Vīrabhadra": "A black demon who threw the head into the sacrificial fire",
+    "Maṇimān": "A follower of Lord Śiva who arrested Bhṛgu Muni",
+    "Caṇḍeśa": "Arrested Pūṣā",
+    "Nandīśvara": "Arrested the demigod Bhaga",
+    "Bhṛgu Muni": "Arrested by Maṇimān",
+    "Prajāpati Dakṣa": "The one whose sacrifice was frustrated",
+    "Pūṣā": "Arrested by Caṇḍeśa",
+    "Bhaga": "A demigod arrested by Nandīśvara",
+    "King Barhi": "A strong king who would punish plunderers",
+    "Lord Śiva": "The master of Vīrabhadra and others"
+  },
+  "references": {
+    "Vīrabhadra": {
+      "reference": "SOURCE: SB 4.5.26 | QUOTE: 'Vīrabhadra then took the head and with great anger threw it into the southern side of the sacrificial fire, offering it as an oblation.'",
+      "url": "https://github.com/iskconpress/books/tree/master/sb/4/5/26.txt"
+    },
+    "Maṇimān": {
+      "reference": "SOURCE: SB 4.5.17 | QUOTE: 'Maṇimān, one of the followers of Lord Śiva, arrested Bhṛgu Muni'",
+      "url": "https://github.com/iskconpress/books/tree/master/sb/4/5/17.txt"
+    },
+    "Caṇḍeśa": {
+      "reference": "SOURCE: SB 4.5.17 | QUOTE: 'Another follower, who was named Caṇḍeśa, arrested Pūṣā.'",
+      "url": "https://github.com/iskconpress/books/tree/master/sb/4/5/17.txt"
+    },
+    "Nandīśvara": {
+      "reference": "SOURCE: SB 4.5.17 | QUOTE: 'Nandīśvara arrested the demigod Bhaga.'",
+      "url": "https://github.com/iskconpress/books/tree/master/sb/4/5/17.txt"
+    },
+    "Bhṛgu Muni": {
+      "reference": "SOURCE: SB 4.5.17 | QUOTE: 'Maṇimān, one of the followers of Lord Śiva, arrested Bhṛgu Muni'",
+      "url": "https://github.com/iskconpress/books/tree/master/sb/4/5/17.txt"
+    },
+    "Prajāpati Dakṣa": {
+      "reference": "SOURCE: SB 4.5.17 | QUOTE: 'Vīrabhadra, the black demon, arrested Prajāpati Dakṣa.'",
+      "url": "https://github.com/iskconpress/books/tree/master/sb/4/5/17.txt"
+    },
+    "Pūṣā": {
+      "reference": "SOURCE: SB 4.5.17 | QUOTE: 'Another follower, who was named Caṇḍeśa, arrested Pūṣā.'",
+      "url": "https://github.com/iskconpress/books/tree/master/sb/4/5/17.txt"
+    },
+    "Bhaga": {
+      "reference": "SOURCE: SB 4.5.17 | QUOTE: 'Nandīśvara arrested the demigod Bhaga.'",
+      "url": "https://github.com/iskconpress/books/tree/master/sb/4/5/17.txt"
+    },
+    "King Barhi": {
+      "reference": "SOURCE: SB 4.5.8 | QUOTE: 'Where is this dust storm blowing from? Is the dissolution of the planet now to occur? There is still the strong King Barhi, who would punish them.'",
+      "url": "https://github.com/iskconpress/books/tree/master/sb/4/5/8.txt"
+    },
+    "Lord Śiva": {
+      "reference": "SOURCE: SB 4.5.5 | QUOTE: 'That black person was the personified anger of the Supreme Personality of Godhead, and he was prepared to execute the orders of Lord Śiva.'",
+      "url": "https://github.com/iskconpress/books/tree/master/sb/4/5/5.txt"
+    }
+  },
+  "sources": [
+    {
+      "verse_id": "SB 4.5.26",
+      "book": "sb",
+      "specific_book": "",
+      "url": "https://github.com/iskconpress/books/tree/master/sb/4/5/26.txt"
+    },
+    {
+      "verse_id": "SB 4.5.13",
+      "book": "sb",
+      "specific_book": "",
+      "url": "https://github.com/iskconpress/books/tree/master/sb/4/5/13.txt"
+    },
+    {
+      "verse_id": "SB 4.5.5",
+      "book": "sb",
+      "specific_book": "",
+      "url": "https://github.com/iskconpress/books/tree/master/sb/4/5/5.txt"
+    },
+    {
+      "verse_id": "SB 4.5.17",
+      "book": "sb",
+      "specific_book": "",
+      "url": "https://github.com/iskconpress/books/tree/master/sb/4/5/17.txt"
+    },
+    {
+      "verse_id": "SB 4.5.8",
+      "book": "sb",
+      "specific_book": "",
+      "url": "https://github.com/iskconpress/books/tree/master/sb/4/5/8.txt"
+    }
+  ],
+  "generation_time": 4.020931959152222,
+  "meta": {
+    "query": "provide answer from chapter 5 in canto 4 in sb",
+    "refined_query": "Here is the refined search query:\n\n`SB 4.5.*`\n\nThis query will search for all passages in Chapter 5 of Canto 4 in the Srimad Bhagavatam, which should provide relevant content for creating quiz questions.",
+    "quiz_type": "matching",
+    "difficulty": "hard",
+    "num_questions": 10,
+    "search_time": 9.515857458114624
+  }
+}

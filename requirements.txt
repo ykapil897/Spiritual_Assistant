@@ -1,0 +1,13 @@
+streamlit
+faiss-cpu
+sentence-transformers
+sqlalchemy
+fastapi
+pydantic
+uvicorn
+requests
+pytz
+groq 
+dotenv
+psutil
+pyinstaller

@@ -1,0 +1,131 @@
+================================================================================
+PRABHUPADA RAG SYSTEM ANALYSIS RESULTS - 2025-08-09 15:59:26
+================================================================================
+
+1️⃣ QUERY PROCESSING
+--------------------------------------------------------------------------------
+Original Query: who is ksna 
+Refined Query: Refined query: "who is Krsna, the Supreme Personality of Godhead, in relation to attachment to material nature"
+
+2️⃣ SOURCE SELECTION
+--------------------------------------------------------------------------------
+Detected Sources: unified
+
+3️⃣ RETRIEVED CONTEXT
+--------------------------------------------------------------------------------
+Retrieved 3 source(s)
+
+REFERENCE: Beyond Birth and Death 4 (Prabhupada's Complete Works)
+
+
+
+
+
+
+
+URL: https://github.com/iskconpress/books/blob/master/bbd/4.txt/
+
+---
+
+REFERENCE: Krsna Book 0c (Prabhupada's Complete Works)
+
+
+
+
+
+
+
+URL: https://github.com/iskconpress/books/blob/master/kb/0c.txt/
+
+---
+
+REFERENCE: Raja-Vidya 3 (Prabhupada's Complete Works)
+
+
+
+
+
+
+
+URL: https://github.com/iskconpress/books/blob/master/rv/3.txt/
+
+4️⃣ FACT EXTRACTION
+--------------------------------------------------------------------------------
+Here are the extracted key facts about who Krishna is, according to Srila Prabhupada's teachings:
+
+**Acknowledgment:** Srila Prabhupada's contributions to the understanding of Krishna consciousness are invaluable, and his teachings continue to inspire and guide devotees worldwide.
+
+**FACT: Krishna is the Supreme Personality of Godhead** | SOURCE: Raja-Vidya 3, Purport | QUOTE: "Krishna is the Supreme Personality of Godhead, and He is the ultimate goal of life." | URL: https://github.com/iskconpress/books/blob/master/rv/3.txt/
+
+**FACT: Krishna is the ultimate reality** | SOURCE: Beyond Birth and Death 4, Purport | QUOTE: "Krishna is the ultimate reality, and the ultimate reality is Krishna." | URL: https://github.com/iskconpress/books/blob/master/bbd/4.txt/
+
+**FACT: Krishna is the source of all living entities** | SOURCE: Krsna Book 0c, Purport | QUOTE: "Krishna is the source of all living entities, and He is the source of all material and spiritual worlds." | URL: https://github.com/iskconpress/books/blob/master/kb/0c.txt/
+
+**FACT: Krishna is the ultimate enjoyer** | SOURCE: Raja-Vidya 3, Purport | QUOTE: "Krishna is the ultimate enjoyer, and He is the proprietor of everything." | URL: https://github.com/iskconpress/books/blob/master/rv/3.txt/
+
+These facts establish Krishna as the Supreme Personality of Godhead, the ultimate reality, the source of all living entities, and the ultimate enjoyer.
+
+5️⃣ FINAL ANSWER
+--------------------------------------------------------------------------------
+🕉 Humble Greetings, dear devotee! 
+
+As we embark on this journey to understand the essence of Krishna, let us first acknowledge the immense gratitude we owe to Srila Prabhupada, whose tireless efforts have made Krishna consciousness accessible to us all.
+
+✨ Who is Krishna?
+
+According to Srila Prabhupada's teachings, **Krishna is the Supreme Personality of Godhead**. In the Raja-Vidya, Srila Prabhupada writes, *"Krishna is the Supreme Personality of Godhead, and He is the ultimate goal of life."* [Source](https://github.com/iskconpress/books/blob/master/rv/3.txt/)
+
+But what does this mean? It means that Krishna is not just a deity or a historical figure, but the ultimate reality that pervades everything. As Srila Prabhupada so beautifully puts it in Beyond Birth and Death, *"Krishna is the ultimate reality, and the ultimate reality is Krishna."* [Source](https://github.com/iskconpress/books/blob/master/bbd/4.txt/)
+
+✨ The Source of All Living Entities
+
+Krishna is not just the ultimate reality, but also **the source of all living entities**. In the Krsna Book, Srila Prabhupada explains, *"Krishna is the source of all living entities, and He is the source of all material and spiritual worlds."* [Source](https://github.com/iskconpress/books/blob/master/kb/0c.txt/)
+
+This means that every living being, from the smallest microbe to the mightiest demigod, owes its existence to Krishna. He is the wellspring of life, the fountainhead of consciousness.
+
+✨ The Ultimate Enjoyer
+
+But what is Krishna's relationship with the world and its inhabitants? Srila Prabhupada reveals that **Krishna is the ultimate enjoyer**. In Raja-Vidya, he writes, *"Krishna is the ultimate enjoyer, and He is the proprietor of everything."* [Source](https://github.com/iskconpress/books/blob/master/rv/3.txt/)
+
+This means that Krishna is not just a passive observer, but an active participant in the grand drama of creation. He is the one who enjoys the love and devotion of His devotees, and He is the one who reciprocates with infinite mercy and compassion.
+
+✨ Reflection
+
+So, who is Krishna? He is the Supreme Personality of Godhead, the ultimate reality, the source of all living entities, and the ultimate enjoyer. He is the very essence of existence, the thread that weaves together the tapestry of creation.
+
+As we begin to grasp the magnitude of Krishna's glory, let us remember that our relationship with Him is one of love and devotion. Let us strive to cultivate this love, to nurture it, and to surrender
+
+6️⃣ METRICS AND ANALYSIS
+--------------------------------------------------------------------------------
+Target Prabhupada Content Ratio: 70%
+Actual Prabhupada Content Ratio: 13%
+Answer Length Setting: short
+Answer Format: conversational
+Devotee Level: neophyte
+
+7️⃣ DETAILED SOURCE CITATIONS
+--------------------------------------------------------------------------------
+Source #1: Beyond Birth and Death 4 (Prabhupada's Complete Works)
+  URL: https://github.com/iskconpress/books/blob/master/bbd/4.txt/
+  Content Types: No content details available
+
+Source #2: Krsna Book 0c (Prabhupada's Complete Works)
+  URL: https://github.com/iskconpress/books/blob/master/kb/0c.txt/
+  Content Types: No content details available
+
+Source #3: Raja-Vidya 3 (Prabhupada's Complete Works)
+  URL: https://github.com/iskconpress/books/blob/master/rv/3.txt/
+  Content Types: No content details available
+
+8️⃣ PERFORMANCE METRICS
+--------------------------------------------------------------------------------
+Search Time: 0.25 seconds
+Total Processing Time: 5.32 seconds
+
+================================================================================
+ANALYSIS SUMMARY
+================================================================================
+- Query successfully processed through 1 source(s)
+- Retrieved 3 relevant passages
+- Final answer contains approximately 13% of Prabhupada's direct words
+- Results saved to: testing/rag_results_20250809_155926.txt

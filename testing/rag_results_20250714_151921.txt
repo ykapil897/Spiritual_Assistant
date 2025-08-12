@@ -1,0 +1,138 @@
+================================================================================
+PRABHUPADA RAG SYSTEM ANALYSIS RESULTS - 2025-07-14 15:19:21
+================================================================================
+
+1️⃣ QUERY PROCESSING
+--------------------------------------------------------------------------------
+Original Query: what is more pleasing to krishna
+Refined Query: Since the current query is identical to the previous two queries, I will refine it to:
+
+"elaboration on what is more pleasing to Krishna, building on what is to be done to please Krishna"
+
+This refined query takes into account the previous context and explicitly includes the relevant topic of pleasing Krishna, while also referencing the previous discussion on what is to be done to please Krishna.
+
+2️⃣ SOURCE SELECTION
+--------------------------------------------------------------------------------
+Detected Sources: cc
+
+3️⃣ RETRIEVED CONTEXT
+--------------------------------------------------------------------------------
+Retrieved 3 source(s)
+
+REFERENCE: CC Adi 17.249 (Sri Caitanya-caritamrta)
+
+
+
+TRANSLATION: "Why are You chanting the names 'Gopī, Gopī' instead of the holy name of Lord Kṛṣṇa, which is so glorious? What pious result will You achieve by such chanting?"
+
+PURPORT BY SRILA PRABHUPADA: It is said, //vaiṣṇavera kriyā-mudrā vijñeha nā bujhaya:// no one can understand the activities of a pure devotee. A student or neophyte devotee could not possibly understand why Śrī Caitanya Mahāprabhu was chanting the name of the //gopīs,// nor should the student have asked the Lord about the potency of chanting "Gopī, Gopī." The neophyte student was certainlv convinced of the piety in the chanting of Kṛṣṇa's holy name, but this sort of attitude is also offensive. //Dharma-vrata-tyāga-hutādi-sarva-śubha-kriyā-sāmyam api pramādaḥ:// to chant the holy name of Kṛṣṇa in exchange for the achievement of piety is an offense. This, of course, was unknown to the student. Thus he innocently asked, "What piety is there in the chanting of the name Gopī?" //He// did not know that there is no question of piety or impiety. The chanting of the holy name of Kṛṣṇa or the holy name Gopī is on the transcendental platform of loving affairs. Since he was not expert in understanding such transcendental activities, his question was merely impudent. Thus Śrī Caitanya Mahāprabhu, apparently greatly angry at him, reacted as follows.
+
+URL: https://github.com/iskconpress/books/tree/master/cc/adi/17/249.txt
+
+---
+
+REFERENCE: CC Madhya 9.261 (Sri Caitanya-caritamrta)
+
+
+
+TRANSLATION: "When one comes to the platform of loving service to Lord Kṛṣṇa by executing these nine processes beginning with hearing and chanting, he has attained the fifth platform of success and the limit of life's goals.
+
+PURPORT BY SRILA PRABHUPADA: Everyone is after success in religion, economic development, sense gratification and ultimately merging into the existence of Brahman. These are the general practices of the common man, but according to the strict principles of the //Vedas,// the highest attainment is to rise to the platform of //śravaṇaṁ kīrtanam,// hearing and chanting about the Supreme Personality of Godhead. This is confirmed in //Śrīmad-Bhāgavatam// [[books:sb:1:1:2|(1.1.2)]]:
+
+> dharmaḥ projjhita-kaitavo 'tra paramo nirmatsarāṇāṁ satāṁ
+> vedyaṁ vāstavam atra vastu śiva-daṁ tāpa-trayonmūlanam
+> śrīmad-bhāgavate mahā-muni-kṛte kiṁ vā parair īśvaraḥ
+> sadyo hṛdy avarudhyate 'tra kṛtibhiḥ śuśrūṣubhis tat-kṣaṇāt
+
+"Completely rejecting all religious activities which are materially motivated, this //Bhāgavata Purāṇa// propounds the highest truth, which is understandable by those devotees who are fully pure in heart. The highest truth is reality distinguished from illusion for the welfare of all. Such truth uproots the threefold miseries. This beautiful //Bhāgavatam,// compiled by the great sage Śrī Vyāsadeva, is sufficient in itself for God realization. What is the need of any other scripture? As soon as one attentively and submissively hears the message of //Bhāgavatam,// by this culture of knowledge the Supreme Lord is established within his heart." This verse of //Śrīmad-Bhāgavatam// rejects as cheating processes all religious activities that aim at achieving materialistic goals, including //dharma, artha, kāma// and even //mokṣa,// or liberation.
+
+According to Śrīdhara Svāmī, the material conception of success (//mokṣa,// or liberation) is desired by those in material existence. Devotees, however, not being situated in material existence, have no desire for liberation.
+
+A devotee is always liberated in all stages of life because he is always engaged in the nine items of devotional service (//śravaṇam, kīrtanam,// etc.). Śrī Caitanya Mahāprabhu's philosophy holds that devotional service to Kṛṣṇa always exists in everyone's heart. It simply has to be awakened by the process of //śravaṇaṁ kīrtanaṁ viṣṇoḥ. Śravaṇādi śuddha-citte karaye udaya// [[books:cc:madhya:22:107|(Cc. Madhya 22.107)]]. When a person is actually engaged in devotional service, his eternal relationship with the Lord, the servant-master relationship, is awakened.
+
+URL: https://github.com/iskconpress/books/tree/master/cc/madhya/9/261.txt
+
+---
+
+REFERENCE: CC Adi 1.49 (Sri Caitanya-caritamrta)
+
+
+
+TRANSLATION: "To those who are constantly devoted to serving Me with love, I give the understanding by which they can come to Me."
+
+PURPORT BY SRILA PRABHUPADA: This verse of the //Bhagavad-gītā// [[books:bg:10:10|(Bg. 10.10)]] clearly states how Govindadeva instructs His bona fide devotee. The Lord declares that by enlightenment in theistic knowledge He awards attachment for Him to those who constantly engage in His transcendental loving service. This awakening of divine consciousness enthralls a devotee, who thus relishes his eternal transcendental mellow. Such an awakening is awarded only to those convinced by devotional service about the transcendental nature of the Personality of Godhead. They know that the Supreme Truth, the all-spiritual and all-powerful person, is one without a second and has fully transcendental senses. He is the fountainhead of all emanations. Such pure devotees, always merged in knowledge of Kṛṣṇa and absorbed in Kṛṣṇa consciousness, exchange thoughts and realizations as great scientists exchange their views and discuss the results of their research in scientific academies. Such exchanges of thoughts in regard to Kṛṣṇa give pleasure to the Lord, who therefore favors such devotees with all enlightenment.
+
+URL: https://github.com/iskconpress/books/tree/master/cc/adi/1/49.txt
+
+4️⃣ FACT EXTRACTION
+--------------------------------------------------------------------------------
+Here are the key facts extracted from Srila Prabhupada's teachings:
+
+**Acknowledgment:** Srila Prabhupada's teachings have greatly contributed to our understanding of the principles of Krishna consciousness and the importance of devotional service to Lord Krishna.
+
+**Facts:**
+
+FACT: Chanting the holy name of Krishna or the holy name Gopī is on the transcendental platform of loving affairs, beyond the concept of piety or impiety. | SOURCE: CC Adi 17.249, Purport | QUOTE: "The chanting of the holy name of Kṛṣṇa or the holy name Gopī is on the transcendental platform of loving affairs. Since he was not expert in understanding such transcendental activities, his question was merely impudent." | URL: https://github.com/iskconpress/books/tree/master/cc/adi/17/249.txt
+
+FACT: The highest attainment is to rise to the platform of śravaṇaṁ kīrtanam, hearing and chanting about the Supreme Personality of Godhead. | SOURCE: CC Madhya 9.261, Purport | QUOTE: "According to the strict principles of the Vedas, the highest attainment is to rise to the platform of śravaṇaṁ kīrtanam, hearing and chanting about the Supreme Personality of Godhead." | URL: https://github.com/iskconpress/books/tree/master/cc/madhya/9/261.txt
+
+FACT: Devotional service to Krishna, including śravaṇaṁ kīrtanam, is more pleasing to Krishna than any other religious activity. | SOURCE: CC Adi 1.49, Purport | QUOTE: "The Lord declares that by enlightenment in theistic knowledge He awards attachment for Him to those who constantly engage in His transcendental loving service." | URL: https://github.com/iskconpress/books/tree/master/cc/adi/1/49.txt
+
+5️⃣ FINAL ANSWER
+--------------------------------------------------------------------------------
+🕉 Humble Greetings to Srila Prabhupada 🕉
+
+Dear devotee, let's dive into the wonderful world of Krishna consciousness and explore what pleases Lord Krishna the most.
+
+✨ The Power of Chanting the Holy Name ✨
+
+When we chant the holy name of Krishna or Gopī, we're not just performing a pious act; we're actually on the transcendental platform of loving affairs. As Srila Prabhupada explains, "The chanting of the holy name of Kṛṣṇa or the holy name Gopī is on the transcendental platform of loving affairs." [CC Adi 17.249, Purport](https://github.com/iskconpress/books/tree/master/cc/adi/17/249.txt) This means that chanting is not just about following rules or being good; it's about cultivating a deep, loving relationship with Krishna.
+
+✨ The Highest Attainment ✨
+
+So, what's the highest goal we can strive for in our spiritual journey? According to Srila Prabhupada, it's to rise to the platform of śravaṇaṁ kīrtanam, or hearing and chanting about the Supreme Personality of Godhead. As he says, "According to the strict principles of the Vedas, the highest attainment is to rise to the platform of śravaṇaṁ kīrtanam, hearing and chanting about the Supreme Personality of Godhead." [CC Madhya 9.261, Purport](https://github.com/iskconpress/books/tree/master/cc/madhya/9/261.txt) This means that our ultimate goal is to focus on hearing and chanting about Krishna, which will bring us closer to Him.
+
+✨ What Pleases Krishna the Most ✨
+
+Now, let's answer the question: what is more pleasing to Krishna? The answer lies in devotional service, which includes śravaṇaṁ kīrtanam. As Srila Prabhupada explains, "The Lord declares that by enlightenment in theistic knowledge He awards attachment for Him to those who constantly engage in His transcendental loving service." [CC Adi 1.49, Purport](https://github.com/iskconpress/books/tree/master/cc/adi/1/49.txt) This means that when we engage in devotional service, including hearing and chanting about Krishna, we're doing what pleases Him the most.
+
+✨ Practical Application ✨
+
+So, what can we do to please Krishna more? Let's make a conscious effort to prioritize śravaṇaṁ kīrtanam in our daily lives. Set aside time to hear about Krishna, chant His holy name, and engage in devotional service. As we do so, we'll find ourselves growing closer to Krishna and experiencing the joy of loving relationships with Him.
+
+May we always remember
+
+6️⃣ METRICS AND ANALYSIS
+--------------------------------------------------------------------------------
+Target Prabhupada Content Ratio: 37%
+Actual Prabhupada Content Ratio: 19%
+Answer Length Setting: short
+Answer Format: conversational
+Devotee Level: neophyte
+
+7️⃣ DETAILED SOURCE CITATIONS
+--------------------------------------------------------------------------------
+Source #1: CC Adi 17.249 (Sri Caitanya-caritamrta)
+  URL: https://github.com/iskconpress/books/tree/master/cc/adi/17/249.txt
+  Content Types: Translation ✓, Purport ✓
+
+Source #2: CC Madhya 9.261 (Sri Caitanya-caritamrta)
+  URL: https://github.com/iskconpress/books/tree/master/cc/madhya/9/261.txt
+  Content Types: Translation ✓, Purport ✓
+
+Source #3: CC Adi 1.49 (Sri Caitanya-caritamrta)
+  URL: https://github.com/iskconpress/books/tree/master/cc/adi/1/49.txt
+  Content Types: Translation ✓, Purport ✓
+
+8️⃣ PERFORMANCE METRICS
+--------------------------------------------------------------------------------
+Search Time: 0.52 seconds
+Total Processing Time: 5.00 seconds
+
+================================================================================
+ANALYSIS SUMMARY
+================================================================================
+- Query successfully processed through 1 source(s)
+- Retrieved 3 relevant passages
+- Final answer contains approximately 19% of Prabhupada's direct words
+- Results saved to: testing/rag_results_20250714_151921.txt

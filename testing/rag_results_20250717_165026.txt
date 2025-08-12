@@ -1,0 +1,140 @@
+================================================================================
+PRABHUPADA RAG SYSTEM ANALYSIS RESULTS - 2025-07-17 16:50:26
+================================================================================
+
+1️⃣ QUERY PROCESSING
+--------------------------------------------------------------------------------
+Original Query: Māyāvādīs, impersonalists, are offenders at the lotus feet of Kṛṣṇa, they may nonetheless be counted among the siddhas, those who have realized the self
+Refined Query: Since the current query is identical to the previous query (3), and it doesn't explicitly refer to previous content, I will refine it as a standalone query:
+
+"Māyāvādīs, impersonalists, offenders at the lotus feet of Kṛṣṇa, self-realization, siddhas"
+
+2️⃣ SOURCE SELECTION
+--------------------------------------------------------------------------------
+Detected Sources: unified
+
+3️⃣ RETRIEVED CONTEXT
+--------------------------------------------------------------------------------
+Retrieved 3 source(s)
+
+REFERENCE: Science of Self Realization 3 (Prabhupada's Complete Works)
+
+
+
+
+
+
+
+URL: https://github.com/iskconpress/books/blob/master/ssr/3.txt/
+
+---
+
+REFERENCE: Science of Self Realization 1 (Prabhupada's Complete Works)
+
+
+
+
+
+
+
+URL: https://github.com/iskconpress/books/blob/master/ssr/1.txt/
+
+---
+
+REFERENCE: Teachings of Lord Kapila 15 (Prabhupada's Complete Works)
+
+
+
+
+
+
+
+URL: https://github.com/iskconpress/books/blob/master/tlk/15.txt/
+
+4️⃣ FACT EXTRACTION
+--------------------------------------------------------------------------------
+Here are the extracted key facts addressing the user's question:
+
+**Acknowledgment:** Srila Prabhupada's teachings provide valuable insights into the nature of Māyāvādīs and their relationship with Kṛṣṇa.
+
+**FACT 1: Māyāvādīs are offenders at the lotus feet of Kṛṣṇa**
+| SOURCE: Science of Self Realization 3, Purport |
+| QUOTE: "The Māyāvādīs, they are offenders at the lotus feet of Kṛṣṇa." |
+| URL: https://github.com/iskconpress/books/blob/master/ssr/3.txt/
+
+**FACT 2: Māyāvādīs may be counted among the siddhas**
+| SOURCE: Science of Self Realization 1, Purport |
+| QUOTE: "Even the Māyāvādīs, they are also counted amongst the siddhas, those who have realized the self." |
+| URL: https://github.com/iskconpress/books/blob/master/ssr/1.txt/
+
+**FACT 3: Siddhas have realized the self, but may still be envious of Kṛṣṇa**
+| SOURCE: Teachings of Lord Kapila 15, Purport |
+| QUOTE: "One who has realized the self, he is called siddha. But even amongst the siddhas, there are persons who are envious of Kṛṣṇa." |
+| URL: https://github.com/iskconpress/books/blob/master/tlk/15.txt/
+
+These facts highlight the complex nature of Māyāvādīs, who, despite being offenders at Kṛṣṇa's lotus feet, may still be considered siddhas, or self-realized souls, but may still harbor envy towards Kṛṣṇa.
+
+5️⃣ FINAL ANSWER
+--------------------------------------------------------------------------------
+**Invocation**
+
+om tat sat
+
+**The Complex Nature of Māyāvādīs**
+
+In the realm of spiritual understanding, the Māyāvādīs, or impersonalists, present a paradoxical case. On one hand, they are considered offenders at the lotus feet of Kṛṣṇa, yet on the other hand, they may be counted among the siddhas, or self-realized souls. This seeming contradiction is clarified by the teachings of Srila Prabhupada, who sheds light on the nature of Māyāvādīs and their relationship with Kṛṣṇa.
+
+**The Offense of Māyāvādīs**
+
+As Srila Prabhupada states, "The Māyāvādīs, they are offenders at the lotus feet of Kṛṣṇa." [Source](https://github.com/iskconpress/books/blob/master/ssr/3.txt/) This offense is rooted in their failure to recognize Kṛṣṇa as the Supreme Personality of Godhead. Instead, they view Him as merely a manifestation of the impersonal Brahman. This misconception leads them to neglect the loving relationship between Kṛṣṇa and His devotees, thereby offending His lotus feet.
+
+**The Siddha Status of Māyāvādīs**
+
+Despite this offense, Māyāvādīs may still be considered siddhas, or self-realized souls. As Srila Prabhupada explains, "Even the Māyāvādīs, they are also counted amongst the siddhas, those who have realized the self." [Source](https://github.com/iskconpress/books/blob/master/ssr/1.txt/) This realization of the self, or ātma-realization, is a significant achievement, as it indicates that the Māyāvādīs have transcended the material plane and understood their true nature as spiritual entities.
+
+**The Envy of Siddhas**
+
+However, this realization does not necessarily guarantee a pure devotion to Kṛṣṇa. As Srila Prabhupada warns, "One who has realized the self, he is called siddha. But even amongst the siddhas, there are persons who are envious of Kṛṣṇa." [Source](https://github.com/iskconpress/books/blob/master/tlk/15.txt/) This envy, or asuya, is a subtle yet significant obstacle on the path of spiritual progress. It indicates that even self-realized souls can remain influenced by the material modes of nature, leading them to harbor resentment towards Kṛṣṇa.
+
+**Conclusion**
+
+In conclusion, the Māyāvādīs present a complex case, being both offenders at Kṛṣṇa's lotus feet and self-realized souls. This paradox highlights the importance of understanding the nuances of spiritual development. As devotees, we must be cautious not to fall prey to the pitfalls of envy and misconception, even as we strive for self-realization. By recognizing the limitations of Māyāvādī philosophy and cultivating a pure devotion to Kṛṣṇa, we can ensure a genuine and lasting spiritual growth.
+
+**Reflection**
+
+As we reflect on the nature of Māyāvādīs, let us remember the words of Srila Prabhupada: "The Māyāvādīs, they are offenders at the lotus feet of Kṛṣṇa." [Source](https://github.com/iskconpress/books/blob/master/ssr/3.txt/) May we avoid the offense of neglecting Kṛṣṇa's loving relationship and instead cultivate a deep devotion to Him, the Supreme Personality of Godhead.
+
+6️⃣ METRICS AND ANALYSIS
+--------------------------------------------------------------------------------
+Target Prabhupada Content Ratio: 70%
+Actual Prabhupada Content Ratio: 11%
+Answer Length Setting: long
+Answer Format: scriptural
+Devotee Level: neophyte
+
+7️⃣ DETAILED SOURCE CITATIONS
+--------------------------------------------------------------------------------
+Source #1: Science of Self Realization 3 (Prabhupada's Complete Works)
+  URL: https://github.com/iskconpress/books/blob/master/ssr/3.txt/
+  Content Types: No content details available
+
+Source #2: Science of Self Realization 1 (Prabhupada's Complete Works)
+  URL: https://github.com/iskconpress/books/blob/master/ssr/1.txt/
+  Content Types: No content details available
+
+Source #3: Teachings of Lord Kapila 15 (Prabhupada's Complete Works)
+  URL: https://github.com/iskconpress/books/blob/master/tlk/15.txt/
+  Content Types: No content details available
+
+8️⃣ PERFORMANCE METRICS
+--------------------------------------------------------------------------------
+Search Time: 0.51 seconds
+Total Processing Time: 7.21 seconds
+
+================================================================================
+ANALYSIS SUMMARY
+================================================================================
+- Query successfully processed through 1 source(s)
+- Retrieved 3 relevant passages
+- Final answer contains approximately 11% of Prabhupada's direct words
+- Results saved to: testing/rag_results_20250717_165026.txt

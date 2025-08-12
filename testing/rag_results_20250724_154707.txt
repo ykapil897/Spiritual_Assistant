@@ -1,0 +1,376 @@
+================================================================================
+PRABHUPADA RAG SYSTEM ANALYSIS RESULTS - 2025-07-24 15:47:07
+================================================================================
+
+1️⃣ QUERY PROCESSING
+--------------------------------------------------------------------------------
+Original Query: Çréla Prabhupäda Speaks Out
+We Cannot Remain in Tiger Consciousness
+We are Animal plus Human
+ from spokens
+Refined Query: Refined query: "spoken 'tiger consciousness', 'animal plus human', and seeking the right thing, seeing God, and Krishna's knowledge of our future"
+
+2️⃣ SOURCE SELECTION
+--------------------------------------------------------------------------------
+Detected Sources: spoken
+
+3️⃣ RETRIEVED CONTEXT
+--------------------------------------------------------------------------------
+Retrieved 5 source(s)
+
+🕉 Humble greetings to the devotees.
+
+**Prabhupāda:** Why should I imitate an animal? Then what is the difference between an animal and a human being? If you have no discretion, if you have no consciousness. Besides that, scientifically, your teeth are meant for eating vegetables. The tiger has teeth for eating meat. Nature has made it like that. It has to kill another... Therefore, he has got nails, he has got teeth, he has got strength. But you have no such strength. You cannot kill a cow like that, pouncing like a tiger. You have to make a slaughterhouse and sit down at your home. Somebody may slaughter, and you can eat very nicely. What is this? You do like a tiger. Pounce upon a cow and eat. [laughter] You cannot do that. You cannot do that.
+
+**Guest:** What you're saying, then, you believe that nature's perfect.
+
+**Prabhupāda:** Nature's law. That is... A tiger is made by nature's law in that way; therefore, he can do that. You cannot do it. Your nature is different. You have got discrimination, you have got conscience, you are claiming to be civilized, human being. So you should utilize these things. That is Kṛṣṇa consciousness, perfect consciousness. So, human life is meant for raising oneself to the perfection of consciousness, and that is Kṛṣṇa conscious. We cannot remain in tiger consciousness. That is not humanity. Yes.
+
+**Tamāla Kṛṣṇa:** Have we fallen from higher to lower or do we come from the very bottom of plant then to animal?
+
+**Prabhupāda:** Yes. Naturally, fallen from higher to lower. Then you make progress, again come to this human being. This is a via media with good consciousness. If you utilize your good consciousness, then you go still higher, you go to God. But if you don't use your higher consciousness, then again go to down. This is going on, cycle of birth and death. This human form of life is meant for self-realization, God realization. If you don't use properly our this life for God consciousness or Kṛṣṇa consciousness and go back to the kingdom of God, then we have to suffer again in the 8,400,000 species of life cycle, one after another. That is our choice. So the best choice is to take to Kṛṣṇa consciousness or God consciousness, and your life is perfect. Don't be misguided. Take to God consciousness, Kṛṣṇa consciousness, and your life... Then it will be proper use of this human form of life. Otherwise, if we indulge in meat-eating like a tiger, I may get life like a tiger next life, but where is the use? Suppose if I become a very strong tiger in my next life, is that very good promotion? Do you know the life of a tiger? They cannot eat even daily. They pounce upon one animal and keep it secretly and they eat for a month the decomposed flesh. Because it is not possible to get chance, kill an animal. God will not give such chance. You see? It is natural. In the jungle, wherever there is a tiger, all animals will go away. They will also try to protect themselves, self-protection. So rarely, when he's too hungry, then God gives him a chance to pounce upon another animal.
+
+SOURCE: https://github.com/iskconpress/spoken/blob/master/681227bg.la.txt
+
+---
+
+🕉 Humble greetings to the devotees.
+
+**Prabhupāda:** C, A, T, cat, C, A, T, cat. Now, that is required. Now, if somebody says, "Oh, 'cat,' he has once said 'cat.' What is the use of again saying 'cat'?" No. When we will learn something, we have to repeat it, even in material things. And what to speak of spiritual? You see.
+
+So dovetailing ourself, dovetailing ourself, dovetailing our consciousness with the supreme consciousness. I give you a small example which is also from the Bhagavad-gītā. I'm not giving any example outside the purview of this Bhagavad-gītā because we are speaking on the Śrīmad-Bhagavad-gītā.
+
+Now you'll find in the Bhagavad-gītā that:
+
+> patraṁ puṣpaṁ phalaṁ toyaṁ
+> yo me bhaktyā prayacchati
+> tad ahaṁ bhakty-upahṛtam
+> aśnāmi prayatātmanaḥ
+> [[Bg. 9.26]]
+
+The Lord says that patraṁ puṣpaṁ phalaṁ toyam. Patraṁ means a leaf. And puṣpaṁ means a flower. And phalaṁ means a fruit. And toyam means some liquid, water. Last word, last word, water. "If some devotee offers Me these four things with devotion and with love, oh, I accept them. I accept them. Not only accept, I, I eat them, eat them." You see.
+
+Now, just see that here is an example that God desires to eat something from your hand. He's not a poor man like me that He wants some contribution for eating. No, no, no. He's not a poor man like me. He is feeding everyone. His name is Bhūta-bhṛt. Bhūta-bhṛt means one who feeds every living being. Perhaps you know it. You can practically see it.
+
+Now, besides human beings, there are innumerable living beings. If you take votes, then the number of human beings will be very small all over the world. It is four to eighty. If living, I mean to say, human beings, including all civilized, uncivilized, any, any number of whatever, Indian, American, and European, anything, take altogether, they will be four, four parts, and all other living creatures, they'll be eighty parts. The proportion is so big.
+
+But in the human society, you'll find that we have got some occupation for our livelihood. Either one is doing business or one is working or one is engineer, one is a lawyer, or one is a daily worker, some way or other, we are doing all these things for having our livelihood. But, but we are these only four. But in the creation of the Lord, there are other eighty—they have no such engagement. Neither they are lawyer, neither they are engineer, neither they have any business, neither they have occupation, neither they make any agriculture, nothing of the sort. But they are happy. They are having their foodstuff. This is a practical thing.
+
+Not only that, even particular, a particular animal, what he likes, that particular foodstuff is supplied to him. Just like children. A child born, immediately it cannot take anything in the world except the mother's milk. The girl, the first child born to a girl... Before the childbirth, there was no milk in the breast, but as soon as there is child, oh, there is milk supply in the breast.
+
+SOURCE: https://github.com/iskconpress/spoken/blob/master/660419bg.ny.txt
+
+---
+
+🕉 Humble greetings to the devotees.
+
+**Prabhupāda:** That is also another symptom of God consciousness, if God is the original father, as expressed here:
+
+> sarva-yoniṣu kaunteya
+> sambhavanti mūrtayaḥ yāḥ
+> [[Bg. 14.4]]
+
+All living entities, in any form, "I am the seed-giving father." God is the father. We are changing into different forms of body by evolution, or something else, by karma. But I am the spirit soul, a spark, part and parcel of God, so are you. You may be in different dress, just like you are in a black coat, I am in saffron cloth; that does not mean you're not a human being. The dress may be different, change. Similarly, all living entities, whether he is a human being or a cat, or dog, or a cow, they are all part and parcel of God. So one who is God conscious, he cannot kill any other animal; he will not allow. He will never agree because he knows that the cat, or dog, or a learned brāhmaṇa, their dress may be different, but the living spark, the soul, is the same. So he cannot give any pain to any living entity; that is one of the symptoms of being God conscious.
+
+**Guest:** If you say that fact, can I ask you about sacrifice because you allowed, in fact, if a tiger came to your house or a man even came to your house...
+
+**Prabhupāda:** Hm.
+
+**Guest:** You would legitimately kill him.
+
+**Prabhupāda:** Yes.
+
+**Guest:** What is the...
+
+**Prabhupāda:** That is already explained.
+
+**Guest:** Hm.
+
+**Prabhupāda:** ...if to kill a tiger who is coming to attack you, and to kill an innocent animal in the slaughterhouse, do you think it is the same thing?
+
+**Guest:** No.
+
+**Prabhupāda:** Then?
+
+**Guest:** But in terms of God consciousness, it must be.
+
+**Prabhupāda:** But God consciousness does not mean that he is a grand fool. That he will not kill a tiger who is coming to attack him; he is not a fool.
+
+**Guest:** In religious thoughts...
+
+**Prabhupāda:** There is no religious thought. You have come to attack me; I must kill you first.
+
+**Guest:** Why?
+
+**Prabhupāda:** Why, because you are my enemy.
+
+**Guest:** But, eh, according to the Christian teachings, you should love your neighbor.
+
+**Prabhupāda:** But that is not our teaching, that we shall become a grand fool, somebody is coming to attack me and kill me, and I shall say, "yes sir, kill me, yeah, you are very good." That is not our philosophy... If somebody...
+
+**Papworth:** Do you not accept...
+
+**Prabhupāda:** Generally, I don't want to kill you, but if you become my enemy, if you want to kill me, I must kill you first. That is Kṛṣṇa. That is the means. Just like Arjuna.
+
+**Guest:** If God is in the form of all living...
+
+**Prabhupāda:** Whatever it may be, but on the material platform, I may be God conscious; you may not be God conscious. Then why you should come to kill me? So it is not our philosophy that anyone comes to attack you, a tiger, we shall embrace them, "yes sir, come on, kill me."
+
+SOURCE: https://github.com/iskconpress/spoken/blob/master/730804r1.lon.txt
+
+---
+
+🕉 Humble greetings to the devotees.
+
+**Prabhupāda:** So here is a verse, number fifteen, from the Seventh Chapter of Bhagavad-gītā:
+
+> na māṁ duṣkṛtino mūḍhāḥ 
+> prapadyante narādhamāḥ 
+> māyayāpahṛta-jñānā 
+> āsuraṁ bhāvam āśritāḥ 
+([[Bg. 7.15]])
+
+So we have made this verse a standard of examination. We haven't got to do anything. Everything is there, because Kṛṣṇa is the original guru. Śiṣyas te 'haṁ śādhi māṁ prapannam ([[Bg. 2.7]]). Arjuna, in the paramparā system, is teaching us how to surrender to Kṛṣṇa. So this is the qualification how to advance in spiritual consciousness.
+
+People are suffering. For want of spiritual consciousness, they are living like animals, dehātma-buddhiḥ.
+
+> yasyātma-buddhiḥ kuṇape tri-dhātuke 
+> sva-dhīḥ kalatrādiṣu bhauma ijyadhīḥ 
+> yat-tīrtha-buddhiḥ salile na karhicij 
+> janeṣv abhijñeṣu sa eva go-kharaḥ 
+([SB 10.84.13])
+
+Go-kharaḥ means animals—cows and asses. Anyone who is thinking, "I am this body," he is animal. This is the verdict. Actually, he is animal. If the dog is thinking, "I am dog," and if some gentleman is thinking, "I am Indian," "I am American," or "I am Englishman," where is the difference? To identify the body? There is no difference. So on this platform of bodily concept of life, we remain animal. And to raise from that animal platform to the platform of our spiritual consciousness, that is the business of human life. Athāto brahma jijñāsā. This is the Vedānta-sūtra. If we do not inquire about Brahman in this human form of life, which is obtained after many, many births... Bahūnāṁ sambhavante. Many, many millions of years and millions of births. Tathā dehāntara-prāptir: we change our body, but because we are on the animal platform, we cannot understand that we have to change our body.
+
+So Kṛṣṇa personally comes, because we are part and parcel of Kṛṣṇa. Mamaivāṁśo jīva-bhūtaḥ ([[Bg. 15.7]]). He's more anxious for us, because we are suffering in this material world under bodily concept of life. That is His first instruction, tathā dehāntara-prāptir. We have to understand that we have to change this body. Don't be happy because you have got by karma a comfortable body. No body is comfortable. It is temporary, even it is comfortable. Even if you have got a very nice body, American body or European body, it may appear to be very nice, better than the Indian body—but that is not permanent. You'll have to change it. That is spiritual consciousness. So we must be prepared. This is glānir. On the platform of bodily concept of life, whatever we are doing, that is all defeat. Parābhavas tāvad abodha-jāto yāvan na jijñāsata ātma-tattvam ([[SB 5.5.5]]). In the bodily concept of life, whatever we are doing, simply defeat. We are thinking, "I'm making very good progress." Rascaldom. There is no progress. Unless you become inquisitive, athāto brahma jijñāsā, there is no progress. That has been taught by our ācāryas.
+
+Sanātana Gosvāmī, when he approached... Sanātana Gosvāmī approached Lord Caitanya, his first question was... He was prime minister, he was a very big man, but he approached Caitanya Mahāprabhu to inquire, "Who am I?"
+
+SOURCE: https://github.com/iskconpress/spoken/blob/master/760903bg.vrn.txt
+
+---
+
+🕉 Humble greetings to the devotees.
+
+**Prabhupāda:** Similarly, whatever wonderful activities you find within this material nature, that is not being done independently. That is being done under the driver. Just like the big car or this airship is running very nicely so long the pilot is there, so long the driver is there. Without a pilot, even the arrangement is very nice, good machinery assembly, but it cannot work.
+
+**Prabhupāda:** Similarly, this nature, although we find very wonderfully working, but behind this nature there is the living entity, the supreme living entity, God. So to understand that God, how He is working, what we are, what is our relationship with God, why we are here, why we are transmigrating from one body to another—all these are called bhāgavata-dharma.
+
+**Prabhupāda:** This is called bhāgavata-dharma. Bhāgavata means in relationship with God. So our Kṛṣṇa consciousness movement is bhāgavata-dharma. Bhāgavata-dharma means we are presenting God. People are searching out whether there is God, God is dead or alive. But we are giving, "Here is God. Here is His name, here is His address, here is His activities." Everything we are giving distinctly, not blindly; but there is philosophy, there is reason, there is logic, and these are all stated in the Śrīmad-Bhāgavatam, sixty volumes.
+
+**Prabhupāda:** So Prahlāda Mahārāja says that everyone, from the very childhood, that means when education begins, this bhāgavata-dharma. Otherwise we are missing the point. We are missing the opportunity of this human form of life. We are simply living like cats and dogs and dying like cats and dogs. And if we maintain that mentality like cats and dogs, then next life...
+
+**Prabhupāda:** Because we are given the opportunity by nature to utilize our consciousness, to utilize our intelligence, to understand God. But if we do not utilize, if we live like cats and dogs, then next life we have to accept, by nature's law, the body of cats and dogs. This is bhāgavata-dharma. This is an opportunity. Here is the opportunity to make your choice whether again you are going to be cats and dogs or whether you are going to be elevated to the highest position, back to home, back to Godhead. That is the highest perfection.
+
+**Prabhupāda:** Na te vidhuḥ svārtha-gatiṁ hi viṣṇum.
+
+**Prabhupāda:** Practically, the so-called civilized men at the present moment, they do not know what is the actual goal of life. The Prahlāda Mahārāja is advising, although he's a child, but he has heard from authority, from Nārada Muni; therefore he's instructing his class friends. Because his father was a great atheist, Hiraṇyakaśipu. He was very angry. When Prahlāda Mahārāja used to talk of God consciousness, he was very much disturbed, he used to chastise him: "Wherefrom this nonsense boy has learned this 'God, God, God'?" He was very much disturbed.
+
+**Prabhupāda:** So he was very afraid of his father at home. But in the school, as soon as the teachers were away, tiffin hour, he would take the opportunity and preach something about God. That is the statement here.
+
+**Prabhupāda:** So he says, durlabhaṁ mānuṣaṁ: "My dear friends, this human form of life is very rarely obtained."
+
+SOURCE: https://github.com/iskconpress/spoken/blob/master/730906s2.sto.txt
+
+4️⃣ FACT EXTRACTION
+--------------------------------------------------------------------------------
+Direct spoken content provided
+
+5️⃣ FINAL ANSWER
+--------------------------------------------------------------------------------
+🕉 Humble greetings to the devotees.
+
+**Prabhupāda:** Why should I imitate an animal? Then what is the difference between an animal and a human being? If you have no discretion, if you have no consciousness. Besides that, scientifically, your teeth are meant for eating vegetables. The tiger has teeth for eating meat. Nature has made it like that. It has to kill another... Therefore, he has got nails, he has got teeth, he has got strength. But you have no such strength. You cannot kill a cow like that, pouncing like a tiger. You have to make a slaughterhouse and sit down at your home. Somebody may slaughter, and you can eat very nicely. What is this? You do like a tiger. Pounce upon a cow and eat. [laughter] You cannot do that. You cannot do that.
+
+**Guest:** What you're saying, then, you believe that nature's perfect.
+
+**Prabhupāda:** Nature's law. That is... A tiger is made by nature's law in that way; therefore, he can do that. You cannot do it. Your nature is different. You have got discrimination, you have got conscience, you are claiming to be civilized, human being. So you should utilize these things. That is Kṛṣṇa consciousness, perfect consciousness. So, human life is meant for raising oneself to the perfection of consciousness, and that is Kṛṣṇa conscious. We cannot remain in tiger consciousness. That is not humanity. Yes.
+
+**Tamāla Kṛṣṇa:** Have we fallen from higher to lower or do we come from the very bottom of plant then to animal?
+
+**Prabhupāda:** Yes. Naturally, fallen from higher to lower. Then you make progress, again come to this human being. This is a via media with good consciousness. If you utilize your good consciousness, then you go still higher, you go to God. But if you don't use your higher consciousness, then again go to down. This is going on, cycle of birth and death. This human form of life is meant for self-realization, God realization. If you don't use properly our this life for God consciousness or Kṛṣṇa consciousness and go back to the kingdom of God, then we have to suffer again in the 8,400,000 species of life cycle, one after another. That is our choice. So the best choice is to take to Kṛṣṇa consciousness or God consciousness, and your life is perfect. Don't be misguided. Take to God consciousness, Kṛṣṇa consciousness, and your life... Then it will be proper use of this human form of life. Otherwise, if we indulge in meat-eating like a tiger, I may get life like a tiger next life, but where is the use? Suppose if I become a very strong tiger in my next life, is that very good promotion? Do you know the life of a tiger? They cannot eat even daily. They pounce upon one animal and keep it secretly and they eat for a month the decomposed flesh. Because it is not possible to get chance, kill an animal. God will not give such chance. You see? It is natural. In the jungle, wherever there is a tiger, all animals will go away. They will also try to protect themselves, self-protection. So rarely, when he's too hungry, then God gives him a chance to pounce upon another animal.
+
+SOURCE: https://github.com/iskconpress/spoken/blob/master/681227bg.la.txt
+
+---
+
+🕉 Humble greetings to the devotees.
+
+**Prabhupāda:** C, A, T, cat, C, A, T, cat. Now, that is required. Now, if somebody says, "Oh, 'cat,' he has once said 'cat.' What is the use of again saying 'cat'?" No. When we will learn something, we have to repeat it, even in material things. And what to speak of spiritual? You see.
+
+So dovetailing ourself, dovetailing ourself, dovetailing our consciousness with the supreme consciousness. I give you a small example which is also from the Bhagavad-gītā. I'm not giving any example outside the purview of this Bhagavad-gītā because we are speaking on the Śrīmad-Bhagavad-gītā.
+
+Now you'll find in the Bhagavad-gītā that:
+
+> patraṁ puṣpaṁ phalaṁ toyaṁ
+> yo me bhaktyā prayacchati
+> tad ahaṁ bhakty-upahṛtam
+> aśnāmi prayatātmanaḥ
+> [[Bg. 9.26]]
+
+The Lord says that patraṁ puṣpaṁ phalaṁ toyam. Patraṁ means a leaf. And puṣpaṁ means a flower. And phalaṁ means a fruit. And toyam means some liquid, water. Last word, last word, water. "If some devotee offers Me these four things with devotion and with love, oh, I accept them. I accept them. Not only accept, I, I eat them, eat them." You see.
+
+Now, just see that here is an example that God desires to eat something from your hand. He's not a poor man like me that He wants some contribution for eating. No, no, no. He's not a poor man like me. He is feeding everyone. His name is Bhūta-bhṛt. Bhūta-bhṛt means one who feeds every living being. Perhaps you know it. You can practically see it.
+
+Now, besides human beings, there are innumerable living beings. If you take votes, then the number of human beings will be very small all over the world. It is four to eighty. If living, I mean to say, human beings, including all civilized, uncivilized, any, any number of whatever, Indian, American, and European, anything, take altogether, they will be four, four parts, and all other living creatures, they'll be eighty parts. The proportion is so big.
+
+But in the human society, you'll find that we have got some occupation for our livelihood. Either one is doing business or one is working or one is engineer, one is a lawyer, or one is a daily worker, some way or other, we are doing all these things for having our livelihood. But, but we are these only four. But in the creation of the Lord, there are other eighty—they have no such engagement. Neither they are lawyer, neither they are engineer, neither they have any business, neither they have occupation, neither they make any agriculture, nothing of the sort. But they are happy. They are having their foodstuff. This is a practical thing.
+
+Not only that, even particular, a particular animal, what he likes, that particular foodstuff is supplied to him. Just like children. A child born, immediately it cannot take anything in the world except the mother's milk. The girl, the first child born to a girl... Before the childbirth, there was no milk in the breast, but as soon as there is child, oh, there is milk supply in the breast.
+
+SOURCE: https://github.com/iskconpress/spoken/blob/master/660419bg.ny.txt
+
+---
+
+🕉 Humble greetings to the devotees.
+
+**Prabhupāda:** That is also another symptom of God consciousness, if God is the original father, as expressed here:
+
+> sarva-yoniṣu kaunteya
+> sambhavanti mūrtayaḥ yāḥ
+> [[Bg. 14.4]]
+
+All living entities, in any form, "I am the seed-giving father." God is the father. We are changing into different forms of body by evolution, or something else, by karma. But I am the spirit soul, a spark, part and parcel of God, so are you. You may be in different dress, just like you are in a black coat, I am in saffron cloth; that does not mean you're not a human being. The dress may be different, change. Similarly, all living entities, whether he is a human being or a cat, or dog, or a cow, they are all part and parcel of God. So one who is God conscious, he cannot kill any other animal; he will not allow. He will never agree because he knows that the cat, or dog, or a learned brāhmaṇa, their dress may be different, but the living spark, the soul, is the same. So he cannot give any pain to any living entity; that is one of the symptoms of being God conscious.
+
+**Guest:** If you say that fact, can I ask you about sacrifice because you allowed, in fact, if a tiger came to your house or a man even came to your house...
+
+**Prabhupāda:** Hm.
+
+**Guest:** You would legitimately kill him.
+
+**Prabhupāda:** Yes.
+
+**Guest:** What is the...
+
+**Prabhupāda:** That is already explained.
+
+**Guest:** Hm.
+
+**Prabhupāda:** ...if to kill a tiger who is coming to attack you, and to kill an innocent animal in the slaughterhouse, do you think it is the same thing?
+
+**Guest:** No.
+
+**Prabhupāda:** Then?
+
+**Guest:** But in terms of God consciousness, it must be.
+
+**Prabhupāda:** But God consciousness does not mean that he is a grand fool. That he will not kill a tiger who is coming to attack him; he is not a fool.
+
+**Guest:** In religious thoughts...
+
+**Prabhupāda:** There is no religious thought. You have come to attack me; I must kill you first.
+
+**Guest:** Why?
+
+**Prabhupāda:** Why, because you are my enemy.
+
+**Guest:** But, eh, according to the Christian teachings, you should love your neighbor.
+
+**Prabhupāda:** But that is not our teaching, that we shall become a grand fool, somebody is coming to attack me and kill me, and I shall say, "yes sir, kill me, yeah, you are very good." That is not our philosophy... If somebody...
+
+**Papworth:** Do you not accept...
+
+**Prabhupāda:** Generally, I don't want to kill you, but if you become my enemy, if you want to kill me, I must kill you first. That is Kṛṣṇa. That is the means. Just like Arjuna.
+
+**Guest:** If God is in the form of all living...
+
+**Prabhupāda:** Whatever it may be, but on the material platform, I may be God conscious; you may not be God conscious. Then why you should come to kill me? So it is not our philosophy that anyone comes to attack you, a tiger, we shall embrace them, "yes sir, come on, kill me."
+
+SOURCE: https://github.com/iskconpress/spoken/blob/master/730804r1.lon.txt
+
+---
+
+🕉 Humble greetings to the devotees.
+
+**Prabhupāda:** So here is a verse, number fifteen, from the Seventh Chapter of Bhagavad-gītā:
+
+> na māṁ duṣkṛtino mūḍhāḥ 
+> prapadyante narādhamāḥ 
+> māyayāpahṛta-jñānā 
+> āsuraṁ bhāvam āśritāḥ 
+([[Bg. 7.15]])
+
+So we have made this verse a standard of examination. We haven't got to do anything. Everything is there, because Kṛṣṇa is the original guru. Śiṣyas te 'haṁ śādhi māṁ prapannam ([[Bg. 2.7]]). Arjuna, in the paramparā system, is teaching us how to surrender to Kṛṣṇa. So this is the qualification how to advance in spiritual consciousness.
+
+People are suffering. For want of spiritual consciousness, they are living like animals, dehātma-buddhiḥ.
+
+> yasyātma-buddhiḥ kuṇape tri-dhātuke 
+> sva-dhīḥ kalatrādiṣu bhauma ijyadhīḥ 
+> yat-tīrtha-buddhiḥ salile na karhicij 
+> janeṣv abhijñeṣu sa eva go-kharaḥ 
+([SB 10.84.13])
+
+Go-kharaḥ means animals—cows and asses. Anyone who is thinking, "I am this body," he is animal. This is the verdict. Actually, he is animal. If the dog is thinking, "I am dog," and if some gentleman is thinking, "I am Indian," "I am American," or "I am Englishman," where is the difference? To identify the body? There is no difference. So on this platform of bodily concept of life, we remain animal. And to raise from that animal platform to the platform of our spiritual consciousness, that is the business of human life. Athāto brahma jijñāsā. This is the Vedānta-sūtra. If we do not inquire about Brahman in this human form of life, which is obtained after many, many births... Bahūnāṁ sambhavante. Many, many millions of years and millions of births. Tathā dehāntara-prāptir: we change our body, but because we are on the animal platform, we cannot understand that we have to change our body.
+
+So Kṛṣṇa personally comes, because we are part and parcel of Kṛṣṇa. Mamaivāṁśo jīva-bhūtaḥ ([[Bg. 15.7]]). He's more anxious for us, because we are suffering in this material world under bodily concept of life. That is His first instruction, tathā dehāntara-prāptir. We have to understand that we have to change this body. Don't be happy because you have got by karma a comfortable body. No body is comfortable. It is temporary, even it is comfortable. Even if you have got a very nice body, American body or European body, it may appear to be very nice, better than the Indian body—but that is not permanent. You'll have to change it. That is spiritual consciousness. So we must be prepared. This is glānir. On the platform of bodily concept of life, whatever we are doing, that is all defeat. Parābhavas tāvad abodha-jāto yāvan na jijñāsata ātma-tattvam ([[SB 5.5.5]]). In the bodily concept of life, whatever we are doing, simply defeat. We are thinking, "I'm making very good progress." Rascaldom. There is no progress. Unless you become inquisitive, athāto brahma jijñāsā, there is no progress. That has been taught by our ācāryas.
+
+Sanātana Gosvāmī, when he approached... Sanātana Gosvāmī approached Lord Caitanya, his first question was... He was prime minister, he was a very big man, but he approached Caitanya Mahāprabhu to inquire, "Who am I?"
+
+SOURCE: https://github.com/iskconpress/spoken/blob/master/760903bg.vrn.txt
+
+---
+
+🕉 Humble greetings to the devotees.
+
+**Prabhupāda:** Similarly, whatever wonderful activities you find within this material nature, that is not being done independently. That is being done under the driver. Just like the big car or this airship is running very nicely so long the pilot is there, so long the driver is there. Without a pilot, even the arrangement is very nice, good machinery assembly, but it cannot work.
+
+**Prabhupāda:** Similarly, this nature, although we find very wonderfully working, but behind this nature there is the living entity, the supreme living entity, God. So to understand that God, how He is working, what we are, what is our relationship with God, why we are here, why we are transmigrating from one body to another—all these are called bhāgavata-dharma.
+
+**Prabhupāda:** This is called bhāgavata-dharma. Bhāgavata means in relationship with God. So our Kṛṣṇa consciousness movement is bhāgavata-dharma. Bhāgavata-dharma means we are presenting God. People are searching out whether there is God, God is dead or alive. But we are giving, "Here is God. Here is His name, here is His address, here is His activities." Everything we are giving distinctly, not blindly; but there is philosophy, there is reason, there is logic, and these are all stated in the Śrīmad-Bhāgavatam, sixty volumes.
+
+**Prabhupāda:** So Prahlāda Mahārāja says that everyone, from the very childhood, that means when education begins, this bhāgavata-dharma. Otherwise we are missing the point. We are missing the opportunity of this human form of life. We are simply living like cats and dogs and dying like cats and dogs. And if we maintain that mentality like cats and dogs, then next life...
+
+**Prabhupāda:** Because we are given the opportunity by nature to utilize our consciousness, to utilize our intelligence, to understand God. But if we do not utilize, if we live like cats and dogs, then next life we have to accept, by nature's law, the body of cats and dogs. This is bhāgavata-dharma. This is an opportunity. Here is the opportunity to make your choice whether again you are going to be cats and dogs or whether you are going to be elevated to the highest position, back to home, back to Godhead. That is the highest perfection.
+
+**Prabhupāda:** Na te vidhuḥ svārtha-gatiṁ hi viṣṇum.
+
+**Prabhupāda:** Practically, the so-called civilized men at the present moment, they do not know what is the actual goal of life. The Prahlāda Mahārāja is advising, although he's a child, but he has heard from authority, from Nārada Muni; therefore he's instructing his class friends. Because his father was a great atheist, Hiraṇyakaśipu. He was very angry. When Prahlāda Mahārāja used to talk of God consciousness, he was very much disturbed, he used to chastise him: "Wherefrom this nonsense boy has learned this 'God, God, God'?" He was very much disturbed.
+
+**Prabhupāda:** So he was very afraid of his father at home. But in the school, as soon as the teachers were away, tiffin hour, he would take the opportunity and preach something about God. That is the statement here.
+
+**Prabhupāda:** So he says, durlabhaṁ mānuṣaṁ: "My dear friends, this human form of life is very rarely obtained."
+
+SOURCE: https://github.com/iskconpress/spoken/blob/master/730906s2.sto.txt
+
+6️⃣ METRICS AND ANALYSIS
+--------------------------------------------------------------------------------
+Target Prabhupada Content Ratio: 70%
+Actual Prabhupada Content Ratio: 100%
+Answer Length Setting: short
+Answer Format: conversational
+Devotee Level: neophyte
+
+7️⃣ DETAILED SOURCE CITATIONS
+--------------------------------------------------------------------------------
+Source #1: 681227bg.la (Unknown)
+  URL: https://github.com/iskconpress/spoken/blob/master/681227bg.la.txt
+  Content Types: No content details available
+
+Source #2: 660419bg.ny (Unknown)
+  URL: https://github.com/iskconpress/spoken/blob/master/660419bg.ny.txt
+  Content Types: No content details available
+
+Source #3: 730804r1.lon (Unknown)
+  URL: https://github.com/iskconpress/spoken/blob/master/730804r1.lon.txt
+  Content Types: No content details available
+
+Source #4: 760903bg.vrn (Unknown)
+  URL: https://github.com/iskconpress/spoken/blob/master/760903bg.vrn.txt
+  Content Types: No content details available
+
+Source #5: 730906s2.sto (Unknown)
+  URL: https://github.com/iskconpress/spoken/blob/master/730906s2.sto.txt
+  Content Types: No content details available
+
+8️⃣ PERFORMANCE METRICS
+--------------------------------------------------------------------------------
+Search Time: 69.75 seconds
+Total Processing Time: 70.63 seconds
+
+================================================================================
+ANALYSIS SUMMARY
+================================================================================
+- Query successfully processed through 1 source(s)
+- Retrieved 5 relevant passages
+- Final answer contains approximately 100% of Prabhupada's direct words
+- Results saved to: testing/rag_results_20250724_154707.txt

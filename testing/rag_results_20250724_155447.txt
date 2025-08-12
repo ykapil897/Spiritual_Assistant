@@ -1,0 +1,587 @@
+================================================================================
+PRABHUPADA RAG SYSTEM ANALYSIS RESULTS - 2025-07-24 15:54:47
+================================================================================
+
+1️⃣ QUERY PROCESSING
+--------------------------------------------------------------------------------
+Original Query: Çréla Prabhupäda Speaks Out
+Where Is Your Religion?
+ from spokens
+Refined Query: Refined query: "spoken 'Where Is Your Religion?' and tiger consciousness, human and animal, brahma muhurta"
+
+2️⃣ SOURCE SELECTION
+--------------------------------------------------------------------------------
+Detected Sources: spoken
+
+3️⃣ RETRIEVED CONTEXT
+--------------------------------------------------------------------------------
+Retrieved 5 source(s)
+
+🕉 Humble greetings to the devotees.
+
+**Prabhupāda:** In the animal society, they are clever, enjoy. "How! How! How! How!" Jackals and tigers and big, this animal, that animal, they are everything. Where is the brāhmaṇa? This is the first time an attempt is being made, "There must be brāhmaṇas"—this Kṛṣṇa consciousness movement. They do not know the aim of life, how it should be organized, what kind of members there should be. No knowledge. Therefore I have challenged that "Your brain is filled up with stool. You do not know how human society is happy." Here is janmanā brāhmaṇo guruḥ. So where is brāhmaṇa? Janmanā brāhmaṇo guruḥ.
+
+**Bhakti-cāru:** [Bengali]
+
+**Prabhupāda:** [Bengali] [laughs] Actually, this Kṛṣṇa consciousness movement is a process of making this animal society into human civilization. At the present moment, especially, all animals. I take them as animals. Therefore I say so boldly. I care for them. They are animals. That's all. Maybe very well dressed. I have not said; Bhāgavata says.
+
+>
+Śva-viḍ-varāhoṣṭra-kharaiḥ saṁstutaḥ puruṣaḥ paśuḥ
+[[SB 2.3.19]]
+
+What are these leaders? Paśu. "Paśu? And they are so much held in estimation." Whom? By whom? Śva-viḍ-varāhoṣṭra-kharaiḥ: "They are in estimation by the dogs and hogs and camels and asses." Actually, they have no position. The public is dog, hog, camel, and... And they are selecting one leader. So what he should be? Another big paśu, another big camel, another big ass. That's all.
+
+>
+Śva-viḍ-varāhoṣṭra-kharaiḥ saṁstutaḥ puruṣaḥ paśuḥ
+
+[Bengali] A big animal. These leaders, they are only big animals. Just like in the jungle, a lion, a very powerful. Then does it mean that he's a human being? He's an animal. May be an elephant or lion, but he's not a human being. A human child is more important than this lion. It doesn't matter that the human child is taken away by the lion and immediately killed or carried. That does not make the lion very important. [Bengali] A big paśu.
+
+**Svarūpa Dāmodara:** So the brahminical qualifications are prerequisites to conduct this bhakti experiment. That's why we want to bring it indirectly, even in a scientific lecture, by making similes with normal conditions necessary to do any experiment. So we make it a condition necessary. Otherwise, you cannot just do an experiment without fulfilling this...
+
+**Prabhupāda:** Satya śamo damo titikṣa ārjava, jñānaṁ vijñānam āstikyaṁ brahma-karma svabhāva... [[Bg. 18.42]]. Where is that?
+
+**Tamāla Kṛṣṇa:** That Dr. Kapoor, your Godbrother? There's an article that was published in Back to Godhead. So he proves that spirit can be brought out of matter, providing that the bhakti, the brāhmaṇa, the person, develops brahminical qualities to the point of purity. And he uses the example of Prahlāda Mahārāja, that because Prahlāda Mahārāja had developed such a pure love for Kṛṣṇa, Kṛṣṇa came out of a material element, the pillar, to prove Himself: "Here is God." So spirit came right out of matter. So Dr. Kapoor used the point that if you want to see spirit, qualify yourself; then you'll be able to see spirit. You can make spirit come right out of matter.
+
+**Prabhupāda:** That is sarvaṁ khalv idaṁ brahma [Chāndogya Upaniṣad 3.14.1].
+
+SOURCE: https://github.com/iskconpress/spoken/blob/master/770620r2.vrn.txt
+
+---
+
+🕉 Humble greetings to the devotees.
+
+**Prabhupāda:** That is also another symptom of God consciousness, if God is the original father, that is expressed here:
+
+> sarva-yoniṣu kaunteya
+> sambhavanti mūrtayaḥ yāḥ
+> [[Bg. 14.4]]
+
+All living entities in any form, "I am the seed-giving father". God is the father; we are changing in different forms of body by evolution, or something else, by karma. But I am the spirit soul, spark, part and parcel of God, so you are. You may be in different dress, just like you are in a black coat, I am in saffron cloth; that does not mean you're not a human being. The dress may be different, change. Similarly, all living entities, either he is a human being or a cat, or dog, a cow, they are all part and parcel of God. So one who is God conscious, he cannot kill any other animal; he will not allow. He will never agree because he knows that the cat, or dog, or a learned brāhmaṇa, their dress may be different, but the living spark, the soul is the same. So he cannot give any pain to any living entity; that is one of the symptoms of being God conscious.
+
+**Guest:** If you say that fact, can I ask you about sacrifice because you allowed in fact, if a tiger came to your house or a man even came to your house.
+
+**Prabhupāda:** Hm.
+
+**Guest:** You would legitimately kill him.
+
+**Prabhupāda:** Yes.
+
+**Guest:** What is the...
+
+**Prabhupāda:** That is already explained.
+
+**Guest:** Hm.
+
+**Prabhupāda:** ...if to kill a tiger who is coming to attack you and to kill an innocent animal in the slaughterhouse, do you think it is the same thing?
+
+**Guest:** No.
+
+**Prabhupāda:** Then?
+
+**Guest:** But in terms of God consciousness, it must be.
+
+**Prabhupāda:** But God consciousness does not mean that he is a grand fool. That he will not kill a tiger who is coming to attack him, he is not a fool.
+
+**Guest:** In religious thoughts...
+
+**Prabhupāda:** There is no religious thought. You have come to attack me, I must kill you first.
+
+**Guest:** Why?
+
+**Prabhupāda:** Why, because you are my enemy.
+
+**Guest:** But, eh, according to the Christian teachings, you should love your neighbor.
+
+**Prabhupāda:** But that is not our teaching that we shall become a grand fool, somebody is coming to attack me and kill me, and I shall say, "yes sir, kill me, yeah, you are very good". That is not our philosophy... If somebody...
+
+**Papworth:** Do you not accept...
+
+**Prabhupāda:** Generally, I don't want to kill you, but if you become my enemy, if you want to kill me, I must kill you first. That is Kṛṣṇa; that is the means. Just like Arjuna.
+
+**Guest:** If God is in the form of all living...
+
+**Prabhupāda:** Whatever it may be, but on the material platform, I may be God conscious; you may not be God conscious. Then why you should come to kill me? So it is not our philosophy that anyone comes to attack you, a tiger, we shall embrace them, "yes sir, come on, kill me."
+
+SOURCE: https://github.com/iskconpress/spoken/blob/master/730804r1.lon.txt
+
+---
+
+🕉 Humble greetings to the devotees.
+
+**Prabhupāda:** Beginning. From the beginning. You can add something.
+
+**Hari-śauri:** Read out what it is and everything, as well.
+
+**Puṣṭa Kṛṣṇa:** This is a questionnaire which was sent to us by one journal, a cultural and religious journal in Bombay. It's called Bhavan's Journal. And they are questioning different religious leaders, especially in India, trying to get the answers to some of these important questions which are perplexing especially the Indian public today. So there's a list of about twenty-one questions, and we can go through them one by one for Śrīla Prabhupāda to answer.
+
+**Prabhupāda:** Yes.
+
+**Puṣṭa Kṛṣṇa:** The first question, "Is the influence of religion over the masses on the wane?" Is the influence of religion over the masses decreasing?
+
+**Prabhupāda:** Yes, this is predicted in the Śrīmad-Bhāgavatam.
+
+> Tataḥ anudinam. Bring that black book, Bhāgavatam. Tatas cānudinaṁ dharmaḥ satyam [SB 12.2.1].
+
+This is Kali-Yuga, the age of waning of these things—religiosity, truthfulness, memory, bodily strength, duration of life, mercifulness.
+
+**Hari-śauri:** Pradyumna's just going to come with it.
+
+**Prabhupāda:** These are..., will be declining. These are the, I mean to say, human assets which makes a human being distinct from the animal. But these things will decline. There will be no mercifulness, there will be no truthfulness, the memory will be shortened, duration life shortened. Similarly, religion will vanish. So that means gradually they will come to the platform of animals. And especially when there is no religion, it is simply animals. That any common man can distinguish, that... A dog, he does not understand what is religion. He's also a living being. He's not interested what is going on here about Bhagavad-gītā or Śrīmad-Bhāgavatam. He is not interested. That is the distinction between dog and man. The animal is not interested. So if the human being becoming disinterested in religious things, then they are animals. And how there can be happiness, peace, in the animal society? They want to keep people as animal, and they are making United Nation. How it is possible? "United Animals"? Is it possible? "Society for United Animals." [laughter]
+
+**Puṣṭa Kṛṣṇa:** Second question, Śrīla Prabhupāda? Question two?
+
+**Prabhupāda:** No, you have written all these things or not?
+
+**Puṣṭa Kṛṣṇa:** It's being taped. I'll transcribe it later.
+
+**Prabhupāda:** So what is that? Find out tatas canudinam.
+
+**Pradyumna:** > Tatas cānudinaṁ satyaḥ, dharmaḥ satyaṁ śaucaṁ kṣamā daya [SB 12.2.1].
+
+**Prabhupāda:** Hmm. Find that verse. You can quote that "This Kali-yuga, it is waning; therefore they are becoming animals." Man without religion means animal. That's all. This is the definition. In the human society, either you become Christian or you become Muhammadan or you become Hindu or you become Buddhist, it doesn't matter. There must be some system of religion.
+
+SOURCE: https://github.com/iskconpress/spoken/blob/master/760629bj.nv.txt
+
+---
+
+🕉 Humble greetings to the devotees.
+
+**Indian man:** Mr. Bose, representing National Herald.
+
+**Prabhupāda:** [chuckling] That's all. Right. I thank you.
+
+**Haṁsadūta:** [to devotee] Maybe you can move this to the side. Just put it to one... Because people are going to be coming over and wanting to sit down.
+
+**Prabhupāda:** Oh, ācchā. [Bengali] Now, now, Mr. Bose... Let him come first of all. Give him a chair. Mr. Bose, let him come.
+
+**Lady Reporter (3):** I'll come back later.
+
+**Prabhupāda:** Yes, three minutes. He's old man.
+
+**Lady Reporter (3):** Yes.
+
+**Prabhupāda:** [Bengali]
+
+**Haṁsadūta:** Shall I take this away?
+
+**Prabhupāda:** Yes. [Bengali]
+
+**Mr. Bose:** [Bengali with Prabhupāda]
+
+[break]
+
+**Prabhupāda:** She's waiting? Then I shall come.
+
+**Lady Reporter (3):** Right, well [indistinct] some publicity.
+
+**Prabhupāda:** No, every religion has got God consciousness. Without God consciousness, there cannot be any religion. But somewhere we find the degrees of consciousness. Just like every living entity has got consciousness. A child has got consciousness, dog has got consciousness, and a human being has got consciousness. But there are degrees.
+
+**Lady Reporter (3):** Do people lose this consciousness, the God...?
+
+**Prabhupāda:** Eh?
+
+**Lady Reporter (3):** Do people lose God consciousness as they grow older?
+
+**Prabhupāda:** Yes, yes. Unless a person comes to God consciousness, his consciousness is imperfect.
+
+**Lady Reporter (3):** Hmm. Hmm. And the actual importance of the Hare Kṛṣṇa chant, is that in saying the name?
+
+**Prabhupāda:** Yes. It is a...
+
+**Lady Reporter (3):** Or is it a...
+
+**Prabhupāda:** ...spiritual process.
+
+**Lady Reporter (3):** ...continuous flow?
+
+**Prabhupāda:** Yes. It is spiritual process, because Kṛṣṇa and the name Kṛṣṇa, Kṛṣṇa the person and Kṛṣṇa the name, they are nondifferent, absolute. That is the God's special power. Just like in the material world, if you want water, simply by chanting the name "water," you'll not be benefited.
+
+**Lady Reporter (3):** No.
+
+**Prabhupāda:** But in the spiritual world, the name "water" and the substance water is the same. Similarly, Kṛṣṇa and Kṛṣṇa's name is the same. So if you chant "Kṛṣṇa," you immediately directly contact with Kṛṣṇa.
+
+**Lady Reporter (3):** What do you see as being the future of the world? What will happen? Will there be an end?
+
+**Prabhupāda:** Future, future of the world... Because the people are trained up in the bodily consciousness of life, "I am this body." So, so long people will remain in bodily consciousness of life, that is animal life. That is not human life. So they have to be educated to spiritual consciousness of life, that "I am not this body; I am spirit soul." Then they'll be benefited. Otherwise, they'll degrade more and more.
+
+**Lady Reporter (3):** Yes, but what do you see happening to the actual world? Do you see any... You know, with Christianity and other religions...
+
+**Prabhupāda:** Eh, what is that?
+
+**Lady Reporter (3):** You know, with Christianity and other religions, the world has...
+
+**Prabhupāda:** The Christianity, if you...
+
+**Lady Reporter (3):** ...a beginning and an end.
+
+**Prabhupāda:** Yes. We also believe that, that the world has a beginning, and it has an end. Anything material.
+
+SOURCE: https://github.com/iskconpress/spoken/blob/master/730912iv.lon.txt
+
+---
+
+🕉 Humble greetings to the devotees.
+
+**Prabhupāda:** Actually, there is a place where God lives. They do not know. This is the first time, the Kṛṣṇa consciousness movement, we are giving these ideas; otherwise, who knows it? Nobody knows it. The Christian or Muhammadan is... Nobody knows. And religion means to accept God as the Supreme Person. They do not know God. Then what is the meaning of religion? Religion means to accept a Supreme Person as the supreme controller. That is religion.
+
+How the Supreme Person is working in manufacturing this flower, let the scientists explain. But there is no brain? Just nicely painted, symmetrically, each flower of the same class; another class, another class, another class.
+
+**[Guests enter]**
+
+**Yogeśvara:** Hare Kṛṣṇa. This is Professor Francois Chenique and his daughter. They drove from Paris this morning to see you.
+
+**Prabhupāda:** Thank you very much. You can come forward. I have read your review of our book. It is very nice.
+
+**[Bhūgarbha translates from this point onward]**
+
+**Prabhupāda:** Very nice. Your study about this tradition, Indian tradition, I think he has mentioned. Indian tradition, the whole Vedic literature... He understands English?
+
+**Yogeśvara:** Yes, but I should translate. He's asked me to translate.
+
+**Prabhupāda:** ...is to approach God. This is the Indian tradition. But, as you have mentioned Aurobindo's name, Aurobindo's idea was to make a better situation of this world. He wanted, by yoga practice, a better situation of the world. But our tradition says that is not possible.
+
+**Bhūgarbha translating:** He asks what is meant by the situation in this world.
+
+**Prabhupāda:** The situation is you have to suffer. Situation is you have to suffer. Kṛṣṇa says in the Bhagavad-gītā,
+
+"Duhkhālayam aśāśvatam"
+[[Bg. 8.15]]
+
+This is a place for suffering, and that also you cannot stay here. Even if you make a compromise, "All right, I shall suffer and stay," Kṛṣṇa says no. You suffer, and after you make an adjustment, you will be kicked out.
+
+**Bhūgarbha:** He said, so do we have to completely leave the world? We cannot stay within the world and sanctify ourselves?
+
+**Prabhupāda:** You have to leave. You cannot stay. You do not want to leave, that's a fact, but you'll be kicked out. When Napoleon fought for France, he did not like to leave, but he was kicked out. I have seen in one park, there is a Napoleon Bonaparte is there---France and Napoleon identified. But France is there, Napoleon is kicked out.
+
+**[laughter]**
+
+**Bhūgarbha:** He's asking that, in view of that, is it possible to live a household life and at the same time a spiritual life?
+
+**Prabhupāda:** Oh, yes.
+
+**Bhūgarbha:** You can do.
+
+**Professor Chenique:** I hope so, yes.
+
+**Prabhupāda:** Arjuna, Arjuna is a householder, he's a military man, but the greatest devotee of Kṛṣṇa.
+
+**Bhūgarbha:** He wants you to mention something about the translations. He wants to express his opinion about the translations that the French translators are doing of your books.
+
+**Prabhupāda:** He is doing?
+
+**Bhūgarbha:** He wants to give his opinion.
+
+**Prabhupāda:** Oh.
+
+**Bhūgarbha:** He's asking permission to give his opinion.
+
+SOURCE: https://github.com/iskconpress/spoken/blob/master/760805r1.nmr.txt
+
+4️⃣ FACT EXTRACTION
+--------------------------------------------------------------------------------
+Direct spoken content provided
+
+5️⃣ FINAL ANSWER
+--------------------------------------------------------------------------------
+🕉 Humble greetings to the devotees.
+
+**Prabhupāda:** In the animal society, they are clever, enjoy. "How! How! How! How!" Jackals and tigers and big, this animal, that animal, they are everything. Where is the brāhmaṇa? This is the first time an attempt is being made, "There must be brāhmaṇas"—this Kṛṣṇa consciousness movement. They do not know the aim of life, how it should be organized, what kind of members there should be. No knowledge. Therefore I have challenged that "Your brain is filled up with stool. You do not know how human society is happy." Here is janmanā brāhmaṇo guruḥ. So where is brāhmaṇa? Janmanā brāhmaṇo guruḥ.
+
+**Bhakti-cāru:** [Bengali]
+
+**Prabhupāda:** [Bengali] [laughs] Actually, this Kṛṣṇa consciousness movement is a process of making this animal society into human civilization. At the present moment, especially, all animals. I take them as animals. Therefore I say so boldly. I care for them. They are animals. That's all. Maybe very well dressed. I have not said; Bhāgavata says.
+
+>
+Śva-viḍ-varāhoṣṭra-kharaiḥ saṁstutaḥ puruṣaḥ paśuḥ
+[[SB 2.3.19]]
+
+What are these leaders? Paśu. "Paśu? And they are so much held in estimation." Whom? By whom? Śva-viḍ-varāhoṣṭra-kharaiḥ: "They are in estimation by the dogs and hogs and camels and asses." Actually, they have no position. The public is dog, hog, camel, and... And they are selecting one leader. So what he should be? Another big paśu, another big camel, another big ass. That's all.
+
+>
+Śva-viḍ-varāhoṣṭra-kharaiḥ saṁstutaḥ puruṣaḥ paśuḥ
+
+[Bengali] A big animal. These leaders, they are only big animals. Just like in the jungle, a lion, a very powerful. Then does it mean that he's a human being? He's an animal. May be an elephant or lion, but he's not a human being. A human child is more important than this lion. It doesn't matter that the human child is taken away by the lion and immediately killed or carried. That does not make the lion very important. [Bengali] A big paśu.
+
+**Svarūpa Dāmodara:** So the brahminical qualifications are prerequisites to conduct this bhakti experiment. That's why we want to bring it indirectly, even in a scientific lecture, by making similes with normal conditions necessary to do any experiment. So we make it a condition necessary. Otherwise, you cannot just do an experiment without fulfilling this...
+
+**Prabhupāda:** Satya śamo damo titikṣa ārjava, jñānaṁ vijñānam āstikyaṁ brahma-karma svabhāva... [[Bg. 18.42]]. Where is that?
+
+**Tamāla Kṛṣṇa:** That Dr. Kapoor, your Godbrother? There's an article that was published in Back to Godhead. So he proves that spirit can be brought out of matter, providing that the bhakti, the brāhmaṇa, the person, develops brahminical qualities to the point of purity. And he uses the example of Prahlāda Mahārāja, that because Prahlāda Mahārāja had developed such a pure love for Kṛṣṇa, Kṛṣṇa came out of a material element, the pillar, to prove Himself: "Here is God." So spirit came right out of matter. So Dr. Kapoor used the point that if you want to see spirit, qualify yourself; then you'll be able to see spirit. You can make spirit come right out of matter.
+
+**Prabhupāda:** That is sarvaṁ khalv idaṁ brahma [Chāndogya Upaniṣad 3.14.1].
+
+SOURCE: https://github.com/iskconpress/spoken/blob/master/770620r2.vrn.txt
+
+---
+
+🕉 Humble greetings to the devotees.
+
+**Prabhupāda:** That is also another symptom of God consciousness, if God is the original father, that is expressed here:
+
+> sarva-yoniṣu kaunteya
+> sambhavanti mūrtayaḥ yāḥ
+> [[Bg. 14.4]]
+
+All living entities in any form, "I am the seed-giving father". God is the father; we are changing in different forms of body by evolution, or something else, by karma. But I am the spirit soul, spark, part and parcel of God, so you are. You may be in different dress, just like you are in a black coat, I am in saffron cloth; that does not mean you're not a human being. The dress may be different, change. Similarly, all living entities, either he is a human being or a cat, or dog, a cow, they are all part and parcel of God. So one who is God conscious, he cannot kill any other animal; he will not allow. He will never agree because he knows that the cat, or dog, or a learned brāhmaṇa, their dress may be different, but the living spark, the soul is the same. So he cannot give any pain to any living entity; that is one of the symptoms of being God conscious.
+
+**Guest:** If you say that fact, can I ask you about sacrifice because you allowed in fact, if a tiger came to your house or a man even came to your house.
+
+**Prabhupāda:** Hm.
+
+**Guest:** You would legitimately kill him.
+
+**Prabhupāda:** Yes.
+
+**Guest:** What is the...
+
+**Prabhupāda:** That is already explained.
+
+**Guest:** Hm.
+
+**Prabhupāda:** ...if to kill a tiger who is coming to attack you and to kill an innocent animal in the slaughterhouse, do you think it is the same thing?
+
+**Guest:** No.
+
+**Prabhupāda:** Then?
+
+**Guest:** But in terms of God consciousness, it must be.
+
+**Prabhupāda:** But God consciousness does not mean that he is a grand fool. That he will not kill a tiger who is coming to attack him, he is not a fool.
+
+**Guest:** In religious thoughts...
+
+**Prabhupāda:** There is no religious thought. You have come to attack me, I must kill you first.
+
+**Guest:** Why?
+
+**Prabhupāda:** Why, because you are my enemy.
+
+**Guest:** But, eh, according to the Christian teachings, you should love your neighbor.
+
+**Prabhupāda:** But that is not our teaching that we shall become a grand fool, somebody is coming to attack me and kill me, and I shall say, "yes sir, kill me, yeah, you are very good". That is not our philosophy... If somebody...
+
+**Papworth:** Do you not accept...
+
+**Prabhupāda:** Generally, I don't want to kill you, but if you become my enemy, if you want to kill me, I must kill you first. That is Kṛṣṇa; that is the means. Just like Arjuna.
+
+**Guest:** If God is in the form of all living...
+
+**Prabhupāda:** Whatever it may be, but on the material platform, I may be God conscious; you may not be God conscious. Then why you should come to kill me? So it is not our philosophy that anyone comes to attack you, a tiger, we shall embrace them, "yes sir, come on, kill me."
+
+SOURCE: https://github.com/iskconpress/spoken/blob/master/730804r1.lon.txt
+
+---
+
+🕉 Humble greetings to the devotees.
+
+**Prabhupāda:** Beginning. From the beginning. You can add something.
+
+**Hari-śauri:** Read out what it is and everything, as well.
+
+**Puṣṭa Kṛṣṇa:** This is a questionnaire which was sent to us by one journal, a cultural and religious journal in Bombay. It's called Bhavan's Journal. And they are questioning different religious leaders, especially in India, trying to get the answers to some of these important questions which are perplexing especially the Indian public today. So there's a list of about twenty-one questions, and we can go through them one by one for Śrīla Prabhupāda to answer.
+
+**Prabhupāda:** Yes.
+
+**Puṣṭa Kṛṣṇa:** The first question, "Is the influence of religion over the masses on the wane?" Is the influence of religion over the masses decreasing?
+
+**Prabhupāda:** Yes, this is predicted in the Śrīmad-Bhāgavatam.
+
+> Tataḥ anudinam. Bring that black book, Bhāgavatam. Tatas cānudinaṁ dharmaḥ satyam [SB 12.2.1].
+
+This is Kali-Yuga, the age of waning of these things—religiosity, truthfulness, memory, bodily strength, duration of life, mercifulness.
+
+**Hari-śauri:** Pradyumna's just going to come with it.
+
+**Prabhupāda:** These are..., will be declining. These are the, I mean to say, human assets which makes a human being distinct from the animal. But these things will decline. There will be no mercifulness, there will be no truthfulness, the memory will be shortened, duration life shortened. Similarly, religion will vanish. So that means gradually they will come to the platform of animals. And especially when there is no religion, it is simply animals. That any common man can distinguish, that... A dog, he does not understand what is religion. He's also a living being. He's not interested what is going on here about Bhagavad-gītā or Śrīmad-Bhāgavatam. He is not interested. That is the distinction between dog and man. The animal is not interested. So if the human being becoming disinterested in religious things, then they are animals. And how there can be happiness, peace, in the animal society? They want to keep people as animal, and they are making United Nation. How it is possible? "United Animals"? Is it possible? "Society for United Animals." [laughter]
+
+**Puṣṭa Kṛṣṇa:** Second question, Śrīla Prabhupāda? Question two?
+
+**Prabhupāda:** No, you have written all these things or not?
+
+**Puṣṭa Kṛṣṇa:** It's being taped. I'll transcribe it later.
+
+**Prabhupāda:** So what is that? Find out tatas canudinam.
+
+**Pradyumna:** > Tatas cānudinaṁ satyaḥ, dharmaḥ satyaṁ śaucaṁ kṣamā daya [SB 12.2.1].
+
+**Prabhupāda:** Hmm. Find that verse. You can quote that "This Kali-yuga, it is waning; therefore they are becoming animals." Man without religion means animal. That's all. This is the definition. In the human society, either you become Christian or you become Muhammadan or you become Hindu or you become Buddhist, it doesn't matter. There must be some system of religion.
+
+SOURCE: https://github.com/iskconpress/spoken/blob/master/760629bj.nv.txt
+
+---
+
+🕉 Humble greetings to the devotees.
+
+**Indian man:** Mr. Bose, representing National Herald.
+
+**Prabhupāda:** [chuckling] That's all. Right. I thank you.
+
+**Haṁsadūta:** [to devotee] Maybe you can move this to the side. Just put it to one... Because people are going to be coming over and wanting to sit down.
+
+**Prabhupāda:** Oh, ācchā. [Bengali] Now, now, Mr. Bose... Let him come first of all. Give him a chair. Mr. Bose, let him come.
+
+**Lady Reporter (3):** I'll come back later.
+
+**Prabhupāda:** Yes, three minutes. He's old man.
+
+**Lady Reporter (3):** Yes.
+
+**Prabhupāda:** [Bengali]
+
+**Haṁsadūta:** Shall I take this away?
+
+**Prabhupāda:** Yes. [Bengali]
+
+**Mr. Bose:** [Bengali with Prabhupāda]
+
+[break]
+
+**Prabhupāda:** She's waiting? Then I shall come.
+
+**Lady Reporter (3):** Right, well [indistinct] some publicity.
+
+**Prabhupāda:** No, every religion has got God consciousness. Without God consciousness, there cannot be any religion. But somewhere we find the degrees of consciousness. Just like every living entity has got consciousness. A child has got consciousness, dog has got consciousness, and a human being has got consciousness. But there are degrees.
+
+**Lady Reporter (3):** Do people lose this consciousness, the God...?
+
+**Prabhupāda:** Eh?
+
+**Lady Reporter (3):** Do people lose God consciousness as they grow older?
+
+**Prabhupāda:** Yes, yes. Unless a person comes to God consciousness, his consciousness is imperfect.
+
+**Lady Reporter (3):** Hmm. Hmm. And the actual importance of the Hare Kṛṣṇa chant, is that in saying the name?
+
+**Prabhupāda:** Yes. It is a...
+
+**Lady Reporter (3):** Or is it a...
+
+**Prabhupāda:** ...spiritual process.
+
+**Lady Reporter (3):** ...continuous flow?
+
+**Prabhupāda:** Yes. It is spiritual process, because Kṛṣṇa and the name Kṛṣṇa, Kṛṣṇa the person and Kṛṣṇa the name, they are nondifferent, absolute. That is the God's special power. Just like in the material world, if you want water, simply by chanting the name "water," you'll not be benefited.
+
+**Lady Reporter (3):** No.
+
+**Prabhupāda:** But in the spiritual world, the name "water" and the substance water is the same. Similarly, Kṛṣṇa and Kṛṣṇa's name is the same. So if you chant "Kṛṣṇa," you immediately directly contact with Kṛṣṇa.
+
+**Lady Reporter (3):** What do you see as being the future of the world? What will happen? Will there be an end?
+
+**Prabhupāda:** Future, future of the world... Because the people are trained up in the bodily consciousness of life, "I am this body." So, so long people will remain in bodily consciousness of life, that is animal life. That is not human life. So they have to be educated to spiritual consciousness of life, that "I am not this body; I am spirit soul." Then they'll be benefited. Otherwise, they'll degrade more and more.
+
+**Lady Reporter (3):** Yes, but what do you see happening to the actual world? Do you see any... You know, with Christianity and other religions...
+
+**Prabhupāda:** Eh, what is that?
+
+**Lady Reporter (3):** You know, with Christianity and other religions, the world has...
+
+**Prabhupāda:** The Christianity, if you...
+
+**Lady Reporter (3):** ...a beginning and an end.
+
+**Prabhupāda:** Yes. We also believe that, that the world has a beginning, and it has an end. Anything material.
+
+SOURCE: https://github.com/iskconpress/spoken/blob/master/730912iv.lon.txt
+
+---
+
+🕉 Humble greetings to the devotees.
+
+**Prabhupāda:** Actually, there is a place where God lives. They do not know. This is the first time, the Kṛṣṇa consciousness movement, we are giving these ideas; otherwise, who knows it? Nobody knows it. The Christian or Muhammadan is... Nobody knows. And religion means to accept God as the Supreme Person. They do not know God. Then what is the meaning of religion? Religion means to accept a Supreme Person as the supreme controller. That is religion.
+
+How the Supreme Person is working in manufacturing this flower, let the scientists explain. But there is no brain? Just nicely painted, symmetrically, each flower of the same class; another class, another class, another class.
+
+**[Guests enter]**
+
+**Yogeśvara:** Hare Kṛṣṇa. This is Professor Francois Chenique and his daughter. They drove from Paris this morning to see you.
+
+**Prabhupāda:** Thank you very much. You can come forward. I have read your review of our book. It is very nice.
+
+**[Bhūgarbha translates from this point onward]**
+
+**Prabhupāda:** Very nice. Your study about this tradition, Indian tradition, I think he has mentioned. Indian tradition, the whole Vedic literature... He understands English?
+
+**Yogeśvara:** Yes, but I should translate. He's asked me to translate.
+
+**Prabhupāda:** ...is to approach God. This is the Indian tradition. But, as you have mentioned Aurobindo's name, Aurobindo's idea was to make a better situation of this world. He wanted, by yoga practice, a better situation of the world. But our tradition says that is not possible.
+
+**Bhūgarbha translating:** He asks what is meant by the situation in this world.
+
+**Prabhupāda:** The situation is you have to suffer. Situation is you have to suffer. Kṛṣṇa says in the Bhagavad-gītā,
+
+"Duhkhālayam aśāśvatam"
+[[Bg. 8.15]]
+
+This is a place for suffering, and that also you cannot stay here. Even if you make a compromise, "All right, I shall suffer and stay," Kṛṣṇa says no. You suffer, and after you make an adjustment, you will be kicked out.
+
+**Bhūgarbha:** He said, so do we have to completely leave the world? We cannot stay within the world and sanctify ourselves?
+
+**Prabhupāda:** You have to leave. You cannot stay. You do not want to leave, that's a fact, but you'll be kicked out. When Napoleon fought for France, he did not like to leave, but he was kicked out. I have seen in one park, there is a Napoleon Bonaparte is there---France and Napoleon identified. But France is there, Napoleon is kicked out.
+
+**[laughter]**
+
+**Bhūgarbha:** He's asking that, in view of that, is it possible to live a household life and at the same time a spiritual life?
+
+**Prabhupāda:** Oh, yes.
+
+**Bhūgarbha:** You can do.
+
+**Professor Chenique:** I hope so, yes.
+
+**Prabhupāda:** Arjuna, Arjuna is a householder, he's a military man, but the greatest devotee of Kṛṣṇa.
+
+**Bhūgarbha:** He wants you to mention something about the translations. He wants to express his opinion about the translations that the French translators are doing of your books.
+
+**Prabhupāda:** He is doing?
+
+**Bhūgarbha:** He wants to give his opinion.
+
+**Prabhupāda:** Oh.
+
+**Bhūgarbha:** He's asking permission to give his opinion.
+
+SOURCE: https://github.com/iskconpress/spoken/blob/master/760805r1.nmr.txt
+
+6️⃣ METRICS AND ANALYSIS
+--------------------------------------------------------------------------------
+Target Prabhupada Content Ratio: 70%
+Actual Prabhupada Content Ratio: 100%
+Answer Length Setting: short
+Answer Format: conversational
+Devotee Level: neophyte
+
+7️⃣ DETAILED SOURCE CITATIONS
+--------------------------------------------------------------------------------
+Source #1: 770620r2.vrn (Unknown)
+  URL: https://github.com/iskconpress/spoken/blob/master/770620r2.vrn.txt
+  Content Types: No content details available
+
+Source #2: 730804r1.lon (Unknown)
+  URL: https://github.com/iskconpress/spoken/blob/master/730804r1.lon.txt
+  Content Types: No content details available
+
+Source #3: 760629bj.nv (Unknown)
+  URL: https://github.com/iskconpress/spoken/blob/master/760629bj.nv.txt
+  Content Types: No content details available
+
+Source #4: 730912iv.lon (Unknown)
+  URL: https://github.com/iskconpress/spoken/blob/master/730912iv.lon.txt
+  Content Types: No content details available
+
+Source #5: 760805r1.nmr (Unknown)
+  URL: https://github.com/iskconpress/spoken/blob/master/760805r1.nmr.txt
+  Content Types: No content details available
+
+8️⃣ PERFORMANCE METRICS
+--------------------------------------------------------------------------------
+Search Time: 61.53 seconds
+Total Processing Time: 62.21 seconds
+
+================================================================================
+ANALYSIS SUMMARY
+================================================================================
+- Query successfully processed through 1 source(s)
+- Retrieved 5 relevant passages
+- Final answer contains approximately 100% of Prabhupada's direct words
+- Results saved to: testing/rag_results_20250724_155447.txt

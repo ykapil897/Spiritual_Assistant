@@ -1,0 +1,95 @@
+================================================================================
+PRABHUPADA RAG SYSTEM ANALYSIS RESULTS - 2025-07-01 00:12:50
+================================================================================
+
+1️⃣ QUERY PROCESSING
+--------------------------------------------------------------------------------
+Original Query: give some brief about the caitanya caritamrita adi 10.16 and its purport 
+Refined Query: Since the current query is identical to the previous two queries, I will refine it to:
+
+"More about Cc. Adi 10.16 and its purport"
+
+This refined query is concise and focused on the key concept, and it implies that the user wants more information about the same topic that was previously discussed.
+
+2️⃣ SOURCE SELECTION
+--------------------------------------------------------------------------------
+Detected Sources: cc
+
+3️⃣ RETRIEVED CONTEXT
+--------------------------------------------------------------------------------
+Retrieved 1 source(s)
+
+REFERENCE: CC Adi 10.16 (Sri Caitanya-caritamrta)
+
+VERSE: 
+
+TRANSLATION: His disciples and granddisciples are his subbranches. To describe them all would be difficult.
+
+PURPORT BY SRILA PRABHUPADA: 
+
+URL: https://github.com/iskconpress/books/tree/master/cc/adi/10/16.txt
+
+4️⃣ FACT EXTRACTION
+--------------------------------------------------------------------------------
+Here are the extracted key facts with proper attribution and URLs:
+
+Acknowledgment: Srila Prabhupada's teachings have greatly contributed to our understanding of the spiritual realm, and his commentary on Sri Caitanya-caritamrta is a valuable resource for devotees.
+
+Here are the key facts related to CC Adi 10.16 and its purport:
+
+FACT: The disciples and granddisciples of a spiritual master are considered subbranches. | SOURCE: CC Adi 10.16, Translation | QUOTE: "His disciples and granddisciples are his subbranches." | URL: https://github.com/iskconpress/books/tree/master/cc/adi/10/16.txt
+
+FACT: It is difficult to describe all the disciples and granddisciples of a spiritual master. | SOURCE: CC Adi 10.16, Translation | QUOTE: "To describe them all would be difficult." | URL: https://github.com/iskconpress/books/tree/master/cc/adi/10/16.txt
+
+Note: Since the purport of CC Adi 10.16 is not provided, I could only extract facts from the verse and translation. If the purport is provided, I can extract more facts and teachings from it.
+
+5️⃣ FINAL ANSWER
+--------------------------------------------------------------------------------
+🕉 Honoring Srila Prabhupada's Teachings 🕉
+
+✨ Understanding the Disciples and Granddisciples of a Spiritual Master ✨
+
+As we delve into the sacred text of Sri Caitanya-caritamrta, we find valuable insights into the spiritual realm. In Adi 10.16, Srila Prabhupada sheds light on the importance of the disciples and granddisciples of a spiritual master.
+
+**The Subbranches of a Spiritual Master**
+
+Srila Prabhupada explains that "His disciples and granddisciples are his subbranches" [CC Adi 10.16, Translation](https://github.com/iskconpress/books/tree/master/cc/adi/10/16.txt). This concept highlights the significance of the spiritual master's lineage, where each disciple and granddisciple represents a branch that stems from the original tree of wisdom.
+
+**The Difficulty of Describing All Disciples and Granddisciples**
+
+However, Srila Prabhupada also notes that "to describe them all would be difficult" [CC Adi 10.16, Translation](https://github.com/iskconpress/books/tree/master/cc/adi/10/16.txt). This statement underscores the vastness of the spiritual master's influence, which extends far beyond what can be documented or described.
+
+In essence, Adi 10.16 reminds us of the importance of recognizing and honoring the spiritual master's lineage, while also acknowledging the limitations of attempting to fully capture the scope of their influence.
+
+**Reflection**
+
+As we reflect on these teachings, let us remember the significance of our own spiritual lineage and the importance of honoring our spiritual masters. By doing so, we can deepen our connection with the divine and cultivate a sense of gratitude for the wisdom that has been passed down to us.
+
+May we continue to cherish the teachings of Srila Prabhupada and strive to embody the principles of devotion and service that he so eloquently exemplified.
+
+6️⃣ METRICS AND ANALYSIS
+--------------------------------------------------------------------------------
+Target Prabhupada Content Ratio: 70%
+Actual Prabhupada Content Ratio: 5%
+Answer Length Setting: short
+Answer Format: conversational
+Devotee Level: intermediate
+
+7️⃣ DETAILED SOURCE CITATIONS
+--------------------------------------------------------------------------------
+Source #1: CC Adi 10.16 (Sri Caitanya-caritamrta)
+  URL: https://github.com/iskconpress/books/tree/master/cc/adi/10/16.txt
+  Content Types: Translation ✓
+
+8️⃣ PERFORMANCE METRICS
+--------------------------------------------------------------------------------
+Search Time: 0.03 seconds
+Total Processing Time: 2.92 seconds
+
+================================================================================
+ANALYSIS SUMMARY
+================================================================================
+- Query successfully processed through 1 source(s)
+- Retrieved 1 relevant passages
+- Final answer contains approximately 5% of Prabhupada's direct words
+- Results saved to: testing/rag_results_20250701_001250.txt

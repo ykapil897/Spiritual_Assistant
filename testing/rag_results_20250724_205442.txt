@@ -1,0 +1,131 @@
+================================================================================
+PRABHUPADA RAG SYSTEM ANALYSIS RESULTS - 2025-07-24 20:54:42
+================================================================================
+
+1️⃣ QUERY PROCESSING
+--------------------------------------------------------------------------------
+Original Query: Çréla Prabhupäda Speaks Out
+1. The Senses: Gratification or Purification?
+
+
+from spokens
+Refined Query: Refined query: "spoken senses gratification purification"
+
+2️⃣ SOURCE SELECTION
+--------------------------------------------------------------------------------
+Detected Sources: spoken
+
+3️⃣ RETRIEVED CONTEXT
+--------------------------------------------------------------------------------
+Retrieved 1 source(s)
+
+### The Disease of Sense Gratification
+
+**Prabhupāda:** Hmm. 
+> āmayo yaś ca bhūtānāṁ 
+> jāyate yena suvrata 
+> tad eva hy āmayaṁ dravyaṁ 
+> na punāti cikitsitam 
+> [[books:sb:1:5:33|[SB 1.5.33]]]
+
+Is very important verse. Actually, this is the essence of Kṛṣṇa consciousness movement. What is that? People become diseased by sense gratification. Everyone knows. Too much sense gratification means creating disease. 
+
+For example, some nice eatable. But if you, because it is very nice //rasagullā,// therefore I shall devour one dozen, that's not very good. That will create indigestion immediately. 
+
+So in this material world, people are so much enthusiastic in the matter of sense gratification. Whole world---not only now---this is the place for competition of sense gratification. 
+
+Advancement of civilization means, the so-called civilization, material civ..., means how much you are able to gratify your senses. That is civilization. How much you are given facilities to gratify your senses. This is the modern idea: hedonism. More eat, more drink---eat, drink, be merry and enjoy. Sense gratification.
+
+This is not only new. Formerly, the Cārvāka Muni, he also advocated, //ṛṇaṁ kṛtvā ghṛtaṁ pibet.// In India, they want to eat very nice foodstuff prepared from //ghee.// 
+
+So he advised that //ṛṇaṁ kṛtvā ghṛtaṁ pibet:// even you have no money, then beg, borrow or steal, get //ghee// and eat very nice. 
+
+//Ṛṇaṁ kṛtvā,// the word is... Suppose one has no money, then how to get money? Either cheat somebody, beg..., or beg. But begging for //gṛhastha// is not very good thing, but sometimes they do so, beg, borrow or, promising, "Give me now money. I shall pay you." 
+
+And when credit is lost, then steal, pickpocket. This is as theory. Similarly, Cārvāka Muni, //ṛṇaṁ kṛtvā ghṛtaṁ pibet,// "Never mind." "No, I will have to pay." "No, that we shall see later on, never mind." 
+
+"No, I will be sinful, I will have to pay next life." This is within the blood of every Indian, that if I cheat you or if I take some money from you without your benefit, without repayment, then I will have to suffer. 
+
+Still in India they believe this. There are some incidences that a man... His father took some loan from some gentleman and his father died, and his son came to pay the money to the creditor: "Sir, my father took so much money from you. Now my father died without payment. So I have got money. You kindly take it." 
+
+He says, "Let me see my book whether your father took it." So he said, "All right, consult." So after consulting the books, he said, "I don't find any item that I gave loan to your father." 
+
+"I don't find any debit to your father's name. How can I take your money?" And he is insisting, "Yes, my father took money from you. Kindly take."
+
+**Key Insight:** Sense gratification leads to disease and suffering, and yet, it is the driving force behind modern civilization.
+
+*Key Insight: True advancement lies in understanding the essence of Kṛṣṇa consciousness, which frees us from the disease of sense gratification.*
+
+SOURCE: https://github.com/iskconpress/spoken/blob/master/740814sb.vrn.txt
+
+4️⃣ FACT EXTRACTION
+--------------------------------------------------------------------------------
+Direct spoken content provided
+
+5️⃣ FINAL ANSWER
+--------------------------------------------------------------------------------
+### The Disease of Sense Gratification
+
+**Prabhupāda:** Hmm. 
+> āmayo yaś ca bhūtānāṁ 
+> jāyate yena suvrata 
+> tad eva hy āmayaṁ dravyaṁ 
+> na punāti cikitsitam 
+> [[books:sb:1:5:33|[SB 1.5.33]]]
+
+Is very important verse. Actually, this is the essence of Kṛṣṇa consciousness movement. What is that? People become diseased by sense gratification. Everyone knows. Too much sense gratification means creating disease. 
+
+For example, some nice eatable. But if you, because it is very nice //rasagullā,// therefore I shall devour one dozen, that's not very good. That will create indigestion immediately. 
+
+So in this material world, people are so much enthusiastic in the matter of sense gratification. Whole world---not only now---this is the place for competition of sense gratification. 
+
+Advancement of civilization means, the so-called civilization, material civ..., means how much you are able to gratify your senses. That is civilization. How much you are given facilities to gratify your senses. This is the modern idea: hedonism. More eat, more drink---eat, drink, be merry and enjoy. Sense gratification.
+
+This is not only new. Formerly, the Cārvāka Muni, he also advocated, //ṛṇaṁ kṛtvā ghṛtaṁ pibet.// In India, they want to eat very nice foodstuff prepared from //ghee.// 
+
+So he advised that //ṛṇaṁ kṛtvā ghṛtaṁ pibet:// even you have no money, then beg, borrow or steal, get //ghee// and eat very nice. 
+
+//Ṛṇaṁ kṛtvā,// the word is... Suppose one has no money, then how to get money? Either cheat somebody, beg..., or beg. But begging for //gṛhastha// is not very good thing, but sometimes they do so, beg, borrow or, promising, "Give me now money. I shall pay you." 
+
+And when credit is lost, then steal, pickpocket. This is as theory. Similarly, Cārvāka Muni, //ṛṇaṁ kṛtvā ghṛtaṁ pibet,// "Never mind." "No, I will have to pay." "No, that we shall see later on, never mind." 
+
+"No, I will be sinful, I will have to pay next life." This is within the blood of every Indian, that if I cheat you or if I take some money from you without your benefit, without repayment, then I will have to suffer. 
+
+Still in India they believe this. There are some incidences that a man... His father took some loan from some gentleman and his father died, and his son came to pay the money to the creditor: "Sir, my father took so much money from you. Now my father died without payment. So I have got money. You kindly take it." 
+
+He says, "Let me see my book whether your father took it." So he said, "All right, consult." So after consulting the books, he said, "I don't find any item that I gave loan to your father." 
+
+"I don't find any debit to your father's name. How can I take your money?" And he is insisting, "Yes, my father took money from you. Kindly take."
+
+**Key Insight:** Sense gratification leads to disease and suffering, and yet, it is the driving force behind modern civilization.
+
+*Key Insight: True advancement lies in understanding the essence of Kṛṣṇa consciousness, which frees us from the disease of sense gratification.*
+
+SOURCE: https://github.com/iskconpress/spoken/blob/master/740814sb.vrn.txt
+
+6️⃣ METRICS AND ANALYSIS
+--------------------------------------------------------------------------------
+Target Prabhupada Content Ratio: 70%
+Actual Prabhupada Content Ratio: 100%
+Answer Length Setting: short
+Answer Format: conversational
+Devotee Level: neophyte
+
+7️⃣ DETAILED SOURCE CITATIONS
+--------------------------------------------------------------------------------
+Source #1: 740814sb.vrn (Unknown)
+  URL: https://github.com/iskconpress/spoken/blob/master/740814sb.vrn.txt
+  Content Types: No content details available
+
+8️⃣ PERFORMANCE METRICS
+--------------------------------------------------------------------------------
+Search Time: 3.51 seconds
+Total Processing Time: 4.28 seconds
+
+================================================================================
+ANALYSIS SUMMARY
+================================================================================
+- Query successfully processed through 1 source(s)
+- Retrieved 1 relevant passages
+- Final answer contains approximately 100% of Prabhupada's direct words
+- Results saved to: testing/rag_results_20250724_205442.txt

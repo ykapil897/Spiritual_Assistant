@@ -1,0 +1,94 @@
+================================================================================
+PRABHUPADA RAG SYSTEM ANALYSIS RESULTS - 2025-07-30 10:34:57
+================================================================================
+
+1️⃣ QUERY PROCESSING
+--------------------------------------------------------------------------------
+Original Query: ✅ A short but powerful passage (1–2 paragraphs verbatim) from Srila Prabhupada’s books, lectures, letters, or conversations that matches the topic.
+✅ The direct clickable Prabhupada.io link for verification.
+✅ 4 multiple-choice questions where multiple answers may be correct.
+✅ 1 analytical long-answer question for deeper reflection.
+
+from conversation
+why preaching Bhagavad Gita is the highest service
+Day 2: Krishna’s instruction to share the Gita’s message
+
+
+Refined Query: Refined query: "spoken Bhagavad Gita highest service preaching Krishna's instruction"
+
+2️⃣ SOURCE SELECTION
+--------------------------------------------------------------------------------
+Detected Sources: spoken
+
+3️⃣ RETRIEVED CONTEXT
+--------------------------------------------------------------------------------
+Retrieved 1 source(s)
+
+SOURCE: https://github.com/iskconpress/spoken/blob/master/720309bg.cal.txt Here is the formatted transcript:
+
+### 📖 The Path to Spiritual Learning
+
+**Devotee:** That is our request. Thank you very much.
+
+**Devotees:** Jaya Prabhupāda!
+
+**Prabhupāda:** Just like a student is admitted in the school for learning ABCD, and if he follows the rules and regulations, then he becomes a learned scholar. Similarly, if one follows the rules and regulations of **dharma**, then he becomes a perfect human being.
+
+*Key Insight: Spiritual growth requires following the rules and regulations of dharma.*
+
+---
+
+Let me know if you'd like me to continue with the rest of the conversation! 😊
+
+
+
+4️⃣ FACT EXTRACTION
+--------------------------------------------------------------------------------
+Direct spoken content provided
+
+5️⃣ FINAL ANSWER
+--------------------------------------------------------------------------------
+SOURCE: https://github.com/iskconpress/spoken/blob/master/720309bg.cal.txt Here is the formatted transcript:
+
+### 📖 The Path to Spiritual Learning
+
+**Devotee:** That is our request. Thank you very much.
+
+**Devotees:** Jaya Prabhupāda!
+
+**Prabhupāda:** Just like a student is admitted in the school for learning ABCD, and if he follows the rules and regulations, then he becomes a learned scholar. Similarly, if one follows the rules and regulations of **dharma**, then he becomes a perfect human being.
+
+*Key Insight: Spiritual growth requires following the rules and regulations of dharma.*
+
+---
+
+Let me know if you'd like me to continue with the rest of the conversation! 😊
+
+
+
+6️⃣ METRICS AND ANALYSIS
+--------------------------------------------------------------------------------
+Target Prabhupada Content Ratio: 70%
+Actual Prabhupada Content Ratio: 100%
+Answer Length Setting: short
+Answer Format: conversational
+Devotee Level: neophyte
+
+7️⃣ DETAILED SOURCE CITATIONS
+--------------------------------------------------------------------------------
+Source #1: 720309bg.cal (Unknown)
+  URL: https://github.com/iskconpress/spoken/blob/master/720309bg.cal.txt
+  Content Types: No content details available
+
+8️⃣ PERFORMANCE METRICS
+--------------------------------------------------------------------------------
+Search Time: 1.80 seconds
+Total Processing Time: 2.48 seconds
+
+================================================================================
+ANALYSIS SUMMARY
+================================================================================
+- Query successfully processed through 1 source(s)
+- Retrieved 1 relevant passages
+- Final answer contains approximately 100% of Prabhupada's direct words
+- Results saved to: testing/rag_results_20250730_103457.txt

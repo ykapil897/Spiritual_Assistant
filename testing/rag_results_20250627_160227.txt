@@ -1,0 +1,159 @@
+================================================================================
+PRABHUPADA RAG SYSTEM ANALYSIS RESULTS - 2025-06-27 16:02:27
+================================================================================
+
+1️⃣ QUERY PROCESSING
+--------------------------------------------------------------------------------
+Original Query: what is the essence of karma yoga in Bhagavad Gita?
+Refined Query: Since the current query is identical to the previous two queries, I will refine it to explicitly include the relevant topic from the previous query about Chapter 3:
+
+" Essence of karma yoga in Bhagavad Gita, specifically in Chapter 3"
+
+This refined query maintains the original intent and key concepts from the user's query, while explicitly including the relevant topic from the previous query about Chapter 3.
+
+2️⃣ SOURCE SELECTION
+--------------------------------------------------------------------------------
+Detected Sources: bg
+
+3️⃣ RETRIEVED CONTEXT
+--------------------------------------------------------------------------------
+Retrieved 5 source(s)
+
+REFERENCE: Bg. 3.9 (Bhagavad Gita)
+
+VERSE: yajñārthāt karmaṇo ’nyatraloko ’yaṁ karma-bandhanaḥtad-arthaṁ karma kaunteyamukta-saṅgaḥ samācara
+
+TRANSLATION: Work done as a sacrifice for Viṣṇu has to be performed; otherwise work causes bondage in this material world. Therefore, O son of Kuntī, perform your prescribed duties for His satisfaction, and in that way you will always remain free from bondage.
+
+URL: https://github.com/iskconpress/books/tree/master/bg/3/9.txt
+
+---
+
+REFERENCE: Bg. 3.3 (Bhagavad Gita)
+
+VERSE: śrī-bhagavān uvācaloke ’smin dvi-vidhā niṣṭhāpurā proktā mayānaghajñāna-yogena sāṅkhyānāṁkarma-yogena yoginām
+
+TRANSLATION: The Supreme Personality of Godhead said: O sinless Arjuna, I have already explained that there are two classes of men who try to realize the self. Some are inclined to understand it by empirical, philosophical speculation, and others by devotional service.
+
+URL: https://github.com/iskconpress/books/tree/master/bg/3/3.txt
+
+---
+
+REFERENCE: Bg. 3.15 (Bhagavad Gita)
+
+VERSE: karma brahmodbhavaṁ viddhibrahmākṣara-samudbhavamtasmāt sarva-gataṁ brahmanityaṁ yajñe pratiṣṭhitam
+
+TRANSLATION: Regulated activities are prescribed in the Vedas, and the Vedas are directly manifested from the Supreme Personality of Godhead. Consequently the all-pervading Transcendence is eternally situated in acts of sacrifice.
+
+URL: https://github.com/iskconpress/books/tree/master/bg/3/15.txt
+
+---
+
+REFERENCE: Bg. 3.20 (Bhagavad Gita)
+
+VERSE: karmaṇaiva hi saṁsiddhimāsthitā janakādayaḥloka-saṅgraham evāpisampaśyan kartum arhasi
+
+TRANSLATION: Kings such as Janaka attained perfection solely by performance of prescribed duties. Therefore, just for the sake of educating the people in general, you should perform your work.
+
+URL: https://github.com/iskconpress/books/tree/master/bg/3/20.txt
+
+---
+
+REFERENCE: Bg. 3.34 (Bhagavad Gita)
+
+VERSE: indriyasyendriyasyārtherāga-dveṣau vyavasthitautayor na vaśam āgacchettau hy asya paripanthinau
+
+TRANSLATION: There are principles to regulate attachment and aversion pertaining to the senses and their objects. One should not come under the control of such attachment and aversion, because they are stumbling blocks on the path of self-realization.
+
+URL: https://github.com/iskconpress/books/tree/master/bg/3/34.txt
+
+(Found 5 verses from chapter 3 in Bhagavad Gita)
+
+4️⃣ FACT EXTRACTION
+--------------------------------------------------------------------------------
+Here are the key facts about the essence of karma yoga in Bhagavad Gita, as taught by Srila Prabhupada:
+
+Srila Prabhupada's contribution: Srila Prabhupada's teachings on karma yoga, as presented in the Bhagavad Gita, provide a comprehensive understanding of the principles and practices of selfless action.
+
+FACT: Karma yoga involves performing prescribed duties for the satisfaction of the Supreme Personality of Godhead, Viṣṇu. | SOURCE: Bg. 3.9, Translation | QUOTE: "Work done as a sacrifice for Viṣṇu has to be performed; otherwise work causes bondage in this material world." | URL: https://github.com/iskconpress/books/tree/master/bg/3/9.txt
+
+FACT: There are two classes of men who try to realize the self: those who understand through empirical, philosophical speculation (jñāna-yogena sāṅkhyānām) and those who do so through devotional service (karma-yogena yoginām). | SOURCE: Bg. 3.3, Translation | QUOTE: "O sinless Arjuna, I have already explained that there are two classes of men who try to realize the self." | URL: https://github.com/iskconpress/books/tree/master/bg/3/3.txt
+
+FACT: Regulated activities (karma) are prescribed in the Vedas, which are directly manifested from the Supreme Personality of Godhead, and thus, the all-pervading Transcendence is eternally situated in acts of sacrifice. | SOURCE: Bg. 3.15, Translation | QUOTE: "Regulated activities are prescribed in the Vedas, and the Vedas are directly manifested from the Supreme Personality of Godhead." | URL: https://github.com/iskconpress/books/tree/master/bg/3/15.txt
+
+FACT: Kings such as Janaka attained perfection solely by performance of prescribed duties, and one should perform their work for the sake of educating the people in general. | SOURCE: Bg. 3.20, Translation | QUOTE: "Kings such as Janaka attained perfection solely by performance of prescribed duties." | URL: https://github.com/iskconpress/books/tree/master/bg/3/20.txt
+
+5️⃣ FINAL ANSWER
+--------------------------------------------------------------------------------
+🕉 Humble Greetings, Dear Devotee
+
+As we delve into the essence of karma yoga in the Bhagavad Gita, I am reminded of the profound wisdom of our beloved spiritual master, Srila Prabhupada. His teachings on this subject provide a comprehensive understanding of the principles and practices of selfless action.
+
+✨ Understanding Karma Yoga
+
+Karma yoga, as Srila Prabhupada explains, involves performing prescribed duties for the satisfaction of the Supreme Personality of Godhead, Viṣṇu. In the Bhagavad Gita (3.9), he quotes: *"Work done as a sacrifice for Viṣṇu has to be performed; otherwise work causes bondage in this material world."* [Source](https://github.com/iskconpress/books/tree/master/bg/3/9.txt)
+
+This fundamental principle of karma yoga highlights the importance of dedicating our actions to the Supreme Lord. By doing so, we can transcend the bondage of material attachment and cultivate a sense of detachment, which is essential for spiritual growth.
+
+✨ Two Paths to Self-Realization
+
+Srila Prabhupada also explains that there are two classes of men who try to realize the self: those who understand through empirical, philosophical speculation (jñāna-yogena sāṅkhyānām) and those who do so through devotional service (karma-yogena yoginām). As he quotes in the Bhagavad Gita (3.3): *"O sinless Arjuna, I have already explained that there are two classes of men who try to realize the self."* [Source](https://github.com/iskconpress/books/tree/master/bg/3/3.txt)
+
+This distinction is crucial, as it highlights the importance of *bhakti*, or devotional service, in the pursuit of self-realization. By engaging in karma yoga, we can cultivate a deeper sense of devotion and connection with the Supreme Lord.
+
+✨ The Vedas and Regulated Activities
+
+The Vedas, which are directly manifested from the Supreme Personality of Godhead, prescribe regulated activities (karma) that are essential for spiritual growth. As Srila Prabhupada quotes in the Bhagavad Gita (3.15): *"Regulated activities are prescribed in the Vedas, and the Vedas are directly manifested from the Supreme Personality of Godhead."* [Source](https://github.com/iskconpress/books/tree/master/bg/3/15.txt)
+
+This emphasizes the importance of following the principles of karma yoga, as outlined in the Vedas, to achieve spiritual perfection.
+
+✨ The Example of Kings like Janaka
+
+Finally, Srila Prabhupada reminds us that kings such as Janaka attained perfection solely by performance of prescribed duties. As he quotes in the Bhagavad Gita (3.20): *"Kings such as Janaka attained perfection solely by performance of prescribed duties."* [Source](https://github.com/iskconpress/books/tree/master/bg/3/20.txt)
+
+This example serves as a powerful reminder that even those in positions of power and authority can achieve spiritual perfection through the practice of karma yoga.
+
+✨ Reflection and Application
+
+As we reflect on the essence of karma yoga in the Bhagavad Gita, let us remember the importance of dedicating our actions to the Supreme Lord, cultivating devotion through regulated activities, and following the principles outlined in the Vedas. By doing so, we can transcend the bondage of material attachment and achieve spiritual perfection.
+
+May we strive to incorporate the principles of karma yoga into our daily lives, and may we find inspiration in the teachings of Srila Prabhupada to guide us on our spiritual journey.
+
+6️⃣ METRICS AND ANALYSIS
+--------------------------------------------------------------------------------
+Target Prabhupada Content Ratio: 70%
+Actual Prabhupada Content Ratio: 13%
+Answer Length Setting: medium
+Answer Format: conversational
+Devotee Level: intermediate
+
+7️⃣ DETAILED SOURCE CITATIONS
+--------------------------------------------------------------------------------
+Source #1: Bg. 3.9 (Bhagavad Gita)
+  URL: https://github.com/iskconpress/books/tree/master/bg/3/9.txt
+  Content Types: Verse ✓, Translation ✓
+
+Source #2: Bg. 3.3 (Bhagavad Gita)
+  URL: https://github.com/iskconpress/books/tree/master/bg/3/3.txt
+  Content Types: Verse ✓, Translation ✓
+
+Source #3: Bg. 3.15 (Bhagavad Gita)
+  URL: https://github.com/iskconpress/books/tree/master/bg/3/15.txt
+  Content Types: Verse ✓, Translation ✓
+
+Source #4: Bg. 3.20 (Bhagavad Gita)
+  URL: https://github.com/iskconpress/books/tree/master/bg/3/20.txt
+  Content Types: Verse ✓, Translation ✓
+
+Source #5: Bg. 3.34 (Bhagavad Gita)
+  URL: https://github.com/iskconpress/books/tree/master/bg/3/34.txt
+  Content Types: Verse ✓, Translation ✓
+
+
+================================================================================
+ANALYSIS SUMMARY
+================================================================================
+- Query successfully processed through 1 source(s)
+- Retrieved 5 relevant passages
+- Final answer contains approximately 13% of Prabhupada's direct words
+- Results saved to: rag_results_20250627_160227.txt

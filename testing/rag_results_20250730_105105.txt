@@ -1,0 +1,107 @@
+================================================================================
+PRABHUPADA RAG SYSTEM ANALYSIS RESULTS - 2025-07-30 10:51:05
+================================================================================
+
+1️⃣ QUERY PROCESSING
+--------------------------------------------------------------------------------
+Original Query: ✅ A short but powerful passage (1–2 paragraphs verbatim) from Srila Prabhupada’s books, lectures, letters, or conversations that matches the topic.
+✅ The direct clickable Prabhupada.io link for verification.
+✅ 4 multiple-choice questions where multiple answers may be correct.
+✅ 1 analytical long-answer question for deeper reflection.
+
+from conversation and spokens , i want a answer 
+Day 5: Benefits a preacher receives from Krishna
+Refined Query: Here is the refined query:
+
+"spoken benefits a preacher receives from Krishna, preaching Bhagavad Gita"
+
+This query combines the current topic with relevant concepts from previous queries, focusing on spoken content from Srila Prabhupada's conversations or lectures.
+
+2️⃣ SOURCE SELECTION
+--------------------------------------------------------------------------------
+Detected Sources: spoken
+
+3️⃣ RETRIEVED CONTEXT
+--------------------------------------------------------------------------------
+Retrieved 1 source(s)
+
+SOURCE: https://github.com/iskconpress/spoken/blob/master/740606le.gen.txt Here is the formatted content:
+
+### 📖 Introduction by Guru-gaurānga
+
+**Guru-gaurānga:** So we are very honored to be able to address here today. Our spiritual master, His Divine Grace Bhaktivedanta Swami Prabhupāda, not only is the founder of the International Society for Krishna Consciousness, which is a cultural organization with branches throughout the world, one hundred branches, but he's also an eminent writer. He has presented single-handedly, so far, six volumes of **Śrīmad-Bhāgavatam**, which are going to be completed within sixty volumes, and other such books as **Bhagavad-gītā As It Is**. The monthly magazine of the Society distributes some one million copies per month. And the aim of this International Society for Krishna Consciousness, of which Śrīla Prabhupāda is the founder, is a cultural respiritualization of society. We have made so much progress in technology, in science, and yet there is a certain disparity in the society. The point of **Śrīmad-Bhāgavatam** and the Vedic scriptures is that any type of technology without fundamental spiritual technology cannot succeed. So it is in the hope of complementing the work of this World Health Organization by deepening its knowledge of the spiritual technology, which is equally important, if not more so, that we have requested this opportunity to speak to you.
+
+### 📖 Prabhupāda's Lecture Begins
+
+**Prabhupāda:** So Ladies and Gentlemen, I thank you very much for your participating in this meeting. Our Kṛṣṇa consciousness movement is based on the authority of this **Bhagavad-gītā**. **Bhagavad-gītā**, I think most of you know, Indians or foreigners. And some of you must have read **Bhagavad-gītā**. We have published **Bhagavad-gītā** as it is, without any malinterpretation. In the **Bhagavad-gītā**, the author of the **Bhagavad-gītā** is announced as the Supreme Personality of Godhead, and the Hindus, especially the Vaiṣṇava... Vaiṣṇava or not Vaiṣṇava, Kṛṣṇa is accepted as the Supreme Personality of Godhead.
+
+*Key Insight: Kṛṣṇa is the Supreme Personality of Godhead.*
+
+Our Indian spiritual life is guided by the **ācāryas**, **sampradāya ācārya**, the Rāmānujācārya, Madhvācārya, Viṣṇu Svāmī and Nimbārka. There is... Whole Indian spiritual culture is dependent on the guidance of these **ācārya**. And in the **Bhagavad-gītā** also, in the Thirteenth Chapter, it is advised, **ācārya upāsanam:** "One should follow the instruction of the **ācārya.**" That is our Vedic civilization.
+
+*Key Insight: Following the instruction of the ācārya is essential in Vedic civilization.*
+
+And in the **Bhagavad-gītā** also, it is said in the Fourth Chapter, **evaṁ paramparā-prāptam imaṁ rājarṣayo viduḥ** — *Bg. 4.2*. The science of God... **Imaṁ vivasvate yogaṁ proktavān aham avyayam** — *Bg. 4.1*. This is a **yoga** system, this **Bhagavad-gītā**. So Kṛṣṇa says that "Formerly, this **yoga** system was spoken by Me to the sun-god, Vivasvān." And **visvasvān manave prāhur**, then the sun-god, whose name is Vivasvān at the present moment... We get all information from the **śāstra**. Each and every planet has got a predominating personality. Just like we have got on this planet a few presidents. But in other planets, there are also presidents, and their name is also... Because the duration of other planet is very, very great. The topmost planet, which is known as Brahmaloka, that is stated in the **Bhagavad-gītā**, **sahasra-yuga-paryantam ahar yad brahmaṇo viduḥ** — *Bg. 8.17*.
+
+---
+
+## 🛑 END OF CONVERSATION
+
+
+
+4️⃣ FACT EXTRACTION
+--------------------------------------------------------------------------------
+Direct spoken content provided
+
+5️⃣ FINAL ANSWER
+--------------------------------------------------------------------------------
+SOURCE: https://github.com/iskconpress/spoken/blob/master/740606le.gen.txt Here is the formatted content:
+
+### 📖 Introduction by Guru-gaurānga
+
+**Guru-gaurānga:** So we are very honored to be able to address here today. Our spiritual master, His Divine Grace Bhaktivedanta Swami Prabhupāda, not only is the founder of the International Society for Krishna Consciousness, which is a cultural organization with branches throughout the world, one hundred branches, but he's also an eminent writer. He has presented single-handedly, so far, six volumes of **Śrīmad-Bhāgavatam**, which are going to be completed within sixty volumes, and other such books as **Bhagavad-gītā As It Is**. The monthly magazine of the Society distributes some one million copies per month. And the aim of this International Society for Krishna Consciousness, of which Śrīla Prabhupāda is the founder, is a cultural respiritualization of society. We have made so much progress in technology, in science, and yet there is a certain disparity in the society. The point of **Śrīmad-Bhāgavatam** and the Vedic scriptures is that any type of technology without fundamental spiritual technology cannot succeed. So it is in the hope of complementing the work of this World Health Organization by deepening its knowledge of the spiritual technology, which is equally important, if not more so, that we have requested this opportunity to speak to you.
+
+### 📖 Prabhupāda's Lecture Begins
+
+**Prabhupāda:** So Ladies and Gentlemen, I thank you very much for your participating in this meeting. Our Kṛṣṇa consciousness movement is based on the authority of this **Bhagavad-gītā**. **Bhagavad-gītā**, I think most of you know, Indians or foreigners. And some of you must have read **Bhagavad-gītā**. We have published **Bhagavad-gītā** as it is, without any malinterpretation. In the **Bhagavad-gītā**, the author of the **Bhagavad-gītā** is announced as the Supreme Personality of Godhead, and the Hindus, especially the Vaiṣṇava... Vaiṣṇava or not Vaiṣṇava, Kṛṣṇa is accepted as the Supreme Personality of Godhead.
+
+*Key Insight: Kṛṣṇa is the Supreme Personality of Godhead.*
+
+Our Indian spiritual life is guided by the **ācāryas**, **sampradāya ācārya**, the Rāmānujācārya, Madhvācārya, Viṣṇu Svāmī and Nimbārka. There is... Whole Indian spiritual culture is dependent on the guidance of these **ācārya**. And in the **Bhagavad-gītā** also, in the Thirteenth Chapter, it is advised, **ācārya upāsanam:** "One should follow the instruction of the **ācārya.**" That is our Vedic civilization.
+
+*Key Insight: Following the instruction of the ācārya is essential in Vedic civilization.*
+
+And in the **Bhagavad-gītā** also, it is said in the Fourth Chapter, **evaṁ paramparā-prāptam imaṁ rājarṣayo viduḥ** — *Bg. 4.2*. The science of God... **Imaṁ vivasvate yogaṁ proktavān aham avyayam** — *Bg. 4.1*. This is a **yoga** system, this **Bhagavad-gītā**. So Kṛṣṇa says that "Formerly, this **yoga** system was spoken by Me to the sun-god, Vivasvān." And **visvasvān manave prāhur**, then the sun-god, whose name is Vivasvān at the present moment... We get all information from the **śāstra**. Each and every planet has got a predominating personality. Just like we have got on this planet a few presidents. But in other planets, there are also presidents, and their name is also... Because the duration of other planet is very, very great. The topmost planet, which is known as Brahmaloka, that is stated in the **Bhagavad-gītā**, **sahasra-yuga-paryantam ahar yad brahmaṇo viduḥ** — *Bg. 8.17*.
+
+---
+
+## 🛑 END OF CONVERSATION
+
+
+
+6️⃣ METRICS AND ANALYSIS
+--------------------------------------------------------------------------------
+Target Prabhupada Content Ratio: 70%
+Actual Prabhupada Content Ratio: 100%
+Answer Length Setting: short
+Answer Format: conversational
+Devotee Level: neophyte
+
+7️⃣ DETAILED SOURCE CITATIONS
+--------------------------------------------------------------------------------
+Source #1: 740606le.gen (Unknown)
+  URL: https://github.com/iskconpress/spoken/blob/master/740606le.gen.txt
+  Content Types: No content details available
+
+8️⃣ PERFORMANCE METRICS
+--------------------------------------------------------------------------------
+Search Time: 4.34 seconds
+Total Processing Time: 5.16 seconds
+
+================================================================================
+ANALYSIS SUMMARY
+================================================================================
+- Query successfully processed through 1 source(s)
+- Retrieved 1 relevant passages
+- Final answer contains approximately 100% of Prabhupada's direct words
+- Results saved to: testing/rag_results_20250730_105105.txt

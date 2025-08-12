@@ -1,0 +1,439 @@
+================================================================================
+PRABHUPADA RAG SYSTEM ANALYSIS RESULTS - 2025-07-24 15:45:02
+================================================================================
+
+1️⃣ QUERY PROCESSING
+--------------------------------------------------------------------------------
+Original Query: Does Krishna know our Future? from spokens
+Refined Query: Refined query: "spoken Krishna consciousness knowing our future, seeking the right thing, seeing God"
+
+2️⃣ SOURCE SELECTION
+--------------------------------------------------------------------------------
+Detected Sources: spoken
+
+3️⃣ RETRIEVED CONTEXT
+--------------------------------------------------------------------------------
+Retrieved 5 source(s)
+
+🕉 Humble greetings to the devotees.
+
+**Prabhupāda:** So, in our present experience, we see this flesh or mental concoction. But spiritual understanding is different. That you have to do when you are spiritualized. Therefore, it is said:
+
+> ataḥ śrī-kṛṣṇa-nāmādi na bhaved grāhyam indriyaiḥ
+> (Cc. Madhya 17.136)
+
+**Prabhupāda:** "Indriya" means senses. You cannot understand God by your present senses or godly kingdom of God.
+
+> sevonmukhe hi jihvādau svayam eva sphuraty adaḥ
+> "But if you engage your service, beginning with the tongue, then God reveals."
+
+**Prabhupāda:** "God reveals" means He reveals His kingdom, He Himself. That... These boys are after God. It is not that I have shown them God, but they are realizing, understanding. Otherwise, they are not so foolish they'll waste time. They are understanding. But it is not a subject matter to be seen like this. Neither you have got the eyes to see, neither God or His kingdom is visible in that way. It is to be realized. Revelation. That is called revelation. But if you engage yourself in the service of the Lord, everything will be revealed to you. This is the process.
+
+**Guest (1):** In Kṛṣṇa consciousness, what are your thoughts of the past or the future?
+
+**Devotee:** In Kṛṣṇa consciousness, is there any thought of the past or the future?
+
+**Prabhupāda:** Huh?
+
+**Devotee:** Would you like to be more specific about that question?
+
+**Guest (1):** Is there any thought about the past or the future?
+
+**Madhudviṣa:** The question is, Śrīla Prabhupāda, when you become Kṛṣṇa conscious, can you remember your past or see into the future?
+
+**Prabhupāda:** No, we understand past, future, everything, present. That is spiritual consciousness. Yes. Just like Kṛṣṇa says, "I know past, present and future," similarly, when you also become pure, purified in Kṛṣṇa consciousness, you'll also know past, present and future.
+
+**Guest (2):** [indistinct]
+
+**Madhudviṣa:** The gentleman is asking about the authenticity of Moses.
+
+**Prabhupāda:** Moses.
+
+**Madhudviṣa:** Yes.
+
+**Prabhupāda:** They are representative of God. That's nice.
+
+**Madhudviṣa:** Any other question?
+
+**Guest (3):** How strong is the power of Kṛṣṇa?
+
+**Madhudviṣa:** How strong is the power of Kṛṣṇa?
+
+**Prabhupāda:** [laughter] No, that can be explained. Just like there is Atlantic Ocean and Pacific Ocean, and you are a drop of it, that's all. The quality is the same, a drop of Atlantic or Pacific Ocean and the ocean. If you taste the drop, a small drop, it is salty, you can understand that the ocean is also salty. But the containing..., the contents of salt, that is very small, and the contents of salt in the ocean, that is very big. That you cannot imagine. It is like that. God is like you and me, a person. But He is Pacific Ocean; we are drop. That's all. Yes? What is your question? This gentleman, here.
+
+**Guest (4):** What's your doctrine? What's your doctrine of this...
+
+**Prabhupāda:** Doctrine?
+
+**Madhudviṣa:** He wants to know what the doctrine of Kṛṣṇa consciousness is.
+
+**Prabhupāda:** Kṛṣṇa consciousness means that you are part and parcel of Kṛṣṇa, or God. You being separated, I have already explained, you are suffering in this material world.
+
+SOURCE: https://github.com/iskconpress/spoken/blob/master/740627bg.mel.txt
+
+---
+
+🕉 Humble greetings to the devotees.
+
+**Prabhupāda:** [chants //maṅgalācaraṇa// prayers] Ladies and gentlemen, this Kṛṣṇa conscious movement is reviving our original consciousness. At the present moment, due to our long association with matter, the consciousness has become contaminated, just like when the rainwater falls down from the cloud, the water is uncontaminated, distilled water, pure, but as soon as the water falls down on this earth, it becomes mixed up with so many dirty things. When the water falls, it is not salty, but when it is touched with the matter or earth, it becomes salty, or tasty, or something like that. Similarly, originally, as spirit soul, our consciousness is uncontaminated, but due to our association with the matter at the present moment, our consciousness is contaminated. Therefore, we have got so many varieties of consciousness. Disagreements between one person to another is due to this contaminated consciousness. I think some way; you think otherwise. Therefore, we do not agree. But originally, your consciousness and my consciousness were one. And what is that one? That conscious, pure consciousness, is "God is great, and I am His eternal servant." That is pure consciousness. As soon as we want to imitate or artificially want to become one with God, immediately the contamination begins.
+
+There is a Bengali verse in which it is stated that,
+
+"kṛṣṇa bhuliya jīva bhoga vāñchā kare
+pāśate māyā tāre jāpaṭiyā dhare"
+
+[//Prema-vivarta//]
+
+The English translation is that "When an individual soul forgets his eternal relationship with God and tries to lord it over the material nature or resources, that condition, that forgetful condition, is called //māyā,// or illusion."
+
+So, at the present moment, especially in this age, the forgetfulness of our eternal relationship with God is very strong. And by chanting this transcendental sound, Hare Kṛṣṇa, the first installment is that our heart or the mind becomes cleansed of all dirty things. This is not a theoretical proposition, but it is a fact. If you go on chanting this //mantra,// Hare Kṛṣṇa, it is not difficult. Although it is pronounced in Sanskrit language, everyone can chant it just like in this meeting we began to chant, and you also joined with us. Here, all my students, they are all Americans. None of them are Indian, but still, they have learned it very nicely, and it is not difficult. And there is no expenditure.
+
+So, what is this Hare Kṛṣṇa? //Hare// means the energy of the Lord, and //Kṛṣṇa// means the Supreme Personality of Godhead. So, it is a prayer. There are three words only: Hare, Kṛṣṇa, and Rāma, three words. That has been arranged in sixteen words: Hare Kṛṣṇa, Hare Kṛṣṇa, Kṛṣṇa Kṛṣṇa, Hare Hare/ Hare Rāma, Hare Rāma, Rāma Rāma, Hare Hare. So, our movement is that we request you to take up these sixteen words---not sixteen words, three words, Hare, Kṛṣṇa, Rāma. But it is arranged in such a way that there are sixteen words. So, anyone can take it by heart, these three words, and chant it.
+
+SOURCE: https://github.com/iskconpress/spoken/blob/master/680615le.mon.txt
+
+---
+
+🕉 Humble greetings to the devotees.
+
+**Prabhupāda:** But you may not be very philosophically inclined, but anyone can experience Kṛṣṇa and Kṛṣṇa consciousness just by chanting this simple mantra with the names of God: Hare Kṛṣṇa, Hare Kṛṣṇa, Kṛṣṇa Kṛṣṇa, Hare Hare, Hare Rāma, Hare Rāma, Rāma Rāma, Hare Hare. And now, for concluding the formal part of the program, we're going to chant this Hare Kṛṣṇa mantra and invite you all to join in and experience Kṛṣṇa in the form of His name, this transcendental sound. Just chant Hare Kṛṣṇa with us, and then afterward, if there are more questions or you want to see our literatures—we have so many books here—we can do that. But for now, please, for a minute make an experiment in Kṛṣṇa consciousness by chanting this mantra.
+
+[Revatīnandana and then Nanda-kumāra leads kīrtana, and Prabhupāda chants along]
+
+**Prabhupāda:** [prema-dhvani] Thank you very much.
+
+**Devotees:** All glories to Śrī Guru and Gauranga. [obeisances]
+
+[indistinct background talk]
+
+**Revatīnandana:** All glories to Śrī Guru and Śrī Gaurāṅga. All glories to Śrīla Prabhupāda. [loud applause] Jaya. Haribol. Hari-haribol.
+
+So my Godbrothers will bring around a little bit of fruit to you, the prasādam, full of..., fruit offered to Kṛṣṇa, and up here at the front is a table of books and literatures, and if you have any interest in them you can come up, and there's also another book table, I think, set up in the back lobby there. We have small and large books, simple things you can read to understand more about Kṛṣṇa consciousness, and you can taste a little prasādam. And for now I think we'll have a little more kīrtana. We'll just keep on chanting for a little while, and invite you to join and chant some more. And then after this chant is finished then if you have any more questions, my Godbrothers will be here.
+
+[devotee speaks aside] Oh, yes. We have a temple in Edinburgh. We haven't got one in Glasgow yet. That will be coming up, hopefully, next year. But we have one at 14 Forrest Rd, in Greyfriars part of Edinburgh, 14 Forrest Rd. You can visit that temple any time in Edinburgh, if you happen to be visiting Edinburgh; we invite everybody to come by. Hopefully, some time next year we'll have another temple..., a temple here in Glasgow also. I think you'll like to have a temple here.
+
+So now we're going to have some more kīrtana, chanting Hare Kṛṣṇa. On your way out, stop at the book table in the front or in the back, and take some literature. And be sure you don't go before you have a little bit of fruit, prasādam offered to Kṛṣṇa.
+
+[kīrtana]
+
+[aside:] Somebody get some kartāls. Come on. Don't go. Kartāls. Svayambhūr?
+
+[kīrtana]
+
+Please join in chanting. Everybody chant for a while. Come on, chant Hare Kṛṣṇa.
+
+[kīrtana]
+
+**Prabhupāda:** 
+> patraṁ puṣpaṁ phalaṁ toyaṁ 
+> yo me bhaktyā prayacchati 
+> tad ahaṁ bhakty-upahṛtam 
+> aśnāmi prayatātmanaḥ 
+> [[Bg. 9.26]]
+
+SOURCE: https://github.com/iskconpress/spoken/blob/master/720801bg.gla.txt
+
+---
+
+🕉 Humble greetings to the devotees.
+
+**Prabhupāda:** So God is not so cheap a thing that "I have become God; you have become God." It is a great science. So those who want to understand God scientifically, philosophically, let them read these books. That is our presentation, Kṛṣṇa consciousness. And those who are unable to read all these books for any reason it may be, then it is a very simple method: chant Hare Kṛṣṇa. It is so sublime. If you simply chant Hare Kṛṣṇa mantra, then you understand clearly what you are, what is God, what is your relationship with Him, what is this world. Everything will be clear. That is the advantage of this fallen age.
+
+**Prabhupāda:** This age is very, very fallen. People have completely forgotten God. Not completely, because few men are still interested; otherwise, why are they joining this Kṛṣṇa consciousness movement? We cannot say completely. But gradually it will be completely forgetful of God, day by day. Just like we can see. Formerly, our forefathers, they used to construct churches, temples, mosques, synagogues, but nowadays nobody is preparing. In the modern history, you won't find. They are constructing big, big skyscraper buildings. That we can see. But you don't see anywhere a magnificent church or temple or mosque is being constructed. That means people are going down in the matter of understanding God. They are thinking these buildings are waste of money, unproductive creation. "If we manufacture a skyscraper building, immediately there will be some income. But if I construct a gigantic temple, it will be simply waste of money." They are thinking like that. That means the standard of understanding God is finished.
+
+**Prabhupāda:** Not to speak of constructing new churches, but... We are practically purchasing many churches. They are vacant. I have seen in London, hundreds of churches are vacant. Nobody goes there. Nobody goes there. So one priest was surprised in Boston that "These boys, they are our boys. They are Christian boys. They are American boys. So previously they were not coming to the church. They did not care for God or to understand what is God. But why they are mad after God now?" That's a fact. These boys, you American boys, you were not interested. But why you are so interested and you are preaching Kṛṣṇa consciousness all over the world? You are not foolish. I have not bribed you. But why you are doing that?
+
+**Prabhupāda:** So this is a fact that we have got an intimate relationship with Kṛṣṇa. That's a fact. Just like father and son. They are intimately related. It may be the son has gone out of home for many years, but as soon as he meets his father, again the same love between father and son revives. It does not mean because the son was out of home for many, many years, there is no need of awakening the love of father and son. Similarly, in the
+
+> Caitanya-caritāmṛta
+> it is said,
+> nitya-siddha kṛṣṇa-bhakti.
+
+**Prabhupāda:** The love between Kṛṣṇa and ourself... It doesn't matter where we are. All living entities, especially the human being, especially the civilized human being, those who have got sense, they can revive Kṛṣṇa consciousness very easily by chanting this Hare Kṛṣṇa.
+
+SOURCE: https://github.com/iskconpress/spoken/blob/master/750202bg.hon.txt
+
+---
+
+🕉 Humble greetings to the devotees.
+
+**Prabhupāda:** In this way, there are four hundred thousand species of human form of life, out of which, the civilized form of life, when our consciousness is developed, that is the opportunity to understand what is God, what I am, what is my relationship with God, what is this material world, how I shall treat. That is needed.
+
+In the **Vedānta-sūtra** it is said, 
+«athāto brahma jijñāsā.»
+This human..., this civilized form of human life is meant for inquiring about Brahman, the Supreme, the Absolute Truth.
+
+So this Kṛṣṇa consciousness movement is giving knowledge about the Absolute Truth, Paraṁ Brahman. The Sanskrit word is Paraṁ Brahman. And Kṛṣṇa is Paraṁ Brahman.
+
+If you have read **Bhagavad-gītā** on the Tenth Chapter, when Arjuna summarizes his understanding after hearing **Bhagavad-gītā**, he says,
+«paraṁ brahma paraṁ dhāma pavitraṁ paramaṁ bhavān»
+[[Bg. 10.12]]:
+"Kṛṣṇa, I understand that You are the Supreme Personality, Absolute Truth."
+«Paraṁ brahma. Paraṁ dhāma:» "You are the reservoir of everything."
+«Pavitram:» "You are the Supreme Pure."
+«Pavitraṁ paramaṁ bhavān. Puruṣaṁ śāśvatam ādyam:» "You are the Supreme Person."
+
+Kṛṣṇa, or the Absolute Truth, is not impersonal. He's the Supreme Person. He's Supreme Person. He is the Absolute Truth. And we are presenting Kṛṣṇa before you, and you take it.
+
+Most of the Western country, they are Christian. So the Christian believe in Lord Jesus Christ as son of God. But we are presenting the father, God Himself. So there is no contradiction. If there is son, there must be a father also. Without father, there cannot be son. So if you believe in the son, then you must believe in the father also. The father is Kṛṣṇa.
+
+Kṛṣṇa says in the **Bhagavad-gītā**, 
+«sarva-yoniṣu kaunteya
+sambhavanti mūrtayaḥ yaḥ
+ahaṁ bīja-pradaḥ pitā»
+[[Bg. 14.4]]:
+He is the seed-giving father for all living entities.
+
+So Kṛṣṇa is for everyone. Don't think that Kṛṣṇa, as it is stated in your English dictionary, "Kṛṣṇa is a Hindu God." He's not Hindu, He's not Muslim or He's not Christian. He's God. God is neither Hindu nor Muslim nor Christian. It is bodily designations, "I am Hindu, you are Christian." This is bodily... Just like dress. You have got some black coat. Another has got some white coat. That does not mean we are different because we are in different coat or shirt. As human being, we are all sons of God. We are one. That is the conception.
+
+So at the present moment, we have divided the world on account of this shirt and coat. That is not. That is not good. Actually, the whole world or the whole universe belongs to God. This is Kṛṣṇa consciousness.
+
+Kṛṣṇa says in the **Bhagavad-gītā**, 
+«bhoktāraṁ yajña-tapasāṁ
+sarva-loka-maheśvaram
+suhṛdaṁ sarva-bhūtānāṁ
+jñātvā māṁ śāntim ṛcchati»
+[[Bg. 5.29]]:
+We have divided God's land: "This is America. This is India. This is Germany. This is England." But after all, this is our given name. This planet especially... Not only this planet; all other planets, Kṛṣṇa says, 
+«sarva-loka-maheśvaram:»
+He's the proprietor.
+
+Formerly, five thousand years ago, this planet was being governed by Kṛṣṇa's representative, Mahārāja Parīkṣit.
+
+SOURCE: https://github.com/iskconpress/spoken/blob/master/720701ad.sd.txt
+
+4️⃣ FACT EXTRACTION
+--------------------------------------------------------------------------------
+Direct spoken content provided
+
+5️⃣ FINAL ANSWER
+--------------------------------------------------------------------------------
+🕉 Humble greetings to the devotees.
+
+**Prabhupāda:** So, in our present experience, we see this flesh or mental concoction. But spiritual understanding is different. That you have to do when you are spiritualized. Therefore, it is said:
+
+> ataḥ śrī-kṛṣṇa-nāmādi na bhaved grāhyam indriyaiḥ
+> (Cc. Madhya 17.136)
+
+**Prabhupāda:** "Indriya" means senses. You cannot understand God by your present senses or godly kingdom of God.
+
+> sevonmukhe hi jihvādau svayam eva sphuraty adaḥ
+> "But if you engage your service, beginning with the tongue, then God reveals."
+
+**Prabhupāda:** "God reveals" means He reveals His kingdom, He Himself. That... These boys are after God. It is not that I have shown them God, but they are realizing, understanding. Otherwise, they are not so foolish they'll waste time. They are understanding. But it is not a subject matter to be seen like this. Neither you have got the eyes to see, neither God or His kingdom is visible in that way. It is to be realized. Revelation. That is called revelation. But if you engage yourself in the service of the Lord, everything will be revealed to you. This is the process.
+
+**Guest (1):** In Kṛṣṇa consciousness, what are your thoughts of the past or the future?
+
+**Devotee:** In Kṛṣṇa consciousness, is there any thought of the past or the future?
+
+**Prabhupāda:** Huh?
+
+**Devotee:** Would you like to be more specific about that question?
+
+**Guest (1):** Is there any thought about the past or the future?
+
+**Madhudviṣa:** The question is, Śrīla Prabhupāda, when you become Kṛṣṇa conscious, can you remember your past or see into the future?
+
+**Prabhupāda:** No, we understand past, future, everything, present. That is spiritual consciousness. Yes. Just like Kṛṣṇa says, "I know past, present and future," similarly, when you also become pure, purified in Kṛṣṇa consciousness, you'll also know past, present and future.
+
+**Guest (2):** [indistinct]
+
+**Madhudviṣa:** The gentleman is asking about the authenticity of Moses.
+
+**Prabhupāda:** Moses.
+
+**Madhudviṣa:** Yes.
+
+**Prabhupāda:** They are representative of God. That's nice.
+
+**Madhudviṣa:** Any other question?
+
+**Guest (3):** How strong is the power of Kṛṣṇa?
+
+**Madhudviṣa:** How strong is the power of Kṛṣṇa?
+
+**Prabhupāda:** [laughter] No, that can be explained. Just like there is Atlantic Ocean and Pacific Ocean, and you are a drop of it, that's all. The quality is the same, a drop of Atlantic or Pacific Ocean and the ocean. If you taste the drop, a small drop, it is salty, you can understand that the ocean is also salty. But the containing..., the contents of salt, that is very small, and the contents of salt in the ocean, that is very big. That you cannot imagine. It is like that. God is like you and me, a person. But He is Pacific Ocean; we are drop. That's all. Yes? What is your question? This gentleman, here.
+
+**Guest (4):** What's your doctrine? What's your doctrine of this...
+
+**Prabhupāda:** Doctrine?
+
+**Madhudviṣa:** He wants to know what the doctrine of Kṛṣṇa consciousness is.
+
+**Prabhupāda:** Kṛṣṇa consciousness means that you are part and parcel of Kṛṣṇa, or God. You being separated, I have already explained, you are suffering in this material world.
+
+SOURCE: https://github.com/iskconpress/spoken/blob/master/740627bg.mel.txt
+
+---
+
+🕉 Humble greetings to the devotees.
+
+**Prabhupāda:** [chants //maṅgalācaraṇa// prayers] Ladies and gentlemen, this Kṛṣṇa conscious movement is reviving our original consciousness. At the present moment, due to our long association with matter, the consciousness has become contaminated, just like when the rainwater falls down from the cloud, the water is uncontaminated, distilled water, pure, but as soon as the water falls down on this earth, it becomes mixed up with so many dirty things. When the water falls, it is not salty, but when it is touched with the matter or earth, it becomes salty, or tasty, or something like that. Similarly, originally, as spirit soul, our consciousness is uncontaminated, but due to our association with the matter at the present moment, our consciousness is contaminated. Therefore, we have got so many varieties of consciousness. Disagreements between one person to another is due to this contaminated consciousness. I think some way; you think otherwise. Therefore, we do not agree. But originally, your consciousness and my consciousness were one. And what is that one? That conscious, pure consciousness, is "God is great, and I am His eternal servant." That is pure consciousness. As soon as we want to imitate or artificially want to become one with God, immediately the contamination begins.
+
+There is a Bengali verse in which it is stated that,
+
+"kṛṣṇa bhuliya jīva bhoga vāñchā kare
+pāśate māyā tāre jāpaṭiyā dhare"
+
+[//Prema-vivarta//]
+
+The English translation is that "When an individual soul forgets his eternal relationship with God and tries to lord it over the material nature or resources, that condition, that forgetful condition, is called //māyā,// or illusion."
+
+So, at the present moment, especially in this age, the forgetfulness of our eternal relationship with God is very strong. And by chanting this transcendental sound, Hare Kṛṣṇa, the first installment is that our heart or the mind becomes cleansed of all dirty things. This is not a theoretical proposition, but it is a fact. If you go on chanting this //mantra,// Hare Kṛṣṇa, it is not difficult. Although it is pronounced in Sanskrit language, everyone can chant it just like in this meeting we began to chant, and you also joined with us. Here, all my students, they are all Americans. None of them are Indian, but still, they have learned it very nicely, and it is not difficult. And there is no expenditure.
+
+So, what is this Hare Kṛṣṇa? //Hare// means the energy of the Lord, and //Kṛṣṇa// means the Supreme Personality of Godhead. So, it is a prayer. There are three words only: Hare, Kṛṣṇa, and Rāma, three words. That has been arranged in sixteen words: Hare Kṛṣṇa, Hare Kṛṣṇa, Kṛṣṇa Kṛṣṇa, Hare Hare/ Hare Rāma, Hare Rāma, Rāma Rāma, Hare Hare. So, our movement is that we request you to take up these sixteen words---not sixteen words, three words, Hare, Kṛṣṇa, Rāma. But it is arranged in such a way that there are sixteen words. So, anyone can take it by heart, these three words, and chant it.
+
+SOURCE: https://github.com/iskconpress/spoken/blob/master/680615le.mon.txt
+
+---
+
+🕉 Humble greetings to the devotees.
+
+**Prabhupāda:** But you may not be very philosophically inclined, but anyone can experience Kṛṣṇa and Kṛṣṇa consciousness just by chanting this simple mantra with the names of God: Hare Kṛṣṇa, Hare Kṛṣṇa, Kṛṣṇa Kṛṣṇa, Hare Hare, Hare Rāma, Hare Rāma, Rāma Rāma, Hare Hare. And now, for concluding the formal part of the program, we're going to chant this Hare Kṛṣṇa mantra and invite you all to join in and experience Kṛṣṇa in the form of His name, this transcendental sound. Just chant Hare Kṛṣṇa with us, and then afterward, if there are more questions or you want to see our literatures—we have so many books here—we can do that. But for now, please, for a minute make an experiment in Kṛṣṇa consciousness by chanting this mantra.
+
+[Revatīnandana and then Nanda-kumāra leads kīrtana, and Prabhupāda chants along]
+
+**Prabhupāda:** [prema-dhvani] Thank you very much.
+
+**Devotees:** All glories to Śrī Guru and Gauranga. [obeisances]
+
+[indistinct background talk]
+
+**Revatīnandana:** All glories to Śrī Guru and Śrī Gaurāṅga. All glories to Śrīla Prabhupāda. [loud applause] Jaya. Haribol. Hari-haribol.
+
+So my Godbrothers will bring around a little bit of fruit to you, the prasādam, full of..., fruit offered to Kṛṣṇa, and up here at the front is a table of books and literatures, and if you have any interest in them you can come up, and there's also another book table, I think, set up in the back lobby there. We have small and large books, simple things you can read to understand more about Kṛṣṇa consciousness, and you can taste a little prasādam. And for now I think we'll have a little more kīrtana. We'll just keep on chanting for a little while, and invite you to join and chant some more. And then after this chant is finished then if you have any more questions, my Godbrothers will be here.
+
+[devotee speaks aside] Oh, yes. We have a temple in Edinburgh. We haven't got one in Glasgow yet. That will be coming up, hopefully, next year. But we have one at 14 Forrest Rd, in Greyfriars part of Edinburgh, 14 Forrest Rd. You can visit that temple any time in Edinburgh, if you happen to be visiting Edinburgh; we invite everybody to come by. Hopefully, some time next year we'll have another temple..., a temple here in Glasgow also. I think you'll like to have a temple here.
+
+So now we're going to have some more kīrtana, chanting Hare Kṛṣṇa. On your way out, stop at the book table in the front or in the back, and take some literature. And be sure you don't go before you have a little bit of fruit, prasādam offered to Kṛṣṇa.
+
+[kīrtana]
+
+[aside:] Somebody get some kartāls. Come on. Don't go. Kartāls. Svayambhūr?
+
+[kīrtana]
+
+Please join in chanting. Everybody chant for a while. Come on, chant Hare Kṛṣṇa.
+
+[kīrtana]
+
+**Prabhupāda:** 
+> patraṁ puṣpaṁ phalaṁ toyaṁ 
+> yo me bhaktyā prayacchati 
+> tad ahaṁ bhakty-upahṛtam 
+> aśnāmi prayatātmanaḥ 
+> [[Bg. 9.26]]
+
+SOURCE: https://github.com/iskconpress/spoken/blob/master/720801bg.gla.txt
+
+---
+
+🕉 Humble greetings to the devotees.
+
+**Prabhupāda:** So God is not so cheap a thing that "I have become God; you have become God." It is a great science. So those who want to understand God scientifically, philosophically, let them read these books. That is our presentation, Kṛṣṇa consciousness. And those who are unable to read all these books for any reason it may be, then it is a very simple method: chant Hare Kṛṣṇa. It is so sublime. If you simply chant Hare Kṛṣṇa mantra, then you understand clearly what you are, what is God, what is your relationship with Him, what is this world. Everything will be clear. That is the advantage of this fallen age.
+
+**Prabhupāda:** This age is very, very fallen. People have completely forgotten God. Not completely, because few men are still interested; otherwise, why are they joining this Kṛṣṇa consciousness movement? We cannot say completely. But gradually it will be completely forgetful of God, day by day. Just like we can see. Formerly, our forefathers, they used to construct churches, temples, mosques, synagogues, but nowadays nobody is preparing. In the modern history, you won't find. They are constructing big, big skyscraper buildings. That we can see. But you don't see anywhere a magnificent church or temple or mosque is being constructed. That means people are going down in the matter of understanding God. They are thinking these buildings are waste of money, unproductive creation. "If we manufacture a skyscraper building, immediately there will be some income. But if I construct a gigantic temple, it will be simply waste of money." They are thinking like that. That means the standard of understanding God is finished.
+
+**Prabhupāda:** Not to speak of constructing new churches, but... We are practically purchasing many churches. They are vacant. I have seen in London, hundreds of churches are vacant. Nobody goes there. Nobody goes there. So one priest was surprised in Boston that "These boys, they are our boys. They are Christian boys. They are American boys. So previously they were not coming to the church. They did not care for God or to understand what is God. But why they are mad after God now?" That's a fact. These boys, you American boys, you were not interested. But why you are so interested and you are preaching Kṛṣṇa consciousness all over the world? You are not foolish. I have not bribed you. But why you are doing that?
+
+**Prabhupāda:** So this is a fact that we have got an intimate relationship with Kṛṣṇa. That's a fact. Just like father and son. They are intimately related. It may be the son has gone out of home for many years, but as soon as he meets his father, again the same love between father and son revives. It does not mean because the son was out of home for many, many years, there is no need of awakening the love of father and son. Similarly, in the
+
+> Caitanya-caritāmṛta
+> it is said,
+> nitya-siddha kṛṣṇa-bhakti.
+
+**Prabhupāda:** The love between Kṛṣṇa and ourself... It doesn't matter where we are. All living entities, especially the human being, especially the civilized human being, those who have got sense, they can revive Kṛṣṇa consciousness very easily by chanting this Hare Kṛṣṇa.
+
+SOURCE: https://github.com/iskconpress/spoken/blob/master/750202bg.hon.txt
+
+---
+
+🕉 Humble greetings to the devotees.
+
+**Prabhupāda:** In this way, there are four hundred thousand species of human form of life, out of which, the civilized form of life, when our consciousness is developed, that is the opportunity to understand what is God, what I am, what is my relationship with God, what is this material world, how I shall treat. That is needed.
+
+In the **Vedānta-sūtra** it is said, 
+«athāto brahma jijñāsā.»
+This human..., this civilized form of human life is meant for inquiring about Brahman, the Supreme, the Absolute Truth.
+
+So this Kṛṣṇa consciousness movement is giving knowledge about the Absolute Truth, Paraṁ Brahman. The Sanskrit word is Paraṁ Brahman. And Kṛṣṇa is Paraṁ Brahman.
+
+If you have read **Bhagavad-gītā** on the Tenth Chapter, when Arjuna summarizes his understanding after hearing **Bhagavad-gītā**, he says,
+«paraṁ brahma paraṁ dhāma pavitraṁ paramaṁ bhavān»
+[[Bg. 10.12]]:
+"Kṛṣṇa, I understand that You are the Supreme Personality, Absolute Truth."
+«Paraṁ brahma. Paraṁ dhāma:» "You are the reservoir of everything."
+«Pavitram:» "You are the Supreme Pure."
+«Pavitraṁ paramaṁ bhavān. Puruṣaṁ śāśvatam ādyam:» "You are the Supreme Person."
+
+Kṛṣṇa, or the Absolute Truth, is not impersonal. He's the Supreme Person. He's Supreme Person. He is the Absolute Truth. And we are presenting Kṛṣṇa before you, and you take it.
+
+Most of the Western country, they are Christian. So the Christian believe in Lord Jesus Christ as son of God. But we are presenting the father, God Himself. So there is no contradiction. If there is son, there must be a father also. Without father, there cannot be son. So if you believe in the son, then you must believe in the father also. The father is Kṛṣṇa.
+
+Kṛṣṇa says in the **Bhagavad-gītā**, 
+«sarva-yoniṣu kaunteya
+sambhavanti mūrtayaḥ yaḥ
+ahaṁ bīja-pradaḥ pitā»
+[[Bg. 14.4]]:
+He is the seed-giving father for all living entities.
+
+So Kṛṣṇa is for everyone. Don't think that Kṛṣṇa, as it is stated in your English dictionary, "Kṛṣṇa is a Hindu God." He's not Hindu, He's not Muslim or He's not Christian. He's God. God is neither Hindu nor Muslim nor Christian. It is bodily designations, "I am Hindu, you are Christian." This is bodily... Just like dress. You have got some black coat. Another has got some white coat. That does not mean we are different because we are in different coat or shirt. As human being, we are all sons of God. We are one. That is the conception.
+
+So at the present moment, we have divided the world on account of this shirt and coat. That is not. That is not good. Actually, the whole world or the whole universe belongs to God. This is Kṛṣṇa consciousness.
+
+Kṛṣṇa says in the **Bhagavad-gītā**, 
+«bhoktāraṁ yajña-tapasāṁ
+sarva-loka-maheśvaram
+suhṛdaṁ sarva-bhūtānāṁ
+jñātvā māṁ śāntim ṛcchati»
+[[Bg. 5.29]]:
+We have divided God's land: "This is America. This is India. This is Germany. This is England." But after all, this is our given name. This planet especially... Not only this planet; all other planets, Kṛṣṇa says, 
+«sarva-loka-maheśvaram:»
+He's the proprietor.
+
+Formerly, five thousand years ago, this planet was being governed by Kṛṣṇa's representative, Mahārāja Parīkṣit.
+
+SOURCE: https://github.com/iskconpress/spoken/blob/master/720701ad.sd.txt
+
+6️⃣ METRICS AND ANALYSIS
+--------------------------------------------------------------------------------
+Target Prabhupada Content Ratio: 70%
+Actual Prabhupada Content Ratio: 100%
+Answer Length Setting: short
+Answer Format: conversational
+Devotee Level: neophyte
+
+7️⃣ DETAILED SOURCE CITATIONS
+--------------------------------------------------------------------------------
+Source #1: 740627bg.mel (Unknown)
+  URL: https://github.com/iskconpress/spoken/blob/master/740627bg.mel.txt
+  Content Types: No content details available
+
+Source #2: 680615le.mon (Unknown)
+  URL: https://github.com/iskconpress/spoken/blob/master/680615le.mon.txt
+  Content Types: No content details available
+
+Source #3: 720801bg.gla (Unknown)
+  URL: https://github.com/iskconpress/spoken/blob/master/720801bg.gla.txt
+  Content Types: No content details available
+
+Source #4: 750202bg.hon (Unknown)
+  URL: https://github.com/iskconpress/spoken/blob/master/750202bg.hon.txt
+  Content Types: No content details available
+
+Source #5: 720701ad.sd (Unknown)
+  URL: https://github.com/iskconpress/spoken/blob/master/720701ad.sd.txt
+  Content Types: No content details available
+
+8️⃣ PERFORMANCE METRICS
+--------------------------------------------------------------------------------
+Search Time: 59.73 seconds
+Total Processing Time: 60.50 seconds
+
+================================================================================
+ANALYSIS SUMMARY
+================================================================================
+- Query successfully processed through 1 source(s)
+- Retrieved 5 relevant passages
+- Final answer contains approximately 100% of Prabhupada's direct words
+- Results saved to: testing/rag_results_20250724_154502.txt

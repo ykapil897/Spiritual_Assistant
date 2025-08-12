@@ -1,0 +1,408 @@
+================================================================================
+PRABHUPADA RAG SYSTEM ANALYSIS RESULTS - 2025-07-24 15:42:31
+================================================================================
+
+1️⃣ QUERY PROCESSING
+--------------------------------------------------------------------------------
+Original Query: Çréla Prabhupäda Speaks Out
+3.  On Seeing God
+
+from spokens
+Refined Query: Refined query: "spoken 'On Seeing God' and the universal machine"
+
+2️⃣ SOURCE SELECTION
+--------------------------------------------------------------------------------
+Detected Sources: spoken
+
+3️⃣ RETRIEVED CONTEXT
+--------------------------------------------------------------------------------
+Retrieved 5 source(s)
+
+🕉 Humble greetings to the devotees.
+
+**Prabhupāda:** It is a reservoir of so much temperature and light that, in history, millions and millions of years, it is distributing. The seasonal changes are going on, the green foliage is coming again, the snow or rain is coming, so many things are going on account of temperature. Any machine is rolling, just like as soon as there is power, the machine is rolling. In all machines, your bodily machine, my bodily machine, and electric machines and other powered machines—everything is going on.
+
+**Prabhupāda:** _"Pūrṇāt pūrṇam udacyate."_
+
+And in spite of taking so much energy from the sun, it is still full of light and energy. This is one of the creations of the Supreme. Now, how much perfect is the Supreme? You can imagine. Its one of the creations, the sun, is maintaining the whole universe. And there are many millions of universes, and each of them has got a sun to conduct the business. And all these suns are created by somebody. How much complete He is, you can just imagine. That is God. God is not so cheap thing. People become God, "I am God." You are a nonsense rascal. What you can do? These are bluff. They do not know what is God. Here is God—complete.
+
+**Prabhupāda:** _"Pūrṇam adaḥ, pūrṇam idaṁ."_ The whole creation is complete, still He is complete. The energy is coming from here, still He is complete. This energy also. A glass of water, I throw the glass, and water again it is coming. Again I throw, again it is coming. Incessantly coming, all the energies. That is God. This is the idea of God.
+
+**Prabhupāda:** _"Pūrṇam idaṁ, pūrṇam adaḥ, pūrṇam idaṁ, pūrṇāt pūrṇam udacyate, pūrṇasya pūrṇam ādāya, pūrṇam evāvaśiṣyate."_ One minus one equals one, not zero. One plus one equals one, not two. This is complete. This is the idea of God. Just like the ocean: you take many thousands buckets of water, it is complete. And again you put many buckets, thousands, millions buckets of water, it is the same depth. This is another example, material example. This is complete. You take millions of buckets of water from the ocean, you'll find not a drop is lost. And you put millions of buckets of water again, not a drop is increased. _"Pūrṇasya pūrṇam ādāya pūrṇam evāvaśiṣyate."_ If you try to take out the whole ocean, still it will remain the ocean. This is the idea of complete.
+
+**Kim Cornish:** One more question... What do you think of the use of drugs as perhaps an aid?
+
+**Prabhupāda:** Hmm?
+
+**Kim Cornish:** What do you think of the use of drugs? Some drugs, as an aid to...
+
+**Prabhupāda:** Drugs? That is another side of madness. Anyone... Just like human being, after the evolution, eight million forms of body, he comes to human body to understand philosophy, these _Vedas_. So instead of utilizing life for that purpose, he wants to become again like the cats and dog, and therefore he takes drugs. He is already cat and dog. He's no better than cats and dog, because he has no interest in this knowledge. He was meant for this knowledge, but he remains like cats and dog; therefore he is not satisfied, therefore he takes drug to forget himself.
+
+SOURCE: https://github.com/iskconpress/spoken/blob/master/750508r1.per.txt
+
+---
+
+🕉 Humble greetings to the devotees.
+
+**Prabhupāda:** A child cannot think. Motorcar is running. Child will think the motorcar is running automatically. But a sane man will understand that there is a driver. So persons who deny the existence of God are like that. They see the machine, nature. Nature is the machine. But behind the machine, there is the operator. These rascals cannot understand.
+
+"Nābhijānāti, mām ebhyaḥ paramam, tribhir guṇamayair bhāvair"
+[[Bg. 7.13]].
+
+Machine is working, nature is working, that much they can see. And behind the machine, there is an operator... What is your answer? What will the atheist say? Has the atheist any experience that any machine works without an operator? Has he got any experience?
+
+**Paramahaṁsa:** No.
+
+**Prabhupāda:** Then why does he say?
+
+**Paramahaṁsa:** But this material, this whole universe—we cannot compare this whole universe with any machine created by man.
+
+**Prabhupāda:** Yes, yes. Why you bring man? This machine is being operated..., created and being operated by God.
+
+**Paramahaṁsa:** Well, we don't have any experience of such a machine.
+
+**Prabhupāda:** Huh?
+
+**Paramahaṁsa:** All the machines that we...
+
+**Prabhupāda:** What do you mean by machine? Just like the other day we saw, we saw the Thompson place, they're being printed, being collected, and so many things are being done. It is like this. By machine, the seasonal changes are going on, the sun is rising, the moon is rising, the water in the ocean, the waves are there. Everything, machine working. It is machine. Everything is being systematically done. Such a big ocean, vast water, it is just on the brink, no more. It is so organized. The sun is rising exactly in time, astronomically. The astronomical watch is one ten-thousandth part of a second. It is so accurate. You'll find everything is going on like that.
+
+"Today is ekādaśī, eleventh day of the moon, the moon shall be like this." There one can see the moon and he can calculate, "Today is ekādaśī." This is not machine? It is exactly, machine.
+
+**Paramahaṁsa:** But the thing is that this machine is so wonderful that it goes on without an operator.
+
+**Prabhupāda:** That is your dullness! You are rascal, you cannot understand how the machine is working, how big it is. That is your dullness. But it is a machine, very big machine. You cannot understand—that is not, that this is not a machine. This is not a very good argument, that "I cannot understand, therefore it is not a machine." But you see the idea machine is there already, everything is going on—machine.
+
+**Śrutakīrti:** It is such a good machine it doesn't require an operator.
+
+**Paramahaṁsa:** That is the wonder of it.
+
+**Prabhupāda:** No. That is wrong. You cannot find out in your experience anywhere, any machine which is not being operated by a person. You cannot find it. Then why do you bring this idea that without an operator, it is going on? Where you get this idea?
+
+SOURCE: https://github.com/iskconpress/spoken/blob/master/750508mw.per.txt
+
+---
+
+🕉 Humble greetings to the devotees.
+
+**Prabhupāda:** I tell you, you're searching. But if I say, "Come here. I am here..." Just like a child is crying, there is no toy. His mother... Mother says, "My dear child, come here," he comes here. That's all. That is real searching. Or what is this searching? Either you do not know what you are searching, or you are making a false play.
+
+**Puṣṭa Kṛṣṇa:** Right.
+
+**Prabhupāda:** [aside:] Is this one bathroom?
+
+**Prabhupāda:** Religion means actually relation with God, to know God. They don't think like that. They say religion does not mean search of God. Is it not?
+
+**Puṣṭa Kṛṣṇa:** They say that there's one place... They say that you cannot see God.
+
+**Prabhupāda:** That's all right, but what do you mean by religion, first of all? I cannot see God, that is another thing. But that does not mean there is no God.
+
+**Puṣṭa Kṛṣṇa:** Yes.
+
+**Prabhupāda:** I cannot see the president. That does not mean there is no president.
+
+**Puṣṭa Kṛṣṇa:** Jaya.
+
+**Prabhupāda:** Because I cannot see, therefore there's no president. Is that very good logic?
+
+**Puṣṭa Kṛṣṇa:** No.
+
+**Prabhupāda:** You may not see---you're unfit to see; you're not qualified to see. But why there shall be no God?
+
+**Satsvarūpa:** I was taught that that is God's nature---invisible spirit.
+
+**Prabhupāda:** Eh?
+
+**Satsvarūpa:** I was taught in religion that God... That is His nature, not that I can't see Him, but He is a person, but that I can't see Him because He's invisible spirit.
+
+**Prabhupāda:** Invisible... That means you have no eyes to see. Even if He is spirit, that's all right. But "invisible" means you have no capacity to see. That is the meaning of invisible: that I cannot see. So you're disqualified, that does not mean He's dis..., not visible. He's visible, but not to you, because you have no eyes to see Him. That we also say. Therefore we have to prepare the eyes to see. That is religion. I cannot see at the present moment; that does not mean I shall stop [indistinct]. I must prepare myself how to see. That is real intelligence.
+
+>
+> pravṛttiṁ ca nivṛttiṁ ca
+> janā na vidur āsurāḥ
+> na śaucaṁ nāpi cācāro
+> na satyaṁ teṣu
+>
+
+**Prabhupāda:** "The asuras do not know what is pravṛtti, what is nivṛtti. They do not know what is cleanliness, what is austerity, what is truth."
+
+SOURCE: https://github.com/iskconpress/spoken/blob/master/740608mw.gen.txt
+
+---
+
+🕉 Humble greetings to the devotees.
+
+**Prabhupāda:** God is infinite?
+
+**Puṣṭa Kṛṣṇa:** What is the special quality that makes one a spiritual master to describe the infinite, when God is beyond speculation?
+
+**Prabhupāda:** God is beyond speculation, that's it. But the spiritual master says what God says. He does not change. That is spiritual master. Just like a child, he asks his father, "Father, what is this?" The father says, "My dear child, it is microphone." So when the child says, "It is microphone," this is correct, although he is child. So spiritual master means he says what he has heard from God. That's all. That is spiritual master. He does not make any speculation. That is the qualification of spiritual master. He speaks what he has heard from God. That's all.
+
+**Guest (5):** But isn't that an assumption also that he has heard from God, not acts from his own conditioning?
+
+**Prabhupāda:** God cannot be all. God is one. God means He has no equal, He has no..., nobody above Him. That is God, _asamaurdhva_. Nobody is more than God; nobody is equal to God. Therefore God is one.
+
+**Guest (6):** If we assume that the Vedic scriptures are the, well, the realizations of realized souls and that these come from God, we have to work with the assumption that these literatures are actually telling us about God. And if we have to read the literatures and experience these truths, it is not necessarily truth as such, but maybe the condition that we have been rendered to by [indistinct].
+
+**Prabhupāda:** In the Vedic literature the father, the teacher, the king, they are advised to look upon them as God. This is for the common person. But when he is advanced, then he goes above, that there is God above father, above king, above teacher. So according to the stages, there are different literatures in the Vedic knowledge. Sometimes demigods are also accepted. So they have also got power, but... Controller, they are also controller, but the ultimate controller is fixed up—
+
+_īśvaraḥ paramaḥ kṛṣṇaḥ_ [Bs. 5.1].
+"The supreme controller is Kṛṣṇa."
+
+That is the verdict of the _Vedas_. _Īśvaraḥ paramaḥ kṛṣṇaḥ_. In the _Bhagavad-gītā_ it is said, _mattaḥ parataraṁ nānyat_ [[Bg. 7.7]]: "There is no more superior controller or person than Me." So that is Absolute. Everywhere you will find. Suppose if you accept me God, but I am controlled by somebody else, so I am not absolute God. But if you can find out somebody—He is not only controller, but He is not controlled by anyone—then He is absolute God. That is Kṛṣṇa.
+
+**Guest (6):** Thank you.
+
+**Prabhupāda:** Yes. Chant Hare Kṛṣṇa.
+
+**Prabhupāda:** Hmm.
+
+SOURCE: https://github.com/iskconpress/spoken/blob/master/751022sb.joh.txt
+
+---
+
+🕉 Humble greetings to the devotees.
+
+**Prabhupāda:** The guru is Nārada. Next guru is Vyāsadeva. Next guru is Madhvācārya, and so many others, and their branches. In this way, Caitanya Mahāprabhu, then the Gosvāmīs, then Śrīnivāsa, Śrīnivāsa Ācārya, Narottama dāsa Ṭhākura. In this way, the paramparā is coming.
+
+So this is the machine. How can I understand this machine is correct? Yes, it is correct. How is it correct? You can corroborate. The Bhagavad-gītā says, the original machine, Kṛṣṇa, says:
+
+"sarva-dharmān parityaja
+mām ekaṁ śaraṇaṁ vraja"
+
+So the same message is being broadcast in the Kṛṣṇa consciousness movement. What we are speaking? We are speaking, "Give up everything. Just surrender to Kṛṣṇa." Is not that the same machine? If you keep the words, the vibration of the machine, the same, then it is the same machine. You get the correct information.
+
+Kṛṣṇa is speaking about Himself, about His abode, about the spiritual world, the activities. Kṛṣṇa is speaking everything in the Śrīmad-Bhāgavatam, in Bhagavad-gītā. We don't require to change unnecessarily. If we present the same thing as it is, as we are presenting Bhagavad-gītā as it is, then the machine is there. You can get all the information. There is no difficulty.
+
+Just like you are getting by the present machine, radio machine, the message from far, distant place, similarly, you can get all the information of the spiritual world by the proper machine: the Bhagavad-gītā received through the paramparā, disciplic succession of bona fide spiritual masters. It is not difficult.
+
+So Sanātana Gosvāmī is receiving the message of the spiritual world through the exigency of Lord Caitanya Mahāprabhu. So the teachings of Lord Caitanya Mahāprabhu is there. Caitanya-caritāmṛta is there. If you study scrutinizingly Caitanya Mahāprabhu's teachings to Sanātana Gosvāmī, then you also get the machine. There is no difficulty.
+
+And as soon as you get the machine, and if you know how to handle it properly, then you get all the information. It is not difficult. And how to handle properly the machine, that is being taught by example, personal example by Sanātana Gosvāmī, that he's approaching Caitanya Mahāprabhu very humbly.
+
+He's not proud of his past position that he was a minister, he was a moneyed man, rich man, born of a brāhmaṇa family and so on, so on. He's humbly presenting him that "I am the most fallen. I am the most fallen." So "I never knew the actual goal of my life. I do not know what is beneficial to me."
+
+That is the position of everyone. Nobody knows what is the ultimate goal of life. They think that "We have got this body, and let us enjoy the senses to the fullest extent. That is the highest perfection of life." Get some material education---technologist, or something else, material education---get some good post, get good salary and eat nicely, drink nicely and enjoy your senses. This is perfection of life. This is going on all over the world.
+
+But that is not the goal of life. Therefore, because that is not the goal of life, and we know that this is goal of life, therefore we require the enlightenment from the bona fide...
+
+SOURCE: https://github.com/iskconpress/spoken/blob/master/721019ak.vrn.txt
+
+4️⃣ FACT EXTRACTION
+--------------------------------------------------------------------------------
+Direct spoken content provided
+
+5️⃣ FINAL ANSWER
+--------------------------------------------------------------------------------
+🕉 Humble greetings to the devotees.
+
+**Prabhupāda:** It is a reservoir of so much temperature and light that, in history, millions and millions of years, it is distributing. The seasonal changes are going on, the green foliage is coming again, the snow or rain is coming, so many things are going on account of temperature. Any machine is rolling, just like as soon as there is power, the machine is rolling. In all machines, your bodily machine, my bodily machine, and electric machines and other powered machines—everything is going on.
+
+**Prabhupāda:** _"Pūrṇāt pūrṇam udacyate."_
+
+And in spite of taking so much energy from the sun, it is still full of light and energy. This is one of the creations of the Supreme. Now, how much perfect is the Supreme? You can imagine. Its one of the creations, the sun, is maintaining the whole universe. And there are many millions of universes, and each of them has got a sun to conduct the business. And all these suns are created by somebody. How much complete He is, you can just imagine. That is God. God is not so cheap thing. People become God, "I am God." You are a nonsense rascal. What you can do? These are bluff. They do not know what is God. Here is God—complete.
+
+**Prabhupāda:** _"Pūrṇam adaḥ, pūrṇam idaṁ."_ The whole creation is complete, still He is complete. The energy is coming from here, still He is complete. This energy also. A glass of water, I throw the glass, and water again it is coming. Again I throw, again it is coming. Incessantly coming, all the energies. That is God. This is the idea of God.
+
+**Prabhupāda:** _"Pūrṇam idaṁ, pūrṇam adaḥ, pūrṇam idaṁ, pūrṇāt pūrṇam udacyate, pūrṇasya pūrṇam ādāya, pūrṇam evāvaśiṣyate."_ One minus one equals one, not zero. One plus one equals one, not two. This is complete. This is the idea of God. Just like the ocean: you take many thousands buckets of water, it is complete. And again you put many buckets, thousands, millions buckets of water, it is the same depth. This is another example, material example. This is complete. You take millions of buckets of water from the ocean, you'll find not a drop is lost. And you put millions of buckets of water again, not a drop is increased. _"Pūrṇasya pūrṇam ādāya pūrṇam evāvaśiṣyate."_ If you try to take out the whole ocean, still it will remain the ocean. This is the idea of complete.
+
+**Kim Cornish:** One more question... What do you think of the use of drugs as perhaps an aid?
+
+**Prabhupāda:** Hmm?
+
+**Kim Cornish:** What do you think of the use of drugs? Some drugs, as an aid to...
+
+**Prabhupāda:** Drugs? That is another side of madness. Anyone... Just like human being, after the evolution, eight million forms of body, he comes to human body to understand philosophy, these _Vedas_. So instead of utilizing life for that purpose, he wants to become again like the cats and dog, and therefore he takes drugs. He is already cat and dog. He's no better than cats and dog, because he has no interest in this knowledge. He was meant for this knowledge, but he remains like cats and dog; therefore he is not satisfied, therefore he takes drug to forget himself.
+
+SOURCE: https://github.com/iskconpress/spoken/blob/master/750508r1.per.txt
+
+---
+
+🕉 Humble greetings to the devotees.
+
+**Prabhupāda:** A child cannot think. Motorcar is running. Child will think the motorcar is running automatically. But a sane man will understand that there is a driver. So persons who deny the existence of God are like that. They see the machine, nature. Nature is the machine. But behind the machine, there is the operator. These rascals cannot understand.
+
+"Nābhijānāti, mām ebhyaḥ paramam, tribhir guṇamayair bhāvair"
+[[Bg. 7.13]].
+
+Machine is working, nature is working, that much they can see. And behind the machine, there is an operator... What is your answer? What will the atheist say? Has the atheist any experience that any machine works without an operator? Has he got any experience?
+
+**Paramahaṁsa:** No.
+
+**Prabhupāda:** Then why does he say?
+
+**Paramahaṁsa:** But this material, this whole universe—we cannot compare this whole universe with any machine created by man.
+
+**Prabhupāda:** Yes, yes. Why you bring man? This machine is being operated..., created and being operated by God.
+
+**Paramahaṁsa:** Well, we don't have any experience of such a machine.
+
+**Prabhupāda:** Huh?
+
+**Paramahaṁsa:** All the machines that we...
+
+**Prabhupāda:** What do you mean by machine? Just like the other day we saw, we saw the Thompson place, they're being printed, being collected, and so many things are being done. It is like this. By machine, the seasonal changes are going on, the sun is rising, the moon is rising, the water in the ocean, the waves are there. Everything, machine working. It is machine. Everything is being systematically done. Such a big ocean, vast water, it is just on the brink, no more. It is so organized. The sun is rising exactly in time, astronomically. The astronomical watch is one ten-thousandth part of a second. It is so accurate. You'll find everything is going on like that.
+
+"Today is ekādaśī, eleventh day of the moon, the moon shall be like this." There one can see the moon and he can calculate, "Today is ekādaśī." This is not machine? It is exactly, machine.
+
+**Paramahaṁsa:** But the thing is that this machine is so wonderful that it goes on without an operator.
+
+**Prabhupāda:** That is your dullness! You are rascal, you cannot understand how the machine is working, how big it is. That is your dullness. But it is a machine, very big machine. You cannot understand—that is not, that this is not a machine. This is not a very good argument, that "I cannot understand, therefore it is not a machine." But you see the idea machine is there already, everything is going on—machine.
+
+**Śrutakīrti:** It is such a good machine it doesn't require an operator.
+
+**Paramahaṁsa:** That is the wonder of it.
+
+**Prabhupāda:** No. That is wrong. You cannot find out in your experience anywhere, any machine which is not being operated by a person. You cannot find it. Then why do you bring this idea that without an operator, it is going on? Where you get this idea?
+
+SOURCE: https://github.com/iskconpress/spoken/blob/master/750508mw.per.txt
+
+---
+
+🕉 Humble greetings to the devotees.
+
+**Prabhupāda:** I tell you, you're searching. But if I say, "Come here. I am here..." Just like a child is crying, there is no toy. His mother... Mother says, "My dear child, come here," he comes here. That's all. That is real searching. Or what is this searching? Either you do not know what you are searching, or you are making a false play.
+
+**Puṣṭa Kṛṣṇa:** Right.
+
+**Prabhupāda:** [aside:] Is this one bathroom?
+
+**Prabhupāda:** Religion means actually relation with God, to know God. They don't think like that. They say religion does not mean search of God. Is it not?
+
+**Puṣṭa Kṛṣṇa:** They say that there's one place... They say that you cannot see God.
+
+**Prabhupāda:** That's all right, but what do you mean by religion, first of all? I cannot see God, that is another thing. But that does not mean there is no God.
+
+**Puṣṭa Kṛṣṇa:** Yes.
+
+**Prabhupāda:** I cannot see the president. That does not mean there is no president.
+
+**Puṣṭa Kṛṣṇa:** Jaya.
+
+**Prabhupāda:** Because I cannot see, therefore there's no president. Is that very good logic?
+
+**Puṣṭa Kṛṣṇa:** No.
+
+**Prabhupāda:** You may not see---you're unfit to see; you're not qualified to see. But why there shall be no God?
+
+**Satsvarūpa:** I was taught that that is God's nature---invisible spirit.
+
+**Prabhupāda:** Eh?
+
+**Satsvarūpa:** I was taught in religion that God... That is His nature, not that I can't see Him, but He is a person, but that I can't see Him because He's invisible spirit.
+
+**Prabhupāda:** Invisible... That means you have no eyes to see. Even if He is spirit, that's all right. But "invisible" means you have no capacity to see. That is the meaning of invisible: that I cannot see. So you're disqualified, that does not mean He's dis..., not visible. He's visible, but not to you, because you have no eyes to see Him. That we also say. Therefore we have to prepare the eyes to see. That is religion. I cannot see at the present moment; that does not mean I shall stop [indistinct]. I must prepare myself how to see. That is real intelligence.
+
+>
+> pravṛttiṁ ca nivṛttiṁ ca
+> janā na vidur āsurāḥ
+> na śaucaṁ nāpi cācāro
+> na satyaṁ teṣu
+>
+
+**Prabhupāda:** "The asuras do not know what is pravṛtti, what is nivṛtti. They do not know what is cleanliness, what is austerity, what is truth."
+
+SOURCE: https://github.com/iskconpress/spoken/blob/master/740608mw.gen.txt
+
+---
+
+🕉 Humble greetings to the devotees.
+
+**Prabhupāda:** God is infinite?
+
+**Puṣṭa Kṛṣṇa:** What is the special quality that makes one a spiritual master to describe the infinite, when God is beyond speculation?
+
+**Prabhupāda:** God is beyond speculation, that's it. But the spiritual master says what God says. He does not change. That is spiritual master. Just like a child, he asks his father, "Father, what is this?" The father says, "My dear child, it is microphone." So when the child says, "It is microphone," this is correct, although he is child. So spiritual master means he says what he has heard from God. That's all. That is spiritual master. He does not make any speculation. That is the qualification of spiritual master. He speaks what he has heard from God. That's all.
+
+**Guest (5):** But isn't that an assumption also that he has heard from God, not acts from his own conditioning?
+
+**Prabhupāda:** God cannot be all. God is one. God means He has no equal, He has no..., nobody above Him. That is God, _asamaurdhva_. Nobody is more than God; nobody is equal to God. Therefore God is one.
+
+**Guest (6):** If we assume that the Vedic scriptures are the, well, the realizations of realized souls and that these come from God, we have to work with the assumption that these literatures are actually telling us about God. And if we have to read the literatures and experience these truths, it is not necessarily truth as such, but maybe the condition that we have been rendered to by [indistinct].
+
+**Prabhupāda:** In the Vedic literature the father, the teacher, the king, they are advised to look upon them as God. This is for the common person. But when he is advanced, then he goes above, that there is God above father, above king, above teacher. So according to the stages, there are different literatures in the Vedic knowledge. Sometimes demigods are also accepted. So they have also got power, but... Controller, they are also controller, but the ultimate controller is fixed up—
+
+_īśvaraḥ paramaḥ kṛṣṇaḥ_ [Bs. 5.1].
+"The supreme controller is Kṛṣṇa."
+
+That is the verdict of the _Vedas_. _Īśvaraḥ paramaḥ kṛṣṇaḥ_. In the _Bhagavad-gītā_ it is said, _mattaḥ parataraṁ nānyat_ [[Bg. 7.7]]: "There is no more superior controller or person than Me." So that is Absolute. Everywhere you will find. Suppose if you accept me God, but I am controlled by somebody else, so I am not absolute God. But if you can find out somebody—He is not only controller, but He is not controlled by anyone—then He is absolute God. That is Kṛṣṇa.
+
+**Guest (6):** Thank you.
+
+**Prabhupāda:** Yes. Chant Hare Kṛṣṇa.
+
+**Prabhupāda:** Hmm.
+
+SOURCE: https://github.com/iskconpress/spoken/blob/master/751022sb.joh.txt
+
+---
+
+🕉 Humble greetings to the devotees.
+
+**Prabhupāda:** The guru is Nārada. Next guru is Vyāsadeva. Next guru is Madhvācārya, and so many others, and their branches. In this way, Caitanya Mahāprabhu, then the Gosvāmīs, then Śrīnivāsa, Śrīnivāsa Ācārya, Narottama dāsa Ṭhākura. In this way, the paramparā is coming.
+
+So this is the machine. How can I understand this machine is correct? Yes, it is correct. How is it correct? You can corroborate. The Bhagavad-gītā says, the original machine, Kṛṣṇa, says:
+
+"sarva-dharmān parityaja
+mām ekaṁ śaraṇaṁ vraja"
+
+So the same message is being broadcast in the Kṛṣṇa consciousness movement. What we are speaking? We are speaking, "Give up everything. Just surrender to Kṛṣṇa." Is not that the same machine? If you keep the words, the vibration of the machine, the same, then it is the same machine. You get the correct information.
+
+Kṛṣṇa is speaking about Himself, about His abode, about the spiritual world, the activities. Kṛṣṇa is speaking everything in the Śrīmad-Bhāgavatam, in Bhagavad-gītā. We don't require to change unnecessarily. If we present the same thing as it is, as we are presenting Bhagavad-gītā as it is, then the machine is there. You can get all the information. There is no difficulty.
+
+Just like you are getting by the present machine, radio machine, the message from far, distant place, similarly, you can get all the information of the spiritual world by the proper machine: the Bhagavad-gītā received through the paramparā, disciplic succession of bona fide spiritual masters. It is not difficult.
+
+So Sanātana Gosvāmī is receiving the message of the spiritual world through the exigency of Lord Caitanya Mahāprabhu. So the teachings of Lord Caitanya Mahāprabhu is there. Caitanya-caritāmṛta is there. If you study scrutinizingly Caitanya Mahāprabhu's teachings to Sanātana Gosvāmī, then you also get the machine. There is no difficulty.
+
+And as soon as you get the machine, and if you know how to handle it properly, then you get all the information. It is not difficult. And how to handle properly the machine, that is being taught by example, personal example by Sanātana Gosvāmī, that he's approaching Caitanya Mahāprabhu very humbly.
+
+He's not proud of his past position that he was a minister, he was a moneyed man, rich man, born of a brāhmaṇa family and so on, so on. He's humbly presenting him that "I am the most fallen. I am the most fallen." So "I never knew the actual goal of my life. I do not know what is beneficial to me."
+
+That is the position of everyone. Nobody knows what is the ultimate goal of life. They think that "We have got this body, and let us enjoy the senses to the fullest extent. That is the highest perfection of life." Get some material education---technologist, or something else, material education---get some good post, get good salary and eat nicely, drink nicely and enjoy your senses. This is perfection of life. This is going on all over the world.
+
+But that is not the goal of life. Therefore, because that is not the goal of life, and we know that this is goal of life, therefore we require the enlightenment from the bona fide...
+
+SOURCE: https://github.com/iskconpress/spoken/blob/master/721019ak.vrn.txt
+
+6️⃣ METRICS AND ANALYSIS
+--------------------------------------------------------------------------------
+Target Prabhupada Content Ratio: 70%
+Actual Prabhupada Content Ratio: 100%
+Answer Length Setting: short
+Answer Format: conversational
+Devotee Level: neophyte
+
+7️⃣ DETAILED SOURCE CITATIONS
+--------------------------------------------------------------------------------
+Source #1: 750508r1.per (Unknown)
+  URL: https://github.com/iskconpress/spoken/blob/master/750508r1.per.txt
+  Content Types: No content details available
+
+Source #2: 750508mw.per (Unknown)
+  URL: https://github.com/iskconpress/spoken/blob/master/750508mw.per.txt
+  Content Types: No content details available
+
+Source #3: 740608mw.gen (Unknown)
+  URL: https://github.com/iskconpress/spoken/blob/master/740608mw.gen.txt
+  Content Types: No content details available
+
+Source #4: 751022sb.joh (Unknown)
+  URL: https://github.com/iskconpress/spoken/blob/master/751022sb.joh.txt
+  Content Types: No content details available
+
+Source #5: 721019ak.vrn (Unknown)
+  URL: https://github.com/iskconpress/spoken/blob/master/721019ak.vrn.txt
+  Content Types: No content details available
+
+8️⃣ PERFORMANCE METRICS
+--------------------------------------------------------------------------------
+Search Time: 51.12 seconds
+Total Processing Time: 51.90 seconds
+
+================================================================================
+ANALYSIS SUMMARY
+================================================================================
+- Query successfully processed through 1 source(s)
+- Retrieved 5 relevant passages
+- Final answer contains approximately 100% of Prabhupada's direct words
+- Results saved to: testing/rag_results_20250724_154231.txt

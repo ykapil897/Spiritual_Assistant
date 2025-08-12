@@ -1,0 +1,105 @@
+{
+  "questions": [
+    {
+      "question": "V\u012brabhadra took the head and threw it into the southern side of the sacrificial fire, offering it as an oblation to the _______.",
+      "answer": "sacrificial fire",
+      "reference": "SOURCE: SB 4.5.26 (translation) | QUOTE: 'V\u012brabhadra then took the head and with great anger threw it into the southern side of the sacrificial fire, offering it as an oblation.'",
+      "url": "https://github.com/iskconpress/books/tree/master/sb/4/5/26.txt"
+    },
+    {
+      "question": "The followers of Lord \u015aiva were surrounded by the arena of sacrifice, and their bodies appeared to be like those of _______.",
+      "answer": "sharks",
+      "reference": "SOURCE: SB 4.5.13 (translation) | QUOTE: 'Their bodies appeared to be like those of sharks, blackish and yellowish.'",
+      "url": "https://github.com/iskconpress/books/tree/master/sb/4/5/13.txt"
+    },
+    {
+      "question": "The black person was the personified _______ of the Supreme Personality of Godhead.",
+      "answer": "anger",
+      "reference": "SOURCE: SB 4.5.5 (translation) | QUOTE: 'That black person was the personified anger of the Supreme Personality of Godhead, and he was prepared to execute the orders of Lord \u015aiva.'",
+      "url": "https://github.com/iskconpress/books/tree/master/sb/4/5/5.txt"
+    },
+    {
+      "question": "Ma\u1e47im\u0101n, one of the followers of Lord \u015aiva, arrested _______ Muni.",
+      "answer": "Bh\u1e5bgu",
+      "reference": "SOURCE: SB 4.5.17 (translation) | QUOTE: 'Ma\u1e47im\u0101n, one of the followers of Lord \u015aiva, arrested Bh\u1e5bgu Muni'",
+      "url": "https://github.com/iskconpress/books/tree/master/sb/4/5/17.txt"
+    },
+    {
+      "question": "The followers of Lord \u015aiva created disturbances in the sacrificial arena, which was arranged by _______.",
+      "answer": "Dak\u1e63a",
+      "reference": "SOURCE: SB 4.5.26 (translation) | QUOTE: 'In this way the followers of Lord \u015aiva devastated all the arrangements for sacrifice of Dak\u1e63a.'",
+      "url": "https://github.com/iskconpress/books/tree/master/sb/4/5/26.txt"
+    },
+    {
+      "question": "The dust storm was conjectured to be possibly caused by the _______ of the planet.",
+      "answer": "dissolution",
+      "reference": "SOURCE: SB 4.5.8 (translation) | QUOTE: 'Is the dissolution of the planet now to occur?'",
+      "url": "https://github.com/iskconpress/books/tree/master/sb/4/5/8.txt"
+    },
+    {
+      "question": "The followers of Lord \u015aiva were equipped with various kinds of _______.",
+      "answer": "weapons",
+      "reference": "SOURCE: SB 4.5.13 (translation) | QUOTE: 'They were equipped with various kinds of weapons; their bodies appeared to be like those of sharks, blackish and yellowish.'",
+      "url": "https://github.com/iskconpress/books/tree/master/sb/4/5/13.txt"
+    },
+    {
+      "question": "V\u012brabhadra, the black demon, arrested _______ Dak\u1e63a.",
+      "answer": "Praj\u0101pati",
+      "reference": "SOURCE: SB 4.5.17 (translation) | QUOTE: 'V\u012brabhadra, the black demon, arrested Praj\u0101pati Dak\u1e63a.'",
+      "url": "https://github.com/iskconpress/books/tree/master/sb/4/5/17.txt"
+    },
+    {
+      "question": "The followers of Lord \u015aiva departed for their master's abode, _______.",
+      "answer": "Kail\u0101sa",
+      "reference": "SOURCE: SB 4.5.26 (translation) | QUOTE: 'They departed for their master's abode, Kail\u0101sa.'",
+      "url": "https://github.com/iskconpress/books/tree/master/sb/4/5/26.txt"
+    },
+    {
+      "question": "The black person was prepared to execute the orders of _______.",
+      "answer": "Lord \u015aiva",
+      "reference": "SOURCE: SB 4.5.5 (translation) | QUOTE: 'That black person was the personified anger of the Supreme Personality of Godhead, and he was prepared to execute the orders of Lord \u015aiva.'",
+      "url": "https://github.com/iskconpress/books/tree/master/sb/4/5/5.txt"
+    }
+  ],
+  "sources": [
+    {
+      "verse_id": "SB 4.5.26",
+      "book": "sb",
+      "specific_book": "",
+      "url": "https://github.com/iskconpress/books/tree/master/sb/4/5/26.txt"
+    },
+    {
+      "verse_id": "SB 4.5.13",
+      "book": "sb",
+      "specific_book": "",
+      "url": "https://github.com/iskconpress/books/tree/master/sb/4/5/13.txt"
+    },
+    {
+      "verse_id": "SB 4.5.5",
+      "book": "sb",
+      "specific_book": "",
+      "url": "https://github.com/iskconpress/books/tree/master/sb/4/5/5.txt"
+    },
+    {
+      "verse_id": "SB 4.5.17",
+      "book": "sb",
+      "specific_book": "",
+      "url": "https://github.com/iskconpress/books/tree/master/sb/4/5/17.txt"
+    },
+    {
+      "verse_id": "SB 4.5.8",
+      "book": "sb",
+      "specific_book": "",
+      "url": "https://github.com/iskconpress/books/tree/master/sb/4/5/8.txt"
+    }
+  ],
+  "generation_time": 3.367461919784546,
+  "meta": {
+    "query": "provide answer from chapter 5 in canto 4 in sb",
+    "refined_query": "Here is the refined search query:\n\n`SB 4.5.*`\n\nThis query will search for all passages in Chapter 5 of Canto 4 in the Srimad Bhagavatam, which should provide relevant content for creating quiz questions.",
+    "quiz_type": "fill-in-blank",
+    "difficulty": "hard",
+    "num_questions": 10,
+    "search_time": 10.254734754562378
+  }
+}

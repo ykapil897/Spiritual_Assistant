@@ -1,0 +1,14 @@
+================================================================================
+PRABHUPADA RAG SYSTEM ANALYSIS RESULTS - 2025-07-24 12:56:59
+================================================================================
+
+1️⃣ QUERY PROCESSING
+--------------------------------------------------------------------------------
+Original Query: Çréla Prabhupäda Speaks Out
+ On the Operator of the Universal Machine, Part 2
+On Seeking the Right Thing in the Wrong Place
+from spokens
+Refined Query: Refined query: "spoken Krishna's omniscience, operator of the universal machine, seeking the right thing in the wrong place"
+
+2️⃣ SOURCE SELECTION
+--------------------------------------------------------------------------------

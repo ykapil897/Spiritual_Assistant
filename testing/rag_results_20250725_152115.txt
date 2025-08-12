@@ -1,0 +1,98 @@
+================================================================================
+PRABHUPADA RAG SYSTEM ANALYSIS RESULTS - 2025-07-25 15:21:15
+================================================================================
+
+1️⃣ QUERY PROCESSING
+--------------------------------------------------------------------------------
+Original Query: tell me about revival of the kaliyuga
+into spokens
+Refined Query: Refined query: "spoken revival of Kali-yuga in relation to god consciousness and sense purification"
+
+2️⃣ SOURCE SELECTION
+--------------------------------------------------------------------------------
+Detected Sources: spoken
+
+3️⃣ RETRIEVED CONTEXT
+--------------------------------------------------------------------------------
+Retrieved 1 source(s)
+
+### Reviving Original Consciousness
+
+**Prabhupāda:** Ladies and gentlemen, this Kṛṣṇa conscious movement is reviving our original consciousness. At the present moment, due to our long association with matter, the consciousness has become contaminated, just like when the rain water falls down from the cloud, the water is uncontaminated, distilled water, pure, but as soon as the water falls down on this earth, it becomes mixed up with so many dirty things. When the water falls it is not salty, but when it is touched with the matter or earth, it becomes salty, or tasty, or something like that. Similarly, originally, as spirit soul, our consciousness is uncontaminated, but due to our association with the matter at the present moment, our consciousness is contaminated. Therefore we have got so many varieties of consciousness. Disagreements between one person to another is due to this contaminated consciousness. I think some way; you think otherwise. Therefore we do not agree. But originally, your consciousness and my consciousness were one. And what is that one? That conscious, pure consciousness, is "God is great, and I am His eternal servant." That is pure consciousness. As soon as we want to imitate or artificially want to become one with God, immediately the contamination begins.
+
+**Key Insight:** Our original consciousness is uncontaminated, but due to our association with matter, it becomes contaminated, leading to varieties of consciousness and disagreements.
+
+There is a Bengali verse in which it is stated that,
+
+SHLOKA:
+**kṛṣṇa bhuliya jīva bhoga vāñchā kare**
+**pāśate māyā tāre jāpaṭiyā dhare**
+
+— *Prema-vivarta*
+
+The English translation is that "When an individual soul forgets his eternal relationship with God and tries to lord it over the material nature or resources, that condition, that forgetful condition, is called **māyā,** or illusion."
+
+**Key Insight:** Forgetfulness of our eternal relationship with God leads to illusion.
+
+So at the present moment, especially in this age, the forgetfulness of our eternal relationship with God is very strong. And by chanting this transcendental sound, Hare Kṛṣṇa, the first installment is that our heart or the mind becomes cleansed of all dirty things. This is not a theoretical proposition, but it is a fact. If you go on chanting this **mantra**, Hare Kṛṣṇa, it is not difficult. Although it is pronounced in Sanskrit language, everyone can chant it just like in this meeting we began to chant, and you also joined with us. Here, all my students, they are all Americans. None of them are Indian, but still, they have learned it very nicely, and it is not difficult. And there is no expenditure. So what is this Hare Kṛṣṇa? **Hare** means the energy of the Lord, and **Kṛṣṇa** means the Supreme Personality of Godhead. So it is a prayer. There are three words only: Hare, Kṛṣṇa and Rāma, three words. That has been arranged in sixteen words: Hare Kṛṣṇa, Hare Kṛṣṇa, Kṛṣṇa Kṛṣṇa, Hare Hare/ Hare Rāma, Hare Rāma, Rāma Rāma, Hare Hare. So our movement is that we request you to take up these sixteen words---not sixteen words, three words, Hare, Kṛṣṇa, Rāma. But is is arranged in such a way that there are sixteen words. So anyone can take it by heart, these three words, and chant it.
+
+*Key Insight:* Chanting Hare Kṛṣṇa cleanses the heart and mind of all dirty things, reviving our original consciousness and relationship with God.
+
+SOURCE: https://github.com/iskconpress/spoken/blob/master/680615le.mon.txt
+
+4️⃣ FACT EXTRACTION
+--------------------------------------------------------------------------------
+Direct spoken content provided
+
+5️⃣ FINAL ANSWER
+--------------------------------------------------------------------------------
+### Reviving Original Consciousness
+
+**Prabhupāda:** Ladies and gentlemen, this Kṛṣṇa conscious movement is reviving our original consciousness. At the present moment, due to our long association with matter, the consciousness has become contaminated, just like when the rain water falls down from the cloud, the water is uncontaminated, distilled water, pure, but as soon as the water falls down on this earth, it becomes mixed up with so many dirty things. When the water falls it is not salty, but when it is touched with the matter or earth, it becomes salty, or tasty, or something like that. Similarly, originally, as spirit soul, our consciousness is uncontaminated, but due to our association with the matter at the present moment, our consciousness is contaminated. Therefore we have got so many varieties of consciousness. Disagreements between one person to another is due to this contaminated consciousness. I think some way; you think otherwise. Therefore we do not agree. But originally, your consciousness and my consciousness were one. And what is that one? That conscious, pure consciousness, is "God is great, and I am His eternal servant." That is pure consciousness. As soon as we want to imitate or artificially want to become one with God, immediately the contamination begins.
+
+**Key Insight:** Our original consciousness is uncontaminated, but due to our association with matter, it becomes contaminated, leading to varieties of consciousness and disagreements.
+
+There is a Bengali verse in which it is stated that,
+
+SHLOKA:
+**kṛṣṇa bhuliya jīva bhoga vāñchā kare**
+**pāśate māyā tāre jāpaṭiyā dhare**
+
+— *Prema-vivarta*
+
+The English translation is that "When an individual soul forgets his eternal relationship with God and tries to lord it over the material nature or resources, that condition, that forgetful condition, is called **māyā,** or illusion."
+
+**Key Insight:** Forgetfulness of our eternal relationship with God leads to illusion.
+
+So at the present moment, especially in this age, the forgetfulness of our eternal relationship with God is very strong. And by chanting this transcendental sound, Hare Kṛṣṇa, the first installment is that our heart or the mind becomes cleansed of all dirty things. This is not a theoretical proposition, but it is a fact. If you go on chanting this **mantra**, Hare Kṛṣṇa, it is not difficult. Although it is pronounced in Sanskrit language, everyone can chant it just like in this meeting we began to chant, and you also joined with us. Here, all my students, they are all Americans. None of them are Indian, but still, they have learned it very nicely, and it is not difficult. And there is no expenditure. So what is this Hare Kṛṣṇa? **Hare** means the energy of the Lord, and **Kṛṣṇa** means the Supreme Personality of Godhead. So it is a prayer. There are three words only: Hare, Kṛṣṇa and Rāma, three words. That has been arranged in sixteen words: Hare Kṛṣṇa, Hare Kṛṣṇa, Kṛṣṇa Kṛṣṇa, Hare Hare/ Hare Rāma, Hare Rāma, Rāma Rāma, Hare Hare. So our movement is that we request you to take up these sixteen words---not sixteen words, three words, Hare, Kṛṣṇa, Rāma. But is is arranged in such a way that there are sixteen words. So anyone can take it by heart, these three words, and chant it.
+
+*Key Insight:* Chanting Hare Kṛṣṇa cleanses the heart and mind of all dirty things, reviving our original consciousness and relationship with God.
+
+SOURCE: https://github.com/iskconpress/spoken/blob/master/680615le.mon.txt
+
+6️⃣ METRICS AND ANALYSIS
+--------------------------------------------------------------------------------
+Target Prabhupada Content Ratio: 70%
+Actual Prabhupada Content Ratio: 100%
+Answer Length Setting: short
+Answer Format: conversational
+Devotee Level: neophyte
+
+7️⃣ DETAILED SOURCE CITATIONS
+--------------------------------------------------------------------------------
+Source #1: 680615le.mon (Unknown)
+  URL: https://github.com/iskconpress/spoken/blob/master/680615le.mon.txt
+  Content Types: No content details available
+
+8️⃣ PERFORMANCE METRICS
+--------------------------------------------------------------------------------
+Search Time: 3.62 seconds
+Total Processing Time: 4.28 seconds
+
+================================================================================
+ANALYSIS SUMMARY
+================================================================================
+- Query successfully processed through 1 source(s)
+- Retrieved 1 relevant passages
+- Final answer contains approximately 100% of Prabhupada's direct words
+- Results saved to: testing/rag_results_20250725_152115.txt

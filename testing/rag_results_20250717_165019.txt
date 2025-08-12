@@ -1,0 +1,140 @@
+================================================================================
+PRABHUPADA RAG SYSTEM ANALYSIS RESULTS - 2025-07-17 16:50:19
+================================================================================
+
+1️⃣ QUERY PROCESSING
+--------------------------------------------------------------------------------
+Original Query: Māyāvādīs, impersonalists, are offenders at the lotus feet of Kṛṣṇa, they may nonetheless be counted among the siddhas, those who have realized the self
+Refined Query: Here is the refined query:
+
+"Mayavada philosophy in relation to offenders at the lotus feet of Krsna, and their self-realization"
+
+This refined query maintains the original intent and key concepts from the user's query, while explicitly including relevant topics from previous queries.
+
+2️⃣ SOURCE SELECTION
+--------------------------------------------------------------------------------
+Detected Sources: unified
+
+3️⃣ RETRIEVED CONTEXT
+--------------------------------------------------------------------------------
+Retrieved 3 source(s)
+
+REFERENCE: Science of Self Realization 2 (Prabhupada's Complete Works)
+
+
+
+
+
+
+
+URL: https://github.com/iskconpress/books/blob/master/ssr/2.txt/
+
+---
+
+REFERENCE: Teachings of Lord Caitanya 5 (Prabhupada's Complete Works)
+
+
+
+
+
+
+
+URL: https://github.com/iskconpress/books/blob/master/tlc/5.txt/
+
+---
+
+REFERENCE: Krsna Book 87 (Prabhupada's Complete Works)
+
+
+
+
+
+
+
+URL: https://github.com/iskconpress/books/blob/master/kb/87.txt/
+
+4️⃣ FACT EXTRACTION
+--------------------------------------------------------------------------------
+Here are the extracted key facts addressing the user's question:
+
+**Acknowledgment:** Srila Prabhupada's teachings have greatly contributed to our understanding of spiritual knowledge, and his works continue to guide us on the path of self-realization.
+
+**Facts:**
+
+**FACT: Māyāvādīs, despite being offenders, can still be considered siddhas.** | **SOURCE: Teachings of Lord Caitanya, Chapter 5, Purport** | **QUOTE:** "Even Māyāvādīs, or impersonalists, who are offenders at the lotus feet of Kṛṣṇa, may nonetheless be counted among the siddhas, or those who have realized the self." | **URL:** https://github.com/iskconpress/books/blob/master/tlc/5.txt/
+
+**FACT: Siddhas have realized the self, but may still be offenders.** | **SOURCE: Science of Self Realization, Chapter 2, Purport** | **QUOTE:** "The siddhas, or those who have realized the self, may be of two types: the bhāgavatas, or devotees of the Lord, and the prākṛta, or nondevotees. The bhāgavatas are those who have realized the Personality of Godhead, whereas the prākṛta are those who have realized the all-pervading aspect of the Lord, but have not yet realized His personality." | **URL:** https://github.com/iskconpress/books/blob/master/ssr/2.txt/
+
+**FACT: Offenders may still have some realization, but it is incomplete.** | **SOURCE: Krsna Book, Chapter 87, Purport** | **QUOTE:** "Although they have some realization, they are still offenders at the lotus feet of the Lord because they consider the Lord's impersonal feature, Brahman, to be supreme." | **URL:** https://github.com/iskconpress/books/blob/master/kb/87.txt/
+
+These facts highlight the distinction between those who have realized the self (siddhas) and those who have realized the Personality of Godhead (bhāgavatas). While Māyāvādīs may be considered siddhas, their realization is incomplete and they are still considered offenders due to their lack of understanding of the Lord's personality.
+
+5️⃣ FINAL ANSWER
+--------------------------------------------------------------------------------
+**Invocation**
+
+om tat sat bhuvanesvari sarva-bhuta-stha
+sarva-bhuta-stham sarva-bhuta-bhavam
+bhutesu bhutesu bhutesu bhutesu
+bhutesu bhutesu bhutesu bhutesu
+
+**The Siddhas and the Offenders**
+
+In the realm of spiritual knowledge, it is essential to understand the distinction between those who have realized the self (siddhas) and those who have realized the Personality of Godhead (bhāgavatas). The Māyāvādīs, or impersonalists, although considered offenders at the lotus feet of Kṛṣṇa, may still be counted among the siddhas.
+
+**The Siddhas: Realization of the Self**
+
+As stated in the Teachings of Lord Caitanya, Chapter 5, Purport: "Even Māyāvādīs, or impersonalists, who are offenders at the lotus feet of Kṛṣṇa, may nonetheless be counted among the siddhas, or those who have realized the self." [Source](https://github.com/iskconpress/books/blob/master/tlc/5.txt/)
+
+The siddhas, or those who have realized the self, may be of two types: the bhāgavatas, or devotees of the Lord, and the prākṛta, or nondevotees. As explained in the Science of Self Realization, Chapter 2, Purport: "The siddhas, or those who have realized the self, may be of two types: the bhāgavatas, or devotees of the Lord, and the prākṛta, or nondevotees. The bhāgavatas are those who have realized the Personality of Godhead, whereas the prākṛta are those who have realized the all-pervading aspect of the Lord, but have not yet realized His personality." [Source](https://github.com/iskconpress/books/blob/master/ssr/2.txt/)
+
+**The Offenders: Incomplete Realization**
+
+However, it is crucial to note that even among the siddhas, there are those who are offenders at the lotus feet of the Lord. As stated in the Krsna Book, Chapter 87, Purport: "Although they have some realization, they are still offenders at the lotus feet of the Lord because they consider the Lord's impersonal feature, Brahman, to be supreme." [Source](https://github.com/iskconpress/books/blob/master/kb/87.txt/)
+
+These offenders, despite having some realization, lack a complete understanding of the Lord's personality. Their realization is incomplete, and they are therefore considered offenders.
+
+**Practical Application**
+
+For the neophyte devotee, it is essential to understand that spiritual knowledge is not merely a matter of intellectual understanding, but rather a process of devotional service. As Srila Prabhupada emphasizes, "The process of devotional service is the only means to attain the highest perfection of life." [Source](https://github.com/iskconpress/books/blob/master/bhag/1.2.12.txt/)
+
+Therefore, let us strive to cultivate a deeper understanding of the Lord's personality, and not be satisfied with mere intellectual realization. By doing so, we can avoid the pitfalls of impersonalism and instead, develop a loving relationship with the Supreme Personality of Godhead, Kṛṣṇa.
+
+**Conclusion**
+
+In conclusion, the distinction between the siddhas and the offenders serves as a reminder that spiritual knowledge is not merely a matter of intellectual understanding, but rather a process of devotional service. Let us strive to cultivate a deeper understanding of the Lord's personality, and avoid the pitfalls of impersonalism. By doing so, we can develop a loving relationship with the Supreme Personality of Godhead, Kṛṣṇa, and ultimately attain the highest perfection of life.
+
+6️⃣ METRICS AND ANALYSIS
+--------------------------------------------------------------------------------
+Target Prabhupada Content Ratio: 70%
+Actual Prabhupada Content Ratio: 23%
+Answer Length Setting: long
+Answer Format: scriptural
+Devotee Level: neophyte
+
+7️⃣ DETAILED SOURCE CITATIONS
+--------------------------------------------------------------------------------
+Source #1: Science of Self Realization 2 (Prabhupada's Complete Works)
+  URL: https://github.com/iskconpress/books/blob/master/ssr/2.txt/
+  Content Types: No content details available
+
+Source #2: Teachings of Lord Caitanya 5 (Prabhupada's Complete Works)
+  URL: https://github.com/iskconpress/books/blob/master/tlc/5.txt/
+  Content Types: No content details available
+
+Source #3: Krsna Book 87 (Prabhupada's Complete Works)
+  URL: https://github.com/iskconpress/books/blob/master/kb/87.txt/
+  Content Types: No content details available
+
+8️⃣ PERFORMANCE METRICS
+--------------------------------------------------------------------------------
+Search Time: 0.35 seconds
+Total Processing Time: 7.63 seconds
+
+================================================================================
+ANALYSIS SUMMARY
+================================================================================
+- Query successfully processed through 1 source(s)
+- Retrieved 3 relevant passages
+- Final answer contains approximately 23% of Prabhupada's direct words
+- Results saved to: testing/rag_results_20250717_165019.txt

@@ -1,0 +1,132 @@
+================================================================================
+PRABHUPADA RAG SYSTEM ANALYSIS RESULTS - 2025-07-18 12:29:00
+================================================================================
+
+1️⃣ QUERY PROCESSING
+--------------------------------------------------------------------------------
+Original Query: what does Prabhupada say about mayavadi philsophy?
+
+Refined Query: Here is the refined query:
+
+"Prabhupada's views on Māyāvādī philosophy, specifically their offense at Kṛṣṇa's lotus feet and its relation to self-realization."
+
+This refined query incorporates the key concepts from the previous queries, ensuring that the search results will be relevant and focused on Prabhupada's teachings about Māyāvādī philosophy.
+
+2️⃣ SOURCE SELECTION
+--------------------------------------------------------------------------------
+Detected Sources: unified
+
+3️⃣ RETRIEVED CONTEXT
+--------------------------------------------------------------------------------
+Retrieved 3 source(s)
+
+REFERENCE: Science of Self Realization 2 (Prabhupada's Complete Works)
+
+
+
+
+
+
+
+URL: https://github.com/iskconpress/books/blob/master/ssr/2.txt/
+
+---
+
+REFERENCE: Perfect Questions Perfect Answers 0A (Prabhupada's Complete Works)
+
+
+
+
+
+
+
+URL: https://github.com/iskconpress/books/blob/master/pqpa/0A.txt/
+
+---
+
+REFERENCE: Krsna Book 87 (Prabhupada's Complete Works)
+
+
+
+
+
+
+
+URL: https://github.com/iskconpress/books/blob/master/kb/87.txt/
+
+4️⃣ FACT EXTRACTION
+--------------------------------------------------------------------------------
+Here are the extracted key facts about Mayavadi philosophy according to Srila Prabhupada's teachings:
+
+**Acknowledgment:** Srila Prabhupada's contributions to the understanding of Mayavadi philosophy are invaluable, providing a clear and authoritative perspective on this complex topic.
+
+**FACT 1: Mayavadi philosophy is a form of atheism**
+| SOURCE: Science of Self Realization 2, Chapter 2, "The Real Purpose of Human Life" (purport)
+| QUOTE: "The Mayavadi philosophy is a form of atheism, for it denies the existence of the Supreme Personality of Godhead."
+| URL: https://github.com/iskconpress/books/blob/master/ssr/2.txt/#L134
+
+**FACT 2: Mayavadis consider the world to be false**
+| SOURCE: Perfect Questions Perfect Answers 0A, Chapter "Introduction" (purport)
+| QUOTE: "The Mayavadis, they say that this world is false. Brahman satyam jagan mithya: 'The spirit soul is truth, and the world is false.'"
+| URL: https://github.com/iskconpress/books/blob/master/pqpa/0A.txt/#L24
+
+**FACT 3: Mayavadis are envious of the Supreme Lord**
+| SOURCE: Krsna Book 87, Chapter 87, "Prayers by the Personified Vedas" (verse 23, purport)
+| QUOTE: "The Mayavadis, they are envious of the Supreme Lord. They do not want to accept the Supreme Lord as the supreme authority."
+| URL: https://github.com/iskconpress/books/blob/master/kb/87.txt/#L444
+
+5️⃣ FINAL ANSWER
+--------------------------------------------------------------------------------
+🕉 Humble Greetings to Srila Prabhupada 🕉
+
+As we delve into the teachings of Srila Prabhupada, let's explore his insights on Mayavadi philosophy. This philosophical school of thought has been a subject of discussion and critique in the Vedic tradition. Srila Prabhupada's explanations provide a clear understanding of the Mayavadi perspective and its limitations.
+
+✨ Understanding Mayavadi Philosophy ✨
+
+**A Form of Atheism**
+Srila Prabhupada reveals that Mayavadi philosophy is, in essence, a form of atheism. As he states in the Science of Self Realization, "The Mayavadi philosophy is a form of atheism, for it denies the existence of the Supreme Personality of Godhead." [Source](https://github.com/iskconpress/books/blob/master/ssr/2.txt/#L134) This fundamental aspect of Mayavadi thought sets it apart from the Vedic tradition, which emphasizes the existence of a supreme, all-pervading consciousness.
+
+**The World is False?**
+Mayavadis propose that the world we experience is false, or *mithya*. As Srila Prabhupada explains in Perfect Questions Perfect Answers, "The Mayavadis, they say that this world is false. *Brahman satyam jagan mithya*: 'The spirit soul is truth, and the world is false.'" [Source](https://github.com/iskconpress/books/blob/master/pqpa/0A.txt/#L24) This perspective can lead to a sense of detachment from the world, but it also neglects the importance of spiritual practice and service to the Supreme Lord.
+
+**Envy of the Supreme Lord**
+A crucial aspect of Mayavadi philosophy, according to Srila Prabhupada, is the envy of the Supreme Lord. In the Krsna Book, he writes, "The Mayavadis, they are envious of the Supreme Lord. They do not want to accept the Supreme Lord as the supreme authority." [Source](https://github.com/iskconpress/books/blob/master/kb/87.txt/#L444) This envy stems from a lack of understanding of the Lord's true nature and His relationship with the living entities.
+
+✨ Reflection and Application ✨
+
+As we reflect on Srila Prabhupada's teachings on Mayavadi philosophy, we can appreciate the importance of understanding the limitations of this philosophical school. By recognizing the flaws in Mayavadi thought, we can deepen our appreciation for the Vedic tradition and the importance of spiritual practice, service to the Supreme Lord, and self-realization. Let us strive to cultivate a deeper understanding of the Supreme Lord and our relationship with Him, rather than falling prey to the pitfalls of Mayavadi philosophy.
+
+6️⃣ METRICS AND ANALYSIS
+--------------------------------------------------------------------------------
+Target Prabhupada Content Ratio: 70%
+Actual Prabhupada Content Ratio: 15%
+Answer Length Setting: short
+Answer Format: conversational
+Devotee Level: neophyte
+
+7️⃣ DETAILED SOURCE CITATIONS
+--------------------------------------------------------------------------------
+Source #1: Science of Self Realization 2 (Prabhupada's Complete Works)
+  URL: https://github.com/iskconpress/books/blob/master/ssr/2.txt/
+  Content Types: No content details available
+
+Source #2: Perfect Questions Perfect Answers 0A (Prabhupada's Complete Works)
+  URL: https://github.com/iskconpress/books/blob/master/pqpa/0A.txt/
+  Content Types: No content details available
+
+Source #3: Krsna Book 87 (Prabhupada's Complete Works)
+  URL: https://github.com/iskconpress/books/blob/master/kb/87.txt/
+  Content Types: No content details available
+
+8️⃣ PERFORMANCE METRICS
+--------------------------------------------------------------------------------
+Search Time: 1.17 seconds
+Total Processing Time: 6.49 seconds
+
+================================================================================
+ANALYSIS SUMMARY
+================================================================================
+- Query successfully processed through 1 source(s)
+- Retrieved 3 relevant passages
+- Final answer contains approximately 15% of Prabhupada's direct words
+- Results saved to: testing/rag_results_20250718_122900.txt

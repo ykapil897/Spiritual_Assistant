@@ -1,0 +1,129 @@
+================================================================================
+PRABHUPADA RAG SYSTEM ANALYSIS RESULTS - 2025-07-10 17:04:50
+================================================================================
+
+1️⃣ QUERY PROCESSING
+--------------------------------------------------------------------------------
+Original Query: glorify the supreme lord krsna from teaching from queen kunti 
+Refined Query: The refined query is:
+glorify the supreme lord krsna from TQK
+
+2️⃣ SOURCE SELECTION
+--------------------------------------------------------------------------------
+Detected Sources: unified
+Specific Books from Unified Collection: Teachings of Queen Kunti, Teachings of Queen Kunti, Teachings of Queen Kunti
+
+3️⃣ RETRIEVED CONTEXT
+--------------------------------------------------------------------------------
+Retrieved 3 source(s)
+
+REFERENCE: chapter13 (Teachings of Queen Kunti)
+
+TEXT: asked his wife, "What will make you comfortable?" A woman's nature, of course, is that she wants a good house, good food, fine garments, good children, and a good husband. These are a woman's ambitions. Thus Kardama Muni proved to her that she had received the best husband. By yogic powers he created for her this great airplane and gave her a big house with maidservants and all opulences. Kardama Muni was merely a human being, but he could perform such wonderful things by yogic powers. Kṛṣṇa, however, is Yogeśvara, the master of all yogic powers. If we get a little mystic power we become important, but Kṛṣṇa is the master of all mystic powers. In //Bhagavad-gītā// it is said that wherever there is Yogeśvara, Kṛṣṇa, the Supreme Personality of Godhead, the master of all mystic powers, and wherever there is Arjuna, who is also known as Pārtha or Dhanur-dhara, everything is present. We should always remember that if we can keep ourselves always in company with Kṛṣṇa, we shall attain all perfection. And especially in this age, Kṛṣṇa has incarnated as the holy name (//kali-kāle nāma-rūpe kṛṣṇa-avatāra,// Cc. //Ādi// 17.22). Therefore Caitanya Mahāprabhu says: > nāmnām akāri bahudhā nija-sarva-śaktis > tatrārpitā niyamitaḥ smaraṇe na kālaḥ "My dear Lord, You are so kind that You are giving me Your association in the form of Your holy name, and this holy name can be chanted in any situation." There are no hard and fast rules for chanting Hare Kṛṣṇa. One can chant Hare Kṛṣṇa anywhere. Children, for example, also chant and dance. It is not at all difficult. While walking, our students take their beads with them and chant. Where is the loss? But the gain is very great, for by chanting we associate with Kṛṣṇa personally. Suppose we were to associate personally with the President. How proud we would feel. "Oh, I am with the President." So should we not feel very much proud if we were to associate with the supreme president, who is able to create many millions of presidents like those of this world? This chanting is our opportunity to do so. Therefore Caitanya Mahāprabhu says, //etādṛśī tava kṛpā bhagavan mamāpi:// "My dear Lord, You are so kind to me that You are always prepared to give me Your association." //Durdaivam
+
+URL: https://github.com/iskconpress/books/blob/master/tqk/13.txt/
+
+---
+
+REFERENCE: chapter5 (Teachings of Queen Kunti)
+
+TEXT: or //Bhagavad-gītā// one becomes pious automatically. Therefore it is a rigid principle in every temple of our Kṛṣṇa consciousness movement that there must be a daily class for hearing and chanting. Our movement is meant for training spiritual leaders, but without hearing and chanting it is impossible to become a leader. Of course, in the material world it is possible, but not in the spiritual world. > mālī hañā sei bīja kare āropaṇa > śravaṇa-kīrtana jale karaye secana > [[books:cc:madhya:19:152|[Cc. Madhya 19.152]]] Hearing and chanting waters the seed of devotional service, which develops one's original consciousness. So here, in these prayers, Kuntīdevī, a great devotee, is giving us an opportunity to become Kṛṣṇa conscious simply by concentrating our mind on //paṅkaja,// the lotus flower. //Paṅka// means "mud," and //ja// means "generate." Although the lotus flower is generated from mud, it is a most important flower, and Kṛṣṇa likes it very much. Kuntīdevī therefore describes all the parts of Kṛṣṇa's body with reference to lotus flowers, so that as soon as one sees a lotus flower one will immediately think of Kṛṣṇa: "Oh, Kṛṣṇa's navel is just like a lotus, and from Kṛṣṇa's navel grew the stem of the lotus upon which Brahmā, the creator of this universe, was born. This universe includes so many planets, seas, mountains, and cities with motorcars and other paraphernalia, but the entire universe began from that lotus." //Namaḥ paṅkaja-māline// [[books:sb:1:8:22|[SB 1.8.22]]]. From Kṛṣṇa comes the wonderful lotus flower that contains the seed of the entire universe. But He is not the source of only one such flower. Kṛṣṇa is not so poor that He simply produces one lotus flower and then is finished. No. Just as there may be a garland with many flowers, Kṛṣṇa is the source of innumerable universes, which may be compared to a big garland of lotuses. This is God. //Yasyaika-niśvasita-kālam athāvalambya/ jīvanti loma-vilajā jagad-aṇḍa-nāthāḥ// (Bs. 5.48). Kṛṣṇa is unlimited. We are very much concerned with this one planet, but Kṛṣṇa's creation contains an unlimited number of planets. We cannot count how many planets there are, any more than one can count how many hairs there are on one's head. This is the nature of Kṛṣṇa's creation. To give another example, on one tree there is an unlimited number of leaves. Similarly, there is an
+
+URL: https://github.com/iskconpress/books/blob/master/tqk/5.txt/
+
+---
+
+REFERENCE: chapter18 (Teachings of Queen Kunti)
+
+TEXT: glorification of Kṛṣṇa, and this is glorification by Śukadeva Gosvāmī. He says that one can be perfectly purified if one either glorifies Kṛṣṇa, meditates upon Him, or simply sits before the Deity of Kṛṣṇa and sees Him, thinking, "How nicely dressed is Kṛṣṇa. How nicely dressed is Rādhārāṇī." If one has no ability to chant or if one's mind is so disturbed that one cannot fix it upon Kṛṣṇa, one is given this chance: "Here is the Deity. Simply see Him." If one is engaged in the service of the Deity, there is a good chance of always seeing Him, twenty-four hours a day. While cleansing the floor of the temple, while dressing the Deity, while bathing the Deity, or while offering Him food, one will always see Him. This is the process of devotional service, but people are such fallen rascals that they do not even go see the Deity. "Oh," they think, "what is this Deity worship? It is idol worship." They may worship the statue of Gandhi or someone else, but when asked to come see the worship of the Deity they will say, "No, this is idol worship." I have seen that in Calcutta in Chaurangi Square there is a statue of Sir Asutosa Mukherji. Throughout the year the crows pass stool on his face, and the stool becomes caked on. So on one day a year the ordinary sweepers cleanse the statue with their brush in the morning, and in the evening some big men come and garland him with flowers. Then after that evening they go away, and again the next morning the crows come to pass stool on his face. So this kind of worship is accepted---sweeping the face of Sir Asutosa Mukherji with the municipal brush---but if we install the Deity of Kṛṣṇa and worship Him nicely, people will say that this is idol worship. So people are embarrassed by being entangled in //avidyā,// ignorance, and the method by which to educate them and rescue them from the clutches of this ignorance is devotional service. As explained by Śukadeva Gosvāmī, one may chant the name of Kṛṣṇa or meditate upon Kṛṣṇa, or if one cannot meditate one may simply sit down and see Kṛṣṇa. Even a child can see, "Here is Kṛṣṇa. Here is Rādhārāṇī." Even
+
+URL: https://github.com/iskconpress/books/blob/master/tqk/18.txt/
+
+4️⃣ FACT EXTRACTION
+--------------------------------------------------------------------------------
+Acknowledgment: Srila Prabhupada's teachings are a treasure trove of spiritual wisdom, and his commentary on the Teachings of Queen Kunti is a valuable resource for understanding the glories of Lord Krsna.
+
+Here are the key facts that address the user's question:
+
+FACT: Krsna is the master of all yogic powers. | SOURCE: Chapter 13, Teachings of Queen Kunti, purport | QUOTE: "Kṛṣṇa, however, is Yogeśvara, the master of all yogic powers." | URL: https://github.com/iskconpress/books/blob/master/tqk/13.txt/
+
+FACT: Associating with Krsna through chanting His holy name is a simple and accessible way to attain perfection. | SOURCE: Chapter 13, Teachings of Queen Kunti, purport | QUOTE: "If we can keep ourselves always in company with Kṛṣṇa, we shall attain all perfection." | URL: https://github.com/iskconpress/books/blob/master/tqk/13.txt/
+
+FACT: Krsna is the source of innumerable universes, which can be compared to a garland of lotuses. | SOURCE: Chapter 5, Teachings of Queen Kunti, purport | QUOTE: "Kṛṣṇa is not so poor that He simply produces one lotus flower and then is finished. No. Just as there may be a garland with many flowers, Kṛṣṇa is the source of innumerable universes, which may be compared to a big garland of lotuses." | URL: https://github.com/iskconpress/books/blob/master/tqk/5.txt/
+
+FACT: Glorifying Krsna, meditating upon Him, or simply sitting before the Deity of Krsna can purify one's consciousness. | SOURCE: Chapter 18, Teachings of Queen Kunti, purport | QUOTE: "One can be perfectly purified if one either glorifies Kṛṣṇa, meditates upon Him, or simply sits before the Deity of Kṛṣṇa and sees Him..." | URL: https://github.com/iskconpress/books/blob/master/tqk/18.txt/
+
+5️⃣ FINAL ANSWER
+--------------------------------------------------------------------------------
+**Session Title:** Glorifying the Supreme Lord Krsna: Unveiling the Glories of the Master of Yogic Powers
+
+**Gita Reference:** None (Teachings of Queen Kunti)
+
+**Opening Hook:**
+Imagine being in the presence of the Supreme Lord Krsna, the master of all yogic powers. How would you feel? What would you say? In the Teachings of Queen Kunti, Srila Prabhupada reveals the glories of Lord Krsna, and today, we'll delve into the significance of glorifying Him. As Srila Prabhupada says, "Kṛṣṇa, however, is Yogeśvara, the master of all yogic powers." [Chapter 13, Teachings of Queen Kunti, purport](https://github.com/iskconpress/books/blob/master/tqk/13.txt/)
+
+**Core Teaching:**
+In the Teachings of Queen Kunti, Srila Prabhupada emphasizes the importance of associating with Krsna through chanting His holy name. This simple yet powerful practice allows us to attain perfection. As Srila Prabhupada explains, "If we can keep ourselves always in company with Kṛṣṇa, we shall attain all perfection." [Chapter 13, Teachings of Queen Kunti, purport](https://github.com/iskconpress/books/blob/master/tqk/13.txt/)
+
+But who is this Krsna we're glorifying? Srila Prabhupada describes Him as the source of innumerable universes, which can be compared to a garland of lotuses. "Kṛṣṇa is not so poor that He simply produces one lotus flower and then is finished. No. Just as there may be a garland with many flowers, Kṛṣṇa is the source of innumerable universes, which may be compared to a big garland of lotuses." [Chapter 5, Teachings of Queen Kunti, purport](https://github.com/iskconpress/books/blob/master/tqk/5.txt/)
+
+**Frameworks or Levels:**
+Glorifying Krsna is not just a one-time event; it's a continuous process that purifies our consciousness. Srila Prabhupada outlines three ways to achieve this purification: glorifying Krsna, meditating upon Him, or simply sitting before the Deity of Krsna. As he says, "One can be perfectly purified if one either glorifies Kṛṣṇa, meditates upon Him, or simply sits before the Deity of Kṛṣṇa and sees Him..." [Chapter 18, Teachings of Queen Kunti, purport](https://github.com/iskconpress/books/blob/master/tqk/18.txt/)
+
+**Practical Application:**
+Take a few moments to reflect on how you can incorporate glorifying Krsna into your daily life. Ask yourself:
+
+* How can I chant Krsna's holy name more regularly?
+* What are some ways I can meditate upon Krsna's glories?
+* How can I make time to sit before the Deity of Krsna and simply gaze upon His beauty?
+
+**Micro-practice:**
+Commit to chanting Krsna's holy name for 10 minutes each day, focusing on the sound and the meaning. As you chant, remember that you're associating with the master of all yogic powers.
+
+**Closing Reflection:**
+Glorifying the Supreme Lord Krsna is not just a duty; it's a privilege. By doing so, we can attain perfection and purify our consciousness. As Srila Prabhupada says, "If we can keep ourselves always in company with Kṛṣṇa, we shall attain all perfection." [Chapter 13, Teachings of Queen Kunti, purport](https://github.com/iskconpress/books/blob/master/tqk/13.txt/)
+
+**Key Quotes:**
+
+* "Kṛṣṇa, however, is Yogeśvara, the master of all yogic powers." [Chapter 13, Teachings of Queen Kunti, purport](https://github.com/iskconpress/books/blob/master/tqk/13.txt/)
+* "If we can keep ourselves always in company with Kṛṣṇa, we shall attain all perfection." [Chapter 13, Teachings of Queen Kunti, purport](https://github.com/iskconpress/books/blob/master/tqk/13.txt/)
+* "Kṛṣṇa is not so poor that He simply produces one lotus flower and then is finished. No. Just as there may be a garland with many flowers, Kṛṣṇa is the source of innumerable universes, which may be compared to a big garland of lotuses." [Chapter 5, Teachings of Queen Kunti, purport](https://github.com/iskconpress/books/blob/master/tqk/5.txt/)
+* "One can be perfectly purified if one either glorifies Kṛṣṇa, meditates upon Him, or simply sits before the Deity of Kṛṣṇa and sees Him..." [Chapter 18, Teachings of Queen Kunti, purport](https://github.com/iskconpress/books/blob/master/tqk/18.txt/)
+
+**Summary:**
+In this session, we explored the significance of glorifying the Supreme Lord Krsna, the master of all yogic powers. By associating with Krsna through chanting His holy name, we can attain perfection and purify our consciousness. Remember to incorporate glorifying Krsna into your daily life, and take advantage of the simple yet powerful practices outlined in the Teachings of Queen Kunti.
+
+6️⃣ METRICS AND ANALYSIS
+--------------------------------------------------------------------------------
+Target Prabhupada Content Ratio: 0%
+Actual Prabhupada Content Ratio: 25%
+Answer Length Setting: long
+Answer Format: lecture
+Devotee Level: intermediate
+
+7️⃣ DETAILED SOURCE CITATIONS
+--------------------------------------------------------------------------------
+Source #1: chapter13 (Prabhupada's Complete Works - Teachings of Queen Kunti)
+  URL: https://github.com/iskconpress/books/blob/master/tqk/13.txt/
+  Content Types: Text ✓
+
+Source #2: chapter5 (Prabhupada's Complete Works - Teachings of Queen Kunti)
+  URL: https://github.com/iskconpress/books/blob/master/tqk/5.txt/
+  Content Types: Text ✓
+
+Source #3: chapter18 (Prabhupada's Complete Works - Teachings of Queen Kunti)
+  URL: https://github.com/iskconpress/books/blob/master/tqk/18.txt/
+  Content Types: Text ✓
+
+8️⃣ PERFORMANCE METRICS
+--------------------------------------------------------------------------------
+Search Time: 2.32 seconds
+Total Processing Time: 8.39 seconds
+
+================================================================================
+ANALYSIS SUMMARY
+================================================================================
+- Query successfully processed through 1 source(s)
+- Retrieved 3 relevant passages
+- Final answer contains approximately 25% of Prabhupada's direct words
+- Results saved to: testing/rag_results_20250710_170450.txt

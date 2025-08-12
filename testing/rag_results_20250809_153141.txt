@@ -1,0 +1,120 @@
+================================================================================
+PRABHUPADA RAG SYSTEM ANALYSIS RESULTS - 2025-08-09 15:31:41
+================================================================================
+
+1️⃣ QUERY PROCESSING
+--------------------------------------------------------------------------------
+Original Query: who is krsna 
+
+Refined Query: Refined query: "Who is Krsna in relation to attachment to material nature"
+
+2️⃣ SOURCE SELECTION
+--------------------------------------------------------------------------------
+Detected Sources: unified
+
+3️⃣ RETRIEVED CONTEXT
+--------------------------------------------------------------------------------
+Retrieved 3 source(s)
+
+REFERENCE: On the Way to Krsna 4 (Prabhupada's Complete Works)
+
+
+
+
+
+
+
+URL: https://github.com/iskconpress/books/blob/master/owk/4.txt
+
+---
+
+REFERENCE: Teachings of Lord Kapila 11 (Prabhupada's Complete Works)
+
+
+
+
+
+
+
+URL: https://github.com/iskconpress/books/blob/master/tlk/11.txt/
+
+---
+
+REFERENCE: Teachings of Queen Kunti 6 (Prabhupada's Complete Works)
+
+
+
+
+
+
+
+URL: https://github.com/iskconpress/books/blob/master/tqk/6.txt/
+
+4️⃣ FACT EXTRACTION
+--------------------------------------------------------------------------------
+Here are the key facts about who Krishna is, according to Srila Prabhupada's teachings:
+
+**Acknowledgment:** Srila Prabhupada's contributions to the understanding of Krishna consciousness are invaluable, and his teachings continue to inspire and guide devotees worldwide.
+
+**FACT: Krishna is the Supreme Personality of Godhead** | SOURCE: On the Way to Krsna 4, purport | QUOTE: "Krishna is the Supreme Personality of Godhead, the Absolute Truth, the ultimate goal of life." | URL: https://github.com/iskconpress/books/blob/master/owk/4.txt
+
+**FACT: Krishna is the ultimate reality and the source of everything** | SOURCE: Teachings of Lord Kapila 11, verse 37, translation | QUOTE: "The Supreme Personality of Godhead is the ultimate reality, and from Him only can everything else emanate." | URL: https://github.com/iskconpress/books/blob/master/tlk/11.txt/
+
+**FACT: Krishna is the all-attractive, all-knowing, and all-powerful Lord** | SOURCE: Teachings of Queen Kunti 6, verse 26, translation | QUOTE: "You are the all-attractive, all-knowing, and all-powerful Lord, and You are the supreme controller of all living entities." | URL: https://github.com/iskconpress/books/blob/master/tqk/6.txt/
+
+These facts establish Krishna as the Supreme Personality of Godhead, the ultimate reality, and the source of everything, with attributes such as being all-attractive, all-knowing, and all-powerful.
+
+5️⃣ FINAL ANSWER
+--------------------------------------------------------------------------------
+🕉 Honoring Srila Prabhupada's Guidance
+
+As we embark on this journey to understand the essence of Krishna, let us first acknowledge the invaluable contributions of Srila Prabhupada, whose teachings continue to inspire and guide devotees worldwide.
+
+✨ Who is Krishna?
+
+According to Srila Prabhupada's teachings, **Krishna is the Supreme Personality of Godhead**, the ultimate goal of life. As Srila Prabhupada so eloquently puts it, "Krishna is the Supreme Personality of Godhead, the Absolute Truth, the ultimate goal of life." [On the Way to Krsna 4, purport](https://github.com/iskconpress/books/blob/master/owk/4.txt)
+
+But what does this mean? It means that Krishna is not just a historical figure or a mythological character, but the very essence of existence. He is the **ultimate reality and the source of everything**. As Srila Prabhupada explains, "The Supreme Personality of Godhead is the ultimate reality, and from Him only can everything else emanate." [Teachings of Lord Kapila 11, verse 37, translation](https://github.com/iskconpress/books/blob/master/tlk/11.txt/)
+
+So, who is Krishna? He is the **all-attractive, all-knowing, and all-powerful Lord**, the supreme controller of all living entities. As Queen Kunti so beautifully describes Him, "You are the all-attractive, all-knowing, and all-powerful Lord, and You are the supreme controller of all living entities." [Teachings of Queen Kunti 6, verse 26, translation](https://github.com/iskconpress/books/blob/master/tqk/6.txt/)
+
+✨ Reflection
+
+In essence, Krishna is not just a name or a concept, but the very fabric of existence. He is the source of everything, the ultimate reality, and the supreme controller of all living entities. As we begin to understand this, we can start to appreciate the significance of Krishna consciousness in our lives.
+
+Let us take a moment to reflect on this profound truth. Who is Krishna to you? How can you deepen your connection with the Supreme Personality of Godhead in your daily life?
+
+6️⃣ METRICS AND ANALYSIS
+--------------------------------------------------------------------------------
+Target Prabhupada Content Ratio: 70%
+Actual Prabhupada Content Ratio: 16%
+Answer Length Setting: short
+Answer Format: conversational
+Devotee Level: neophyte
+
+7️⃣ DETAILED SOURCE CITATIONS
+--------------------------------------------------------------------------------
+Source #1: On the Way to Krsna 4 (Prabhupada's Complete Works)
+  URL: https://github.com/iskconpress/books/blob/master/owk/4.txt
+  Content Types: No content details available
+
+Source #2: Teachings of Lord Kapila 11 (Prabhupada's Complete Works)
+  URL: https://github.com/iskconpress/books/blob/master/tlk/11.txt/
+  Content Types: No content details available
+
+Source #3: Teachings of Queen Kunti 6 (Prabhupada's Complete Works)
+  URL: https://github.com/iskconpress/books/blob/master/tqk/6.txt/
+  Content Types: No content details available
+
+8️⃣ PERFORMANCE METRICS
+--------------------------------------------------------------------------------
+Search Time: 1.21 seconds
+Total Processing Time: 5.99 seconds
+
+================================================================================
+ANALYSIS SUMMARY
+================================================================================
+- Query successfully processed through 1 source(s)
+- Retrieved 3 relevant passages
+- Final answer contains approximately 16% of Prabhupada's direct words
+- Results saved to: testing/rag_results_20250809_153141.txt

@@ -1,0 +1,142 @@
+================================================================================
+PRABHUPADA RAG SYSTEM ANALYSIS RESULTS - 2025-07-17 09:18:56
+================================================================================
+
+1️⃣ QUERY PROCESSING
+--------------------------------------------------------------------------------
+Original Query: how much prasada should we take 
+Refined Query: Here is the refined query:
+
+"importance of prasada in devotional life, as related to the role of the caitya guru"
+
+This refined query maintains the original intent of the user's query while incorporating relevant topics from previous queries, specifically the role of the caitya guru.
+
+2️⃣ SOURCE SELECTION
+--------------------------------------------------------------------------------
+Detected Sources: unified
+
+3️⃣ RETRIEVED CONTEXT
+--------------------------------------------------------------------------------
+Retrieved 3 source(s)
+
+REFERENCE: Teachings of Lord Caitanya 26 (Prabhupada's Complete Works)
+
+
+
+
+
+
+
+URL: https://github.com/iskconpress/books/blob/master/tlc/26.txt/
+
+---
+
+REFERENCE:  (Prabhupada's Complete Works)
+
+
+
+
+
+
+
+URL: https://github.com/iskconpress/books/nod/0b.txt/
+
+---
+
+REFERENCE: Teachings of Lord Kapila 4 (Prabhupada's Complete Works)
+
+
+
+
+
+
+
+URL: https://github.com/iskconpress/books/blob/master/tlk/4.txt/
+
+4️⃣ FACT EXTRACTION
+--------------------------------------------------------------------------------
+Here are the extracted key facts addressing the user's question on how much prasada should be taken, with proper attribution and URLs:
+
+**Acknowledgment:** Srila Prabhupada's teachings have greatly contributed to our understanding of spiritual life, and his guidance on taking prasada is invaluable.
+
+**FACT 1: Take prasada according to one's hunger**
+| SOURCE: Teachings of Lord Caitanya, Chapter 26, Purport (Prabhupada's Complete Works)
+| QUOTE: "One should not take more than what he requires. Yāvad artham: one should take only what is necessary for his maintenance."
+| URL: https://github.com/iskconpress/books/blob/master/tlc/26.txt/
+
+**FACT 2: Eat prasada with control and not for sense gratification**
+| SOURCE: Nectar of Devotion, Chapter 0, Text 4 (Prabhupada's Complete Works)
+| QUOTE: "One should not eat more than necessary, although the food is very palatable. And he should not eat for sense gratification."
+| URL: https://github.com/iskconpress/books/nod/0b.txt/
+
+**FACT 3: Take prasada as a token of love for Krishna**
+| SOURCE: Teachings of Lord Kapila, Chapter 4, Text 51 (Prabhupada's Complete Works)
+| QUOTE: "One should take prasādam at the time of breakfast, and the prasādam should be taken as a token of love of Godhead."
+| URL: https://github.com/iskconpress/books/blob/master/tlk/4.txt/
+
+These facts emphasize the importance of taking prasada in moderation, with control, and as a token of love for Krishna, rather than for sense gratification.
+
+5️⃣ FINAL ANSWER
+--------------------------------------------------------------------------------
+**Sri Guru Carana Padma**
+
+**The Proper Way to Take Prasada**
+
+In the sacred scriptures, it is written, "One who has taken his birth is sure to die, and after death one must take birth again. Therefore, the cycle of birth and death continues" (Bhagavad-gita 2.27). However, as devotees of the Lord, we are fortunate to have the guidance of Srila Prabhupada, who has illuminated the path to spiritual liberation. In this regard, the question arises: how much prasada should we take?
+
+**The Principle of Moderation**
+
+Srila Prabhupada teaches us that one should take prasada according to one's hunger. In the Teachings of Lord Caitanya, Chapter 26, Purport, he writes, "One should not take more than what he requires. Yāvad artham: one should take only what is necessary for his maintenance." [Source](https://github.com/iskconpress/books/blob/master/tlc/26.txt/)
+
+This principle of moderation is essential in our spiritual journey. By taking only what is necessary, we avoid the pitfalls of sense gratification and cultivate a sense of detachment from material desires.
+
+**Eating with Control**
+
+Furthermore, Srila Prabhupada emphasizes the importance of eating prasada with control and not for sense gratification. In the Nectar of Devotion, Chapter 0, Text 4, he states, "One should not eat more than necessary, although the food is very palatable. And he should not eat for sense gratification." [Source](https://github.com/iskconpress/books/nod/0b.txt/)
+
+This instruction is crucial, for when we eat with control, we demonstrate our commitment to spiritual growth and our willingness to transcend the bondage of material desires.
+
+**Taking Prasada as a Token of Love**
+
+Ultimately, the purpose of taking prasada is to express our love and devotion to Krishna. As Srila Prabhupada writes in the Teachings of Lord Kapila, Chapter 4, Text 51, "One should take prasādam at the time of breakfast, and the prasādam should be taken as a token of love of Godhead." [Source](https://github.com/iskconpress/books/blob/master/tlk/4.txt/)
+
+By taking prasada as a token of love for Krishna, we cultivate a deeper sense of connection with the Divine and acknowledge the Lord's provision in our lives.
+
+**Conclusion**
+
+In conclusion, the proper way to take prasada is to take it in moderation, with control, and as a token of love for Krishna. By following these principles, we can transform our daily meals into an act of devotion and service to the Lord. As Srila Prabhupada so eloquently puts it, "Prasādam is not meant
+
+6️⃣ METRICS AND ANALYSIS
+--------------------------------------------------------------------------------
+Target Prabhupada Content Ratio: 70%
+Actual Prabhupada Content Ratio: 20%
+Answer Length Setting: short
+Answer Format: scriptural
+Devotee Level: neophyte
+
+7️⃣ DETAILED SOURCE CITATIONS
+--------------------------------------------------------------------------------
+Source #1: Teachings of Lord Caitanya 26 (Prabhupada's Complete Works)
+  URL: https://github.com/iskconpress/books/blob/master/tlc/26.txt/
+  Content Types: No content details available
+
+Source #2:  (Prabhupada's Complete Works)
+  URL: https://github.com/iskconpress/books/nod/0b.txt/
+  Content Types: No content details available
+
+Source #3: Teachings of Lord Kapila 4 (Prabhupada's Complete Works)
+  URL: https://github.com/iskconpress/books/blob/master/tlk/4.txt/
+  Content Types: No content details available
+
+8️⃣ PERFORMANCE METRICS
+--------------------------------------------------------------------------------
+Search Time: 0.40 seconds
+Total Processing Time: 6.33 seconds
+
+================================================================================
+ANALYSIS SUMMARY
+================================================================================
+- Query successfully processed through 1 source(s)
+- Retrieved 3 relevant passages
+- Final answer contains approximately 20% of Prabhupada's direct words
+- Results saved to: testing/rag_results_20250717_091856.txt

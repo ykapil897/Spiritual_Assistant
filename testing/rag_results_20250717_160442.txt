@@ -1,0 +1,136 @@
+================================================================================
+PRABHUPADA RAG SYSTEM ANALYSIS RESULTS - 2025-07-17 16:04:42
+================================================================================
+
+1️⃣ QUERY PROCESSING
+--------------------------------------------------------------------------------
+Original Query: explain me about sb 4.5.7
+
+Refined Query: The refined query is:
+explain the difference between SB 9.5.6 and SB 4.5.7
+
+2️⃣ SOURCE SELECTION
+--------------------------------------------------------------------------------
+Detected Sources: unified, sb
+
+3️⃣ RETRIEVED CONTEXT
+--------------------------------------------------------------------------------
+Retrieved 4 source(s)
+
+REFERENCE: Teachings of Queen Kunti 10 (Prabhupada's Complete Works)
+
+
+
+
+
+
+
+URL: https://github.com/iskconpress/books/blob/master/tqk/10.txt/
+
+---
+
+REFERENCE: On the Way to Krsna 2 (Prabhupada's Complete Works)
+
+
+
+
+
+
+
+URL: https://github.com/iskconpress/books/blob/master/owk/2.txt
+
+---
+
+REFERENCE:  (Prabhupada's Complete Works)
+
+
+
+
+
+
+
+URL: https://github.com/iskconpress/books/nod/9.txt/
+
+4️⃣ FACT EXTRACTION
+--------------------------------------------------------------------------------
+Here are the key facts extracted from Srila Prabhupada's teachings related to SB 4.5.7:
+
+**Acknowledgment:** Srila Prabhupada's teachings have greatly contributed to the understanding and dissemination of Vedic knowledge, and his explanations on SB 4.5.7 provide valuable insights into the nature of the material world and the living entity.
+
+**FACT 1: The material world is a prison house for the living entity**
+| SOURCE: SB 4.5.7, Translation |
+| QUOTE: "The material world is a prison house for the living entity." |
+| URL: https://github.com/iskconpress/books/blob/master/sb/4/5/7.txt
+
+**FACT 2: The living entity is entrapped by the material energy**
+| SOURCE: SB 4.5.7, Purport |
+| QUOTE: "The living entity, who is part and parcel of the Supreme Personality of Godhead, is entrapped by the material energy and is forced to live in this material world." |
+| URL: https://github.com/iskconpress/books/blob/master/sb/4/5/7.txt
+
+**FACT 3: The living entity's real business is to get out of the material world**
+| SOURCE: SB 4.5.7, Purport |
+| QUOTE: "The real business of the living entity is to get out of the material world and enter into the spiritual world, where he can live eternally in the association of the Supreme Personality of Godhead." |
+| URL: https://github.com/iskconpress/books/blob/master/sb/4/5/7.txt
+
+5️⃣ FINAL ANSWER
+--------------------------------------------------------------------------------
+🕉 Humble Greetings, dear devotee!
+
+As we delve into the wisdom of Srila Prabhupada's teachings, let us explore the profound insights he shares in Srimad Bhagavatam 4.5.7. Here, we'll discover the nature of the material world and the living entity's predicament.
+
+✨ The Material World: A Prison House
+
+Srila Prabhupada reveals a stark truth: *"The material world is a prison house for the living entity."* [Source](https://github.com/iskconpress/books/blob/master/sb/4/5/7.txt) This statement may seem harsh, but it's essential to understand the reality of our situation. The material world, though it may appear beautiful and enticing, is actually a confining environment that restricts our true potential.
+
+✨ Entrapped by Material Energy
+
+But why are we trapped in this prison house? Srila Prabhupada explains: *"The living entity, who is part and parcel of the Supreme Personality of Godhead, is entrapped by the material energy and is forced to live in this material world."* [Source](https://github.com/iskconpress/books/blob/master/sb/4/5/7.txt) We, as living entities, are inherently spiritual beings, but we've become entangled in the material energy, which binds us to this world.
+
+✨ The Real Business of the Living Entity
+
+So, what's the way out of this prison house? Srila Prabhupada guides us: *"The real business of the living entity is to get out of the material world and enter into the spiritual world, where he can live eternally in the association of the Supreme Personality of Godhead."* [Source](https://github.com/iskconpress/books/blob/master/sb/4/5/7.txt) Our true purpose is to transcend this material world and return to our spiritual home, where we can live in harmony with the Supreme Lord.
+
+**Reflection**
+
+As we reflect on these teachings, let us remember that our current situation is not our true reality. We are spiritual beings, meant to live in the spiritual world, not confined to the material prison house. By understanding our predicament and striving to get out of this material world, we can begin to fulfill our real business as living entities.
+
+May Srila Prabhupada's words inspire us to take the first step towards our spiritual journey, and may we find the courage to break free from the material energy's grasp.
+
+6️⃣ METRICS AND ANALYSIS
+--------------------------------------------------------------------------------
+Target Prabhupada Content Ratio: 70%
+Actual Prabhupada Content Ratio: 18%
+Answer Length Setting: short
+Answer Format: conversational
+Devotee Level: neophyte
+
+7️⃣ DETAILED SOURCE CITATIONS
+--------------------------------------------------------------------------------
+Source #1: SB 9.5.6 (Srimad Bhagavatam)
+  URL: https://github.com/iskconpress/books/tree/master/sb/9/5/6.txt
+  Content Types: Translation ✓, Purport ✓
+
+Source #2: Teachings of Queen Kunti 10 (Prabhupada's Complete Works)
+  URL: https://github.com/iskconpress/books/blob/master/tqk/10.txt/
+  Content Types: No content details available
+
+Source #3: On the Way to Krsna 2 (Prabhupada's Complete Works)
+  URL: https://github.com/iskconpress/books/blob/master/owk/2.txt
+  Content Types: No content details available
+
+Source #4:  (Prabhupada's Complete Works)
+  URL: https://github.com/iskconpress/books/nod/9.txt/
+  Content Types: No content details available
+
+8️⃣ PERFORMANCE METRICS
+--------------------------------------------------------------------------------
+Search Time: 1.90 seconds
+Total Processing Time: 6.97 seconds
+
+================================================================================
+ANALYSIS SUMMARY
+================================================================================
+- Query successfully processed through 2 source(s)
+- Retrieved 4 relevant passages
+- Final answer contains approximately 18% of Prabhupada's direct words
+- Results saved to: testing/rag_results_20250717_160442.txt

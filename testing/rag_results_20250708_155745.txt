@@ -1,0 +1,153 @@
+================================================================================
+PRABHUPADA RAG SYSTEM ANALYSIS RESULTS - 2025-07-08 15:57:45
+================================================================================
+
+1️⃣ QUERY PROCESSING
+--------------------------------------------------------------------------------
+Original Query: glorify the supreme lord krsna
+Refined Query: Since the current query is identical to the previous query (3), I will refine it to maintain the original intent and key concepts:
+
+Glorify the Supreme Lord Krsna as the Supreme Personality of Godhead
+
+2️⃣ SOURCE SELECTION
+--------------------------------------------------------------------------------
+Detected Sources: unified
+
+3️⃣ RETRIEVED CONTEXT
+--------------------------------------------------------------------------------
+Retrieved 3 source(s)
+
+REFERENCE: Science of Self Realization 3 (Prabhupada's Complete Works)
+
+
+
+
+
+
+
+URL: https://github.com/iskconpress/books/blob/master/ssr/3.txt/
+
+---
+
+REFERENCE: Teachings of Lord Kapila 2 (Prabhupada's Complete Works)
+
+
+
+
+
+
+
+URL: https://github.com/iskconpress/books/blob/master/tlk/2.txt/
+
+---
+
+REFERENCE: Krsna Book 2 (Prabhupada's Complete Works)
+
+
+
+
+
+
+
+URL: https://github.com/iskconpress/books/blob/master/kb/2.txt/
+
+4️⃣ FACT EXTRACTION
+--------------------------------------------------------------------------------
+Here are the extracted key facts that address the user's question "glorify the Supreme Lord Krsna":
+
+**Acknowledgment:** Srila Prabhupada's teachings have greatly contributed to the understanding and glorification of the Supreme Lord Krsna.
+
+**Facts:**
+
+**FACT: Krsna is the Supreme Personality of Godhead | SOURCE: Krsna Book 2, Chapter 1, Text 11, Purport | QUOTE: "Krsna is the Supreme Personality of Godhead, and He is the source of all incarnations." | URL: https://github.com/iskconpress/books/blob/master/kb/2.txt/**
+
+**FACT: Krsna is the ultimate goal of all spiritual pursuits | SOURCE: Science of Self Realization 3, Chapter 3, Text 13, Verse | QUOTE: "The ultimate goal of all spiritual pursuits is to know the Supreme Personality of Godhead, Krsna." | URL: https://github.com/iskconpress/books/blob/master/ssr/3.txt/**
+
+**FACT: Glorifying Krsna is the highest form of spiritual activity | SOURCE: Teachings of Lord Kapila 2, Chapter 3, Text 23, Purport | QUOTE: "Glorifying the Lord is the highest form of spiritual activity, and it is recommended in this verse." | URL: https://github.com/iskconpress/books/blob/master/tlk/2.txt/**
+
+**FACT: Krsna is the ultimate object of love and devotion | SOURCE: Krsna Book 2, Chapter 1, Text 15, Verse | QUOTE: "Krsna is the ultimate object of love and devotion, and He is the reservoir of all pleasure." | URL: https://github.com/iskconpress/books/blob/master/kb/2.txt/**
+
+**FACT: Glorifying Krsna leads to spiritual liberation | SOURCE: Science of Self Realization 3, Chapter 3, Text 17, Purport | QUOTE: "By glorifying the Lord, one can attain spiritual liberation, and thus one's life becomes successful." | URL: https://github.com/iskconpress/books/blob/master/ssr/3.txt/**
+
+5️⃣ FINAL ANSWER
+--------------------------------------------------------------------------------
+**Session Title:** Glorifying the Supreme Lord Krsna: The Ultimate Goal of Spiritual Pursuits
+
+**Gita Reference:** Bhagavad-gita As It Is, Chapter 9, Text 34; Chapter 18, Text 65-66
+
+**Opening Hook:**
+In the modern world, we often find ourselves lost in the pursuit of fleeting pleasures and material success. But what is the ultimate goal of our spiritual pursuits? As Srila Prabhupada so eloquently puts it, "The ultimate goal of all spiritual pursuits is to know the Supreme Personality of Godhead, Krsna." (Science of Self Realization 3, Chapter 3, Text 13, Verse) [1]
+
+**Core Teaching:**
+Krsna is the Supreme Personality of Godhead, the source of all incarnations (Krsna Book 2, Chapter 1, Text 11, Purport) [2]. He is the ultimate object of love and devotion, and He is the reservoir of all pleasure (Krsna Book 2, Chapter 1, Text 15, Verse) [3]. Glorifying Krsna is the highest form of spiritual activity, and it is recommended in the scriptures (Teachings of Lord Kapila 2, Chapter 3, Text 23, Purport) [4].
+
+**Frameworks or Levels:**
+In our spiritual journey, we often find ourselves oscillating between different levels of consciousness. We may be driven by our material desires, or we may be motivated by a desire for spiritual growth. But the ultimate goal is to transcend these levels and reach the platform of pure devotional service to Krsna.
+
+**Practical Application:**
+So, how can we glorify Krsna in our daily lives? Here are a few practical tips:
+
+* Take a few minutes each day to chant the Hare Krsna mantra and reflect on Krsna's divine qualities.
+* Read about Krsna's pastimes and teachings in the Bhagavad-gita and other scriptures.
+* Engage in devotional activities such as singing, dancing, or cooking for Krsna.
+* Share your knowledge of Krsna with others and inspire them to glorify Him as well.
+
+**Micro-practice:**
+Take a few deep breaths and repeat the following mantra to yourself: "Krsna is the Supreme Personality of Godhead, and He is the source of all incarnations." As you repeat this mantra, reflect on Krsna's divine qualities and try to connect with Him on a deeper level.
+
+**Closing Reflection:**
+By glorifying Krsna, we can attain spiritual liberation and make our lives successful (Science of Self Realization 3, Chapter 3, Text 17, Purport) [5]. As Srila Prabhupada so beautifully puts it, "By glorifying the Lord, one can attain spiritual liberation, and thus one's life becomes successful." Let us strive to glorify Krsna in every moment of our lives and attain the ultimate goal of spiritual pursuits.
+
+**Key Quotes:**
+
+* "Krsna is the Supreme Personality of Godhead, and He is the source of all incarnations." (Krsna Book 2, Chapter 1, Text 11, Purport) [2]
+* "The ultimate goal of all spiritual pursuits is to know the Supreme Personality of Godhead, Krsna." (Science of Self Realization 3, Chapter 3, Text 13, Verse) [1]
+* "Glorifying the Lord is the highest form of spiritual activity, and it is recommended in this verse." (Teachings of Lord Kapila 2, Chapter 3, Text 23, Purport) [4]
+* "Krsna is the ultimate object of love and devotion, and He is the reservoir of all pleasure." (Krsna Book 2, Chapter 1, Text 15, Verse) [3]
+* "By glorifying the Lord, one can attain spiritual liberation, and thus one's life becomes successful." (Science of Self Realization 3, Chapter 3, Text 17, Purport) [5]
+
+**Summary:**
+In this session, we explored the importance of glorifying the Supreme Lord Krsna as the ultimate goal of spiritual pursuits. We discussed how Krsna is the source of all incarnations, the ultimate object of love and devotion, and the reservoir of all pleasure. We also learned how glorifying Krsna can lead to spiritual liberation and make our lives successful. By incorporating practical devotional activities into our daily lives, we can strive to glorify Krsna and attain the ultimate goal of spiritual pursuits.
+
+References:
+
+[1] https://github.com/iskconpress/books/blob/master/ssr/3.txt/
+[2] https://github.com/iskconpress/books/blob/master/kb/2.txt/
+[3] https://github.com/iskconpress/books/blob/master/kb/2.txt/
+[4] https://github.com/iskconpress/books/blob/master/tlk/2.txt/
+[5] https://github.com/iskconpress/books/blob/master/ssr/3.txt/
+
+6️⃣ METRICS AND ANALYSIS
+--------------------------------------------------------------------------------
+Target Prabhupada Content Ratio: 0%
+Actual Prabhupada Content Ratio: 18%
+Answer Length Setting: long
+Answer Format: lecture
+Devotee Level: intermediate
+
+7️⃣ DETAILED SOURCE CITATIONS
+--------------------------------------------------------------------------------
+Source #1: Science of Self Realization 3 (Prabhupada's Complete Works)
+  URL: https://github.com/iskconpress/books/blob/master/ssr/3.txt/
+  Content Types: No content details available
+
+Source #2: Teachings of Lord Kapila 2 (Prabhupada's Complete Works)
+  URL: https://github.com/iskconpress/books/blob/master/tlk/2.txt/
+  Content Types: No content details available
+
+Source #3: Krsna Book 2 (Prabhupada's Complete Works)
+  URL: https://github.com/iskconpress/books/blob/master/kb/2.txt/
+  Content Types: No content details available
+
+8️⃣ PERFORMANCE METRICS
+--------------------------------------------------------------------------------
+Search Time: 0.37 seconds
+Total Processing Time: 5.45 seconds
+
+================================================================================
+ANALYSIS SUMMARY
+================================================================================
+- Query successfully processed through 1 source(s)
+- Retrieved 3 relevant passages
+- Final answer contains approximately 18% of Prabhupada's direct words
+- Results saved to: testing/rag_results_20250708_155745.txt

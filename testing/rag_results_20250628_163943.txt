@@ -1,0 +1,161 @@
+================================================================================
+PRABHUPADA RAG SYSTEM ANALYSIS RESULTS - 2025-06-28 16:39:43
+================================================================================
+
+1️⃣ QUERY PROCESSING
+--------------------------------------------------------------------------------
+Original Query: describe something you know from cc about the from adi 12.14?
+Refined Query: Here is the refined query:
+
+"Describe Krishna as the Supreme Personality of Godhead in relation to karma yoga, as mentioned in Bg. and SB, in the context of Cc. Ādi 12.14."
+
+Note: I've connected the current query to previous queries by incorporating relevant topics, such as Krishna as the Supreme Personality of Godhead (from query 2) and karma yoga (from query 1), to provide a more comprehensive search query.
+
+2️⃣ SOURCE SELECTION
+--------------------------------------------------------------------------------
+Detected Sources: sb
+
+3️⃣ RETRIEVED CONTEXT
+--------------------------------------------------------------------------------
+Retrieved 3 source(s)
+
+REFERENCE: SB 4.31.13 (Srimad Bhagavatam)
+
+
+
+TRANSLATION: Factually the Supreme Personality of Godhead is the original source of all self-realization. Consequently, the goal of all auspicious activities---karma, jñāna, yoga and bhakti---is the Supreme Personality of Godhead.
+
+PURPORT BY SRILA PRABHUPADA: The living entity is the marginal energy of the Supreme Personality of Godhead, and the material world is the external energy. Under the circumstances, one must understand that the Supreme Personality of Godhead is factually the original source of both matter and spirit. This is explained in the Seventh Chapter of //Bhagavad-gītā// [[books:bg:7:4|(7.4-5)]]:
+
+> bhūmir āpo 'nalo vāyuḥ
+> khaṁ mano buddhir eva ca
+> ahaṅkāra itīyaṁ me
+> bhinnā prakṛtir aṣṭadhā
+>
+> apareyam itas tv anyāṁ
+> prakṛtiṁ viddhi me parām
+> jīva-bhūtāṁ mahā-bāho
+> yayedaṁ dhāryate jagat
+
+"Earth, water, fire, air, ether, mind, intelligence and false ego---all together these eight comprise My separated material energies. But besides this inferior nature, O mighty-armed Arjuna, there is a superior energy of Mine, which consists of all living entities who are struggling with material nature and are sustaining the universe."
+
+The entire cosmic manifestation is but a combination of matter and spirit. The spiritual part is the living entity, and these living entities are described as //prakṛti,// or energy. The living entity is never described as //puruṣa,// the Supreme Person; therefore to identify the living entity with the Supreme Lord is simply ignorance. The living entity is the marginal potency of the Supreme Lord, although there is factually no difference between the energy and the energetic. The duty of the living entity is to understand his real identity. When he does, Kṛṣṇa gives him all the facilities to come to the platform of devotional service. That is the perfection of life. This is indicated in the Vedic //Upaniṣad://
+
+> yam evaiṣa vṛṇute tena labhyas
+> tasyaiṣa ātmā vivṛṇute tanūṁ svām
+
+Lord Kṛṣṇa confirms this in //Bhagavad-gītā// [[books:bg:10:10|(Bg. 10.10)]]:
+
+> teṣāṁ satata-yuktānāṁ
+> bhajatāṁ prīti-pūrvakam
+> dadāmi buddhi-yogaṁ taṁ
+> yena mām upayānti te
+
+"To those who are constantly devoted and worship Me with love, I give the understanding by which they can come to Me." The conclusion is that one must come to the platform of //bhakti-yoga,// even though one may begin with //karma-yoga, jñāna-yoga// or //aṣṭāṅga-yoga.// Unless one comes to the platform of //bhakti-yoga,// self-realization or realization of the Absolute Truth cannot be achieved.
+
+URL: https://github.com/iskconpress/books/tree/master/sb/4/31/13.txt
+
+---
+
+REFERENCE: SB 8.3.18 (Srimad Bhagavatam)
+
+
+
+TRANSLATION: My Lord, those who are completely freed from material contamination always meditate upon You within the cores of their hearts. You are extremely difficult to attain for those like me who are too attached to mental concoction, home, relatives, friends, money, servants and assistants. You are the Supreme Personality of Godhead, uncontaminated by the modes of nature. You are the reservoir of all enlightenment, the supreme controller. I therefore offer my respectful obeisances unto You.
+
+PURPORT BY SRILA PRABHUPADA: Although the Supreme Personality of Godhead comes into the material world, He is unaffected by the modes of material nature. This is confirmed in //Īśopaniṣad. Apāpa-viddham:// He is not contaminated. This same fact is described here. //Guṇa-saṅga-vivarjitāya.// Although the Supreme Personality of Godhead appears as an incarnation within this material world, He is unaffected by the modes of material nature. As stated in //Bhagavad-gītā// [[books:bg:9:11|(Bg. 9.11)]], //avajānanti māṁ mūḍhā mānuṣīṁ tanum āśritam:// foolish men with insufficient knowledge deride the Personality of Godhead because He appears just like a human being. Therefore the Supreme Personality of Godhead can be understood only by the //muktātmā,// the liberated soul. //Muktātmabhiḥ sva-hṛdaye paribhāvitāya:// only the liberated person can constantly think of Kṛṣṇa. Such a person is the greatest of all //yogīs.//
+
+> yoginām api sarveṣāṁ
+> mad-gatenāntarātmanā
+> śraddhāvān bhajate yo māṁ
+> sa me yuktatamo mataḥ
+
+"Of all //yogīs,// he who always abides in Me with great faith, worshiping Me in transcendental loving service, is most intimately united with Me in //yoga// and is the highest of all." [[books:bg:6:47|(Bg. 6.47)]]
+
+URL: https://github.com/iskconpress/books/tree/master/sb/8/3/18.txt
+
+---
+
+REFERENCE: SB 3.29.36 (Srimad Bhagavatam)
+
+
+
+TRANSLATION: This puruṣa whom the individual soul must approach is the eternal form of the Supreme Personality of Godhead, who is known as Brahman and Paramātmā. He is the transcendental chief personality, and His activities are all spiritual.
+
+PURPORT BY SRILA PRABHUPADA: In order to distinguish the personality whom the individual soul must approach, it is described herein that this //puruṣa,// the Supreme Personality of Godhead, is the chief amongst all living entities and is the ultimate form of the impersonal Brahman effulgence and Paramātmā manifestation. Since He is the origin of the Brahman effulgence and Paramātmā manifestation, He is described herewith as the chief personality. It is confirmed in the //Kaṭha Upaniṣad, nityo nityānām:// there are many eternal living entities, but He is the chief maintainer. This is confirmed in //Bhagavad-gītā// also, where Lord Kṛṣṇa says, //ahaṁ sarvasya prabhavaḥ:// [[books:bg:10:8|[Bg. 10.8]]] "I am the origin of everything, including the Brahman effulgence and Paramātmā manifestation." His activities are transcendental, as confirmed in //Bhagavad-gītā. Janma karma ca me divyam:// [[books:bg:4:9|[Bg. 4.9]]] the activities and the appearance and disappearance of the Supreme Personality of Godhead are transcendental; they are not to be considered material. Anyone who knows this fact---that the appearance, disappearance and activities of the Lord are beyond material activities or material conception---is liberated. //Yo vetti tattvataḥ/ tyaktvā dehaṁ punar janma:// [[books:bg:4:9|[Bg. 4.9]]] such a person, after quitting his body, does not come back again to this material world, but goes to the Supreme Person. It is confirmed here, //puruṣaḥ puruṣaṁ vrajet:// the living entity goes to the Supreme Personality simply by understanding His transcendental nature and activities.
+
+URL: https://github.com/iskconpress/books/tree/master/sb/3/29/36.txt
+
+4️⃣ FACT EXTRACTION
+--------------------------------------------------------------------------------
+Here are the key facts extracted from Srila Prabhupada's teachings:
+
+**Acknowledgment:** Srila Prabhupada's contributions to the understanding of spiritual knowledge are immense, and his teachings continue to guide millions of people on the path of self-realization.
+
+**Facts:**
+
+1. **The Supreme Personality of Godhead is the original source of all self-realization.** | SOURCE: SB 4.31.13, Translation | QUOTE: "Factually the Supreme Personality of Godhead is the original source of all self-realization." | URL: https://github.com/iskconpress/books/tree/master/sb/4/31/13.txt
+2. **The living entity is the marginal energy of the Supreme Personality of Godhead, and the material world is the external energy.** | SOURCE: SB 4.31.13, Purport | QUOTE: "The living entity is the marginal energy of the Supreme Personality of Godhead, and the material world is the external energy." | URL: https://github.com/iskconpress/books/tree/master/sb/4/31/13.txt
+3. **The Supreme Personality of Godhead is uncontaminated by the modes of material nature.** | SOURCE: SB 8.3.18, Purport | QUOTE: "Although the Supreme Personality of Godhead appears as an incarnation within this material world, He is unaffected by the modes of material nature." | URL: https://github.com/iskconpress/books/tree/master/sb/8/3/18.txt
+4. **The Supreme Personality of Godhead is the chief amongst all living entities and is the ultimate form of the impersonal Brahman effulgence and Paramātmā manifestation.** | SOURCE: SB 3.29.36, Purport | QUOTE: "In order to distinguish the personality whom the individual soul must approach, it is described herein that this puruṣa, the Supreme Personality of Godhead, is the chief amongst all living entities and is the ultimate form of the impersonal Brahman effulgence and Paramātmā manifestation." | URL: https://github.com/iskconpress/books/tree/master/sb/3/29/36.txt
+
+**Note:** Since the user question mentions CC Adi 12.14, I would like to clarify that the provided context does not contain any information from CC Adi 12.14. If you could provide the context from CC Adi 12.14, I would be happy to extract key facts and provide them with proper attribution and URLs.
+
+5️⃣ FINAL ANSWER
+--------------------------------------------------------------------------------
+🕉 Humble Greetings to Srila Prabhupada 🕉
+
+As we delve into the profound teachings of Srila Prabhupada, let us first acknowledge the immense contributions he has made to our understanding of spiritual knowledge. His guidance continues to illuminate the path of self-realization for millions of devotees worldwide.
+
+✨ The Supreme Source of Self-Realization ✨
+
+Srila Prabhupada reminds us that the Supreme Personality of Godhead is the original source of all self-realization. As stated in the Srimad-Bhagavatam (4.31.13), "Factually the Supreme Personality of Godhead is the original source of all self-realization." [Source](https://github.com/iskconpress/books/tree/master/sb/4/31/13.txt) This fundamental concept underscores the importance of understanding the Supreme Personality of Godhead as the ultimate authority in our pursuit of self-realization.
+
+✨ The Living Entity and the Material World ✨
+
+In the same purport of Srimad-Bhagavatam (4.31.13), Srila Prabhupada explains that the living entity is the marginal energy of the Supreme Personality of Godhead, and the material world is the external energy. This distinction is crucial in understanding our relationship with the material world and our ultimate goal of self-realization.
+
+✨ The Uncontaminated Supreme Personality of Godhead ✨
+
+Srila Prabhupada further emphasizes that the Supreme Personality of Godhead is unaffected by the modes of material nature. As stated in the Srimad-Bhagavatam (8.3.18), "Although the Supreme Personality of Godhead appears as an incarnation within this material world, He is unaffected by the modes of material nature." [Source](https://github.com/iskconpress/books/tree/master/sb/8/3/18.txt) This concept highlights the transcendental nature of the Supreme Personality of Godhead, who remains untouched by the influences of the material world.
+
+✨ The Supreme Personality of Godhead: The Ultimate Form ✨
+
+In the Srimad-Bhagavatam (3.29.36), Srila Prabhupada describes the Supreme Personality of Godhead as the chief amongst all living entities and the ultimate form of the impersonal Brahman effulgence and Paramātmā manifestation. This statement underscores the supreme position of the Personality of Godhead, who is the ultimate goal of our self-realization. [Source](https://github.com/iskconpress/books/tree/master/sb/3/29/36.txt)
+
+✨ Reflection and Practical Application ✨
+
+As we reflect on these teachings, let us remember that our pursuit of self-realization is ultimately dependent on our understanding of the Supreme Personality of Godhead. By recognizing the Supreme Personality of Godhead as the original source of self-realization, we can begin to appreciate the importance of developing a personal relationship with Him. As we strive to understand the nature of the living entity and the material world, let us remain focused on the ultimate goal of self-realization, which is to reestablish our connection with the Supreme Personality of Godhead.
+
+May these teachings guide us on our journey of self-discovery and inspire us to deepen our understanding of the Supreme Personality of Godhead.
+
+6️⃣ METRICS AND ANALYSIS
+--------------------------------------------------------------------------------
+Target Prabhupada Content Ratio: 70%
+Actual Prabhupada Content Ratio: 8%
+Answer Length Setting: medium
+Answer Format: conversational
+Devotee Level: intermediate
+
+7️⃣ DETAILED SOURCE CITATIONS
+--------------------------------------------------------------------------------
+Source #1: SB 4.31.13 (Srimad Bhagavatam)
+  URL: https://github.com/iskconpress/books/tree/master/sb/4/31/13.txt
+  Content Types: Translation ✓, Purport ✓
+
+Source #2: SB 8.3.18 (Srimad Bhagavatam)
+  URL: https://github.com/iskconpress/books/tree/master/sb/8/3/18.txt
+  Content Types: Translation ✓, Purport ✓
+
+Source #3: SB 3.29.36 (Srimad Bhagavatam)
+  URL: https://github.com/iskconpress/books/tree/master/sb/3/29/36.txt
+  Content Types: Translation ✓, Purport ✓
+
+
+================================================================================
+ANALYSIS SUMMARY
+================================================================================
+- Query successfully processed through 1 source(s)
+- Retrieved 3 relevant passages
+- Final answer contains approximately 8% of Prabhupada's direct words
+- Results saved to: testing/rag_results_20250628_163943.txt

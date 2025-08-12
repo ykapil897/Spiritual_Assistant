@@ -1,0 +1,671 @@
+================================================================================
+PRABHUPADA RAG SYSTEM ANALYSIS RESULTS - 2025-07-24 15:49:41
+================================================================================
+
+1️⃣ QUERY PROCESSING
+--------------------------------------------------------------------------------
+Original Query: BRAHMA MUHURTA – ONE HOUR EARLY MORNING 
+IS EQUAL TO FIVE HOURS IN DAYTIME
+ from spokens
+Refined Query: Refined query: "spoken Brahma Muhurta, early morning, importance of rising early, spiritual consciousness"
+
+2️⃣ SOURCE SELECTION
+--------------------------------------------------------------------------------
+Detected Sources: spoken
+
+3️⃣ RETRIEVED CONTEXT
+--------------------------------------------------------------------------------
+Retrieved 5 source(s)
+
+🕉 Humble greetings to the devotees.
+
+**Prabhupāda:** And there will be no distinction at that time—either Kṛṣṇa and Rādhā or all expansions—because they are all spiritual. Oneness. That oneness. Your question was that the oneness. Because there is no disagreement, there is no dissension. Everything is in harmony, spiritual harmony; therefore one. Any other question? You have any question? No? All right.
+
+**Devotee (2):** Swamiji?
+
+**Prabhupāda:** Yes.
+
+**Devotee (2):** When we ring bells especially for the Deities at 6:30, does that put Them to sleep then?
+
+**Prabhupāda:** Yes. Yes. Not six-thirty. One and a half hour before sunrise.
+
+**Devotee (2):** Oh. So we should say prayers in the morning at one hour and a half before sunrise?
+
+**Prabhupāda:** Yes. That is the system.
+
+**Devotee (2):** Oh.
+
+**Prabhupāda:** Yes. In Vṛndāvana you'll find just early in the morning before... Exactly one and a half hours before sunrise all temples will ding-dong, ding-dong, like this. And people will automatically rise up and go to see the first ceremony. It is very nice. So that you'll be forced to rise early in the morning. If you practice you'll be practiced to... "Early to rise, early to..." 
+
+**Devotee (2):** "...makes a man healthy, wealthy and wise."
+
+**Prabhupāda:** Yes. You become automatically healthy, wealthy and wise. Yes. But here you are accustomed to sleep up to twelve o'clock. [laughs] No. That is not good. Yes?
+
+**Devotee (2):** Can we chant a little while "Kṛṣṇa"?
+
+**Prabhupāda:** Yes, certainly. This chanting is nice program. Now chant. Hare Kṛṣṇa. [kīrtana]
+
+**Prabhupāda:** Ladies and gentlemen...
+
+SOURCE: https://github.com/iskconpress/spoken/blob/master/690913sb.lon.txt
+
+---
+
+🕉 Humble greetings to the devotees.
+
+**Prabhupāda:** Just like these trees. They are condemned, but still, with trees we can make a beautiful garden, and that is very enjoyable. That is God's arrangement. Even insignificant... 
+
+"Kṣūdrād api pradhānasya jāyate paramaṁ hitam."
+
+One is very insignificant and other is very important, but both of them combined together becomes beneficial.
+
+**Viśāla:** I remember over five years ago you telling me about "If you read the first nine cantos of Śrīmad-Bhāgavatam, you become fully Kṛṣṇa conscious." Would you kindly tell me what does it mean to be fully Kṛṣṇa conscious?
+
+**Prabhupāda:** What do you understand, fully Kṛṣṇa conscious?
+
+**Viśāla:** What does it mean to be fully Kṛṣṇa conscious?
+
+**Prabhupāda:** No, what you mean, first of all let me know.
+
+**Harikeśa:** What do you think fully Kṛṣṇa conscious means? You tell Prabhupāda.
+
+**Viśāla:** It's to see Kṛṣṇa face to face?
+
+**Prabhupāda:** That means Kṛṣṇa conscious? Everyone is seeing Kṛṣṇa face to face. When you go to the temple Kṛṣṇa is there, and you are seeing. Does it mean that everyone is Kṛṣṇa conscious?
+
+**Viśāla:** No.
+
+**Prabhupāda:** Then? What is the meaning of Kṛṣṇa conscious?
+
+**Indian man:** "Brahma-bhūtaḥ prasannātmā na śocati na kāṅkṣati." [Bg. 18.54]
+
+**Prabhupāda:** Hmm, that is part of Kṛṣṇa consciousness, brahma-bhūtaḥ. Real Kṛṣṇa consciousness is: "Kṛṣṇa is master; I am servant." This is Kṛṣṇa consciousness.
+
+**Viśāla:** To understand that you're the servant and Kṛṣṇa is the master. I see.
+
+**Prabhupāda:** Yes. When you fully understand, that is your Kṛṣṇa... That is Kṛṣṇa conscious.
+
+So long you think that "I can also become like Kṛṣṇa," then you are not Kṛṣṇa conscious.
+
+**Viśāla:** In other words, if you still have material desires you can't be fully Kṛṣṇa conscious.
+
+**Prabhupāda:** Yes. That is the beginning of Kṛṣṇa consciousness: anyābhilāṣitā-śūnyam [Brs. 1.1.11]. Make all your material desires zero.
+
+**Viśāla:** Thank you very much.
+
+**Prabhupāda:** That is Kṛṣṇa consciousness. You should only desire to serve Kṛṣṇa.
+
+**Harikeśa:** What if a person doesn't desire material enjoyment, but still, there is so much dirt?
+
+**Prabhupāda:** Hmm? Who is that person... who has no material desires?
+
+**Harikeśa:** I'm just wondering if that's possible.
+
+**Prabhupāda:** ...who has no material desires?
+
+**Harikeśa:** A person really wants to be Kṛṣṇa conscious, but somehow or another, so much dirt gets in the way.
+
+**Prabhupāda:** Yes. Dirt means it is not yet zero. I said that all material desires should be made zero. Anyābhilāṣitā-śūnyam.
+
+**Harikeśa:** As soon as the desires completely change, then everything else is purified.
+
+**Prabhupāda:** Yes. As Arjuna said, "Kariṣye vacanaṁ tava, naṣṭo mohaḥ:" "Now my illusion is over. I agree to act as You say." This is Kṛṣṇa conscious. "Naṣṭo mohaḥ smṛtir labdhā tvat-prasādān madhusūdana" [Bg. 18.73].
+
+The moha is there. Moha means these desires are illusion, like dreaming. In dream we see so many things. They are all false. In dreaming I am seeing that somebody is coming to kill me, but there is nobody; but still, I am dreaming. This is called moha. So when one is free from moha, then he's Kṛṣṇa conscious.
+
+SOURCE: https://github.com/iskconpress/spoken/blob/master/751210mw.vrn.txt
+
+---
+
+🕉 Humble greetings to the devotees.
+
+**Prabhupāda:** Hmm. So what did he say?
+
+**Indian man (2):** Yes, Prabhupāda, he accepted immediately.
+
+**Brahmānanda:** Śrīla Prabhupāda, we should return.
+
+**Prabhupāda:** Return? All right.
+
+... 
+
+"Unless there is love for God, who can see God? 
+Santaḥ sadaiva hṛdayeṣu vilokayanti."
+[ Bs. 5.38 ]
+
+Unless there is love for God, who can see God? One who is a lover of God, such a saintly person, twenty-four hours he sees simply God, nothing else.
+
+**Hari-śauri:** ...last night, Śrīla Prabhupāda, and he was saying that if everything is ultimately spiritual, if one is spiritually advanced, he sees everything as spiritual. Then if everything is spiritual, then we can carry on just doing the same things that we're doing now, because it's all for God.
+
+**Prabhupāda:** No. Kṛṣṇa says that "Everything is My energy, but..." 
+"Mat-sthāni sarva-bhūtāni nāhaṁ teṣu" 
+[ Bg. 9.4 ]:
+"But I am not there." This is the answer. Everything is Kṛṣṇa's expansion, but not that everything is Kṛṣṇa.
+
+**Indian man (2):** It is also not spiritual.
+
+**Prabhupāda:** What is that?
+
+**Indian man (2):** The energy is there, but it is not spiritual.
+
+**Prabhupāda:** No, it is spiritual, but because I do not know Kṛṣṇa, therefore I see material. Just like this microphone. It is being used for Kṛṣṇa; therefore it is spiritual. Actually, originally it is from Kṛṣṇa. So we are not using these material things. Everything, whatever we are using, that is spiritual.
+
+**Devotee (3):** Śrīla Prabhupāda, if this is spiritual, spiritual means eternal. But this microphone will fall to pieces.
+
+**Prabhupāda:** Yes, but scientifically it will keep the energy, conservation of energy. Even it is destroyed, it will remain. The material manifestation means 
+"bhūtvā bhūtvā pralīyate" 
+[ Bg. 8.19 ]. 
+It is sometimes destroyed and sometimes manifest. But the energy is there.
+
+**Indian man (2):** And also remain in different form.
+
+**Prabhupāda:** Whatever it may be. Just like this is earth. Now you prepare hundreds or thousands of earthen pots and dolls. When it is destroyed, again it is earth. So when it is manifested, it is earth. When it is not manifested, it is earth. So from the spiritual energy of Kṛṣṇa everything becomes manifested, and therefore originally it is spiritual. Kṛṣṇa said, 
+"bhūmir āpo 'nalo vāyuḥ khaṁ mano buddhir..., bhinnā me prakṛtiḥ" 
+[ Bg. 7.4 ]:
+"It is My prakṛti, energy." So how Kṛṣṇa's energy can be material? Because we forget Kṛṣṇa, therefore it appears material.
+
+**Devotee (3):** Poor vision.
+
+**Prabhupāda:** [aside:] Hare Kṛṣṇa. Jaya. [Hindi]
+
+...Mahāprabhu, as soon as He entered the Jagannātha temple He immediately fainted. Did He see the wooden Jagannātha? It is a question of seeing and preparing the eyes to see.
+
+**Vāsughoṣa:** Once I was..., I went to one Gauḍīya maṭha in South India, and I showed them a picture of our Deities in Hyderabad. They said, "This Kṛṣṇa is white." So later on I told that story to Acyutānanda Swami, and he said, "Do you know what I tell those people? I say, 'No, Kṛṣṇa is not white. You just can't see Kṛṣṇa.' " So like that, sometimes we are criticized by them for Kṛṣṇa in the Deity being white.
+
+SOURCE: https://github.com/iskconpress/spoken/blob/master/750915mw.vrn.txt
+
+---
+
+🕉 Humble greetings to the devotees.
+
+**Prabhupāda:** You get credit just by cramming.
+
+**Girirāja:** "Arjuna uvāca: Mad anugrahāya paramaṁ guhyam adhyātma-samjñitam"
+
+**Prabhupāda:** Ah, read it.
+
+**Girirāja:** "Yat tvayoktaṁ vacas tena moho 'yaṁ vigato mama" [Bg. 11.1]
+
+"Arjuna said: I have heard Your instruction on confidential spiritual matters, which You have so kindly delivered unto me, and my illusion is now dispelled."
+
+**Prabhupāda:** There must be the word meaning. [aside:] Hare Kṛṣṇa.
+
+**Girirāja:** "//Arjuna uvāca//---Arjuna said..."
+
+**Prabhupāda:** ...friend yesterday.
+
+**Dr. Patel:** Sanskrit, sir.
+
+**Prabhupāda:** Ah. So let us begin from the Eleventh so that word meaning they may understand.
+
+**Dr. Patel:** "Mad anugrahāya paramaṁ guhyam adhyātma-samjñitam yat tvayoktaṁ vacas tena moho 'yaṁ vigato mama" [Bg. 11.1]
+
+**Prabhupāda:** Now try to understand the word meaning.
+
+**Girirāja:** "//Arjunaḥ uvāca//---Arjuna said; //mat-anugrahāya//---just to show me favor; //paramam//---supreme; //guhyam//---confidential; //adhyātma//---spiritual; //saṁjñitam//---in the matter of; //yat//---what; //tvayā//---by You; //uktam//---said; //vacaḥ//---words; //tena//---by that; //mohaḥ//---illusion; //ayam//---this; //vigataḥ//---is educated; //mama//---my."
+
+**Dr. Patel:** It is in relation to the previous, this thing, that Tenth, that He showed you all the //vibhūtis// in various conditions of the creation, and by understanding the various //vibhūtis,// Arjuna said that "I have practically got disillusioned by Your this explanation." That is what he said. Is it all right?
+
+**Prabhupāda:** Yes. Now it is clear. Any question on this?
+
+**Dr. Patel:** All right. Shall I go on?
+
+**Prabhupāda:** No. So what is the translation?
+
+**Girirāja:** "Arjuna said: I have heard Your instruction on confidential spiritual matters, which You have so kindly delivered unto me."
+
+**Dr. Patel:** There you see here the last, last... [break]
+
+**Prabhupāda:** ...means, now we have discussed Tenth...
+
+**Prabhupāda:** What is the confidential?
+
+**Satsvarūpa:** About Kṛṣṇa Himself.
+
+**Prabhupāda:** Yes.
+
+**Dr. Patel:** This is the confidential. //Viṣṭabhyāham idaṁ kṛtsnam ekāṁśena sthito jagat// [Bg. 10.42]. That is the most confidential. "Only by one of My this thing, the whole //jagat// is being supported. Why do you want to talk about nonsense of so many things? Only one thing is important, and that is this."
+
+**Prabhupāda:** So... Yes. So unless one is convinced that Kṛṣṇa is the original cause of all causes, //sarva kāraṇa-kāraṇam// [Bs. 5.1], he has not understood the confidential subject matter of //Bhagavad-gītā.// That is the con... //Ahaṁ sarvasya prabhavo mattaḥ sarvaṁ pravartate// [Bg. 10.8]. Unless one comes to this conclusion, that "Kṛṣṇa is the origin of everything," //ahaṁ sarvasya prabhavo mattaḥ sarvaṁ pravartate, iti matvā bhajante mām,// he cannot be fixed up in the worship or serving Kṛṣṇa. This conclusion must be reached.
+
+**Dr. Patel:** The next word is telling the same thing as you say. "Bhavāpyayau hi bhūtānāṁ śrutau vistaraśo mayā tvattaḥ kamala-patrākṣa māhātmyam api cāvyayam" [Bg. 11.2]
+
+"That 'Everything is originating from You and..."
+
+**Prabhupāda:** Now the opposite. This is the conclusion, that one has to understand that Kṛṣṇa is the cause of all causes, He is the origin of everything. So why do they divert their attention to other subjects?
+
+**Dr. Patel:** Because of the //māyā.//
+
+**Prabhupāda:** Yes.
+
+SOURCE: https://github.com/iskconpress/spoken/blob/master/740404mw.bom.txt
+
+---
+
+🕉 Humble greetings to the devotees.
+
+**Hari-śauri:** Pradyumna?
+
+**Hari-śauri:** He's downstairs somewhere.
+
+**Prabhupāda:** But downstairs, he cannot come!
+
+**Hari-śauri:** Well, I tried to look it up in the index.
+
+**Prabhupāda:** Index is not there. It is in the middle, 
+"yathecchasi tathā kuru" 
+[Bg. 18.63].
+Index you'll find only the beginning. Just after..., just before the verse 
+"sarva-dharmān parityajya" 
+[Bg. 18.66].
+
+**Hari-śauri:** Oh. "Iti te jñānam..."
+
+**Prabhupāda:** Ah, "iti te jñānam."
+
+**Hari-śauri:** "...ākhyātaṁ guhyād guhyataraṁ mayā vimṛśyaitad aśeṣeṇa yathecchasi tathā kuru."
+
+**Prabhupāda:** "I have given you knowledge, confidential, more confidential, most confidential. Now you consider, you deliberate upon this and do whatever you like." And what Arjuna replied?
+
+**Hari-śauri:** "Naṣṭo mohaḥ smṛtir labdhā tvat-prasādan mayācyuta sthito 'smi gata-sandehaḥ..."
+
+**Prabhupāda:** "Sthito 'smi gata-sandehaḥ kariṣye vacanaṁ tava" 
+[Bg. 18.73].
+This is understanding. "Now my illusion is gone," 
+"naṣṭo mohaḥ. Smṛtir labdhā."
+"I am in my original consciousness." So what you'll do? 
+"Kariṣye vacanaṁ tava."
+"You are asking to me to fight? I shall do it." Everything is explained here. Kṛṣṇa gives you freedom, 
+"yathecchasi tathā kuru" 
+[Bg. 18.63].
+And one who understands Kṛṣṇa, he says, 
+"kariṣye vacanaṁ tava."
+That's it. Not by interpretation, or refuse by interpretation. That is not Kṛṣṇa's... 
+"Kariṣye vacanaṁ tava."
+This is understanding. Otherwise simply waste of time. 
+"Śrama eva hi kevalam" 
+[SB 1.2.8].
+If you like, you can waste your time. And find out this verse, 
+"na ca tasmān manuṣyeṣu kaścin me priya-kṛttamaḥ" 
+[Bg. 18.69],
+"ya idaṁ paramaṁ guhyaṁ mad-bhakteṣv abhidhāsyati" 
+[Bg. 18.68].
+Find that, 
+"ya idaṁ paramaṁ guhyaṁ mad-bhakteṣv abhidhāsyati."
+
+**Pradyumna:** What's the first word?
+
+**Hari-śauri:** "Jayanam guhyaṁ."
+
+**Prabhupāda:** Read, after sixty-fourth verse, read all the verses.
+
+**Pradyumna:** "Sarva-guhyatamaṁ bhūyaḥ śṛṇu me paramaṁ vacaḥ iṣṭo 'si me dṛḍham iti tato vakṣyāmi te hitam" 
+[Bg. 18.64]
+"Because you are My very dear friend, I am speaking to you the most confidential part of knowledge. Hear this from Me, for it is for your benefit."
+
+"Man-manā bhava mad-bhakto mad-yājī māṁ namaskuru mām evaiṣyasi satyaṁ te pratijāne priyo 'si me" 
+[Bg. 18.65]
+"Always think of Me and become My devotee. Worship Me and offer your homage unto Me. Thus you will come to Me without fail. I promise you this because you are My very dear friend."
+
+"Sarva-dharmān parityajya mām ekaṁ śaraṇaṁ vraja ahaṁ tvāṁ sarva-pāpebhyo mokṣayiṣyāmi mā śucaḥ" 
+[Bg. 18.66]
+"Abandon all varieties of religion and just surrender unto Me. I shall deliver you from all sinful reaction. Do not fear."
+
+"Idaṁ te nātapaskāya nābhaktāya kadācana na cāśuśrūṣave vācyaṁ na ca māṁ yo 'bhyasūyati" 
+[Bg. 18.67]
+"The confidential knowledge may not be explained to those who are not austere, or devoted, or engaged in devotional service, nor to one who is envious of Me."
+
+"Ya idaṁ paramaṁ guhyaṁ mad-bhakteṣv abhidhāsyati bhaktiṁ mayi parāṁ kṛtv
+
+SOURCE: https://github.com/iskconpress/spoken/blob/master/760810ed.teh.txt
+
+4️⃣ FACT EXTRACTION
+--------------------------------------------------------------------------------
+Direct spoken content provided
+
+5️⃣ FINAL ANSWER
+--------------------------------------------------------------------------------
+🕉 Humble greetings to the devotees.
+
+**Prabhupāda:** And there will be no distinction at that time—either Kṛṣṇa and Rādhā or all expansions—because they are all spiritual. Oneness. That oneness. Your question was that the oneness. Because there is no disagreement, there is no dissension. Everything is in harmony, spiritual harmony; therefore one. Any other question? You have any question? No? All right.
+
+**Devotee (2):** Swamiji?
+
+**Prabhupāda:** Yes.
+
+**Devotee (2):** When we ring bells especially for the Deities at 6:30, does that put Them to sleep then?
+
+**Prabhupāda:** Yes. Yes. Not six-thirty. One and a half hour before sunrise.
+
+**Devotee (2):** Oh. So we should say prayers in the morning at one hour and a half before sunrise?
+
+**Prabhupāda:** Yes. That is the system.
+
+**Devotee (2):** Oh.
+
+**Prabhupāda:** Yes. In Vṛndāvana you'll find just early in the morning before... Exactly one and a half hours before sunrise all temples will ding-dong, ding-dong, like this. And people will automatically rise up and go to see the first ceremony. It is very nice. So that you'll be forced to rise early in the morning. If you practice you'll be practiced to... "Early to rise, early to..." 
+
+**Devotee (2):** "...makes a man healthy, wealthy and wise."
+
+**Prabhupāda:** Yes. You become automatically healthy, wealthy and wise. Yes. But here you are accustomed to sleep up to twelve o'clock. [laughs] No. That is not good. Yes?
+
+**Devotee (2):** Can we chant a little while "Kṛṣṇa"?
+
+**Prabhupāda:** Yes, certainly. This chanting is nice program. Now chant. Hare Kṛṣṇa. [kīrtana]
+
+**Prabhupāda:** Ladies and gentlemen...
+
+SOURCE: https://github.com/iskconpress/spoken/blob/master/690913sb.lon.txt
+
+---
+
+🕉 Humble greetings to the devotees.
+
+**Prabhupāda:** Just like these trees. They are condemned, but still, with trees we can make a beautiful garden, and that is very enjoyable. That is God's arrangement. Even insignificant... 
+
+"Kṣūdrād api pradhānasya jāyate paramaṁ hitam."
+
+One is very insignificant and other is very important, but both of them combined together becomes beneficial.
+
+**Viśāla:** I remember over five years ago you telling me about "If you read the first nine cantos of Śrīmad-Bhāgavatam, you become fully Kṛṣṇa conscious." Would you kindly tell me what does it mean to be fully Kṛṣṇa conscious?
+
+**Prabhupāda:** What do you understand, fully Kṛṣṇa conscious?
+
+**Viśāla:** What does it mean to be fully Kṛṣṇa conscious?
+
+**Prabhupāda:** No, what you mean, first of all let me know.
+
+**Harikeśa:** What do you think fully Kṛṣṇa conscious means? You tell Prabhupāda.
+
+**Viśāla:** It's to see Kṛṣṇa face to face?
+
+**Prabhupāda:** That means Kṛṣṇa conscious? Everyone is seeing Kṛṣṇa face to face. When you go to the temple Kṛṣṇa is there, and you are seeing. Does it mean that everyone is Kṛṣṇa conscious?
+
+**Viśāla:** No.
+
+**Prabhupāda:** Then? What is the meaning of Kṛṣṇa conscious?
+
+**Indian man:** "Brahma-bhūtaḥ prasannātmā na śocati na kāṅkṣati." [Bg. 18.54]
+
+**Prabhupāda:** Hmm, that is part of Kṛṣṇa consciousness, brahma-bhūtaḥ. Real Kṛṣṇa consciousness is: "Kṛṣṇa is master; I am servant." This is Kṛṣṇa consciousness.
+
+**Viśāla:** To understand that you're the servant and Kṛṣṇa is the master. I see.
+
+**Prabhupāda:** Yes. When you fully understand, that is your Kṛṣṇa... That is Kṛṣṇa conscious.
+
+So long you think that "I can also become like Kṛṣṇa," then you are not Kṛṣṇa conscious.
+
+**Viśāla:** In other words, if you still have material desires you can't be fully Kṛṣṇa conscious.
+
+**Prabhupāda:** Yes. That is the beginning of Kṛṣṇa consciousness: anyābhilāṣitā-śūnyam [Brs. 1.1.11]. Make all your material desires zero.
+
+**Viśāla:** Thank you very much.
+
+**Prabhupāda:** That is Kṛṣṇa consciousness. You should only desire to serve Kṛṣṇa.
+
+**Harikeśa:** What if a person doesn't desire material enjoyment, but still, there is so much dirt?
+
+**Prabhupāda:** Hmm? Who is that person... who has no material desires?
+
+**Harikeśa:** I'm just wondering if that's possible.
+
+**Prabhupāda:** ...who has no material desires?
+
+**Harikeśa:** A person really wants to be Kṛṣṇa conscious, but somehow or another, so much dirt gets in the way.
+
+**Prabhupāda:** Yes. Dirt means it is not yet zero. I said that all material desires should be made zero. Anyābhilāṣitā-śūnyam.
+
+**Harikeśa:** As soon as the desires completely change, then everything else is purified.
+
+**Prabhupāda:** Yes. As Arjuna said, "Kariṣye vacanaṁ tava, naṣṭo mohaḥ:" "Now my illusion is over. I agree to act as You say." This is Kṛṣṇa conscious. "Naṣṭo mohaḥ smṛtir labdhā tvat-prasādān madhusūdana" [Bg. 18.73].
+
+The moha is there. Moha means these desires are illusion, like dreaming. In dream we see so many things. They are all false. In dreaming I am seeing that somebody is coming to kill me, but there is nobody; but still, I am dreaming. This is called moha. So when one is free from moha, then he's Kṛṣṇa conscious.
+
+SOURCE: https://github.com/iskconpress/spoken/blob/master/751210mw.vrn.txt
+
+---
+
+🕉 Humble greetings to the devotees.
+
+**Prabhupāda:** Hmm. So what did he say?
+
+**Indian man (2):** Yes, Prabhupāda, he accepted immediately.
+
+**Brahmānanda:** Śrīla Prabhupāda, we should return.
+
+**Prabhupāda:** Return? All right.
+
+... 
+
+"Unless there is love for God, who can see God? 
+Santaḥ sadaiva hṛdayeṣu vilokayanti."
+[ Bs. 5.38 ]
+
+Unless there is love for God, who can see God? One who is a lover of God, such a saintly person, twenty-four hours he sees simply God, nothing else.
+
+**Hari-śauri:** ...last night, Śrīla Prabhupāda, and he was saying that if everything is ultimately spiritual, if one is spiritually advanced, he sees everything as spiritual. Then if everything is spiritual, then we can carry on just doing the same things that we're doing now, because it's all for God.
+
+**Prabhupāda:** No. Kṛṣṇa says that "Everything is My energy, but..." 
+"Mat-sthāni sarva-bhūtāni nāhaṁ teṣu" 
+[ Bg. 9.4 ]:
+"But I am not there." This is the answer. Everything is Kṛṣṇa's expansion, but not that everything is Kṛṣṇa.
+
+**Indian man (2):** It is also not spiritual.
+
+**Prabhupāda:** What is that?
+
+**Indian man (2):** The energy is there, but it is not spiritual.
+
+**Prabhupāda:** No, it is spiritual, but because I do not know Kṛṣṇa, therefore I see material. Just like this microphone. It is being used for Kṛṣṇa; therefore it is spiritual. Actually, originally it is from Kṛṣṇa. So we are not using these material things. Everything, whatever we are using, that is spiritual.
+
+**Devotee (3):** Śrīla Prabhupāda, if this is spiritual, spiritual means eternal. But this microphone will fall to pieces.
+
+**Prabhupāda:** Yes, but scientifically it will keep the energy, conservation of energy. Even it is destroyed, it will remain. The material manifestation means 
+"bhūtvā bhūtvā pralīyate" 
+[ Bg. 8.19 ]. 
+It is sometimes destroyed and sometimes manifest. But the energy is there.
+
+**Indian man (2):** And also remain in different form.
+
+**Prabhupāda:** Whatever it may be. Just like this is earth. Now you prepare hundreds or thousands of earthen pots and dolls. When it is destroyed, again it is earth. So when it is manifested, it is earth. When it is not manifested, it is earth. So from the spiritual energy of Kṛṣṇa everything becomes manifested, and therefore originally it is spiritual. Kṛṣṇa said, 
+"bhūmir āpo 'nalo vāyuḥ khaṁ mano buddhir..., bhinnā me prakṛtiḥ" 
+[ Bg. 7.4 ]:
+"It is My prakṛti, energy." So how Kṛṣṇa's energy can be material? Because we forget Kṛṣṇa, therefore it appears material.
+
+**Devotee (3):** Poor vision.
+
+**Prabhupāda:** [aside:] Hare Kṛṣṇa. Jaya. [Hindi]
+
+...Mahāprabhu, as soon as He entered the Jagannātha temple He immediately fainted. Did He see the wooden Jagannātha? It is a question of seeing and preparing the eyes to see.
+
+**Vāsughoṣa:** Once I was..., I went to one Gauḍīya maṭha in South India, and I showed them a picture of our Deities in Hyderabad. They said, "This Kṛṣṇa is white." So later on I told that story to Acyutānanda Swami, and he said, "Do you know what I tell those people? I say, 'No, Kṛṣṇa is not white. You just can't see Kṛṣṇa.' " So like that, sometimes we are criticized by them for Kṛṣṇa in the Deity being white.
+
+SOURCE: https://github.com/iskconpress/spoken/blob/master/750915mw.vrn.txt
+
+---
+
+🕉 Humble greetings to the devotees.
+
+**Prabhupāda:** You get credit just by cramming.
+
+**Girirāja:** "Arjuna uvāca: Mad anugrahāya paramaṁ guhyam adhyātma-samjñitam"
+
+**Prabhupāda:** Ah, read it.
+
+**Girirāja:** "Yat tvayoktaṁ vacas tena moho 'yaṁ vigato mama" [Bg. 11.1]
+
+"Arjuna said: I have heard Your instruction on confidential spiritual matters, which You have so kindly delivered unto me, and my illusion is now dispelled."
+
+**Prabhupāda:** There must be the word meaning. [aside:] Hare Kṛṣṇa.
+
+**Girirāja:** "//Arjuna uvāca//---Arjuna said..."
+
+**Prabhupāda:** ...friend yesterday.
+
+**Dr. Patel:** Sanskrit, sir.
+
+**Prabhupāda:** Ah. So let us begin from the Eleventh so that word meaning they may understand.
+
+**Dr. Patel:** "Mad anugrahāya paramaṁ guhyam adhyātma-samjñitam yat tvayoktaṁ vacas tena moho 'yaṁ vigato mama" [Bg. 11.1]
+
+**Prabhupāda:** Now try to understand the word meaning.
+
+**Girirāja:** "//Arjunaḥ uvāca//---Arjuna said; //mat-anugrahāya//---just to show me favor; //paramam//---supreme; //guhyam//---confidential; //adhyātma//---spiritual; //saṁjñitam//---in the matter of; //yat//---what; //tvayā//---by You; //uktam//---said; //vacaḥ//---words; //tena//---by that; //mohaḥ//---illusion; //ayam//---this; //vigataḥ//---is educated; //mama//---my."
+
+**Dr. Patel:** It is in relation to the previous, this thing, that Tenth, that He showed you all the //vibhūtis// in various conditions of the creation, and by understanding the various //vibhūtis,// Arjuna said that "I have practically got disillusioned by Your this explanation." That is what he said. Is it all right?
+
+**Prabhupāda:** Yes. Now it is clear. Any question on this?
+
+**Dr. Patel:** All right. Shall I go on?
+
+**Prabhupāda:** No. So what is the translation?
+
+**Girirāja:** "Arjuna said: I have heard Your instruction on confidential spiritual matters, which You have so kindly delivered unto me."
+
+**Dr. Patel:** There you see here the last, last... [break]
+
+**Prabhupāda:** ...means, now we have discussed Tenth...
+
+**Prabhupāda:** What is the confidential?
+
+**Satsvarūpa:** About Kṛṣṇa Himself.
+
+**Prabhupāda:** Yes.
+
+**Dr. Patel:** This is the confidential. //Viṣṭabhyāham idaṁ kṛtsnam ekāṁśena sthito jagat// [Bg. 10.42]. That is the most confidential. "Only by one of My this thing, the whole //jagat// is being supported. Why do you want to talk about nonsense of so many things? Only one thing is important, and that is this."
+
+**Prabhupāda:** So... Yes. So unless one is convinced that Kṛṣṇa is the original cause of all causes, //sarva kāraṇa-kāraṇam// [Bs. 5.1], he has not understood the confidential subject matter of //Bhagavad-gītā.// That is the con... //Ahaṁ sarvasya prabhavo mattaḥ sarvaṁ pravartate// [Bg. 10.8]. Unless one comes to this conclusion, that "Kṛṣṇa is the origin of everything," //ahaṁ sarvasya prabhavo mattaḥ sarvaṁ pravartate, iti matvā bhajante mām,// he cannot be fixed up in the worship or serving Kṛṣṇa. This conclusion must be reached.
+
+**Dr. Patel:** The next word is telling the same thing as you say. "Bhavāpyayau hi bhūtānāṁ śrutau vistaraśo mayā tvattaḥ kamala-patrākṣa māhātmyam api cāvyayam" [Bg. 11.2]
+
+"That 'Everything is originating from You and..."
+
+**Prabhupāda:** Now the opposite. This is the conclusion, that one has to understand that Kṛṣṇa is the cause of all causes, He is the origin of everything. So why do they divert their attention to other subjects?
+
+**Dr. Patel:** Because of the //māyā.//
+
+**Prabhupāda:** Yes.
+
+SOURCE: https://github.com/iskconpress/spoken/blob/master/740404mw.bom.txt
+
+---
+
+🕉 Humble greetings to the devotees.
+
+**Hari-śauri:** Pradyumna?
+
+**Hari-śauri:** He's downstairs somewhere.
+
+**Prabhupāda:** But downstairs, he cannot come!
+
+**Hari-śauri:** Well, I tried to look it up in the index.
+
+**Prabhupāda:** Index is not there. It is in the middle, 
+"yathecchasi tathā kuru" 
+[Bg. 18.63].
+Index you'll find only the beginning. Just after..., just before the verse 
+"sarva-dharmān parityajya" 
+[Bg. 18.66].
+
+**Hari-śauri:** Oh. "Iti te jñānam..."
+
+**Prabhupāda:** Ah, "iti te jñānam."
+
+**Hari-śauri:** "...ākhyātaṁ guhyād guhyataraṁ mayā vimṛśyaitad aśeṣeṇa yathecchasi tathā kuru."
+
+**Prabhupāda:** "I have given you knowledge, confidential, more confidential, most confidential. Now you consider, you deliberate upon this and do whatever you like." And what Arjuna replied?
+
+**Hari-śauri:** "Naṣṭo mohaḥ smṛtir labdhā tvat-prasādan mayācyuta sthito 'smi gata-sandehaḥ..."
+
+**Prabhupāda:** "Sthito 'smi gata-sandehaḥ kariṣye vacanaṁ tava" 
+[Bg. 18.73].
+This is understanding. "Now my illusion is gone," 
+"naṣṭo mohaḥ. Smṛtir labdhā."
+"I am in my original consciousness." So what you'll do? 
+"Kariṣye vacanaṁ tava."
+"You are asking to me to fight? I shall do it." Everything is explained here. Kṛṣṇa gives you freedom, 
+"yathecchasi tathā kuru" 
+[Bg. 18.63].
+And one who understands Kṛṣṇa, he says, 
+"kariṣye vacanaṁ tava."
+That's it. Not by interpretation, or refuse by interpretation. That is not Kṛṣṇa's... 
+"Kariṣye vacanaṁ tava."
+This is understanding. Otherwise simply waste of time. 
+"Śrama eva hi kevalam" 
+[SB 1.2.8].
+If you like, you can waste your time. And find out this verse, 
+"na ca tasmān manuṣyeṣu kaścin me priya-kṛttamaḥ" 
+[Bg. 18.69],
+"ya idaṁ paramaṁ guhyaṁ mad-bhakteṣv abhidhāsyati" 
+[Bg. 18.68].
+Find that, 
+"ya idaṁ paramaṁ guhyaṁ mad-bhakteṣv abhidhāsyati."
+
+**Pradyumna:** What's the first word?
+
+**Hari-śauri:** "Jayanam guhyaṁ."
+
+**Prabhupāda:** Read, after sixty-fourth verse, read all the verses.
+
+**Pradyumna:** "Sarva-guhyatamaṁ bhūyaḥ śṛṇu me paramaṁ vacaḥ iṣṭo 'si me dṛḍham iti tato vakṣyāmi te hitam" 
+[Bg. 18.64]
+"Because you are My very dear friend, I am speaking to you the most confidential part of knowledge. Hear this from Me, for it is for your benefit."
+
+"Man-manā bhava mad-bhakto mad-yājī māṁ namaskuru mām evaiṣyasi satyaṁ te pratijāne priyo 'si me" 
+[Bg. 18.65]
+"Always think of Me and become My devotee. Worship Me and offer your homage unto Me. Thus you will come to Me without fail. I promise you this because you are My very dear friend."
+
+"Sarva-dharmān parityajya mām ekaṁ śaraṇaṁ vraja ahaṁ tvāṁ sarva-pāpebhyo mokṣayiṣyāmi mā śucaḥ" 
+[Bg. 18.66]
+"Abandon all varieties of religion and just surrender unto Me. I shall deliver you from all sinful reaction. Do not fear."
+
+"Idaṁ te nātapaskāya nābhaktāya kadācana na cāśuśrūṣave vācyaṁ na ca māṁ yo 'bhyasūyati" 
+[Bg. 18.67]
+"The confidential knowledge may not be explained to those who are not austere, or devoted, or engaged in devotional service, nor to one who is envious of Me."
+
+"Ya idaṁ paramaṁ guhyaṁ mad-bhakteṣv abhidhāsyati bhaktiṁ mayi parāṁ kṛtv
+
+SOURCE: https://github.com/iskconpress/spoken/blob/master/760810ed.teh.txt
+
+6️⃣ METRICS AND ANALYSIS
+--------------------------------------------------------------------------------
+Target Prabhupada Content Ratio: 70%
+Actual Prabhupada Content Ratio: 100%
+Answer Length Setting: short
+Answer Format: conversational
+Devotee Level: neophyte
+
+7️⃣ DETAILED SOURCE CITATIONS
+--------------------------------------------------------------------------------
+Source #1: 690913sb.lon (Unknown)
+  URL: https://github.com/iskconpress/spoken/blob/master/690913sb.lon.txt
+  Content Types: No content details available
+
+Source #2: 751210mw.vrn (Unknown)
+  URL: https://github.com/iskconpress/spoken/blob/master/751210mw.vrn.txt
+  Content Types: No content details available
+
+Source #3: 750915mw.vrn (Unknown)
+  URL: https://github.com/iskconpress/spoken/blob/master/750915mw.vrn.txt
+  Content Types: No content details available
+
+Source #4: 740404mw.bom (Unknown)
+  URL: https://github.com/iskconpress/spoken/blob/master/740404mw.bom.txt
+  Content Types: No content details available
+
+Source #5: 760810ed.teh (Unknown)
+  URL: https://github.com/iskconpress/spoken/blob/master/760810ed.teh.txt
+  Content Types: No content details available
+
+8️⃣ PERFORMANCE METRICS
+--------------------------------------------------------------------------------
+Search Time: 69.03 seconds
+Total Processing Time: 69.68 seconds
+
+================================================================================
+ANALYSIS SUMMARY
+================================================================================
+- Query successfully processed through 1 source(s)
+- Retrieved 5 relevant passages
+- Final answer contains approximately 100% of Prabhupada's direct words
+- Results saved to: testing/rag_results_20250724_154941.txt
